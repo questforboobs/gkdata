@@ -25,7 +25,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_01_01",
     "equipitemName": 5000201,
-    "equipitemSubText": 5001102
+    "equipitemSubText": 5001201
   },
   {
     "key": 3,
@@ -39,7 +39,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_01_01",
     "equipitemName": 5000301,
-    "equipitemSubText": 5001103
+    "equipitemSubText": 5001301
   },
   {
     "key": 4,
@@ -53,7 +53,7 @@
     "disassembleType": 4,
     "equipitemIcon": "icon_oopats_blue_01_01",
     "equipitemName": 5000401,
-    "equipitemSubText": 5001104
+    "equipitemSubText": 5001401
   },
   {
     "key": 5,
@@ -67,7 +67,7 @@
     "disassembleType": 1,
     "equipitemIcon": "icon_oopats_red_01_02",
     "equipitemName": 5000102,
-    "equipitemSubText": 5001105
+    "equipitemSubText": 5001102
   },
   {
     "key": 6,
@@ -81,7 +81,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_01_02",
     "equipitemName": 5000202,
-    "equipitemSubText": 5001106
+    "equipitemSubText": 5001202
   },
   {
     "key": 7,
@@ -95,7 +95,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_01_02",
     "equipitemName": 5000302,
-    "equipitemSubText": 5001201
+    "equipitemSubText": 5001302
   },
   {
     "key": 8,
@@ -109,7 +109,7 @@
     "disassembleType": 4,
     "equipitemIcon": "icon_oopats_blue_01_02",
     "equipitemName": 5000402,
-    "equipitemSubText": 5001202
+    "equipitemSubText": 5001402
   },
   {
     "key": 9,
@@ -123,7 +123,7 @@
     "disassembleType": 1,
     "equipitemIcon": "icon_oopats_red_01_03",
     "equipitemName": 5000103,
-    "equipitemSubText": 5001203
+    "equipitemSubText": 5001103
   },
   {
     "key": 10,
@@ -137,7 +137,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_01_03",
     "equipitemName": 5000203,
-    "equipitemSubText": 5001204
+    "equipitemSubText": 5001203
   },
   {
     "key": 11,
@@ -151,7 +151,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_01_03",
     "equipitemName": 5000303,
-    "equipitemSubText": 5001205
+    "equipitemSubText": 5001303
   },
   {
     "key": 12,
@@ -165,7 +165,7 @@
     "disassembleType": 4,
     "equipitemIcon": "icon_oopats_blue_01_03",
     "equipitemName": 5000403,
-    "equipitemSubText": 5001206
+    "equipitemSubText": 5001403
   },
   {
     "key": 13,
@@ -179,7 +179,7 @@
     "disassembleType": 1,
     "equipitemIcon": "icon_oopats_red_01_04",
     "equipitemName": 5000104,
-    "equipitemSubText": 5001301
+    "equipitemSubText": 5001104
   },
   {
     "key": 14,
@@ -193,7 +193,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_01_04",
     "equipitemName": 5000204,
-    "equipitemSubText": 5001302
+    "equipitemSubText": 5001204
   },
   {
     "key": 15,
@@ -207,7 +207,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_01_04",
     "equipitemName": 5000304,
-    "equipitemSubText": 5001303
+    "equipitemSubText": 5001304
   },
   {
     "key": 16,
@@ -221,7 +221,7 @@
     "disassembleType": 4,
     "equipitemIcon": "icon_oopats_blue_01_04",
     "equipitemName": 5000404,
-    "equipitemSubText": 5001304
+    "equipitemSubText": 5001404
   },
   {
     "key": 17,
@@ -235,7 +235,7 @@
     "disassembleType": 1,
     "equipitemIcon": "icon_oopats_red_01_05",
     "equipitemName": 5000105,
-    "equipitemSubText": 5001305
+    "equipitemSubText": 5001105
   },
   {
     "key": 18,
@@ -249,7 +249,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_01_05",
     "equipitemName": 5000205,
-    "equipitemSubText": 5001306
+    "equipitemSubText": 5001205
   },
   {
     "key": 19,
@@ -263,7 +263,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_01_05",
     "equipitemName": 5000305,
-    "equipitemSubText": 5001401
+    "equipitemSubText": 5001305
   },
   {
     "key": 20,
@@ -277,7 +277,7 @@
     "disassembleType": 4,
     "equipitemIcon": "icon_oopats_blue_01_05",
     "equipitemName": 5000405,
-    "equipitemSubText": 5001402
+    "equipitemSubText": 5001405
   },
   {
     "key": 21,
@@ -291,7 +291,7 @@
     "disassembleType": 1,
     "equipitemIcon": "icon_oopats_red_01_06",
     "equipitemName": 5000106,
-    "equipitemSubText": 5001403
+    "equipitemSubText": 5001106
   },
   {
     "key": 22,
@@ -305,7 +305,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_01_06",
     "equipitemName": 5000206,
-    "equipitemSubText": 5001404
+    "equipitemSubText": 5001206
   },
   {
     "key": 23,
@@ -319,7 +319,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_01_06",
     "equipitemName": 5000306,
-    "equipitemSubText": 5001405
+    "equipitemSubText": 5001306
   },
   {
     "key": 24,
@@ -361,7 +361,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_02_01",
     "equipitemName": 5000201,
-    "equipitemSubText": 5001102
+    "equipitemSubText": 5001201
   },
   {
     "key": 27,
@@ -375,7 +375,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_02_01",
     "equipitemName": 5000301,
-    "equipitemSubText": 5001103
+    "equipitemSubText": 5001301
   },
   {
     "key": 28,
@@ -389,7 +389,7 @@
     "disassembleType": 4,
     "equipitemIcon": "icon_oopats_blue_02_01",
     "equipitemName": 5000401,
-    "equipitemSubText": 5001104
+    "equipitemSubText": 5001401
   },
   {
     "key": 29,
@@ -403,7 +403,7 @@
     "disassembleType": 1,
     "equipitemIcon": "icon_oopats_red_02_02",
     "equipitemName": 5000102,
-    "equipitemSubText": 5001105
+    "equipitemSubText": 5001102
   },
   {
     "key": 30,
@@ -417,7 +417,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_02_02",
     "equipitemName": 5000202,
-    "equipitemSubText": 5001106
+    "equipitemSubText": 5001202
   },
   {
     "key": 31,
@@ -431,7 +431,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_02_02",
     "equipitemName": 5000302,
-    "equipitemSubText": 5001201
+    "equipitemSubText": 5001302
   },
   {
     "key": 32,
@@ -445,7 +445,7 @@
     "disassembleType": 4,
     "equipitemIcon": "icon_oopats_blue_02_02",
     "equipitemName": 5000402,
-    "equipitemSubText": 5001202
+    "equipitemSubText": 5001402
   },
   {
     "key": 33,
@@ -459,7 +459,7 @@
     "disassembleType": 1,
     "equipitemIcon": "icon_oopats_red_02_03",
     "equipitemName": 5000103,
-    "equipitemSubText": 5001203
+    "equipitemSubText": 5001103
   },
   {
     "key": 34,
@@ -473,7 +473,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_02_03",
     "equipitemName": 5000203,
-    "equipitemSubText": 5001204
+    "equipitemSubText": 5001203
   },
   {
     "key": 35,
@@ -487,7 +487,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_02_03",
     "equipitemName": 5000303,
-    "equipitemSubText": 5001205
+    "equipitemSubText": 5001303
   },
   {
     "key": 36,
@@ -501,7 +501,7 @@
     "disassembleType": 4,
     "equipitemIcon": "icon_oopats_blue_02_03",
     "equipitemName": 5000403,
-    "equipitemSubText": 5001206
+    "equipitemSubText": 5001403
   },
   {
     "key": 37,
@@ -515,7 +515,7 @@
     "disassembleType": 1,
     "equipitemIcon": "icon_oopats_red_02_04",
     "equipitemName": 5000104,
-    "equipitemSubText": 5001301
+    "equipitemSubText": 5001104
   },
   {
     "key": 38,
@@ -529,7 +529,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_02_04",
     "equipitemName": 5000204,
-    "equipitemSubText": 5001302
+    "equipitemSubText": 5001204
   },
   {
     "key": 39,
@@ -543,7 +543,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_02_04",
     "equipitemName": 5000304,
-    "equipitemSubText": 5001303
+    "equipitemSubText": 5001304
   },
   {
     "key": 40,
@@ -557,7 +557,7 @@
     "disassembleType": 4,
     "equipitemIcon": "icon_oopats_blue_02_04",
     "equipitemName": 5000404,
-    "equipitemSubText": 5001304
+    "equipitemSubText": 5001404
   },
   {
     "key": 41,
@@ -571,7 +571,7 @@
     "disassembleType": 1,
     "equipitemIcon": "icon_oopats_red_02_05",
     "equipitemName": 5000105,
-    "equipitemSubText": 5001305
+    "equipitemSubText": 5001105
   },
   {
     "key": 42,
@@ -585,7 +585,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_02_05",
     "equipitemName": 5000205,
-    "equipitemSubText": 5001306
+    "equipitemSubText": 5001205
   },
   {
     "key": 43,
@@ -599,7 +599,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_02_05",
     "equipitemName": 5000305,
-    "equipitemSubText": 5001401
+    "equipitemSubText": 5001305
   },
   {
     "key": 44,
@@ -613,7 +613,7 @@
     "disassembleType": 4,
     "equipitemIcon": "icon_oopats_blue_02_05",
     "equipitemName": 5000405,
-    "equipitemSubText": 5001402
+    "equipitemSubText": 5001405
   },
   {
     "key": 45,
@@ -627,7 +627,7 @@
     "disassembleType": 1,
     "equipitemIcon": "icon_oopats_red_02_06",
     "equipitemName": 5000106,
-    "equipitemSubText": 5001403
+    "equipitemSubText": 5001106
   },
   {
     "key": 46,
@@ -641,7 +641,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_02_06",
     "equipitemName": 5000206,
-    "equipitemSubText": 5001404
+    "equipitemSubText": 5001206
   },
   {
     "key": 47,
@@ -655,7 +655,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_02_06",
     "equipitemName": 5000306,
-    "equipitemSubText": 5001405
+    "equipitemSubText": 5001306
   },
   {
     "key": 48,
@@ -697,7 +697,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_03_01",
     "equipitemName": 5000201,
-    "equipitemSubText": 5001102
+    "equipitemSubText": 5001201
   },
   {
     "key": 51,
@@ -711,7 +711,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_03_01",
     "equipitemName": 5000301,
-    "equipitemSubText": 5001103
+    "equipitemSubText": 5001301
   },
   {
     "key": 52,
@@ -725,7 +725,7 @@
     "disassembleType": 4,
     "equipitemIcon": "icon_oopats_blue_03_01",
     "equipitemName": 5000401,
-    "equipitemSubText": 5001104
+    "equipitemSubText": 5001401
   },
   {
     "key": 53,
@@ -739,7 +739,7 @@
     "disassembleType": 1,
     "equipitemIcon": "icon_oopats_red_03_02",
     "equipitemName": 5000102,
-    "equipitemSubText": 5001105
+    "equipitemSubText": 5001102
   },
   {
     "key": 54,
@@ -753,7 +753,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_03_02",
     "equipitemName": 5000202,
-    "equipitemSubText": 5001106
+    "equipitemSubText": 5001202
   },
   {
     "key": 55,
@@ -767,7 +767,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_03_02",
     "equipitemName": 5000302,
-    "equipitemSubText": 5001201
+    "equipitemSubText": 5001302
   },
   {
     "key": 56,
@@ -781,7 +781,7 @@
     "disassembleType": 4,
     "equipitemIcon": "icon_oopats_blue_03_02",
     "equipitemName": 5000402,
-    "equipitemSubText": 5001202
+    "equipitemSubText": 5001402
   },
   {
     "key": 57,
@@ -795,7 +795,7 @@
     "disassembleType": 1,
     "equipitemIcon": "icon_oopats_red_03_03",
     "equipitemName": 5000103,
-    "equipitemSubText": 5001203
+    "equipitemSubText": 5001103
   },
   {
     "key": 58,
@@ -809,7 +809,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_03_03",
     "equipitemName": 5000203,
-    "equipitemSubText": 5001204
+    "equipitemSubText": 5001203
   },
   {
     "key": 59,
@@ -823,7 +823,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_03_03",
     "equipitemName": 5000303,
-    "equipitemSubText": 5001205
+    "equipitemSubText": 5001303
   },
   {
     "key": 60,
@@ -837,7 +837,7 @@
     "disassembleType": 4,
     "equipitemIcon": "icon_oopats_blue_03_03",
     "equipitemName": 5000403,
-    "equipitemSubText": 5001206
+    "equipitemSubText": 5001403
   },
   {
     "key": 61,
@@ -851,7 +851,7 @@
     "disassembleType": 1,
     "equipitemIcon": "icon_oopats_red_03_04",
     "equipitemName": 5000104,
-    "equipitemSubText": 5001301
+    "equipitemSubText": 5001104
   },
   {
     "key": 62,
@@ -865,7 +865,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_03_04",
     "equipitemName": 5000204,
-    "equipitemSubText": 5001302
+    "equipitemSubText": 5001204
   },
   {
     "key": 63,
@@ -879,7 +879,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_03_04",
     "equipitemName": 5000304,
-    "equipitemSubText": 5001303
+    "equipitemSubText": 5001304
   },
   {
     "key": 64,
@@ -893,7 +893,7 @@
     "disassembleType": 4,
     "equipitemIcon": "icon_oopats_blue_03_04",
     "equipitemName": 5000404,
-    "equipitemSubText": 5001304
+    "equipitemSubText": 5001404
   },
   {
     "key": 65,
@@ -907,7 +907,7 @@
     "disassembleType": 1,
     "equipitemIcon": "icon_oopats_red_03_05",
     "equipitemName": 5000105,
-    "equipitemSubText": 5001305
+    "equipitemSubText": 5001105
   },
   {
     "key": 66,
@@ -921,7 +921,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_03_05",
     "equipitemName": 5000205,
-    "equipitemSubText": 5001306
+    "equipitemSubText": 5001205
   },
   {
     "key": 67,
@@ -935,7 +935,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_03_05",
     "equipitemName": 5000305,
-    "equipitemSubText": 5001401
+    "equipitemSubText": 5001305
   },
   {
     "key": 68,
@@ -949,7 +949,7 @@
     "disassembleType": 4,
     "equipitemIcon": "icon_oopats_blue_03_05",
     "equipitemName": 5000405,
-    "equipitemSubText": 5001402
+    "equipitemSubText": 5001405
   },
   {
     "key": 69,
@@ -963,7 +963,7 @@
     "disassembleType": 1,
     "equipitemIcon": "icon_oopats_red_03_06",
     "equipitemName": 5000106,
-    "equipitemSubText": 5001403
+    "equipitemSubText": 5001106
   },
   {
     "key": 70,
@@ -977,7 +977,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_03_06",
     "equipitemName": 5000206,
-    "equipitemSubText": 5001404
+    "equipitemSubText": 5001206
   },
   {
     "key": 71,
@@ -991,7 +991,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_03_06",
     "equipitemName": 5000306,
-    "equipitemSubText": 5001405
+    "equipitemSubText": 5001306
   },
   {
     "key": 72,
@@ -1033,7 +1033,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_04_01",
     "equipitemName": 5000201,
-    "equipitemSubText": 5001102
+    "equipitemSubText": 5001201
   },
   {
     "key": 75,
@@ -1047,7 +1047,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_04_01",
     "equipitemName": 5000301,
-    "equipitemSubText": 5001103
+    "equipitemSubText": 5001301
   },
   {
     "key": 76,
@@ -1061,7 +1061,7 @@
     "disassembleType": 4,
     "equipitemIcon": "icon_oopats_blue_04_01",
     "equipitemName": 5000401,
-    "equipitemSubText": 5001104
+    "equipitemSubText": 5001401
   },
   {
     "key": 77,
@@ -1075,7 +1075,7 @@
     "disassembleType": 1,
     "equipitemIcon": "icon_oopats_red_04_02",
     "equipitemName": 5000102,
-    "equipitemSubText": 5001105
+    "equipitemSubText": 5001102
   },
   {
     "key": 78,
@@ -1089,7 +1089,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_04_02",
     "equipitemName": 5000202,
-    "equipitemSubText": 5001106
+    "equipitemSubText": 5001202
   },
   {
     "key": 79,
@@ -1103,7 +1103,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_04_02",
     "equipitemName": 5000302,
-    "equipitemSubText": 5001201
+    "equipitemSubText": 5001302
   },
   {
     "key": 80,
@@ -1117,7 +1117,7 @@
     "disassembleType": 4,
     "equipitemIcon": "icon_oopats_blue_04_02",
     "equipitemName": 5000402,
-    "equipitemSubText": 5001202
+    "equipitemSubText": 5001402
   },
   {
     "key": 81,
@@ -1131,7 +1131,7 @@
     "disassembleType": 1,
     "equipitemIcon": "icon_oopats_red_04_03",
     "equipitemName": 5000103,
-    "equipitemSubText": 5001203
+    "equipitemSubText": 5001103
   },
   {
     "key": 82,
@@ -1145,7 +1145,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_04_03",
     "equipitemName": 5000203,
-    "equipitemSubText": 5001204
+    "equipitemSubText": 5001203
   },
   {
     "key": 83,
@@ -1159,7 +1159,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_04_03",
     "equipitemName": 5000303,
-    "equipitemSubText": 5001205
+    "equipitemSubText": 5001303
   },
   {
     "key": 84,
@@ -1173,7 +1173,7 @@
     "disassembleType": 4,
     "equipitemIcon": "icon_oopats_blue_04_03",
     "equipitemName": 5000403,
-    "equipitemSubText": 5001206
+    "equipitemSubText": 5001403
   },
   {
     "key": 85,
@@ -1187,7 +1187,7 @@
     "disassembleType": 1,
     "equipitemIcon": "icon_oopats_red_04_04",
     "equipitemName": 5000104,
-    "equipitemSubText": 5001301
+    "equipitemSubText": 5001104
   },
   {
     "key": 86,
@@ -1201,7 +1201,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_04_04",
     "equipitemName": 5000204,
-    "equipitemSubText": 5001302
+    "equipitemSubText": 5001204
   },
   {
     "key": 87,
@@ -1215,7 +1215,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_04_04",
     "equipitemName": 5000304,
-    "equipitemSubText": 5001303
+    "equipitemSubText": 5001304
   },
   {
     "key": 88,
@@ -1229,7 +1229,7 @@
     "disassembleType": 4,
     "equipitemIcon": "icon_oopats_blue_04_04",
     "equipitemName": 5000404,
-    "equipitemSubText": 5001304
+    "equipitemSubText": 5001404
   },
   {
     "key": 89,
@@ -1243,7 +1243,7 @@
     "disassembleType": 1,
     "equipitemIcon": "icon_oopats_red_04_05",
     "equipitemName": 5000105,
-    "equipitemSubText": 5001305
+    "equipitemSubText": 5001105
   },
   {
     "key": 90,
@@ -1257,7 +1257,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_04_05",
     "equipitemName": 5000205,
-    "equipitemSubText": 5001306
+    "equipitemSubText": 5001205
   },
   {
     "key": 91,
@@ -1271,7 +1271,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_04_05",
     "equipitemName": 5000305,
-    "equipitemSubText": 5001401
+    "equipitemSubText": 5001305
   },
   {
     "key": 92,
@@ -1285,7 +1285,7 @@
     "disassembleType": 4,
     "equipitemIcon": "icon_oopats_blue_04_05",
     "equipitemName": 5000405,
-    "equipitemSubText": 5001402
+    "equipitemSubText": 5001405
   },
   {
     "key": 93,
@@ -1299,7 +1299,7 @@
     "disassembleType": 1,
     "equipitemIcon": "icon_oopats_red_04_06",
     "equipitemName": 5000106,
-    "equipitemSubText": 5001403
+    "equipitemSubText": 5001106
   },
   {
     "key": 94,
@@ -1313,7 +1313,7 @@
     "disassembleType": 2,
     "equipitemIcon": "icon_oopats_green_04_06",
     "equipitemName": 5000206,
-    "equipitemSubText": 5001404
+    "equipitemSubText": 5001206
   },
   {
     "key": 95,
@@ -1327,7 +1327,7 @@
     "disassembleType": 3,
     "equipitemIcon": "icon_oopats_yellow_04_06",
     "equipitemName": 5000306,
-    "equipitemSubText": 5001405
+    "equipitemSubText": 5001306
   },
   {
     "key": 96,

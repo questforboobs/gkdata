@@ -20829,8 +20829,8 @@
     "typeIndex": 1,
     "rewardType": 1,
     "rewardIdx": 50,
-    "minCount": 5,
-    "maxCount": 10,
+    "minCount": 10,
+    "maxCount": 20,
     "rate": 100
   },
   {
@@ -20840,8 +20840,8 @@
     "typeIndex": 1,
     "rewardType": 1,
     "rewardIdx": 51,
-    "minCount": 1,
-    "maxCount": 5,
+    "minCount": 2,
+    "maxCount": 10,
     "rate": 80
   },
   {
@@ -20873,8 +20873,8 @@
     "typeIndex": 2,
     "rewardType": 1,
     "rewardIdx": 51,
-    "minCount": 5,
-    "maxCount": 10,
+    "minCount": 10,
+    "maxCount": 20,
     "rate": 100
   },
   {
@@ -20884,8 +20884,8 @@
     "typeIndex": 2,
     "rewardType": 1,
     "rewardIdx": 52,
-    "minCount": 1,
-    "maxCount": 3,
+    "minCount": 2,
+    "maxCount": 6,
     "rate": 80
   },
   {
@@ -20917,8 +20917,8 @@
     "typeIndex": 3,
     "rewardType": 1,
     "rewardIdx": 52,
-    "minCount": 3,
-    "maxCount": 8,
+    "minCount": 6,
+    "maxCount": 16,
     "rate": 100
   },
   {
@@ -20928,8 +20928,8 @@
     "typeIndex": 3,
     "rewardType": 1,
     "rewardIdx": 53,
-    "minCount": 1,
-    "maxCount": 2,
+    "minCount": 2,
+    "maxCount": 4,
     "rate": 80
   },
   {
@@ -20961,8 +20961,8 @@
     "typeIndex": 4,
     "rewardType": 1,
     "rewardIdx": 53,
-    "minCount": 3,
-    "maxCount": 5,
+    "minCount": 6,
+    "maxCount": 10,
     "rate": 100
   },
   {
@@ -20972,8 +20972,8 @@
     "typeIndex": 4,
     "rewardType": 1,
     "rewardIdx": 54,
-    "minCount": 1,
-    "maxCount": 2,
+    "minCount": 2,
+    "maxCount": 4,
     "rate": 80
   },
   {
@@ -21005,8 +21005,8 @@
     "typeIndex": 5,
     "rewardType": 1,
     "rewardIdx": 54,
-    "minCount": 1,
-    "maxCount": 3,
+    "minCount": 2,
+    "maxCount": 6,
     "rate": 100
   },
   {
@@ -21016,8 +21016,8 @@
     "typeIndex": 5,
     "rewardType": 1,
     "rewardIdx": 55,
-    "minCount": 1,
-    "maxCount": 2,
+    "minCount": 2,
+    "maxCount": 4,
     "rate": 80
   },
   {
@@ -21049,8 +21049,8 @@
     "typeIndex": 6,
     "rewardType": 1,
     "rewardIdx": 54,
-    "minCount": 1,
-    "maxCount": 3,
+    "minCount": 2,
+    "maxCount": 6,
     "rate": 100
   },
   {
@@ -21060,8 +21060,8 @@
     "typeIndex": 6,
     "rewardType": 1,
     "rewardIdx": 55,
-    "minCount": 1,
-    "maxCount": 3,
+    "minCount": 3,
+    "maxCount": 6,
     "rate": 80
   },
   {
@@ -21070,7 +21070,7 @@
     "type": 1,
     "typeIndex": 6,
     "rewardType": 5,
-    "rewardIdx": 11004,
+    "rewardIdx": 11005,
     "minCount": 10,
     "maxCount": 20,
     "rate": 100
@@ -21093,8 +21093,8 @@
     "typeIndex": 1,
     "rewardType": 1,
     "rewardIdx": 50,
-    "minCount": 5,
-    "maxCount": 10,
+    "minCount": 10,
+    "maxCount": 20,
     "rate": 100
   },
   {
@@ -21104,8 +21104,8 @@
     "typeIndex": 1,
     "rewardType": 1,
     "rewardIdx": 51,
-    "minCount": 1,
-    "maxCount": 5,
+    "minCount": 2,
+    "maxCount": 10,
     "rate": 80
   },
   {
@@ -21137,8 +21137,8 @@
     "typeIndex": 2,
     "rewardType": 1,
     "rewardIdx": 51,
-    "minCount": 5,
-    "maxCount": 10,
+    "minCount": 10,
+    "maxCount": 20,
     "rate": 100
   },
   {
@@ -21148,8 +21148,8 @@
     "typeIndex": 2,
     "rewardType": 1,
     "rewardIdx": 52,
-    "minCount": 1,
-    "maxCount": 3,
+    "minCount": 2,
+    "maxCount": 6,
     "rate": 80
   },
   {
@@ -21181,8 +21181,8 @@
     "typeIndex": 3,
     "rewardType": 1,
     "rewardIdx": 52,
-    "minCount": 3,
-    "maxCount": 8,
+    "minCount": 6,
+    "maxCount": 16,
     "rate": 100
   },
   {
@@ -21192,8 +21192,8 @@
     "typeIndex": 3,
     "rewardType": 1,
     "rewardIdx": 53,
-    "minCount": 1,
-    "maxCount": 2,
+    "minCount": 2,
+    "maxCount": 4,
     "rate": 80
   },
   {
@@ -21225,8 +21225,8 @@
     "typeIndex": 4,
     "rewardType": 1,
     "rewardIdx": 53,
-    "minCount": 3,
-    "maxCount": 5,
+    "minCount": 6,
+    "maxCount": 10,
     "rate": 100
   },
   {
@@ -21236,8 +21236,8 @@
     "typeIndex": 4,
     "rewardType": 1,
     "rewardIdx": 54,
-    "minCount": 1,
-    "maxCount": 2,
+    "minCount": 2,
+    "maxCount": 4,
     "rate": 80
   },
   {
@@ -21269,8 +21269,8 @@
     "typeIndex": 5,
     "rewardType": 1,
     "rewardIdx": 54,
-    "minCount": 1,
-    "maxCount": 3,
+    "minCount": 2,
+    "maxCount": 6,
     "rate": 100
   },
   {
@@ -21280,8 +21280,8 @@
     "typeIndex": 5,
     "rewardType": 1,
     "rewardIdx": 55,
-    "minCount": 1,
-    "maxCount": 2,
+    "minCount": 2,
+    "maxCount": 4,
     "rate": 80
   },
   {
@@ -21313,8 +21313,8 @@
     "typeIndex": 6,
     "rewardType": 1,
     "rewardIdx": 54,
-    "minCount": 1,
-    "maxCount": 3,
+    "minCount": 2,
+    "maxCount": 6,
     "rate": 100
   },
   {
@@ -21324,8 +21324,8 @@
     "typeIndex": 6,
     "rewardType": 1,
     "rewardIdx": 55,
-    "minCount": 1,
-    "maxCount": 3,
+    "minCount": 3,
+    "maxCount": 6,
     "rate": 80
   },
   {
@@ -21334,7 +21334,7 @@
     "type": 2,
     "typeIndex": 6,
     "rewardType": 5,
-    "rewardIdx": 11104,
+    "rewardIdx": 11105,
     "minCount": 10,
     "maxCount": 20,
     "rate": 100
@@ -21357,8 +21357,8 @@
     "typeIndex": 1,
     "rewardType": 1,
     "rewardIdx": 50,
-    "minCount": 5,
-    "maxCount": 10,
+    "minCount": 10,
+    "maxCount": 20,
     "rate": 100
   },
   {
@@ -21368,8 +21368,8 @@
     "typeIndex": 1,
     "rewardType": 1,
     "rewardIdx": 51,
-    "minCount": 1,
-    "maxCount": 5,
+    "minCount": 2,
+    "maxCount": 10,
     "rate": 80
   },
   {
@@ -21401,8 +21401,8 @@
     "typeIndex": 2,
     "rewardType": 1,
     "rewardIdx": 51,
-    "minCount": 5,
-    "maxCount": 10,
+    "minCount": 10,
+    "maxCount": 20,
     "rate": 100
   },
   {
@@ -21412,8 +21412,8 @@
     "typeIndex": 2,
     "rewardType": 1,
     "rewardIdx": 52,
-    "minCount": 1,
-    "maxCount": 3,
+    "minCount": 2,
+    "maxCount": 6,
     "rate": 80
   },
   {
@@ -21445,8 +21445,8 @@
     "typeIndex": 3,
     "rewardType": 1,
     "rewardIdx": 52,
-    "minCount": 3,
-    "maxCount": 8,
+    "minCount": 6,
+    "maxCount": 16,
     "rate": 100
   },
   {
@@ -21456,8 +21456,8 @@
     "typeIndex": 3,
     "rewardType": 1,
     "rewardIdx": 53,
-    "minCount": 1,
-    "maxCount": 2,
+    "minCount": 2,
+    "maxCount": 4,
     "rate": 80
   },
   {
@@ -21489,8 +21489,8 @@
     "typeIndex": 4,
     "rewardType": 1,
     "rewardIdx": 53,
-    "minCount": 3,
-    "maxCount": 5,
+    "minCount": 6,
+    "maxCount": 10,
     "rate": 100
   },
   {
@@ -21500,8 +21500,8 @@
     "typeIndex": 4,
     "rewardType": 1,
     "rewardIdx": 54,
-    "minCount": 1,
-    "maxCount": 2,
+    "minCount": 2,
+    "maxCount": 4,
     "rate": 80
   },
   {
@@ -21533,8 +21533,8 @@
     "typeIndex": 5,
     "rewardType": 1,
     "rewardIdx": 54,
-    "minCount": 1,
-    "maxCount": 3,
+    "minCount": 2,
+    "maxCount": 6,
     "rate": 100
   },
   {
@@ -21544,8 +21544,8 @@
     "typeIndex": 5,
     "rewardType": 1,
     "rewardIdx": 55,
-    "minCount": 1,
-    "maxCount": 2,
+    "minCount": 2,
+    "maxCount": 4,
     "rate": 80
   },
   {
@@ -21577,8 +21577,8 @@
     "typeIndex": 6,
     "rewardType": 1,
     "rewardIdx": 54,
-    "minCount": 1,
-    "maxCount": 3,
+    "minCount": 2,
+    "maxCount": 6,
     "rate": 100
   },
   {
@@ -21588,8 +21588,8 @@
     "typeIndex": 6,
     "rewardType": 1,
     "rewardIdx": 55,
-    "minCount": 1,
-    "maxCount": 3,
+    "minCount": 3,
+    "maxCount": 6,
     "rate": 80
   },
   {
@@ -21598,7 +21598,7 @@
     "type": 3,
     "typeIndex": 6,
     "rewardType": 5,
-    "rewardIdx": 11204,
+    "rewardIdx": 11205,
     "minCount": 10,
     "maxCount": 20,
     "rate": 100
@@ -56387,853 +56387,1953 @@
   },
   {
     "index": 5126,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 1,
-    "rewardType": 2,
-    "rewardIdx": 1,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 40
+    "category": 14,
+    "type": 1029,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 2,
+    "maxCount": 2,
+    "rate": 100
   },
   {
     "index": 5127,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 1,
-    "rewardType": 2,
-    "rewardIdx": 5,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 40
+    "category": 14,
+    "type": 1030,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 3,
+    "maxCount": 3,
+    "rate": 100
   },
   {
     "index": 5128,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 1,
-    "rewardType": 2,
-    "rewardIdx": 17,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 40
+    "category": 14,
+    "type": 1031,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 4,
+    "maxCount": 4,
+    "rate": 100
   },
   {
     "index": 5129,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 1,
-    "rewardType": 2,
-    "rewardIdx": 14,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 30
+    "category": 14,
+    "type": 1032,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 3,
+    "maxCount": 3,
+    "rate": 100
   },
   {
     "index": 5130,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 1,
-    "rewardType": 2,
-    "rewardIdx": 19,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 30
+    "category": 14,
+    "type": 1033,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 3,
+    "maxCount": 3,
+    "rate": 100
   },
   {
     "index": 5131,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 1,
-    "rewardType": 2,
-    "rewardIdx": 12,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 30
+    "category": 14,
+    "type": 1034,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 2,
+    "maxCount": 2,
+    "rate": 100
   },
   {
     "index": 5132,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 1,
-    "rewardType": 2,
-    "rewardIdx": 7,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 20
+    "category": 14,
+    "type": 1029,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 16,
+    "minCount": 10,
+    "maxCount": 10,
+    "rate": 100
   },
   {
     "index": 5133,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 1,
-    "rewardType": 2,
-    "rewardIdx": 10,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 20
+    "category": 14,
+    "type": 1030,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 4,
+    "minCount": 30000,
+    "maxCount": 30000,
+    "rate": 100
   },
   {
     "index": 5134,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 1,
-    "rewardType": 2,
-    "rewardIdx": 27,
-    "minCount": 1,
-    "maxCount": 1,
+    "category": 14,
+    "type": 1031,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 4,
+    "minCount": 2000,
+    "maxCount": 2000,
     "rate": 100
   },
   {
     "index": 5135,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 1,
-    "rewardType": 2,
-    "rewardIdx": 41,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 5
+    "category": 14,
+    "type": 1032,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 5,
+    "minCount": 60,
+    "maxCount": 60,
+    "rate": 100
   },
   {
     "index": 5136,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 1,
-    "rewardType": 2,
-    "rewardIdx": 32,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 5
+    "category": 14,
+    "type": 1033,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 2,
+    "minCount": 20,
+    "maxCount": 20,
+    "rate": 100
   },
   {
     "index": 5137,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 1,
-    "rewardType": 2,
-    "rewardIdx": 18,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 5
+    "category": 14,
+    "type": 1034,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 20,
+    "minCount": 200,
+    "maxCount": 200,
+    "rate": 100
   },
   {
     "index": 5138,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 1,
-    "rewardType": 2,
-    "rewardIdx": 35,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 5
+    "category": 14,
+    "type": 1035,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 2,
+    "minCount": 100,
+    "maxCount": 100,
+    "rate": 100
   },
   {
     "index": 5139,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 2,
-    "rewardType": 2,
-    "rewardIdx": 1,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 35
+    "category": 14,
+    "type": 1036,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 2,
+    "minCount": 200,
+    "maxCount": 200,
+    "rate": 100
   },
   {
     "index": 5140,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 2,
-    "rewardType": 2,
-    "rewardIdx": 5,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 35
+    "category": 14,
+    "type": 1037,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 2,
+    "minCount": 400,
+    "maxCount": 400,
+    "rate": 100
   },
   {
     "index": 5141,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 2,
-    "rewardType": 2,
-    "rewardIdx": 17,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 35
+    "category": 14,
+    "type": 1038,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 2,
+    "minCount": 600,
+    "maxCount": 600,
+    "rate": 100
   },
   {
     "index": 5142,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 2,
-    "rewardType": 2,
-    "rewardIdx": 14,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 35
+    "category": 14,
+    "type": 1039,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 2,
+    "minCount": 800,
+    "maxCount": 800,
+    "rate": 100
   },
   {
     "index": 5143,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 2,
-    "rewardType": 2,
-    "rewardIdx": 19,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 30
+    "category": 14,
+    "type": 1040,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 2,
+    "minCount": 1200,
+    "maxCount": 1200,
+    "rate": 100
   },
   {
     "index": 5144,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 2,
-    "rewardType": 2,
-    "rewardIdx": 12,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 30
+    "category": 14,
+    "type": 1041,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 2,
+    "minCount": 1600,
+    "maxCount": 1600,
+    "rate": 100
   },
   {
     "index": 5145,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 2,
-    "rewardType": 2,
-    "rewardIdx": 7,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 30
+    "category": 14,
+    "type": 1035,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 100,
+    "maxCount": 100,
+    "rate": 100
   },
   {
     "index": 5146,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 2,
-    "rewardType": 2,
-    "rewardIdx": 10,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 30
+    "category": 14,
+    "type": 1036,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 100,
+    "maxCount": 100,
+    "rate": 100
   },
   {
     "index": 5147,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 2,
-    "rewardType": 2,
-    "rewardIdx": 27,
+    "category": 14,
+    "type": 1037,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 100,
+    "maxCount": 100,
+    "rate": 100
+  },
+  {
+    "index": 5148,
+    "category": 14,
+    "type": 1038,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 100,
+    "maxCount": 100,
+    "rate": 100
+  },
+  {
+    "index": 5149,
+    "category": 14,
+    "type": 1039,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 100,
+    "maxCount": 100,
+    "rate": 100
+  },
+  {
+    "index": 5150,
+    "category": 14,
+    "type": 1040,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 200,
+    "maxCount": 200,
+    "rate": 100
+  },
+  {
+    "index": 5151,
+    "category": 14,
+    "type": 1041,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 200,
+    "maxCount": 200,
+    "rate": 100
+  },
+  {
+    "index": 5152,
+    "category": 14,
+    "type": 1036,
+    "typeIndex": 0,
+    "rewardType": 4,
+    "rewardIdx": 110,
     "minCount": 1,
     "maxCount": 1,
     "rate": 100
   },
   {
-    "index": 5148,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 2,
-    "rewardType": 2,
-    "rewardIdx": 41,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 5
-  },
-  {
-    "index": 5149,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 2,
-    "rewardType": 2,
-    "rewardIdx": 32,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 5
-  },
-  {
-    "index": 5150,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 2,
-    "rewardType": 2,
-    "rewardIdx": 18,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 5
-  },
-  {
-    "index": 5151,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 2,
-    "rewardType": 2,
-    "rewardIdx": 35,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 5
-  },
-  {
-    "index": 5152,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 3,
-    "rewardType": 2,
-    "rewardIdx": 1,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 30
-  },
-  {
     "index": 5153,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 3,
-    "rewardType": 2,
-    "rewardIdx": 5,
+    "category": 14,
+    "type": 1037,
+    "typeIndex": 0,
+    "rewardType": 4,
+    "rewardIdx": 112,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 30
+    "rate": 100
   },
   {
     "index": 5154,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 3,
-    "rewardType": 2,
-    "rewardIdx": 17,
+    "category": 14,
+    "type": 1038,
+    "typeIndex": 0,
+    "rewardType": 4,
+    "rewardIdx": 110,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 30
+    "rate": 100
   },
   {
     "index": 5155,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 3,
-    "rewardType": 2,
-    "rewardIdx": 14,
+    "category": 14,
+    "type": 1039,
+    "typeIndex": 0,
+    "rewardType": 4,
+    "rewardIdx": 112,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 30
+    "rate": 100
   },
   {
     "index": 5156,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 3,
-    "rewardType": 2,
-    "rewardIdx": 19,
+    "category": 14,
+    "type": 1040,
+    "typeIndex": 0,
+    "rewardType": 4,
+    "rewardIdx": 110,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 30
+    "rate": 100
   },
   {
     "index": 5157,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 3,
-    "rewardType": 2,
-    "rewardIdx": 12,
+    "category": 14,
+    "type": 1041,
+    "typeIndex": 0,
+    "rewardType": 4,
+    "rewardIdx": 112,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 30
+    "rate": 100
   },
   {
     "index": 5158,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 3,
-    "rewardType": 2,
-    "rewardIdx": 7,
+    "category": 14,
+    "type": 1036,
+    "typeIndex": 0,
+    "rewardType": 4,
+    "rewardIdx": 111,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 30
+    "rate": 100
   },
   {
     "index": 5159,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 3,
-    "rewardType": 2,
-    "rewardIdx": 10,
+    "category": 14,
+    "type": 1037,
+    "typeIndex": 0,
+    "rewardType": 4,
+    "rewardIdx": 113,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 30
+    "rate": 100
   },
   {
     "index": 5160,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 3,
-    "rewardType": 2,
-    "rewardIdx": 27,
+    "category": 14,
+    "type": 1038,
+    "typeIndex": 0,
+    "rewardType": 4,
+    "rewardIdx": 111,
     "minCount": 1,
     "maxCount": 1,
     "rate": 100
   },
   {
     "index": 5161,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 3,
-    "rewardType": 2,
-    "rewardIdx": 41,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 5
-  },
-  {
-    "index": 5162,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 3,
-    "rewardType": 2,
-    "rewardIdx": 32,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 5
-  },
-  {
-    "index": 5163,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 3,
-    "rewardType": 2,
-    "rewardIdx": 18,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 5
-  },
-  {
-    "index": 5164,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 3,
-    "rewardType": 2,
-    "rewardIdx": 35,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 5
-  },
-  {
-    "index": 5165,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 4,
-    "rewardType": 2,
-    "rewardIdx": 1,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 25
-  },
-  {
-    "index": 5166,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 4,
-    "rewardType": 2,
-    "rewardIdx": 5,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 25
-  },
-  {
-    "index": 5167,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 4,
-    "rewardType": 2,
-    "rewardIdx": 17,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 25
-  },
-  {
-    "index": 5168,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 4,
-    "rewardType": 2,
-    "rewardIdx": 14,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 25
-  },
-  {
-    "index": 5169,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 4,
-    "rewardType": 2,
-    "rewardIdx": 19,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 25
-  },
-  {
-    "index": 5170,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 4,
-    "rewardType": 2,
-    "rewardIdx": 12,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 25
-  },
-  {
-    "index": 5171,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 4,
-    "rewardType": 2,
-    "rewardIdx": 7,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 20
-  },
-  {
-    "index": 5172,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 4,
-    "rewardType": 2,
-    "rewardIdx": 10,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 20
-  },
-  {
-    "index": 5173,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 4,
-    "rewardType": 2,
-    "rewardIdx": 27,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 20
-  },
-  {
-    "index": 5174,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 4,
-    "rewardType": 2,
-    "rewardIdx": 16,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 20
-  },
-  {
-    "index": 5175,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 4,
-    "rewardType": 2,
-    "rewardIdx": 30,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 20
-  },
-  {
-    "index": 5176,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 4,
-    "rewardType": 2,
-    "rewardIdx": 41,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 10
-  },
-  {
-    "index": 5177,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 4,
-    "rewardType": 2,
-    "rewardIdx": 32,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 10
-  },
-  {
-    "index": 5178,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 4,
-    "rewardType": 2,
-    "rewardIdx": 18,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 10
-  },
-  {
-    "index": 5179,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 4,
-    "rewardType": 2,
-    "rewardIdx": 11,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 10
-  },
-  {
-    "index": 5180,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 4,
-    "rewardType": 2,
-    "rewardIdx": 13,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 10
-  },
-  {
-    "index": 5181,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 4,
-    "rewardType": 2,
-    "rewardIdx": 37,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 10
-  },
-  {
-    "index": 5182,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 4,
-    "rewardType": 2,
-    "rewardIdx": 40,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 10
-  },
-  {
-    "index": 5183,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 4,
-    "rewardType": 2,
-    "rewardIdx": 35,
+    "category": 14,
+    "type": 1039,
+    "typeIndex": 0,
+    "rewardType": 4,
+    "rewardIdx": 113,
     "minCount": 1,
     "maxCount": 1,
     "rate": 100
   },
   {
-    "index": 5184,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 5,
-    "rewardType": 2,
-    "rewardIdx": 1,
+    "index": 5162,
+    "category": 14,
+    "type": 1040,
+    "typeIndex": 0,
+    "rewardType": 4,
+    "rewardIdx": 111,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 20
+    "rate": 100
+  },
+  {
+    "index": 5163,
+    "category": 14,
+    "type": 1041,
+    "typeIndex": 0,
+    "rewardType": 4,
+    "rewardIdx": 113,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5164,
+    "category": 14,
+    "type": 1042,
+    "typeIndex": 0,
+    "rewardType": 7,
+    "rewardIdx": 40012,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5165,
+    "category": 14,
+    "type": 1043,
+    "typeIndex": 0,
+    "rewardType": 7,
+    "rewardIdx": 31012,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5166,
+    "category": 14,
+    "type": 1044,
+    "typeIndex": 0,
+    "rewardType": 7,
+    "rewardIdx": 15012,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5167,
+    "category": 14,
+    "type": 1045,
+    "typeIndex": 0,
+    "rewardType": 7,
+    "rewardIdx": 20012,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5168,
+    "category": 14,
+    "type": 1046,
+    "typeIndex": 0,
+    "rewardType": 7,
+    "rewardIdx": 47012,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5169,
+    "category": 14,
+    "type": 1047,
+    "typeIndex": 0,
+    "rewardType": 7,
+    "rewardIdx": 16012,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5170,
+    "category": 14,
+    "type": 1048,
+    "typeIndex": 0,
+    "rewardType": 4,
+    "rewardIdx": 110,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5171,
+    "category": 14,
+    "type": 1049,
+    "typeIndex": 0,
+    "rewardType": 4,
+    "rewardIdx": 111,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5172,
+    "category": 14,
+    "type": 1050,
+    "typeIndex": 0,
+    "rewardType": 4,
+    "rewardIdx": 112,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5173,
+    "category": 14,
+    "type": 1051,
+    "typeIndex": 0,
+    "rewardType": 4,
+    "rewardIdx": 113,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5174,
+    "category": 14,
+    "type": 1052,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5175,
+    "category": 14,
+    "type": 1053,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 10,
+    "maxCount": 10,
+    "rate": 100
+  },
+  {
+    "index": 5176,
+    "category": 14,
+    "type": 1054,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 16,
+    "minCount": 30,
+    "maxCount": 30,
+    "rate": 100
+  },
+  {
+    "index": 5177,
+    "category": 14,
+    "type": 1055,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 17,
+    "minCount": 20,
+    "maxCount": 20,
+    "rate": 100
+  },
+  {
+    "index": 5178,
+    "category": 14,
+    "type": 1056,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 18,
+    "minCount": 10,
+    "maxCount": 10,
+    "rate": 100
+  },
+  {
+    "index": 5179,
+    "category": 14,
+    "type": 1057,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 19,
+    "minCount": 5,
+    "maxCount": 5,
+    "rate": 100
+  },
+  {
+    "index": 5180,
+    "category": 14,
+    "type": 1058,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 10,
+    "maxCount": 10,
+    "rate": 100
+  },
+  {
+    "index": 5181,
+    "category": 14,
+    "type": 1059,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 20,
+    "maxCount": 20,
+    "rate": 100
+  },
+  {
+    "index": 5182,
+    "category": 14,
+    "type": 1060,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 10,
+    "maxCount": 10,
+    "rate": 100
+  },
+  {
+    "index": 5183,
+    "category": 14,
+    "type": 1061,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 100,
+    "maxCount": 100,
+    "rate": 100
+  },
+  {
+    "index": 5184,
+    "category": 14,
+    "type": 1063,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
   },
   {
     "index": 5185,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 5,
-    "rewardType": 2,
-    "rewardIdx": 5,
+    "category": 14,
+    "type": 1064,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 20
+    "rate": 100
   },
   {
     "index": 5186,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 5,
-    "rewardType": 2,
-    "rewardIdx": 17,
+    "category": 14,
+    "type": 1065,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 20
+    "rate": 100
   },
   {
     "index": 5187,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 5,
-    "rewardType": 2,
-    "rewardIdx": 14,
+    "category": 14,
+    "type": 1066,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 20
+    "rate": 100
   },
   {
     "index": 5188,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 5,
-    "rewardType": 2,
-    "rewardIdx": 19,
+    "category": 14,
+    "type": 1067,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 20
+    "rate": 100
   },
   {
     "index": 5189,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 5,
-    "rewardType": 2,
-    "rewardIdx": 12,
+    "category": 14,
+    "type": 1068,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 20
+    "rate": 100
   },
   {
     "index": 5190,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 5,
-    "rewardType": 2,
-    "rewardIdx": 7,
+    "category": 14,
+    "type": 1069,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 20
+    "rate": 100
   },
   {
     "index": 5191,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 5,
-    "rewardType": 2,
-    "rewardIdx": 10,
+    "category": 14,
+    "type": 1070,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 20
+    "rate": 100
   },
   {
     "index": 5192,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 5,
-    "rewardType": 2,
-    "rewardIdx": 27,
+    "category": 14,
+    "type": 1071,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 20
+    "rate": 100
   },
   {
     "index": 5193,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 5,
-    "rewardType": 2,
-    "rewardIdx": 16,
+    "category": 14,
+    "type": 1072,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 20
+    "rate": 100
   },
   {
     "index": 5194,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 5,
-    "rewardType": 2,
-    "rewardIdx": 30,
+    "category": 14,
+    "type": 1073,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 20
+    "rate": 100
   },
   {
     "index": 5195,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 5,
-    "rewardType": 2,
-    "rewardIdx": 41,
+    "category": 14,
+    "type": 1074,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 20
+    "rate": 100
   },
   {
     "index": 5196,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 5,
-    "rewardType": 2,
-    "rewardIdx": 32,
+    "category": 14,
+    "type": 1075,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 20
+    "rate": 100
   },
   {
     "index": 5197,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 5,
-    "rewardType": 2,
-    "rewardIdx": 18,
+    "category": 14,
+    "type": 1076,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 20
+    "rate": 100
   },
   {
     "index": 5198,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 5,
-    "rewardType": 2,
-    "rewardIdx": 11,
+    "category": 14,
+    "type": 1077,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 20
+    "rate": 100
   },
   {
     "index": 5199,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 5,
-    "rewardType": 2,
-    "rewardIdx": 13,
+    "category": 14,
+    "type": 1078,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 20
+    "rate": 100
   },
   {
     "index": 5200,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 5,
-    "rewardType": 2,
-    "rewardIdx": 37,
+    "category": 14,
+    "type": 1079,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 20
+    "rate": 100
   },
   {
     "index": 5201,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 5,
-    "rewardType": 2,
-    "rewardIdx": 40,
+    "category": 14,
+    "type": 1080,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 20
+    "rate": 100
   },
   {
     "index": 5202,
-    "category": 15,
-    "type": 1,
-    "typeIndex": 5,
-    "rewardType": 2,
-    "rewardIdx": 35,
+    "category": 14,
+    "type": 1081,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
     "minCount": 1,
     "maxCount": 1,
     "rate": 100
   },
   {
     "index": 5203,
+    "category": 14,
+    "type": 1082,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5204,
+    "category": 14,
+    "type": 1083,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5205,
+    "category": 14,
+    "type": 1084,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5206,
+    "category": 14,
+    "type": 1085,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5207,
+    "category": 14,
+    "type": 1086,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5208,
+    "category": 14,
+    "type": 1087,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5209,
+    "category": 14,
+    "type": 1088,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5210,
+    "category": 14,
+    "type": 1089,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5211,
+    "category": 14,
+    "type": 1090,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5212,
+    "category": 14,
+    "type": 1091,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5213,
+    "category": 14,
+    "type": 1092,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5214,
+    "category": 14,
+    "type": 1093,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5215,
+    "category": 14,
+    "type": 1094,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5216,
+    "category": 14,
+    "type": 1095,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5217,
+    "category": 14,
+    "type": 1096,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5218,
+    "category": 14,
+    "type": 1097,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5219,
+    "category": 14,
+    "type": 1098,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5220,
+    "category": 14,
+    "type": 1099,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5221,
+    "category": 14,
+    "type": 1100,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5222,
+    "category": 14,
+    "type": 1101,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5223,
+    "category": 14,
+    "type": 1102,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5224,
+    "category": 14,
+    "type": 1103,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5225,
+    "category": 14,
+    "type": 1104,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 202,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5226,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 1,
+    "rewardType": 2,
+    "rewardIdx": 1,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 40
+  },
+  {
+    "index": 5227,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 1,
+    "rewardType": 2,
+    "rewardIdx": 5,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 40
+  },
+  {
+    "index": 5228,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 1,
+    "rewardType": 2,
+    "rewardIdx": 17,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 40
+  },
+  {
+    "index": 5229,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 1,
+    "rewardType": 2,
+    "rewardIdx": 14,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 30
+  },
+  {
+    "index": 5230,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 1,
+    "rewardType": 2,
+    "rewardIdx": 19,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 30
+  },
+  {
+    "index": 5231,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 1,
+    "rewardType": 2,
+    "rewardIdx": 12,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 30
+  },
+  {
+    "index": 5232,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 1,
+    "rewardType": 2,
+    "rewardIdx": 7,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5233,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 1,
+    "rewardType": 2,
+    "rewardIdx": 10,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5234,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 1,
+    "rewardType": 2,
+    "rewardIdx": 27,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5235,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 1,
+    "rewardType": 2,
+    "rewardIdx": 999,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5236,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 2,
+    "rewardType": 2,
+    "rewardIdx": 1,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 35
+  },
+  {
+    "index": 5237,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 2,
+    "rewardType": 2,
+    "rewardIdx": 5,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 35
+  },
+  {
+    "index": 5238,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 2,
+    "rewardType": 2,
+    "rewardIdx": 17,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 35
+  },
+  {
+    "index": 5239,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 2,
+    "rewardType": 2,
+    "rewardIdx": 14,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 35
+  },
+  {
+    "index": 5240,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 2,
+    "rewardType": 2,
+    "rewardIdx": 19,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 30
+  },
+  {
+    "index": 5241,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 2,
+    "rewardType": 2,
+    "rewardIdx": 12,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 30
+  },
+  {
+    "index": 5242,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 2,
+    "rewardType": 2,
+    "rewardIdx": 7,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 30
+  },
+  {
+    "index": 5243,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 2,
+    "rewardType": 2,
+    "rewardIdx": 10,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 30
+  },
+  {
+    "index": 5244,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 2,
+    "rewardType": 2,
+    "rewardIdx": 27,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 30
+  },
+  {
+    "index": 5245,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 2,
+    "rewardType": 2,
+    "rewardIdx": 999,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5246,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 3,
+    "rewardType": 2,
+    "rewardIdx": 1,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 30
+  },
+  {
+    "index": 5247,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 3,
+    "rewardType": 2,
+    "rewardIdx": 5,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 30
+  },
+  {
+    "index": 5248,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 3,
+    "rewardType": 2,
+    "rewardIdx": 17,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 30
+  },
+  {
+    "index": 5249,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 3,
+    "rewardType": 2,
+    "rewardIdx": 14,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 30
+  },
+  {
+    "index": 5250,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 3,
+    "rewardType": 2,
+    "rewardIdx": 19,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 30
+  },
+  {
+    "index": 5251,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 3,
+    "rewardType": 2,
+    "rewardIdx": 12,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 30
+  },
+  {
+    "index": 5252,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 3,
+    "rewardType": 2,
+    "rewardIdx": 7,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 30
+  },
+  {
+    "index": 5253,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 3,
+    "rewardType": 2,
+    "rewardIdx": 10,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 30
+  },
+  {
+    "index": 5254,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 3,
+    "rewardType": 2,
+    "rewardIdx": 27,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5255,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 3,
+    "rewardType": 2,
+    "rewardIdx": 41,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5256,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 3,
+    "rewardType": 2,
+    "rewardIdx": 32,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5257,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 3,
+    "rewardType": 2,
+    "rewardIdx": 18,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5258,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 3,
+    "rewardType": 2,
+    "rewardIdx": 35,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5259,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 3,
+    "rewardType": 2,
+    "rewardIdx": 999,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5260,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 1,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 25
+  },
+  {
+    "index": 5261,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 5,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 25
+  },
+  {
+    "index": 5262,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 17,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 25
+  },
+  {
+    "index": 5263,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 14,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 25
+  },
+  {
+    "index": 5264,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 19,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 25
+  },
+  {
+    "index": 5265,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 12,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 25
+  },
+  {
+    "index": 5266,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 7,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 25
+  },
+  {
+    "index": 5267,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 10,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 25
+  },
+  {
+    "index": 5268,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 27,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 25
+  },
+  {
+    "index": 5269,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 16,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5270,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 30,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5271,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 41,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5272,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 32,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5273,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 18,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5274,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 11,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5275,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 13,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5276,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 37,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5277,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 40,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5278,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 35,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5279,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 999,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5280,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 1,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5281,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 5,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5282,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 17,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5283,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 14,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5284,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 19,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5285,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 12,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5286,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 7,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5287,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 10,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5288,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 27,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5289,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 16,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5290,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 30,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5291,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 50,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5292,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 41,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5293,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 32,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5294,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 18,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5295,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 11,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5296,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 13,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5297,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 37,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5298,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 40,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5299,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 35,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5300,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 6,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5301,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 28,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5302,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 999,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5303,
     "category": 15,
     "type": 1,
     "typeIndex": 6,
@@ -57244,7 +58344,7 @@
     "rate": 20
   },
   {
-    "index": 5204,
+    "index": 5304,
     "category": 15,
     "type": 1,
     "typeIndex": 6,
@@ -57255,7 +58355,7 @@
     "rate": 20
   },
   {
-    "index": 5205,
+    "index": 5305,
     "category": 15,
     "type": 1,
     "typeIndex": 6,
@@ -57266,7 +58366,7 @@
     "rate": 20
   },
   {
-    "index": 5206,
+    "index": 5306,
     "category": 15,
     "type": 1,
     "typeIndex": 6,
@@ -57277,7 +58377,7 @@
     "rate": 20
   },
   {
-    "index": 5207,
+    "index": 5307,
     "category": 15,
     "type": 1,
     "typeIndex": 6,
@@ -57288,7 +58388,7 @@
     "rate": 20
   },
   {
-    "index": 5208,
+    "index": 5308,
     "category": 15,
     "type": 1,
     "typeIndex": 6,
@@ -57299,7 +58399,7 @@
     "rate": 20
   },
   {
-    "index": 5209,
+    "index": 5309,
     "category": 15,
     "type": 1,
     "typeIndex": 6,
@@ -57310,7 +58410,7 @@
     "rate": 20
   },
   {
-    "index": 5210,
+    "index": 5310,
     "category": 15,
     "type": 1,
     "typeIndex": 6,
@@ -57321,7 +58421,7 @@
     "rate": 20
   },
   {
-    "index": 5211,
+    "index": 5311,
     "category": 15,
     "type": 1,
     "typeIndex": 6,
@@ -57332,7 +58432,7 @@
     "rate": 20
   },
   {
-    "index": 5212,
+    "index": 5312,
     "category": 15,
     "type": 1,
     "typeIndex": 6,
@@ -57343,7 +58443,7 @@
     "rate": 20
   },
   {
-    "index": 5213,
+    "index": 5313,
     "category": 15,
     "type": 1,
     "typeIndex": 6,
@@ -57354,7 +58454,18 @@
     "rate": 20
   },
   {
-    "index": 5214,
+    "index": 5314,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 6,
+    "rewardType": 2,
+    "rewardIdx": 50,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5315,
     "category": 15,
     "type": 1,
     "typeIndex": 6,
@@ -57365,7 +58476,7 @@
     "rate": 20
   },
   {
-    "index": 5215,
+    "index": 5316,
     "category": 15,
     "type": 1,
     "typeIndex": 6,
@@ -57376,7 +58487,7 @@
     "rate": 20
   },
   {
-    "index": 5216,
+    "index": 5317,
     "category": 15,
     "type": 1,
     "typeIndex": 6,
@@ -57387,7 +58498,7 @@
     "rate": 20
   },
   {
-    "index": 5217,
+    "index": 5318,
     "category": 15,
     "type": 1,
     "typeIndex": 6,
@@ -57398,7 +58509,7 @@
     "rate": 20
   },
   {
-    "index": 5218,
+    "index": 5319,
     "category": 15,
     "type": 1,
     "typeIndex": 6,
@@ -57409,7 +58520,7 @@
     "rate": 20
   },
   {
-    "index": 5219,
+    "index": 5320,
     "category": 15,
     "type": 1,
     "typeIndex": 6,
@@ -57420,7 +58531,7 @@
     "rate": 20
   },
   {
-    "index": 5220,
+    "index": 5321,
     "category": 15,
     "type": 1,
     "typeIndex": 6,
@@ -57431,7 +58542,7 @@
     "rate": 20
   },
   {
-    "index": 5221,
+    "index": 5322,
     "category": 15,
     "type": 1,
     "typeIndex": 6,
@@ -57439,10 +58550,76 @@
     "rewardIdx": 35,
     "minCount": 1,
     "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5323,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 6,
+    "rewardType": 2,
+    "rewardIdx": 6,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5324,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 6,
+    "rewardType": 2,
+    "rewardIdx": 28,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5325,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 6,
+    "rewardType": 2,
+    "rewardIdx": 52,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5326,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 6,
+    "rewardType": 2,
+    "rewardIdx": 54,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5327,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 6,
+    "rewardType": 2,
+    "rewardIdx": 55,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5328,
+    "category": 15,
+    "type": 1,
+    "typeIndex": 6,
+    "rewardType": 2,
+    "rewardIdx": 999,
+    "minCount": 1,
+    "maxCount": 1,
     "rate": 100
   },
   {
-    "index": 5222,
+    "index": 5329,
     "category": 15,
     "type": 2,
     "typeIndex": 1,
@@ -57453,7 +58630,7 @@
     "rate": 50
   },
   {
-    "index": 5223,
+    "index": 5330,
     "category": 15,
     "type": 2,
     "typeIndex": 1,
@@ -57464,7 +58641,7 @@
     "rate": 40
   },
   {
-    "index": 5224,
+    "index": 5331,
     "category": 15,
     "type": 2,
     "typeIndex": 1,
@@ -57472,10 +58649,10 @@
     "rewardIdx": 39,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 10
+    "rate": 30
   },
   {
-    "index": 5225,
+    "index": 5332,
     "category": 15,
     "type": 2,
     "typeIndex": 1,
@@ -57486,29 +58663,7 @@
     "rate": 100
   },
   {
-    "index": 5226,
-    "category": 15,
-    "type": 2,
-    "typeIndex": 1,
-    "rewardType": 2,
-    "rewardIdx": 34,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 5
-  },
-  {
-    "index": 5227,
-    "category": 15,
-    "type": 2,
-    "typeIndex": 1,
-    "rewardType": 2,
-    "rewardIdx": 36,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 5
-  },
-  {
-    "index": 5228,
+    "index": 5333,
     "category": 15,
     "type": 2,
     "typeIndex": 2,
@@ -57516,10 +58671,10 @@
     "rewardIdx": 2,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 45
+    "rate": 40
   },
   {
-    "index": 5229,
+    "index": 5334,
     "category": 15,
     "type": 2,
     "typeIndex": 2,
@@ -57527,10 +58682,10 @@
     "rewardIdx": 20,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 45
+    "rate": 40
   },
   {
-    "index": 5230,
+    "index": 5335,
     "category": 15,
     "type": 2,
     "typeIndex": 2,
@@ -57538,10 +58693,10 @@
     "rewardIdx": 39,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 10
+    "rate": 30
   },
   {
-    "index": 5231,
+    "index": 5336,
     "category": 15,
     "type": 2,
     "typeIndex": 2,
@@ -57549,10 +58704,10 @@
     "rewardIdx": 15,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 10
+    "rate": 30
   },
   {
-    "index": 5232,
+    "index": 5337,
     "category": 15,
     "type": 2,
     "typeIndex": 2,
@@ -57563,87 +58718,10 @@
     "rate": 100
   },
   {
-    "index": 5233,
-    "category": 15,
-    "type": 2,
-    "typeIndex": 2,
-    "rewardType": 2,
-    "rewardIdx": 36,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 5
-  },
-  {
-    "index": 5234,
+    "index": 5338,
     "category": 15,
     "type": 2,
     "typeIndex": 3,
-    "rewardType": 2,
-    "rewardIdx": 2,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 35
-  },
-  {
-    "index": 5235,
-    "category": 15,
-    "type": 2,
-    "typeIndex": 3,
-    "rewardType": 2,
-    "rewardIdx": 20,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 40
-  },
-  {
-    "index": 5236,
-    "category": 15,
-    "type": 2,
-    "typeIndex": 3,
-    "rewardType": 2,
-    "rewardIdx": 39,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 40
-  },
-  {
-    "index": 5237,
-    "category": 15,
-    "type": 2,
-    "typeIndex": 3,
-    "rewardType": 2,
-    "rewardIdx": 15,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 15
-  },
-  {
-    "index": 5238,
-    "category": 15,
-    "type": 2,
-    "typeIndex": 3,
-    "rewardType": 2,
-    "rewardIdx": 34,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 15
-  },
-  {
-    "index": 5239,
-    "category": 15,
-    "type": 2,
-    "typeIndex": 3,
-    "rewardType": 2,
-    "rewardIdx": 36,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 100
-  },
-  {
-    "index": 5240,
-    "category": 15,
-    "type": 2,
-    "typeIndex": 4,
     "rewardType": 2,
     "rewardIdx": 2,
     "minCount": 1,
@@ -57651,10 +58729,10 @@
     "rate": 30
   },
   {
-    "index": 5241,
+    "index": 5339,
     "category": 15,
     "type": 2,
-    "typeIndex": 4,
+    "typeIndex": 3,
     "rewardType": 2,
     "rewardIdx": 20,
     "minCount": 1,
@@ -57662,7 +58740,84 @@
     "rate": 30
   },
   {
-    "index": 5242,
+    "index": 5340,
+    "category": 15,
+    "type": 2,
+    "typeIndex": 3,
+    "rewardType": 2,
+    "rewardIdx": 39,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 30
+  },
+  {
+    "index": 5341,
+    "category": 15,
+    "type": 2,
+    "typeIndex": 3,
+    "rewardType": 2,
+    "rewardIdx": 15,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 30
+  },
+  {
+    "index": 5342,
+    "category": 15,
+    "type": 2,
+    "typeIndex": 3,
+    "rewardType": 2,
+    "rewardIdx": 34,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 30
+  },
+  {
+    "index": 5343,
+    "category": 15,
+    "type": 2,
+    "typeIndex": 3,
+    "rewardType": 2,
+    "rewardIdx": 36,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 30
+  },
+  {
+    "index": 5344,
+    "category": 15,
+    "type": 2,
+    "typeIndex": 3,
+    "rewardType": 2,
+    "rewardIdx": 8,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5345,
+    "category": 15,
+    "type": 2,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 2,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 25
+  },
+  {
+    "index": 5346,
+    "category": 15,
+    "type": 2,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 20,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 25
+  },
+  {
+    "index": 5347,
     "category": 15,
     "type": 2,
     "typeIndex": 4,
@@ -57673,7 +58828,7 @@
     "rate": 25
   },
   {
-    "index": 5243,
+    "index": 5348,
     "category": 15,
     "type": 2,
     "typeIndex": 4,
@@ -57684,7 +58839,7 @@
     "rate": 25
   },
   {
-    "index": 5244,
+    "index": 5349,
     "category": 15,
     "type": 2,
     "typeIndex": 4,
@@ -57695,7 +58850,7 @@
     "rate": 25
   },
   {
-    "index": 5245,
+    "index": 5350,
     "category": 15,
     "type": 2,
     "typeIndex": 4,
@@ -57703,10 +58858,10 @@
     "rewardIdx": 4,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 10
+    "rate": 25
   },
   {
-    "index": 5246,
+    "index": 5351,
     "category": 15,
     "type": 2,
     "typeIndex": 4,
@@ -57714,10 +58869,10 @@
     "rewardIdx": 31,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 10
+    "rate": 25
   },
   {
-    "index": 5247,
+    "index": 5352,
     "category": 15,
     "type": 2,
     "typeIndex": 4,
@@ -57725,10 +58880,21 @@
     "rewardIdx": 36,
     "minCount": 1,
     "maxCount": 1,
+    "rate": 25
+  },
+  {
+    "index": 5353,
+    "category": 15,
+    "type": 2,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 8,
+    "minCount": 1,
+    "maxCount": 1,
     "rate": 100
   },
   {
-    "index": 5248,
+    "index": 5354,
     "category": 15,
     "type": 2,
     "typeIndex": 5,
@@ -57739,7 +58905,7 @@
     "rate": 25
   },
   {
-    "index": 5249,
+    "index": 5355,
     "category": 15,
     "type": 2,
     "typeIndex": 5,
@@ -57750,7 +58916,18 @@
     "rate": 25
   },
   {
-    "index": 5250,
+    "index": 5356,
+    "category": 15,
+    "type": 2,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 47,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 25
+  },
+  {
+    "index": 5357,
     "category": 15,
     "type": 2,
     "typeIndex": 5,
@@ -57761,7 +58938,7 @@
     "rate": 20
   },
   {
-    "index": 5251,
+    "index": 5358,
     "category": 15,
     "type": 2,
     "typeIndex": 5,
@@ -57772,7 +58949,7 @@
     "rate": 20
   },
   {
-    "index": 5252,
+    "index": 5359,
     "category": 15,
     "type": 2,
     "typeIndex": 5,
@@ -57783,7 +58960,7 @@
     "rate": 20
   },
   {
-    "index": 5253,
+    "index": 5360,
     "category": 15,
     "type": 2,
     "typeIndex": 5,
@@ -57791,10 +58968,10 @@
     "rewardIdx": 4,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 10
+    "rate": 20
   },
   {
-    "index": 5254,
+    "index": 5361,
     "category": 15,
     "type": 2,
     "typeIndex": 5,
@@ -57802,10 +58979,10 @@
     "rewardIdx": 31,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 10
+    "rate": 20
   },
   {
-    "index": 5255,
+    "index": 5362,
     "category": 15,
     "type": 2,
     "typeIndex": 5,
@@ -57813,10 +58990,21 @@
     "rewardIdx": 36,
     "minCount": 1,
     "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5363,
+    "category": 15,
+    "type": 2,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 8,
+    "minCount": 1,
+    "maxCount": 1,
     "rate": 100
   },
   {
-    "index": 5256,
+    "index": 5364,
     "category": 15,
     "type": 2,
     "typeIndex": 6,
@@ -57824,10 +59012,10 @@
     "rewardIdx": 2,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 25
+    "rate": 20
   },
   {
-    "index": 5257,
+    "index": 5365,
     "category": 15,
     "type": 2,
     "typeIndex": 6,
@@ -57835,10 +59023,21 @@
     "rewardIdx": 20,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 25
+    "rate": 20
   },
   {
-    "index": 5258,
+    "index": 5366,
+    "category": 15,
+    "type": 2,
+    "typeIndex": 6,
+    "rewardType": 2,
+    "rewardIdx": 47,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5367,
     "category": 15,
     "type": 2,
     "typeIndex": 6,
@@ -57849,7 +59048,7 @@
     "rate": 20
   },
   {
-    "index": 5259,
+    "index": 5368,
     "category": 15,
     "type": 2,
     "typeIndex": 6,
@@ -57860,7 +59059,7 @@
     "rate": 20
   },
   {
-    "index": 5260,
+    "index": 5369,
     "category": 15,
     "type": 2,
     "typeIndex": 6,
@@ -57871,7 +59070,7 @@
     "rate": 20
   },
   {
-    "index": 5261,
+    "index": 5370,
     "category": 15,
     "type": 2,
     "typeIndex": 6,
@@ -57879,10 +59078,10 @@
     "rewardIdx": 4,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 10
+    "rate": 20
   },
   {
-    "index": 5262,
+    "index": 5371,
     "category": 15,
     "type": 2,
     "typeIndex": 6,
@@ -57890,10 +59089,10 @@
     "rewardIdx": 31,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 10
+    "rate": 20
   },
   {
-    "index": 5263,
+    "index": 5372,
     "category": 15,
     "type": 2,
     "typeIndex": 6,
@@ -57901,10 +59100,32 @@
     "rewardIdx": 36,
     "minCount": 1,
     "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5373,
+    "category": 15,
+    "type": 2,
+    "typeIndex": 6,
+    "rewardType": 2,
+    "rewardIdx": 53,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5374,
+    "category": 15,
+    "type": 2,
+    "typeIndex": 6,
+    "rewardType": 2,
+    "rewardIdx": 8,
+    "minCount": 1,
+    "maxCount": 1,
     "rate": 100
   },
   {
-    "index": 5264,
+    "index": 5375,
     "category": 15,
     "type": 3,
     "typeIndex": 1,
@@ -57912,21 +59133,10 @@
     "rewardIdx": 26,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 100
+    "rate": 80
   },
   {
-    "index": 5265,
-    "category": 15,
-    "type": 3,
-    "typeIndex": 1,
-    "rewardType": 2,
-    "rewardIdx": 38,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 5
-  },
-  {
-    "index": 5266,
+    "index": 5376,
     "category": 15,
     "type": 3,
     "typeIndex": 1,
@@ -57934,10 +59144,21 @@
     "rewardIdx": 33,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 5
+    "rate": 20
   },
   {
-    "index": 5267,
+    "index": 5377,
+    "category": 15,
+    "type": 3,
+    "typeIndex": 1,
+    "rewardType": 2,
+    "rewardIdx": 38,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5378,
     "category": 15,
     "type": 3,
     "typeIndex": 2,
@@ -57945,21 +59166,10 @@
     "rewardIdx": 26,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 100
+    "rate": 80
   },
   {
-    "index": 5268,
-    "category": 15,
-    "type": 3,
-    "typeIndex": 2,
-    "rewardType": 2,
-    "rewardIdx": 38,
-    "minCount": 1,
-    "maxCount": 1,
-    "rate": 5
-  },
-  {
-    "index": 5269,
+    "index": 5379,
     "category": 15,
     "type": 3,
     "typeIndex": 2,
@@ -57967,10 +59177,21 @@
     "rewardIdx": 33,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 5
+    "rate": 30
   },
   {
-    "index": 5270,
+    "index": 5380,
+    "category": 15,
+    "type": 3,
+    "typeIndex": 2,
+    "rewardType": 2,
+    "rewardIdx": 38,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 100
+  },
+  {
+    "index": 5381,
     "category": 15,
     "type": 3,
     "typeIndex": 3,
@@ -57981,7 +59202,18 @@
     "rate": 80
   },
   {
-    "index": 5271,
+    "index": 5382,
+    "category": 15,
+    "type": 3,
+    "typeIndex": 3,
+    "rewardType": 2,
+    "rewardIdx": 33,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5383,
     "category": 15,
     "type": 3,
     "typeIndex": 3,
@@ -57992,18 +59224,18 @@
     "rate": 50
   },
   {
-    "index": 5272,
+    "index": 5384,
     "category": 15,
     "type": 3,
     "typeIndex": 3,
     "rewardType": 2,
-    "rewardIdx": 33,
+    "rewardIdx": 45,
     "minCount": 1,
     "maxCount": 1,
     "rate": 100
   },
   {
-    "index": 5273,
+    "index": 5385,
     "category": 15,
     "type": 3,
     "typeIndex": 4,
@@ -58014,7 +59246,18 @@
     "rate": 60
   },
   {
-    "index": 5274,
+    "index": 5386,
+    "category": 15,
+    "type": 3,
+    "typeIndex": 4,
+    "rewardType": 2,
+    "rewardIdx": 33,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5387,
     "category": 15,
     "type": 3,
     "typeIndex": 4,
@@ -58025,18 +59268,18 @@
     "rate": 40
   },
   {
-    "index": 5275,
+    "index": 5388,
     "category": 15,
     "type": 3,
     "typeIndex": 4,
     "rewardType": 2,
-    "rewardIdx": 33,
+    "rewardIdx": 45,
     "minCount": 1,
     "maxCount": 1,
     "rate": 100
   },
   {
-    "index": 5276,
+    "index": 5389,
     "category": 15,
     "type": 3,
     "typeIndex": 5,
@@ -58044,10 +59287,21 @@
     "rewardIdx": 26,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 40
+    "rate": 50
   },
   {
-    "index": 5277,
+    "index": 5390,
+    "category": 15,
+    "type": 3,
+    "typeIndex": 5,
+    "rewardType": 2,
+    "rewardIdx": 33,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5391,
     "category": 15,
     "type": 3,
     "typeIndex": 5,
@@ -58058,18 +59312,18 @@
     "rate": 40
   },
   {
-    "index": 5278,
+    "index": 5392,
     "category": 15,
     "type": 3,
     "typeIndex": 5,
     "rewardType": 2,
-    "rewardIdx": 33,
+    "rewardIdx": 45,
     "minCount": 1,
     "maxCount": 1,
     "rate": 100
   },
   {
-    "index": 5279,
+    "index": 5393,
     "category": 15,
     "type": 3,
     "typeIndex": 6,
@@ -58077,10 +59331,21 @@
     "rewardIdx": 26,
     "minCount": 1,
     "maxCount": 1,
-    "rate": 40
+    "rate": 50
   },
   {
-    "index": 5280,
+    "index": 5394,
+    "category": 15,
+    "type": 3,
+    "typeIndex": 6,
+    "rewardType": 2,
+    "rewardIdx": 33,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 20
+  },
+  {
+    "index": 5395,
     "category": 15,
     "type": 3,
     "typeIndex": 6,
@@ -58091,18 +59356,29 @@
     "rate": 40
   },
   {
-    "index": 5281,
+    "index": 5396,
     "category": 15,
     "type": 3,
     "typeIndex": 6,
     "rewardType": 2,
-    "rewardIdx": 33,
+    "rewardIdx": 45,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 40
+  },
+  {
+    "index": 5397,
+    "category": 15,
+    "type": 3,
+    "typeIndex": 6,
+    "rewardType": 2,
+    "rewardIdx": 56,
     "minCount": 1,
     "maxCount": 1,
     "rate": 100
   },
   {
-    "index": 5282,
+    "index": 5398,
     "category": 16,
     "type": 1,
     "typeIndex": 1,
@@ -58113,7 +59389,7 @@
     "rate": 100
   },
   {
-    "index": 5283,
+    "index": 5399,
     "category": 16,
     "type": 1,
     "typeIndex": 2,
@@ -58124,7 +59400,7 @@
     "rate": 100
   },
   {
-    "index": 5284,
+    "index": 5400,
     "category": 16,
     "type": 1,
     "typeIndex": 3,
@@ -58135,7 +59411,7 @@
     "rate": 100
   },
   {
-    "index": 5285,
+    "index": 5401,
     "category": 16,
     "type": 1,
     "typeIndex": 4,
@@ -58146,7 +59422,7 @@
     "rate": 100
   },
   {
-    "index": 5286,
+    "index": 5402,
     "category": 16,
     "type": 1,
     "typeIndex": 5,
@@ -58157,7 +59433,7 @@
     "rate": 100
   },
   {
-    "index": 5287,
+    "index": 5403,
     "category": 16,
     "type": 1,
     "typeIndex": 6,
@@ -58168,7 +59444,7 @@
     "rate": 100
   },
   {
-    "index": 5288,
+    "index": 5404,
     "category": 16,
     "type": 1,
     "typeIndex": 7,
@@ -58179,7 +59455,7 @@
     "rate": 100
   },
   {
-    "index": 5289,
+    "index": 5405,
     "category": 16,
     "type": 1,
     "typeIndex": 8,
@@ -58190,7 +59466,7 @@
     "rate": 100
   },
   {
-    "index": 5290,
+    "index": 5406,
     "category": 16,
     "type": 1,
     "typeIndex": 9,
@@ -58201,7 +59477,7 @@
     "rate": 100
   },
   {
-    "index": 5291,
+    "index": 5407,
     "category": 16,
     "type": 1,
     "typeIndex": 10,
@@ -58212,7 +59488,7 @@
     "rate": 100
   },
   {
-    "index": 5292,
+    "index": 5408,
     "category": 16,
     "type": 1,
     "typeIndex": 11,
@@ -58223,7 +59499,7 @@
     "rate": 100
   },
   {
-    "index": 5293,
+    "index": 5409,
     "category": 16,
     "type": 1,
     "typeIndex": 12,
@@ -58234,7 +59510,7 @@
     "rate": 100
   },
   {
-    "index": 5294,
+    "index": 5410,
     "category": 16,
     "type": 1,
     "typeIndex": 13,
@@ -58245,7 +59521,7 @@
     "rate": 100
   },
   {
-    "index": 5295,
+    "index": 5411,
     "category": 16,
     "type": 1,
     "typeIndex": 14,
@@ -58256,7 +59532,7 @@
     "rate": 100
   },
   {
-    "index": 5296,
+    "index": 5412,
     "category": 16,
     "type": 1,
     "typeIndex": 15,
@@ -58267,7 +59543,7 @@
     "rate": 100
   },
   {
-    "index": 5297,
+    "index": 5413,
     "category": 16,
     "type": 1,
     "typeIndex": 16,
@@ -58278,7 +59554,7 @@
     "rate": 100
   },
   {
-    "index": 5298,
+    "index": 5414,
     "category": 16,
     "type": 1,
     "typeIndex": 17,
@@ -58289,7 +59565,7 @@
     "rate": 100
   },
   {
-    "index": 5299,
+    "index": 5415,
     "category": 16,
     "type": 1,
     "typeIndex": 18,
@@ -58300,7 +59576,7 @@
     "rate": 100
   },
   {
-    "index": 5300,
+    "index": 5416,
     "category": 16,
     "type": 1,
     "typeIndex": 19,
@@ -58311,7 +59587,7 @@
     "rate": 100
   },
   {
-    "index": 5301,
+    "index": 5417,
     "category": 16,
     "type": 1,
     "typeIndex": 20,
@@ -58322,7 +59598,7 @@
     "rate": 100
   },
   {
-    "index": 5302,
+    "index": 5418,
     "category": 16,
     "type": 1,
     "typeIndex": 21,
@@ -58333,7 +59609,7 @@
     "rate": 100
   },
   {
-    "index": 5303,
+    "index": 5419,
     "category": 16,
     "type": 1,
     "typeIndex": 22,
@@ -58344,7 +59620,7 @@
     "rate": 100
   },
   {
-    "index": 5304,
+    "index": 5420,
     "category": 16,
     "type": 1,
     "typeIndex": 23,
@@ -58355,7 +59631,7 @@
     "rate": 100
   },
   {
-    "index": 5305,
+    "index": 5421,
     "category": 16,
     "type": 1,
     "typeIndex": 24,
@@ -58366,7 +59642,7 @@
     "rate": 100
   },
   {
-    "index": 5306,
+    "index": 5422,
     "category": 16,
     "type": 1,
     "typeIndex": 25,
@@ -58377,7 +59653,7 @@
     "rate": 100
   },
   {
-    "index": 5307,
+    "index": 5423,
     "category": 16,
     "type": 1,
     "typeIndex": 26,
@@ -58388,7 +59664,7 @@
     "rate": 100
   },
   {
-    "index": 5308,
+    "index": 5424,
     "category": 16,
     "type": 1,
     "typeIndex": 27,
@@ -58399,7 +59675,7 @@
     "rate": 100
   },
   {
-    "index": 5309,
+    "index": 5425,
     "category": 16,
     "type": 1,
     "typeIndex": 28,
@@ -58410,7 +59686,7 @@
     "rate": 100
   },
   {
-    "index": 5310,
+    "index": 5426,
     "category": 16,
     "type": 1,
     "typeIndex": 29,
@@ -58421,7 +59697,7 @@
     "rate": 100
   },
   {
-    "index": 5311,
+    "index": 5427,
     "category": 16,
     "type": 1,
     "typeIndex": 30,
@@ -58432,7 +59708,7 @@
     "rate": 100
   },
   {
-    "index": 5312,
+    "index": 5428,
     "category": 16,
     "type": 1,
     "typeIndex": 31,
@@ -58443,7 +59719,7 @@
     "rate": 100
   },
   {
-    "index": 5313,
+    "index": 5429,
     "category": 16,
     "type": 1,
     "typeIndex": 32,
@@ -58454,7 +59730,7 @@
     "rate": 100
   },
   {
-    "index": 5314,
+    "index": 5430,
     "category": 16,
     "type": 1,
     "typeIndex": 33,
@@ -58465,7 +59741,7 @@
     "rate": 100
   },
   {
-    "index": 5315,
+    "index": 5431,
     "category": 16,
     "type": 1,
     "typeIndex": 34,
@@ -58476,7 +59752,7 @@
     "rate": 100
   },
   {
-    "index": 5316,
+    "index": 5432,
     "category": 16,
     "type": 1,
     "typeIndex": 35,
@@ -58487,7 +59763,7 @@
     "rate": 100
   },
   {
-    "index": 5317,
+    "index": 5433,
     "category": 16,
     "type": 1,
     "typeIndex": 36,
@@ -58498,7 +59774,7 @@
     "rate": 100
   },
   {
-    "index": 5318,
+    "index": 5434,
     "category": 16,
     "type": 1,
     "typeIndex": 37,
@@ -58509,7 +59785,7 @@
     "rate": 100
   },
   {
-    "index": 5319,
+    "index": 5435,
     "category": 16,
     "type": 1,
     "typeIndex": 38,
@@ -58520,7 +59796,7 @@
     "rate": 100
   },
   {
-    "index": 5320,
+    "index": 5436,
     "category": 16,
     "type": 1,
     "typeIndex": 39,
@@ -58531,7 +59807,7 @@
     "rate": 100
   },
   {
-    "index": 5321,
+    "index": 5437,
     "category": 16,
     "type": 1,
     "typeIndex": 40,
@@ -58542,7 +59818,7 @@
     "rate": 100
   },
   {
-    "index": 5322,
+    "index": 5438,
     "category": 16,
     "type": 1,
     "typeIndex": 41,
@@ -58553,7 +59829,7 @@
     "rate": 100
   },
   {
-    "index": 5323,
+    "index": 5439,
     "category": 16,
     "type": 1,
     "typeIndex": 42,
@@ -58564,7 +59840,7 @@
     "rate": 100
   },
   {
-    "index": 5324,
+    "index": 5440,
     "category": 16,
     "type": 1,
     "typeIndex": 43,
@@ -58575,7 +59851,7 @@
     "rate": 100
   },
   {
-    "index": 5325,
+    "index": 5441,
     "category": 16,
     "type": 1,
     "typeIndex": 44,
@@ -58586,7 +59862,7 @@
     "rate": 100
   },
   {
-    "index": 5326,
+    "index": 5442,
     "category": 16,
     "type": 1,
     "typeIndex": 45,
@@ -58597,7 +59873,7 @@
     "rate": 100
   },
   {
-    "index": 5327,
+    "index": 5443,
     "category": 16,
     "type": 1,
     "typeIndex": 46,
@@ -58608,7 +59884,7 @@
     "rate": 100
   },
   {
-    "index": 5328,
+    "index": 5444,
     "category": 16,
     "type": 1,
     "typeIndex": 47,
@@ -58619,7 +59895,7 @@
     "rate": 100
   },
   {
-    "index": 5329,
+    "index": 5445,
     "category": 16,
     "type": 1,
     "typeIndex": 48,
@@ -58630,7 +59906,7 @@
     "rate": 100
   },
   {
-    "index": 5330,
+    "index": 5446,
     "category": 16,
     "type": 1,
     "typeIndex": 49,
@@ -58641,7 +59917,7 @@
     "rate": 100
   },
   {
-    "index": 5331,
+    "index": 5447,
     "category": 16,
     "type": 1,
     "typeIndex": 50,
@@ -58652,7 +59928,7 @@
     "rate": 100
   },
   {
-    "index": 5332,
+    "index": 5448,
     "category": 16,
     "type": 1,
     "typeIndex": 51,
@@ -58663,7 +59939,7 @@
     "rate": 100
   },
   {
-    "index": 5333,
+    "index": 5449,
     "category": 16,
     "type": 1,
     "typeIndex": 52,
@@ -58674,7 +59950,7 @@
     "rate": 100
   },
   {
-    "index": 5334,
+    "index": 5450,
     "category": 16,
     "type": 1,
     "typeIndex": 53,
@@ -58685,7 +59961,7 @@
     "rate": 100
   },
   {
-    "index": 5335,
+    "index": 5451,
     "category": 16,
     "type": 1,
     "typeIndex": 54,
@@ -58696,7 +59972,7 @@
     "rate": 100
   },
   {
-    "index": 5336,
+    "index": 5452,
     "category": 16,
     "type": 1,
     "typeIndex": 55,
@@ -58707,7 +59983,7 @@
     "rate": 100
   },
   {
-    "index": 5337,
+    "index": 5453,
     "category": 16,
     "type": 1,
     "typeIndex": 56,
@@ -58718,7 +59994,7 @@
     "rate": 100
   },
   {
-    "index": 5338,
+    "index": 5454,
     "category": 16,
     "type": 1,
     "typeIndex": 57,
@@ -58729,7 +60005,7 @@
     "rate": 100
   },
   {
-    "index": 5339,
+    "index": 5455,
     "category": 16,
     "type": 1,
     "typeIndex": 58,
@@ -58740,7 +60016,7 @@
     "rate": 100
   },
   {
-    "index": 5340,
+    "index": 5456,
     "category": 16,
     "type": 1,
     "typeIndex": 59,
@@ -58751,7 +60027,7 @@
     "rate": 100
   },
   {
-    "index": 5341,
+    "index": 5457,
     "category": 16,
     "type": 1,
     "typeIndex": 60,
@@ -58762,7 +60038,7 @@
     "rate": 100
   },
   {
-    "index": 5342,
+    "index": 5458,
     "category": 16,
     "type": 2,
     "typeIndex": 1,
@@ -58773,7 +60049,7 @@
     "rate": 100
   },
   {
-    "index": 5343,
+    "index": 5459,
     "category": 16,
     "type": 2,
     "typeIndex": 2,
@@ -58784,7 +60060,7 @@
     "rate": 100
   },
   {
-    "index": 5344,
+    "index": 5460,
     "category": 16,
     "type": 2,
     "typeIndex": 3,
@@ -58795,7 +60071,7 @@
     "rate": 100
   },
   {
-    "index": 5345,
+    "index": 5461,
     "category": 16,
     "type": 2,
     "typeIndex": 4,
@@ -58806,7 +60082,7 @@
     "rate": 100
   },
   {
-    "index": 5346,
+    "index": 5462,
     "category": 16,
     "type": 2,
     "typeIndex": 5,
@@ -58817,7 +60093,7 @@
     "rate": 100
   },
   {
-    "index": 5347,
+    "index": 5463,
     "category": 16,
     "type": 2,
     "typeIndex": 6,
@@ -58828,7 +60104,7 @@
     "rate": 100
   },
   {
-    "index": 5348,
+    "index": 5464,
     "category": 16,
     "type": 2,
     "typeIndex": 7,
@@ -58839,7 +60115,7 @@
     "rate": 100
   },
   {
-    "index": 5349,
+    "index": 5465,
     "category": 16,
     "type": 2,
     "typeIndex": 8,
@@ -58850,7 +60126,7 @@
     "rate": 100
   },
   {
-    "index": 5350,
+    "index": 5466,
     "category": 16,
     "type": 2,
     "typeIndex": 9,
@@ -58861,7 +60137,7 @@
     "rate": 100
   },
   {
-    "index": 5351,
+    "index": 5467,
     "category": 16,
     "type": 2,
     "typeIndex": 10,
@@ -58872,7 +60148,7 @@
     "rate": 100
   },
   {
-    "index": 5352,
+    "index": 5468,
     "category": 16,
     "type": 2,
     "typeIndex": 11,
@@ -58883,7 +60159,7 @@
     "rate": 100
   },
   {
-    "index": 5353,
+    "index": 5469,
     "category": 16,
     "type": 2,
     "typeIndex": 12,
@@ -58894,7 +60170,7 @@
     "rate": 100
   },
   {
-    "index": 5354,
+    "index": 5470,
     "category": 16,
     "type": 2,
     "typeIndex": 13,
@@ -58905,7 +60181,7 @@
     "rate": 100
   },
   {
-    "index": 5355,
+    "index": 5471,
     "category": 16,
     "type": 2,
     "typeIndex": 14,
@@ -58916,7 +60192,7 @@
     "rate": 100
   },
   {
-    "index": 5356,
+    "index": 5472,
     "category": 16,
     "type": 2,
     "typeIndex": 15,
@@ -58927,7 +60203,7 @@
     "rate": 100
   },
   {
-    "index": 5357,
+    "index": 5473,
     "category": 16,
     "type": 2,
     "typeIndex": 16,
@@ -58938,7 +60214,7 @@
     "rate": 100
   },
   {
-    "index": 5358,
+    "index": 5474,
     "category": 16,
     "type": 2,
     "typeIndex": 17,
@@ -58949,7 +60225,7 @@
     "rate": 100
   },
   {
-    "index": 5359,
+    "index": 5475,
     "category": 16,
     "type": 2,
     "typeIndex": 18,
@@ -58960,7 +60236,7 @@
     "rate": 100
   },
   {
-    "index": 5360,
+    "index": 5476,
     "category": 16,
     "type": 2,
     "typeIndex": 19,
@@ -58971,7 +60247,7 @@
     "rate": 100
   },
   {
-    "index": 5361,
+    "index": 5477,
     "category": 16,
     "type": 2,
     "typeIndex": 20,
@@ -58982,7 +60258,7 @@
     "rate": 100
   },
   {
-    "index": 5362,
+    "index": 5478,
     "category": 16,
     "type": 2,
     "typeIndex": 21,
@@ -58993,7 +60269,7 @@
     "rate": 100
   },
   {
-    "index": 5363,
+    "index": 5479,
     "category": 16,
     "type": 2,
     "typeIndex": 22,
@@ -59004,7 +60280,7 @@
     "rate": 100
   },
   {
-    "index": 5364,
+    "index": 5480,
     "category": 16,
     "type": 2,
     "typeIndex": 23,
@@ -59015,7 +60291,7 @@
     "rate": 100
   },
   {
-    "index": 5365,
+    "index": 5481,
     "category": 16,
     "type": 2,
     "typeIndex": 24,
@@ -59026,7 +60302,7 @@
     "rate": 100
   },
   {
-    "index": 5366,
+    "index": 5482,
     "category": 16,
     "type": 2,
     "typeIndex": 25,
@@ -59037,7 +60313,7 @@
     "rate": 100
   },
   {
-    "index": 5367,
+    "index": 5483,
     "category": 16,
     "type": 2,
     "typeIndex": 26,
@@ -59048,7 +60324,7 @@
     "rate": 100
   },
   {
-    "index": 5368,
+    "index": 5484,
     "category": 16,
     "type": 2,
     "typeIndex": 27,
@@ -59059,7 +60335,7 @@
     "rate": 100
   },
   {
-    "index": 5369,
+    "index": 5485,
     "category": 16,
     "type": 2,
     "typeIndex": 28,
@@ -59070,7 +60346,7 @@
     "rate": 100
   },
   {
-    "index": 5370,
+    "index": 5486,
     "category": 16,
     "type": 2,
     "typeIndex": 29,
@@ -59081,7 +60357,7 @@
     "rate": 100
   },
   {
-    "index": 5371,
+    "index": 5487,
     "category": 16,
     "type": 2,
     "typeIndex": 30,
@@ -59092,7 +60368,7 @@
     "rate": 100
   },
   {
-    "index": 5372,
+    "index": 5488,
     "category": 16,
     "type": 2,
     "typeIndex": 31,
@@ -59103,7 +60379,7 @@
     "rate": 100
   },
   {
-    "index": 5373,
+    "index": 5489,
     "category": 16,
     "type": 2,
     "typeIndex": 32,
@@ -59114,7 +60390,7 @@
     "rate": 100
   },
   {
-    "index": 5374,
+    "index": 5490,
     "category": 16,
     "type": 2,
     "typeIndex": 33,
@@ -59125,7 +60401,7 @@
     "rate": 100
   },
   {
-    "index": 5375,
+    "index": 5491,
     "category": 16,
     "type": 2,
     "typeIndex": 34,
@@ -59136,7 +60412,7 @@
     "rate": 100
   },
   {
-    "index": 5376,
+    "index": 5492,
     "category": 16,
     "type": 2,
     "typeIndex": 35,
@@ -59147,7 +60423,7 @@
     "rate": 100
   },
   {
-    "index": 5377,
+    "index": 5493,
     "category": 16,
     "type": 2,
     "typeIndex": 36,
@@ -59158,7 +60434,7 @@
     "rate": 100
   },
   {
-    "index": 5378,
+    "index": 5494,
     "category": 16,
     "type": 2,
     "typeIndex": 37,
@@ -59169,7 +60445,7 @@
     "rate": 100
   },
   {
-    "index": 5379,
+    "index": 5495,
     "category": 16,
     "type": 2,
     "typeIndex": 38,
@@ -59180,7 +60456,7 @@
     "rate": 100
   },
   {
-    "index": 5380,
+    "index": 5496,
     "category": 16,
     "type": 2,
     "typeIndex": 39,
@@ -59191,7 +60467,7 @@
     "rate": 100
   },
   {
-    "index": 5381,
+    "index": 5497,
     "category": 16,
     "type": 2,
     "typeIndex": 40,
@@ -59202,7 +60478,7 @@
     "rate": 100
   },
   {
-    "index": 5382,
+    "index": 5498,
     "category": 16,
     "type": 2,
     "typeIndex": 41,
@@ -59213,7 +60489,7 @@
     "rate": 100
   },
   {
-    "index": 5383,
+    "index": 5499,
     "category": 16,
     "type": 2,
     "typeIndex": 42,
@@ -59224,7 +60500,7 @@
     "rate": 100
   },
   {
-    "index": 5384,
+    "index": 5500,
     "category": 16,
     "type": 2,
     "typeIndex": 43,
@@ -59235,7 +60511,7 @@
     "rate": 100
   },
   {
-    "index": 5385,
+    "index": 5501,
     "category": 16,
     "type": 2,
     "typeIndex": 44,
@@ -59246,7 +60522,7 @@
     "rate": 100
   },
   {
-    "index": 5386,
+    "index": 5502,
     "category": 16,
     "type": 2,
     "typeIndex": 45,
@@ -59257,7 +60533,7 @@
     "rate": 100
   },
   {
-    "index": 5387,
+    "index": 5503,
     "category": 16,
     "type": 2,
     "typeIndex": 46,
@@ -59268,7 +60544,7 @@
     "rate": 100
   },
   {
-    "index": 5388,
+    "index": 5504,
     "category": 16,
     "type": 2,
     "typeIndex": 47,
@@ -59279,7 +60555,7 @@
     "rate": 100
   },
   {
-    "index": 5389,
+    "index": 5505,
     "category": 16,
     "type": 2,
     "typeIndex": 48,
@@ -59290,7 +60566,7 @@
     "rate": 100
   },
   {
-    "index": 5390,
+    "index": 5506,
     "category": 16,
     "type": 2,
     "typeIndex": 49,
@@ -59301,7 +60577,7 @@
     "rate": 100
   },
   {
-    "index": 5391,
+    "index": 5507,
     "category": 16,
     "type": 2,
     "typeIndex": 50,
@@ -59312,7 +60588,7 @@
     "rate": 100
   },
   {
-    "index": 5392,
+    "index": 5508,
     "category": 16,
     "type": 2,
     "typeIndex": 51,
@@ -59323,7 +60599,7 @@
     "rate": 100
   },
   {
-    "index": 5393,
+    "index": 5509,
     "category": 16,
     "type": 2,
     "typeIndex": 52,
@@ -59334,7 +60610,7 @@
     "rate": 100
   },
   {
-    "index": 5394,
+    "index": 5510,
     "category": 16,
     "type": 2,
     "typeIndex": 53,
@@ -59345,7 +60621,7 @@
     "rate": 100
   },
   {
-    "index": 5395,
+    "index": 5511,
     "category": 16,
     "type": 2,
     "typeIndex": 54,
@@ -59356,7 +60632,7 @@
     "rate": 100
   },
   {
-    "index": 5396,
+    "index": 5512,
     "category": 16,
     "type": 2,
     "typeIndex": 55,
@@ -59367,7 +60643,7 @@
     "rate": 100
   },
   {
-    "index": 5397,
+    "index": 5513,
     "category": 16,
     "type": 2,
     "typeIndex": 56,
@@ -59378,7 +60654,7 @@
     "rate": 100
   },
   {
-    "index": 5398,
+    "index": 5514,
     "category": 16,
     "type": 2,
     "typeIndex": 57,
@@ -59389,7 +60665,7 @@
     "rate": 100
   },
   {
-    "index": 5399,
+    "index": 5515,
     "category": 16,
     "type": 2,
     "typeIndex": 58,
@@ -59400,7 +60676,7 @@
     "rate": 100
   },
   {
-    "index": 5400,
+    "index": 5516,
     "category": 16,
     "type": 2,
     "typeIndex": 59,
@@ -59411,7 +60687,7 @@
     "rate": 100
   },
   {
-    "index": 5401,
+    "index": 5517,
     "category": 16,
     "type": 2,
     "typeIndex": 60,
@@ -59422,7 +60698,7 @@
     "rate": 100
   },
   {
-    "index": 5402,
+    "index": 5518,
     "category": 16,
     "type": 2,
     "typeIndex": 1,
@@ -59433,7 +60709,7 @@
     "rate": 100
   },
   {
-    "index": 5403,
+    "index": 5519,
     "category": 16,
     "type": 2,
     "typeIndex": 2,
@@ -59444,7 +60720,7 @@
     "rate": 100
   },
   {
-    "index": 5404,
+    "index": 5520,
     "category": 16,
     "type": 2,
     "typeIndex": 3,
@@ -59455,7 +60731,7 @@
     "rate": 100
   },
   {
-    "index": 5405,
+    "index": 5521,
     "category": 16,
     "type": 2,
     "typeIndex": 4,
@@ -59466,7 +60742,7 @@
     "rate": 100
   },
   {
-    "index": 5406,
+    "index": 5522,
     "category": 16,
     "type": 2,
     "typeIndex": 5,
@@ -59477,7 +60753,7 @@
     "rate": 100
   },
   {
-    "index": 5407,
+    "index": 5523,
     "category": 16,
     "type": 2,
     "typeIndex": 6,
@@ -59488,7 +60764,7 @@
     "rate": 100
   },
   {
-    "index": 5408,
+    "index": 5524,
     "category": 16,
     "type": 2,
     "typeIndex": 7,
@@ -59499,7 +60775,7 @@
     "rate": 100
   },
   {
-    "index": 5409,
+    "index": 5525,
     "category": 16,
     "type": 2,
     "typeIndex": 8,
@@ -59510,7 +60786,7 @@
     "rate": 100
   },
   {
-    "index": 5410,
+    "index": 5526,
     "category": 16,
     "type": 2,
     "typeIndex": 9,
@@ -59521,7 +60797,7 @@
     "rate": 100
   },
   {
-    "index": 5411,
+    "index": 5527,
     "category": 16,
     "type": 2,
     "typeIndex": 10,
@@ -59532,7 +60808,7 @@
     "rate": 100
   },
   {
-    "index": 5412,
+    "index": 5528,
     "category": 16,
     "type": 2,
     "typeIndex": 11,
@@ -59543,7 +60819,7 @@
     "rate": 100
   },
   {
-    "index": 5413,
+    "index": 5529,
     "category": 16,
     "type": 2,
     "typeIndex": 12,
@@ -59554,7 +60830,7 @@
     "rate": 100
   },
   {
-    "index": 5414,
+    "index": 5530,
     "category": 16,
     "type": 2,
     "typeIndex": 13,
@@ -59565,7 +60841,7 @@
     "rate": 100
   },
   {
-    "index": 5415,
+    "index": 5531,
     "category": 16,
     "type": 2,
     "typeIndex": 14,
@@ -59576,7 +60852,7 @@
     "rate": 100
   },
   {
-    "index": 5416,
+    "index": 5532,
     "category": 16,
     "type": 2,
     "typeIndex": 15,
@@ -59587,7 +60863,7 @@
     "rate": 100
   },
   {
-    "index": 5417,
+    "index": 5533,
     "category": 16,
     "type": 2,
     "typeIndex": 16,
@@ -59598,7 +60874,7 @@
     "rate": 100
   },
   {
-    "index": 5418,
+    "index": 5534,
     "category": 16,
     "type": 2,
     "typeIndex": 17,
@@ -59609,7 +60885,7 @@
     "rate": 100
   },
   {
-    "index": 5419,
+    "index": 5535,
     "category": 16,
     "type": 2,
     "typeIndex": 18,
@@ -59620,7 +60896,7 @@
     "rate": 100
   },
   {
-    "index": 5420,
+    "index": 5536,
     "category": 16,
     "type": 2,
     "typeIndex": 19,
@@ -59631,7 +60907,7 @@
     "rate": 100
   },
   {
-    "index": 5421,
+    "index": 5537,
     "category": 16,
     "type": 2,
     "typeIndex": 20,
@@ -59642,7 +60918,7 @@
     "rate": 100
   },
   {
-    "index": 5422,
+    "index": 5538,
     "category": 16,
     "type": 2,
     "typeIndex": 21,
@@ -59653,7 +60929,7 @@
     "rate": 100
   },
   {
-    "index": 5423,
+    "index": 5539,
     "category": 16,
     "type": 2,
     "typeIndex": 22,
@@ -59664,7 +60940,7 @@
     "rate": 100
   },
   {
-    "index": 5424,
+    "index": 5540,
     "category": 16,
     "type": 2,
     "typeIndex": 23,
@@ -59675,7 +60951,7 @@
     "rate": 100
   },
   {
-    "index": 5425,
+    "index": 5541,
     "category": 16,
     "type": 2,
     "typeIndex": 24,
@@ -59686,7 +60962,7 @@
     "rate": 100
   },
   {
-    "index": 5426,
+    "index": 5542,
     "category": 16,
     "type": 2,
     "typeIndex": 25,
@@ -59697,7 +60973,7 @@
     "rate": 100
   },
   {
-    "index": 5427,
+    "index": 5543,
     "category": 16,
     "type": 2,
     "typeIndex": 26,
@@ -59708,7 +60984,7 @@
     "rate": 100
   },
   {
-    "index": 5428,
+    "index": 5544,
     "category": 16,
     "type": 2,
     "typeIndex": 27,
@@ -59719,7 +60995,7 @@
     "rate": 100
   },
   {
-    "index": 5429,
+    "index": 5545,
     "category": 16,
     "type": 2,
     "typeIndex": 28,
@@ -59730,7 +61006,7 @@
     "rate": 100
   },
   {
-    "index": 5430,
+    "index": 5546,
     "category": 16,
     "type": 2,
     "typeIndex": 29,
@@ -59741,7 +61017,7 @@
     "rate": 100
   },
   {
-    "index": 5431,
+    "index": 5547,
     "category": 16,
     "type": 2,
     "typeIndex": 30,
@@ -59752,7 +61028,7 @@
     "rate": 100
   },
   {
-    "index": 5432,
+    "index": 5548,
     "category": 16,
     "type": 2,
     "typeIndex": 31,
@@ -59763,7 +61039,7 @@
     "rate": 100
   },
   {
-    "index": 5433,
+    "index": 5549,
     "category": 16,
     "type": 2,
     "typeIndex": 32,
@@ -59774,7 +61050,7 @@
     "rate": 100
   },
   {
-    "index": 5434,
+    "index": 5550,
     "category": 16,
     "type": 2,
     "typeIndex": 33,
@@ -59785,7 +61061,7 @@
     "rate": 100
   },
   {
-    "index": 5435,
+    "index": 5551,
     "category": 16,
     "type": 2,
     "typeIndex": 34,
@@ -59796,7 +61072,7 @@
     "rate": 100
   },
   {
-    "index": 5436,
+    "index": 5552,
     "category": 16,
     "type": 2,
     "typeIndex": 35,
@@ -59807,7 +61083,7 @@
     "rate": 100
   },
   {
-    "index": 5437,
+    "index": 5553,
     "category": 16,
     "type": 2,
     "typeIndex": 36,
@@ -59818,7 +61094,7 @@
     "rate": 100
   },
   {
-    "index": 5438,
+    "index": 5554,
     "category": 16,
     "type": 2,
     "typeIndex": 37,
@@ -59829,7 +61105,7 @@
     "rate": 100
   },
   {
-    "index": 5439,
+    "index": 5555,
     "category": 16,
     "type": 2,
     "typeIndex": 38,
@@ -59840,7 +61116,7 @@
     "rate": 100
   },
   {
-    "index": 5440,
+    "index": 5556,
     "category": 16,
     "type": 2,
     "typeIndex": 39,
@@ -59851,7 +61127,7 @@
     "rate": 100
   },
   {
-    "index": 5441,
+    "index": 5557,
     "category": 16,
     "type": 2,
     "typeIndex": 40,
@@ -59862,7 +61138,7 @@
     "rate": 100
   },
   {
-    "index": 5442,
+    "index": 5558,
     "category": 16,
     "type": 2,
     "typeIndex": 41,
@@ -59873,7 +61149,7 @@
     "rate": 100
   },
   {
-    "index": 5443,
+    "index": 5559,
     "category": 16,
     "type": 2,
     "typeIndex": 42,
@@ -59884,7 +61160,7 @@
     "rate": 100
   },
   {
-    "index": 5444,
+    "index": 5560,
     "category": 16,
     "type": 2,
     "typeIndex": 43,
@@ -59895,7 +61171,7 @@
     "rate": 100
   },
   {
-    "index": 5445,
+    "index": 5561,
     "category": 16,
     "type": 2,
     "typeIndex": 44,
@@ -59906,7 +61182,7 @@
     "rate": 100
   },
   {
-    "index": 5446,
+    "index": 5562,
     "category": 16,
     "type": 2,
     "typeIndex": 45,
@@ -59917,7 +61193,7 @@
     "rate": 100
   },
   {
-    "index": 5447,
+    "index": 5563,
     "category": 16,
     "type": 2,
     "typeIndex": 46,
@@ -59928,7 +61204,7 @@
     "rate": 100
   },
   {
-    "index": 5448,
+    "index": 5564,
     "category": 16,
     "type": 2,
     "typeIndex": 47,
@@ -59939,7 +61215,7 @@
     "rate": 100
   },
   {
-    "index": 5449,
+    "index": 5565,
     "category": 16,
     "type": 2,
     "typeIndex": 48,
@@ -59950,7 +61226,7 @@
     "rate": 100
   },
   {
-    "index": 5450,
+    "index": 5566,
     "category": 16,
     "type": 2,
     "typeIndex": 49,
@@ -59961,7 +61237,7 @@
     "rate": 100
   },
   {
-    "index": 5451,
+    "index": 5567,
     "category": 16,
     "type": 2,
     "typeIndex": 50,
@@ -59972,7 +61248,7 @@
     "rate": 100
   },
   {
-    "index": 5452,
+    "index": 5568,
     "category": 16,
     "type": 2,
     "typeIndex": 51,
@@ -59983,7 +61259,7 @@
     "rate": 100
   },
   {
-    "index": 5453,
+    "index": 5569,
     "category": 16,
     "type": 2,
     "typeIndex": 52,
@@ -59994,7 +61270,7 @@
     "rate": 100
   },
   {
-    "index": 5454,
+    "index": 5570,
     "category": 16,
     "type": 2,
     "typeIndex": 53,
@@ -60005,7 +61281,7 @@
     "rate": 100
   },
   {
-    "index": 5455,
+    "index": 5571,
     "category": 16,
     "type": 2,
     "typeIndex": 54,
@@ -60016,7 +61292,7 @@
     "rate": 100
   },
   {
-    "index": 5456,
+    "index": 5572,
     "category": 16,
     "type": 2,
     "typeIndex": 55,
@@ -60027,7 +61303,7 @@
     "rate": 100
   },
   {
-    "index": 5457,
+    "index": 5573,
     "category": 16,
     "type": 2,
     "typeIndex": 56,
@@ -60038,7 +61314,7 @@
     "rate": 100
   },
   {
-    "index": 5458,
+    "index": 5574,
     "category": 16,
     "type": 2,
     "typeIndex": 57,
@@ -60049,7 +61325,7 @@
     "rate": 100
   },
   {
-    "index": 5459,
+    "index": 5575,
     "category": 16,
     "type": 2,
     "typeIndex": 58,
@@ -60060,7 +61336,7 @@
     "rate": 100
   },
   {
-    "index": 5460,
+    "index": 5576,
     "category": 16,
     "type": 2,
     "typeIndex": 59,
@@ -60071,7 +61347,7 @@
     "rate": 100
   },
   {
-    "index": 5461,
+    "index": 5577,
     "category": 16,
     "type": 2,
     "typeIndex": 60,
@@ -60082,7 +61358,7 @@
     "rate": 100
   },
   {
-    "index": 5462,
+    "index": 5578,
     "category": 17,
     "type": 1001,
     "typeIndex": 0,
@@ -60093,7 +61369,7 @@
     "rate": 100
   },
   {
-    "index": 5463,
+    "index": 5579,
     "category": 17,
     "type": 1001,
     "typeIndex": 0,
@@ -60104,7 +61380,7 @@
     "rate": 100
   },
   {
-    "index": 5464,
+    "index": 5580,
     "category": 17,
     "type": 1001,
     "typeIndex": 0,
@@ -60115,7 +61391,7 @@
     "rate": 100
   },
   {
-    "index": 5465,
+    "index": 5581,
     "category": 17,
     "type": 1001,
     "typeIndex": 0,
@@ -60126,7 +61402,7 @@
     "rate": 100
   },
   {
-    "index": 5466,
+    "index": 5582,
     "category": 17,
     "type": 1001,
     "typeIndex": 0,
@@ -60137,7 +61413,7 @@
     "rate": 100
   },
   {
-    "index": 5467,
+    "index": 5583,
     "category": 17,
     "type": 1002,
     "typeIndex": 0,
@@ -60148,7 +61424,7 @@
     "rate": 100
   },
   {
-    "index": 5468,
+    "index": 5584,
     "category": 17,
     "type": 1002,
     "typeIndex": 0,
@@ -60159,7 +61435,7 @@
     "rate": 100
   },
   {
-    "index": 5469,
+    "index": 5585,
     "category": 17,
     "type": 1002,
     "typeIndex": 0,
@@ -60170,7 +61446,7 @@
     "rate": 100
   },
   {
-    "index": 5470,
+    "index": 5586,
     "category": 17,
     "type": 1002,
     "typeIndex": 0,
@@ -60181,7 +61457,7 @@
     "rate": 100
   },
   {
-    "index": 5471,
+    "index": 5587,
     "category": 17,
     "type": 1002,
     "typeIndex": 0,
@@ -60190,5 +61466,2645 @@
     "minCount": 20,
     "maxCount": 20,
     "rate": 100
+  },
+  {
+    "index": 5588,
+    "category": 1,
+    "type": 4,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5589,
+    "category": 1,
+    "type": 5,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5590,
+    "category": 1,
+    "type": 6,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5591,
+    "category": 1,
+    "type": 7,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5592,
+    "category": 1,
+    "type": 8,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5593,
+    "category": 1,
+    "type": 9,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5594,
+    "category": 1,
+    "type": 10,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5595,
+    "category": 1,
+    "type": 11,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5596,
+    "category": 1,
+    "type": 12,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5597,
+    "category": 1,
+    "type": 13,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5598,
+    "category": 1,
+    "type": 14,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5599,
+    "category": 1,
+    "type": 15,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5600,
+    "category": 1,
+    "type": 16,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5601,
+    "category": 1,
+    "type": 17,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5602,
+    "category": 1,
+    "type": 18,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5603,
+    "category": 1,
+    "type": 19,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5604,
+    "category": 1,
+    "type": 20,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5605,
+    "category": 1,
+    "type": 21,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5606,
+    "category": 1,
+    "type": 22,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5607,
+    "category": 1,
+    "type": 23,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5608,
+    "category": 1,
+    "type": 24,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5609,
+    "category": 1,
+    "type": 25,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5610,
+    "category": 1,
+    "type": 26,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5611,
+    "category": 1,
+    "type": 27,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5612,
+    "category": 1,
+    "type": 28,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5613,
+    "category": 1,
+    "type": 29,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5614,
+    "category": 1,
+    "type": 30,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5615,
+    "category": 1,
+    "type": 31,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5616,
+    "category": 1,
+    "type": 32,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5617,
+    "category": 1,
+    "type": 33,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5618,
+    "category": 1,
+    "type": 34,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5619,
+    "category": 1,
+    "type": 35,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5620,
+    "category": 1,
+    "type": 36,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5621,
+    "category": 1,
+    "type": 37,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5622,
+    "category": 1,
+    "type": 38,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5623,
+    "category": 1,
+    "type": 39,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5624,
+    "category": 1,
+    "type": 40,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5625,
+    "category": 1,
+    "type": 41,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5626,
+    "category": 1,
+    "type": 42,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5627,
+    "category": 1,
+    "type": 43,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5628,
+    "category": 1,
+    "type": 44,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5629,
+    "category": 1,
+    "type": 45,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5630,
+    "category": 1,
+    "type": 46,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5631,
+    "category": 1,
+    "type": 47,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5632,
+    "category": 1,
+    "type": 48,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5633,
+    "category": 1,
+    "type": 49,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5634,
+    "category": 1,
+    "type": 50,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5635,
+    "category": 1,
+    "type": 51,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5636,
+    "category": 1,
+    "type": 52,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5637,
+    "category": 1,
+    "type": 53,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5638,
+    "category": 1,
+    "type": 54,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5639,
+    "category": 1,
+    "type": 55,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5640,
+    "category": 1,
+    "type": 56,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5641,
+    "category": 1,
+    "type": 57,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5642,
+    "category": 1,
+    "type": 58,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5643,
+    "category": 1,
+    "type": 59,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5644,
+    "category": 1,
+    "type": 60,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5645,
+    "category": 1,
+    "type": 61,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5646,
+    "category": 1,
+    "type": 62,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5647,
+    "category": 1,
+    "type": 63,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5648,
+    "category": 1,
+    "type": 64,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5649,
+    "category": 1,
+    "type": 65,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5650,
+    "category": 1,
+    "type": 66,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5651,
+    "category": 1,
+    "type": 67,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5652,
+    "category": 1,
+    "type": 68,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5653,
+    "category": 1,
+    "type": 69,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5654,
+    "category": 1,
+    "type": 70,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5655,
+    "category": 1,
+    "type": 71,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5656,
+    "category": 1,
+    "type": 72,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5657,
+    "category": 1,
+    "type": 73,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5658,
+    "category": 1,
+    "type": 74,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5659,
+    "category": 1,
+    "type": 75,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5660,
+    "category": 1,
+    "type": 76,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5661,
+    "category": 1,
+    "type": 77,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5662,
+    "category": 1,
+    "type": 78,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5663,
+    "category": 1,
+    "type": 79,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5664,
+    "category": 1,
+    "type": 80,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5665,
+    "category": 1,
+    "type": 81,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5666,
+    "category": 1,
+    "type": 82,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5667,
+    "category": 1,
+    "type": 83,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5668,
+    "category": 1,
+    "type": 84,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5669,
+    "category": 1,
+    "type": 85,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5670,
+    "category": 1,
+    "type": 86,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5671,
+    "category": 1,
+    "type": 87,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5672,
+    "category": 1,
+    "type": 88,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5673,
+    "category": 1,
+    "type": 89,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5674,
+    "category": 1,
+    "type": 90,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5675,
+    "category": 1,
+    "type": 91,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5676,
+    "category": 1,
+    "type": 92,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5677,
+    "category": 1,
+    "type": 93,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5678,
+    "category": 1,
+    "type": 94,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5679,
+    "category": 1,
+    "type": 95,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5680,
+    "category": 1,
+    "type": 96,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5681,
+    "category": 1,
+    "type": 97,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5682,
+    "category": 1,
+    "type": 98,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5683,
+    "category": 1,
+    "type": 99,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5684,
+    "category": 1,
+    "type": 100,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5685,
+    "category": 1,
+    "type": 101,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5686,
+    "category": 1,
+    "type": 102,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5687,
+    "category": 1,
+    "type": 103,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5688,
+    "category": 1,
+    "type": 104,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5689,
+    "category": 1,
+    "type": 105,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5690,
+    "category": 1,
+    "type": 106,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5691,
+    "category": 1,
+    "type": 107,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5692,
+    "category": 1,
+    "type": 108,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5693,
+    "category": 1,
+    "type": 109,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5694,
+    "category": 1,
+    "type": 110,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5695,
+    "category": 1,
+    "type": 111,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5696,
+    "category": 1,
+    "type": 112,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5697,
+    "category": 1,
+    "type": 113,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5698,
+    "category": 1,
+    "type": 114,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5699,
+    "category": 1,
+    "type": 115,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5700,
+    "category": 1,
+    "type": 116,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5701,
+    "category": 1,
+    "type": 117,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5702,
+    "category": 1,
+    "type": 118,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5703,
+    "category": 1,
+    "type": 119,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5704,
+    "category": 1,
+    "type": 120,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5705,
+    "category": 1,
+    "type": 121,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5706,
+    "category": 1,
+    "type": 122,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5707,
+    "category": 1,
+    "type": 123,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5708,
+    "category": 1,
+    "type": 124,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5709,
+    "category": 1,
+    "type": 125,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5710,
+    "category": 1,
+    "type": 126,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5711,
+    "category": 1,
+    "type": 127,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5712,
+    "category": 1,
+    "type": 128,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5713,
+    "category": 1,
+    "type": 129,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5714,
+    "category": 1,
+    "type": 130,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5715,
+    "category": 1,
+    "type": 131,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5716,
+    "category": 1,
+    "type": 132,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5717,
+    "category": 1,
+    "type": 133,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5718,
+    "category": 1,
+    "type": 134,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5719,
+    "category": 1,
+    "type": 135,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5720,
+    "category": 1,
+    "type": 136,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5721,
+    "category": 1,
+    "type": 137,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5722,
+    "category": 1,
+    "type": 138,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5723,
+    "category": 1,
+    "type": 139,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5724,
+    "category": 1,
+    "type": 140,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5725,
+    "category": 1,
+    "type": 141,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5726,
+    "category": 1,
+    "type": 142,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5727,
+    "category": 1,
+    "type": 143,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5728,
+    "category": 1,
+    "type": 144,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5729,
+    "category": 1,
+    "type": 145,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5730,
+    "category": 1,
+    "type": 146,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5731,
+    "category": 1,
+    "type": 147,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5732,
+    "category": 1,
+    "type": 148,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5733,
+    "category": 1,
+    "type": 149,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5734,
+    "category": 1,
+    "type": 150,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5735,
+    "category": 1,
+    "type": 151,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5736,
+    "category": 1,
+    "type": 152,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5737,
+    "category": 1,
+    "type": 153,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5738,
+    "category": 1,
+    "type": 154,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5739,
+    "category": 1,
+    "type": 155,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5740,
+    "category": 1,
+    "type": 156,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5741,
+    "category": 1,
+    "type": 157,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5742,
+    "category": 1,
+    "type": 158,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5743,
+    "category": 1,
+    "type": 159,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5744,
+    "category": 1,
+    "type": 160,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5745,
+    "category": 1,
+    "type": 161,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5746,
+    "category": 1,
+    "type": 162,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5747,
+    "category": 1,
+    "type": 163,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5748,
+    "category": 1,
+    "type": 164,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5749,
+    "category": 1,
+    "type": 165,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5750,
+    "category": 1,
+    "type": 166,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5751,
+    "category": 1,
+    "type": 167,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5752,
+    "category": 1,
+    "type": 168,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5753,
+    "category": 1,
+    "type": 169,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5754,
+    "category": 1,
+    "type": 170,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5755,
+    "category": 1,
+    "type": 171,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5756,
+    "category": 1,
+    "type": 172,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5757,
+    "category": 1,
+    "type": 173,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5758,
+    "category": 1,
+    "type": 174,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5759,
+    "category": 1,
+    "type": 175,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5760,
+    "category": 1,
+    "type": 176,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5761,
+    "category": 1,
+    "type": 177,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5762,
+    "category": 1,
+    "type": 178,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5763,
+    "category": 1,
+    "type": 179,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5764,
+    "category": 1,
+    "type": 180,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5765,
+    "category": 1,
+    "type": 181,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5766,
+    "category": 1,
+    "type": 182,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5767,
+    "category": 1,
+    "type": 183,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5768,
+    "category": 1,
+    "type": 184,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5769,
+    "category": 1,
+    "type": 185,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5770,
+    "category": 1,
+    "type": 186,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5771,
+    "category": 1,
+    "type": 187,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5772,
+    "category": 1,
+    "type": 188,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5773,
+    "category": 1,
+    "type": 189,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5774,
+    "category": 1,
+    "type": 190,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5775,
+    "category": 1,
+    "type": 191,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5776,
+    "category": 1,
+    "type": 192,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5777,
+    "category": 1,
+    "type": 193,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5778,
+    "category": 1,
+    "type": 194,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5779,
+    "category": 1,
+    "type": 195,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5780,
+    "category": 1,
+    "type": 196,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5781,
+    "category": 1,
+    "type": 197,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5782,
+    "category": 1,
+    "type": 198,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5783,
+    "category": 1,
+    "type": 199,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5784,
+    "category": 1,
+    "type": 200,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5785,
+    "category": 1,
+    "type": 201,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5786,
+    "category": 1,
+    "type": 202,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5787,
+    "category": 1,
+    "type": 203,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5788,
+    "category": 1,
+    "type": 204,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5789,
+    "category": 1,
+    "type": 205,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5790,
+    "category": 1,
+    "type": 206,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5791,
+    "category": 1,
+    "type": 207,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5792,
+    "category": 1,
+    "type": 208,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5793,
+    "category": 1,
+    "type": 209,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5794,
+    "category": 1,
+    "type": 210,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5795,
+    "category": 1,
+    "type": 211,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5796,
+    "category": 1,
+    "type": 212,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5797,
+    "category": 1,
+    "type": 213,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5798,
+    "category": 1,
+    "type": 214,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5799,
+    "category": 1,
+    "type": 215,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5800,
+    "category": 1,
+    "type": 216,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5801,
+    "category": 1,
+    "type": 217,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5802,
+    "category": 1,
+    "type": 218,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5803,
+    "category": 1,
+    "type": 219,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5804,
+    "category": 1,
+    "type": 220,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5805,
+    "category": 1,
+    "type": 221,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5806,
+    "category": 1,
+    "type": 222,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5807,
+    "category": 1,
+    "type": 223,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5808,
+    "category": 1,
+    "type": 224,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5809,
+    "category": 1,
+    "type": 225,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5810,
+    "category": 1,
+    "type": 226,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5811,
+    "category": 1,
+    "type": 227,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5812,
+    "category": 1,
+    "type": 228,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5813,
+    "category": 1,
+    "type": 229,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5814,
+    "category": 1,
+    "type": 230,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5815,
+    "category": 1,
+    "type": 231,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5816,
+    "category": 1,
+    "type": 232,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5817,
+    "category": 1,
+    "type": 233,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5818,
+    "category": 1,
+    "type": 234,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5819,
+    "category": 1,
+    "type": 235,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5820,
+    "category": 1,
+    "type": 236,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5821,
+    "category": 1,
+    "type": 237,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5822,
+    "category": 1,
+    "type": 238,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5823,
+    "category": 1,
+    "type": 239,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5824,
+    "category": 1,
+    "type": 240,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5825,
+    "category": 1,
+    "type": 241,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5826,
+    "category": 1,
+    "type": 242,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
+  },
+  {
+    "index": 5827,
+    "category": 1,
+    "type": 243,
+    "typeIndex": 0,
+    "rewardType": 5,
+    "rewardIdx": 20008,
+    "minCount": 1,
+    "maxCount": 1,
+    "rate": 50
   }
 ]
