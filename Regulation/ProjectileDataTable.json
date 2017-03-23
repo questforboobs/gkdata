@@ -5,7 +5,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -23,7 +27,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -41,7 +49,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -59,7 +71,11 @@
     "splashPattern": "000000010001P100100000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       29,
       0,
@@ -77,7 +93,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -95,7 +115,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -113,7 +137,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -131,7 +159,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -149,7 +181,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -167,7 +203,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -185,7 +225,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -203,7 +247,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -221,7 +269,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -239,7 +291,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -257,7 +313,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -275,7 +335,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -293,7 +357,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -311,7 +379,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -329,7 +401,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -347,7 +423,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -365,7 +445,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -383,7 +467,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -401,7 +489,11 @@
     "splashPattern": "000000000000P000010000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -419,7 +511,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -437,7 +533,11 @@
     "splashPattern": "000000000000P000010000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -455,7 +555,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -473,7 +577,11 @@
     "splashPattern": "000000000000P000010000100",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -491,7 +599,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -509,7 +621,11 @@
     "splashPattern": "000000000000P000010000100",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -527,7 +643,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -545,7 +665,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -563,7 +687,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -581,7 +709,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -599,7 +731,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -617,7 +753,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -635,7 +775,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -653,7 +797,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -671,7 +819,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -689,7 +841,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -707,7 +863,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -725,7 +885,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -743,7 +907,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -761,7 +929,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -779,7 +951,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -797,7 +973,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -815,7 +995,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -833,7 +1017,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -851,7 +1039,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -869,7 +1061,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -887,7 +1083,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -905,7 +1105,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -923,7 +1127,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -941,7 +1149,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -959,7 +1171,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -977,7 +1193,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -995,7 +1215,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -1013,7 +1237,11 @@
     "splashPattern": "000000000000P000010000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -1031,7 +1259,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -1049,7 +1281,11 @@
     "splashPattern": "000000000000P000010000100",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -1067,7 +1303,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -1085,7 +1325,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       61916,
       0,
@@ -1103,7 +1347,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       61917,
       0,
@@ -1121,7 +1369,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       61918,
       0,
@@ -1139,7 +1391,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       61921,
       0,
@@ -1157,7 +1413,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       61922,
       0,
@@ -1175,7 +1435,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       61923,
       0,
@@ -1193,7 +1457,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       62016,
       0,
@@ -1211,7 +1479,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       62017,
       0,
@@ -1229,7 +1501,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       62018,
       0,
@@ -1247,7 +1523,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       62021,
       0,
@@ -1265,7 +1545,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       62022,
       0,
@@ -1283,7 +1567,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       62023,
       0,
@@ -1301,7 +1589,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       63417,
       0,
@@ -1319,7 +1611,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       63419,
       0,
@@ -1337,7 +1633,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       63424,
       0,
@@ -1355,7 +1655,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       63426,
       0,
@@ -1373,7 +1677,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       63517,
       0,
@@ -1391,7 +1699,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       63519,
       0,
@@ -1409,7 +1721,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       63524,
       0,
@@ -1427,7 +1743,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       63526,
       0,
@@ -1445,7 +1765,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       63531,
       0,
@@ -1463,7 +1787,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       63533,
       0,
@@ -1481,7 +1809,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       64412,
       0,
@@ -1499,7 +1831,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       64414,
       0,
@@ -1517,7 +1853,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       64421,
       0,
@@ -1535,7 +1875,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       64425,
       0,
@@ -1553,7 +1897,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       64512,
       0,
@@ -1571,7 +1919,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       64514,
       0,
@@ -1589,7 +1941,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       64521,
       0,
@@ -1607,7 +1963,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       64525,
       0,
@@ -1625,7 +1985,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       64532,
       0,
@@ -1643,7 +2007,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       65917,
       0,
@@ -1661,7 +2029,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       65919,
       0,
@@ -1679,7 +2051,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       65925,
       0,
@@ -1697,7 +2073,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       65927,
       0,
@@ -1715,7 +2095,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       65929,
       0,
@@ -1733,7 +2117,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       66017,
       0,
@@ -1751,7 +2139,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       66019,
       0,
@@ -1769,7 +2161,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       66025,
       0,
@@ -1787,7 +2183,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       66027,
       0,
@@ -1805,7 +2205,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       66029,
       0,
@@ -1823,7 +2227,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       66034,
       0,
@@ -1841,7 +2249,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       66036,
       0,
@@ -1859,7 +2271,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       66117,
       0,
@@ -1877,7 +2293,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       66118,
       0,
@@ -1895,7 +2315,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       66119,
       0,
@@ -1913,7 +2337,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       66217,
       0,
@@ -1931,7 +2359,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       66218,
       0,
@@ -1949,7 +2381,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       66219,
       0,
@@ -1967,7 +2403,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       66317,
       0,
@@ -1985,7 +2425,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       66318,
       0,
@@ -2003,7 +2447,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       66319,
       0,
@@ -2021,7 +2469,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       67612,
       0,
@@ -2039,7 +2491,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       67613,
       0,
@@ -2057,7 +2513,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       67615,
       0,
@@ -2075,7 +2535,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       67616,
       0,
@@ -2093,7 +2557,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       67712,
       0,
@@ -2111,7 +2579,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       67713,
       0,
@@ -2129,7 +2601,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       67715,
       0,
@@ -2147,7 +2623,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       67716,
       0,
@@ -2165,7 +2645,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       67812,
       0,
@@ -2183,7 +2667,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       67813,
       0,
@@ -2201,7 +2689,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       67815,
       0,
@@ -2219,7 +2711,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       67816,
       0,
@@ -2237,7 +2733,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       68833,
       0,
@@ -2255,7 +2755,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       68917,
       0,
@@ -2273,7 +2777,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       68919,
       0,
@@ -2291,7 +2799,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       69017,
       0,
@@ -2309,7 +2821,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       69019,
       0,
@@ -2327,7 +2843,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       69912,
       0,
@@ -2345,7 +2865,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       70012,
       0,
@@ -2363,7 +2887,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       77411,
       0,
@@ -2381,7 +2909,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       77413,
       0,
@@ -2399,7 +2931,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       77415,
       0,
@@ -2417,7 +2953,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       77511,
       0,
@@ -2435,7 +2975,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       77513,
       0,
@@ -2453,7 +2997,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       77515,
       0,
@@ -2471,7 +3019,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       82911,
       0,
@@ -2489,7 +3041,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       82913,
       0,
@@ -2507,7 +3063,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       83011,
       0,
@@ -2525,7 +3085,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       83013,
       0,
@@ -2543,7 +3107,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       83912,
       0,
@@ -2561,7 +3129,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       84012,
       0,
@@ -2579,7 +3151,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -2597,7 +3173,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -2615,7 +3195,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50013,
       0,
@@ -2633,7 +3217,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50014,
       0,
@@ -2651,7 +3239,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -2669,7 +3261,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -2687,7 +3283,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -2705,7 +3305,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50024,
       0,
@@ -2723,7 +3327,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -2741,7 +3349,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50032,
       0,
@@ -2759,7 +3371,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -2777,7 +3393,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50034,
       0,
@@ -2795,7 +3415,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -2813,7 +3437,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 1,
+    "clingingTurn": [
+      1,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50042,
       0,
@@ -2831,7 +3459,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50043,
       0,
@@ -2849,7 +3481,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50044,
       0,
@@ -2867,7 +3503,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -2885,7 +3525,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -2903,7 +3547,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -2921,7 +3569,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -2939,7 +3591,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -2957,7 +3613,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -2975,7 +3635,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -2993,7 +3657,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50063,
       0,
@@ -3011,7 +3679,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3029,7 +3701,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3047,7 +3723,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3065,7 +3745,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50073,
       0,
@@ -3083,7 +3767,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50074,
       0,
@@ -3101,7 +3789,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3119,7 +3811,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3137,7 +3833,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50082,
       0,
@@ -3155,7 +3855,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 5,
+    "clingingTurn": [
+      5,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50083,
       0,
@@ -3173,7 +3877,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3191,7 +3899,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3209,7 +3921,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3227,7 +3943,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3245,7 +3965,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 4,
+    "clingingTurn": [
+      4,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50104,
       0,
@@ -3263,7 +3987,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3281,7 +4009,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3299,7 +4031,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50112,
       0,
@@ -3317,7 +4053,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50113,
       0,
@@ -3335,7 +4075,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50114,
       0,
@@ -3353,7 +4097,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3371,7 +4119,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3389,7 +4141,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50123,
       0,
@@ -3407,7 +4163,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 4,
+    "clingingTurn": [
+      4,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50124,
       0,
@@ -3425,7 +4185,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3443,7 +4207,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3461,7 +4229,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3479,7 +4251,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3497,7 +4273,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      3,
+      0
+    ],
     "statusEffectDrks": [
       50132,
       50139,
@@ -3515,7 +4295,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50133,
       0,
@@ -3533,7 +4317,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50134,
       0,
@@ -3551,7 +4339,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3569,7 +4361,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3587,7 +4383,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3605,7 +4405,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50144,
       0,
@@ -3623,7 +4427,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3641,7 +4449,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3659,7 +4471,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3677,7 +4493,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3695,7 +4515,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50154,
       0,
@@ -3713,7 +4537,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3731,7 +4559,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50162,
       0,
@@ -3749,7 +4581,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50163,
       0,
@@ -3767,7 +4603,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50164,
       0,
@@ -3785,7 +4625,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3803,7 +4647,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3821,7 +4669,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3839,7 +4691,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3857,7 +4713,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50174,
       0,
@@ -3875,7 +4735,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3893,7 +4757,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3911,7 +4779,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50183,
       0,
@@ -3929,7 +4801,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3947,7 +4823,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -3965,7 +4845,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50192,
       0,
@@ -3983,7 +4867,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4001,7 +4889,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50194,
       0,
@@ -4019,7 +4911,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50199,
       0,
@@ -4037,7 +4933,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4055,7 +4955,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 1,
+    "clingingTurn": [
+      1,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50202,
       0,
@@ -4073,7 +4977,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4091,7 +4999,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 1,
+    "clingingTurn": [
+      1,
+      1,
+      0
+    ],
     "statusEffectDrks": [
       50204,
       50205,
@@ -4109,7 +5021,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 1,
+    "clingingTurn": [
+      1,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50209,
       0,
@@ -4127,7 +5043,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 1,
+    "clingingTurn": [
+      1,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50211,
       0,
@@ -4145,7 +5065,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50212,
       0,
@@ -4163,7 +5087,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50213,
       0,
@@ -4181,7 +5109,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50214,
       0,
@@ -4199,7 +5131,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4217,7 +5153,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50222,
       0,
@@ -4235,7 +5175,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50223,
       0,
@@ -4253,7 +5197,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50224,
       0,
@@ -4271,7 +5219,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4289,7 +5241,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4307,7 +5263,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50263,
       0,
@@ -4325,7 +5285,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50264,
       0,
@@ -4343,7 +5307,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4361,7 +5329,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4379,7 +5351,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4397,7 +5373,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4415,7 +5395,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4433,7 +5417,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50273,
       0,
@@ -4451,7 +5439,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50274,
       0,
@@ -4469,7 +5461,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4487,7 +5483,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4505,7 +5505,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4523,7 +5527,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4541,7 +5549,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4559,7 +5571,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 1,
+    "clingingTurn": [
+      1,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50282,
       0,
@@ -4577,7 +5593,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50283,
       0,
@@ -4595,7 +5615,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50284,
       0,
@@ -4613,7 +5637,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4631,7 +5659,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4649,7 +5681,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4667,7 +5703,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50304,
       0,
@@ -4685,7 +5725,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4703,7 +5747,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4721,7 +5769,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4739,7 +5791,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50313,
       0,
@@ -4757,7 +5813,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 1,
+    "clingingTurn": [
+      1,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50314,
       0,
@@ -4775,7 +5835,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4793,7 +5857,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4811,7 +5879,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50323,
       0,
@@ -4829,7 +5901,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50324,
       0,
@@ -4847,7 +5923,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4865,7 +5945,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4883,7 +5967,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50333,
       0,
@@ -4901,7 +5989,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50334,
       0,
@@ -4919,7 +6011,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4937,7 +6033,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50342,
       0,
@@ -4955,7 +6055,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50343,
       0,
@@ -4973,7 +6077,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -4991,7 +6099,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5009,7 +6121,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5027,7 +6143,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5045,7 +6165,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50354,
       0,
@@ -5063,7 +6187,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5081,7 +6209,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5099,7 +6231,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50363,
       0,
@@ -5117,7 +6253,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5135,7 +6275,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5153,7 +6297,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5171,7 +6319,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5189,7 +6341,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50373,
       0,
@@ -5207,7 +6363,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      3,
+      0
+    ],
     "statusEffectDrks": [
       50374,
       50375,
@@ -5225,7 +6385,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5243,7 +6407,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50382,
       0,
@@ -5261,7 +6429,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50383,
       0,
@@ -5279,7 +6451,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50384,
       0,
@@ -5297,7 +6473,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5315,7 +6495,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5333,7 +6517,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50393,
       0,
@@ -5351,7 +6539,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50394,
       0,
@@ -5369,7 +6561,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5387,7 +6583,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50402,
       0,
@@ -5405,7 +6605,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50403,
       0,
@@ -5423,7 +6627,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50404,
       0,
@@ -5441,7 +6649,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5459,7 +6671,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50412,
       0,
@@ -5477,7 +6693,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50413,
       0,
@@ -5495,7 +6715,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50414,
       0,
@@ -5513,7 +6737,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5531,7 +6759,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50422,
       0,
@@ -5549,7 +6781,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50423,
       0,
@@ -5567,7 +6803,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50424,
       0,
@@ -5585,7 +6825,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5603,7 +6847,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5621,7 +6869,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50453,
       0,
@@ -5639,7 +6891,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50454,
       0,
@@ -5657,7 +6913,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50461,
       0,
@@ -5675,7 +6935,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50462,
       50469,
@@ -5693,7 +6957,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5711,7 +6979,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50463,
       0,
@@ -5729,7 +7001,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50464,
       0,
@@ -5747,7 +7023,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5765,7 +7045,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5783,7 +7067,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5801,7 +7089,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50473,
       0,
@@ -5819,7 +7111,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 4,
+    "clingingTurn": [
+      4,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50474,
       0,
@@ -5837,7 +7133,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50501,
       0,
@@ -5855,7 +7155,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50502,
       0,
@@ -5873,7 +7177,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5891,7 +7199,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 1,
+    "clingingTurn": [
+      1,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50503,
       0,
@@ -5909,7 +7221,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50504,
       0,
@@ -5927,7 +7243,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -5945,7 +7265,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50522,
       0,
@@ -5963,7 +7287,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      2,
+      0
+    ],
     "statusEffectDrks": [
       50523,
       50529,
@@ -5981,7 +7309,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50524,
       0,
@@ -5999,7 +7331,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6017,7 +7353,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 1,
+    "clingingTurn": [
+      1,
+      1,
+      0
+    ],
     "statusEffectDrks": [
       50532,
       50539,
@@ -6035,7 +7375,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6053,7 +7397,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50533,
       0,
@@ -6071,7 +7419,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 1,
+    "clingingTurn": [
+      1,
+      1,
+      0
+    ],
     "statusEffectDrks": [
       50534,
       50538,
@@ -6089,7 +7441,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6107,7 +7463,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6125,7 +7485,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6143,7 +7507,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50544,
       0,
@@ -6161,7 +7529,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6179,7 +7551,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6197,7 +7573,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6215,7 +7595,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50553,
       0,
@@ -6233,7 +7617,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6251,7 +7639,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6269,7 +7661,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50562,
       0,
@@ -6287,7 +7683,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50563,
       0,
@@ -6305,7 +7705,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50564,
       0,
@@ -6323,7 +7727,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6341,7 +7749,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6359,7 +7771,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6377,7 +7793,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 5,
+    "clingingTurn": [
+      5,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       59964,
       0,
@@ -6395,7 +7815,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6413,7 +7837,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       59972,
       0,
@@ -6431,7 +7859,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      1,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       59973,
       0,
@@ -6449,7 +7881,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       59974,
       0,
@@ -6467,7 +7903,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6485,7 +7925,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       59982,
       0,
@@ -6503,7 +7947,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       59983,
       0,
@@ -6521,7 +7969,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       59984,
       0,
@@ -6539,7 +7991,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6557,7 +8013,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6575,7 +8035,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50013,
       0,
@@ -6593,7 +8057,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50014,
       0,
@@ -6611,7 +8079,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6629,7 +8101,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6647,7 +8123,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6665,7 +8145,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6683,7 +8167,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6701,7 +8189,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6719,7 +8211,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6737,7 +8233,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6755,7 +8255,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6773,7 +8277,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6791,7 +8299,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 99,
+    "clingingTurn": [
+      99,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       3001211,
       0,
@@ -6809,7 +8321,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6827,7 +8343,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6845,7 +8365,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6863,7 +8387,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6881,7 +8409,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6899,7 +8431,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6917,9 +8453,13 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
-    "clingingTurn": 3003121,
-    "statusEffectDrks": [
+    "clingingTurn": [
+      4,
       0,
+      0
+    ],
+    "statusEffectDrks": [
+      3003121,
       0,
       0
     ],
@@ -6935,9 +8475,13 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3003211,
-    "statusEffectDrks": [
+    "clingingTurn": [
+      5,
       0,
+      0
+    ],
+    "statusEffectDrks": [
+      3003211,
       0,
       0
     ],
@@ -6953,9 +8497,13 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3003311,
-    "statusEffectDrks": [
+    "clingingTurn": [
       0,
+      0,
+      0
+    ],
+    "statusEffectDrks": [
+      3003311,
       0,
       0
     ],
@@ -6971,7 +8519,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -6989,7 +8541,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       9,
       0,
@@ -7007,7 +8563,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7025,7 +8585,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       30,
       0,
@@ -7043,7 +8607,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7061,7 +8629,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       22,
       0,
@@ -7079,7 +8651,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7097,7 +8673,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7115,7 +8695,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7133,7 +8717,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7151,7 +8739,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7169,7 +8761,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7187,7 +8783,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7205,7 +8805,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7223,7 +8827,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7241,7 +8849,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 1,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       8000072,
       0,
@@ -7259,7 +8871,11 @@
     "splashPattern": "000000000011P110000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7277,7 +8893,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7295,7 +8915,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7313,7 +8937,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7331,7 +8959,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7349,7 +8981,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 1,
+    "clingingTurn": [
+      1,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       8001031,
       0,
@@ -7367,7 +9003,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7385,7 +9025,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7403,7 +9047,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7421,7 +9069,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 1,
+    "clingingTurn": [
+      1,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       8001071,
       0,
@@ -7439,7 +9091,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7457,7 +9113,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7475,7 +9135,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7493,7 +9157,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 1,
+    "clingingTurn": [
+      1,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       8001111,
       0,
@@ -7511,7 +9179,11 @@
     "splashPattern": "001000010000P000010000100",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7529,7 +9201,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7547,7 +9223,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7565,7 +9245,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7583,7 +9267,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50192,
       0,
@@ -7601,7 +9289,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7619,7 +9311,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50412,
       0,
@@ -7637,7 +9333,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50112,
       0,
@@ -7655,7 +9355,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7673,7 +9377,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7691,7 +9399,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7709,7 +9421,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 3,
+    "clingingTurn": [
+      3,
+      3,
+      0
+    ],
     "statusEffectDrks": [
       50132,
       50139,
@@ -7727,7 +9443,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7745,7 +9465,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7763,7 +9487,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 1,
+    "clingingTurn": [
+      1,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50202,
       0,
@@ -7781,7 +9509,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 1,
+    "clingingTurn": [
+      1,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50282,
       0,
@@ -7799,7 +9531,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7817,7 +9553,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7835,7 +9575,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50502,
       0,
@@ -7853,7 +9597,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7871,7 +9619,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7889,7 +9641,11 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       0,
       0,
@@ -7907,7 +9663,11 @@
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 2,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
     "statusEffectDrks": [
       50222,
       0,

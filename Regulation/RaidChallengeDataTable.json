@@ -42,5 +42,27 @@
     ],
     "battlemap": "land_boss_01",
     "enemymap": "land_boss_01"
+  },
+  {
+    "index": 2,
+    "key": 3,
+    "commanderId": "30003",
+    "commanderPos": 4,
+    "parts": [
+      "30032",
+      "30033",
+      0,
+      0,
+      0
+    ],
+    "partsPos": [
+      "0",
+      "8",
+      0,
+      0,
+      0
+    ],
+    "battlemap": "land_boss_01",
+    "enemymap": "land_boss_02"
   }
 ]

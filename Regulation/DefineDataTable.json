@@ -120,6 +120,10 @@
     "value": "15"
   },
   {
+    "key": "EQUIPITEM_LEVEL_LIMIT",
+    "value": "99"
+  },
+  {
     "key": "FIRST_START_BULLET",
     "value": "60"
   },

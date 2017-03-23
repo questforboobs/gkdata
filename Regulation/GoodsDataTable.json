@@ -8,7 +8,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4030,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-cash"
   },
   {
     "type": 2,
@@ -19,7 +20,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4030,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-cash"
   },
   {
     "type": 3,
@@ -30,7 +32,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4031,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-gold"
   },
   {
     "type": 4,
@@ -41,7 +44,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4031,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-gold"
   },
   {
     "type": 5,
@@ -52,7 +56,8 @@
     "rechargeTime": 300,
     "rechargeMax": 0,
     "description": 4036,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-bult"
   },
   {
     "type": 7,
@@ -63,7 +68,8 @@
     "rechargeTime": 0,
     "rechargeMax": 5,
     "description": 4038,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-swp"
   },
   {
     "type": 8,
@@ -74,7 +80,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4039,
-    "storage": 1
+    "storage": 1,
+    "icon": "Goods-ctt1"
   },
   {
     "type": 9,
@@ -85,7 +92,8 @@
     "rechargeTime": 0,
     "rechargeMax": 5,
     "description": 4040,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-chlg"
   },
   {
     "type": 10,
@@ -96,7 +104,8 @@
     "rechargeTime": 0,
     "rechargeMax": 5,
     "description": 4041,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-keys"
   },
   {
     "type": 12,
@@ -107,7 +116,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4042,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-chip"
   },
   {
     "type": 13,
@@ -118,7 +128,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4308,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-acon"
   },
   {
     "type": 14,
@@ -129,7 +140,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4309,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-rcon"
   },
   {
     "type": 15,
@@ -140,7 +152,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4310,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-gcon"
   },
   {
     "type": 16,
@@ -151,7 +164,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4311,
-    "storage": 1
+    "storage": 1,
+    "icon": "Goods-ctt2"
   },
   {
     "type": 17,
@@ -162,7 +176,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4312,
-    "storage": 1
+    "storage": 1,
+    "icon": "Goods-ctt3"
   },
   {
     "type": 18,
@@ -173,7 +188,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4313,
-    "storage": 1
+    "storage": 1,
+    "icon": "Goods-ctt4"
   },
   {
     "type": 19,
@@ -184,7 +200,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4318,
-    "storage": 1
+    "storage": 1,
+    "icon": "Goods-ctt5"
   },
   {
     "type": 20,
@@ -195,7 +212,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4334,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-ncon"
   },
   {
     "type": 50,
@@ -206,7 +224,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4326,
-    "storage": 1
+    "storage": 1,
+    "icon": "Goods-fvr1"
   },
   {
     "type": 51,
@@ -217,7 +236,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4327,
-    "storage": 1
+    "storage": 1,
+    "icon": "Goods-fvr2"
   },
   {
     "type": 52,
@@ -228,7 +248,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4328,
-    "storage": 1
+    "storage": 1,
+    "icon": "Goods-fvr3"
   },
   {
     "type": 53,
@@ -239,7 +260,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4329,
-    "storage": 1
+    "storage": 1,
+    "icon": "Goods-fvr4"
   },
   {
     "type": 54,
@@ -250,7 +272,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4330,
-    "storage": 1
+    "storage": 1,
+    "icon": "Goods-fvr5"
   },
   {
     "type": 55,
@@ -261,7 +284,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4331,
-    "storage": 1
+    "storage": 1,
+    "icon": "Goods-fvr6"
   },
   {
     "type": 56,
@@ -272,7 +296,32 @@
     "rechargeTime": 0,
     "rechargeMax": 5,
     "description": 4332,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-cgft"
+  },
+  {
+    "type": 57,
+    "name": 5050001,
+    "serverFieldName": "wbt",
+    "max": 99,
+    "rechargeType": 1,
+    "rechargeTime": 0,
+    "rechargeMax": 5,
+    "description": 5050011,
+    "storage": 0,
+    "icon": "Goods-wbt"
+  },
+  {
+    "type": 58,
+    "name": 5050002,
+    "serverFieldName": "wbc",
+    "max": 99999,
+    "rechargeType": 1,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 5050012,
+    "storage": 0,
+    "icon": "Goods-wbc"
   },
   {
     "type": 101,
@@ -283,7 +332,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4043,
-    "storage": 1
+    "storage": 1,
+    "icon": "Goods-box001_R"
   },
   {
     "type": 102,
@@ -294,7 +344,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4044,
-    "storage": 1
+    "storage": 1,
+    "icon": "Goods-box002_R"
   },
   {
     "type": 103,
@@ -305,7 +356,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4045,
-    "storage": 1
+    "storage": 1,
+    "icon": "Goods-box003_R"
   },
   {
     "type": 104,
@@ -316,106 +368,116 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4046,
-    "storage": 1
+    "storage": 1,
+    "icon": "Goods-box004_R"
   },
   {
     "type": 105,
-    "name": 4013,
-    "serverFieldName": "box005",
-    "max": 99,
+    "name": 5002001,
+    "serverFieldName": "box101",
+    "max": 999,
     "rechargeType": 0,
     "rechargeTime": 0,
     "rechargeMax": 0,
-    "description": 4043,
-    "storage": 0
+    "description": 5003001,
+    "storage": 1,
+    "icon": "icon_img_box101"
   },
   {
     "type": 106,
-    "name": 4013,
-    "serverFieldName": "box006",
-    "max": 99,
+    "name": 5002011,
+    "serverFieldName": "box102",
+    "max": 999,
     "rechargeType": 0,
     "rechargeTime": 0,
     "rechargeMax": 0,
-    "description": 4043,
-    "storage": 0
+    "description": 5003011,
+    "storage": 1,
+    "icon": "icon_img_box102"
   },
   {
     "type": 107,
-    "name": 4013,
-    "serverFieldName": "box007",
-    "max": 99,
+    "name": 5002012,
+    "serverFieldName": "box103",
+    "max": 999,
     "rechargeType": 0,
     "rechargeTime": 0,
     "rechargeMax": 0,
-    "description": 4043,
-    "storage": 0
+    "description": 5003012,
+    "storage": 1,
+    "icon": "icon_img_box105"
   },
   {
     "type": 108,
-    "name": 4013,
-    "serverFieldName": "box008",
-    "max": 99,
+    "name": 5002013,
+    "serverFieldName": "box104",
+    "max": 999,
     "rechargeType": 0,
     "rechargeTime": 0,
     "rechargeMax": 0,
-    "description": 4043,
-    "storage": 0
+    "description": 5003013,
+    "storage": 1,
+    "icon": "icon_img_box103"
   },
   {
     "type": 109,
-    "name": 4013,
-    "serverFieldName": "box009",
-    "max": 99,
+    "name": 5002014,
+    "serverFieldName": "box105",
+    "max": 999,
     "rechargeType": 0,
     "rechargeTime": 0,
     "rechargeMax": 0,
-    "description": 4043,
-    "storage": 0
+    "description": 5003014,
+    "storage": 1,
+    "icon": "icon_img_box104"
   },
   {
     "type": 110,
-    "name": 4013,
-    "serverFieldName": "box010",
-    "max": 99,
+    "name": 5002021,
+    "serverFieldName": "box106",
+    "max": 999,
     "rechargeType": 0,
     "rechargeTime": 0,
     "rechargeMax": 0,
-    "description": 4043,
-    "storage": 0
+    "description": 5003021,
+    "storage": 1,
+    "icon": "icon_img_box106"
   },
   {
     "type": 111,
-    "name": 4013,
-    "serverFieldName": "box011",
-    "max": 99,
+    "name": 5002022,
+    "serverFieldName": "box107",
+    "max": 999,
     "rechargeType": 0,
     "rechargeTime": 0,
     "rechargeMax": 0,
-    "description": 4043,
-    "storage": 0
+    "description": 5003022,
+    "storage": 1,
+    "icon": "icon_img_box107"
   },
   {
     "type": 112,
-    "name": 4013,
-    "serverFieldName": "box012",
-    "max": 99,
+    "name": 5002023,
+    "serverFieldName": "box108",
+    "max": 999,
     "rechargeType": 0,
     "rechargeTime": 0,
     "rechargeMax": 0,
-    "description": 4043,
-    "storage": 0
+    "description": 5003023,
+    "storage": 1,
+    "icon": "icon_img_box108"
   },
   {
     "type": 113,
-    "name": 4013,
-    "serverFieldName": "box013",
-    "max": 99,
+    "name": 5002024,
+    "serverFieldName": "box109",
+    "max": 999,
     "rechargeType": 0,
     "rechargeTime": 0,
     "rechargeMax": 0,
-    "description": 4043,
-    "storage": 0
+    "description": 5003024,
+    "storage": 1,
+    "icon": "icon_img_box109"
   },
   {
     "type": 114,
@@ -426,7 +488,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4043,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box014"
   },
   {
     "type": 115,
@@ -437,7 +500,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4043,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box015"
   },
   {
     "type": 116,
@@ -448,7 +512,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4043,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box016"
   },
   {
     "type": 117,
@@ -459,7 +524,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4043,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box017"
   },
   {
     "type": 118,
@@ -470,7 +536,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4044,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box018"
   },
   {
     "type": 119,
@@ -481,7 +548,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4044,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box019"
   },
   {
     "type": 120,
@@ -492,7 +560,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4044,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box020"
   },
   {
     "type": 121,
@@ -503,7 +572,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4044,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box021"
   },
   {
     "type": 122,
@@ -514,7 +584,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4044,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box022"
   },
   {
     "type": 123,
@@ -525,7 +596,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4044,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box023"
   },
   {
     "type": 124,
@@ -536,7 +608,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4044,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box024"
   },
   {
     "type": 125,
@@ -547,7 +620,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4044,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box025"
   },
   {
     "type": 126,
@@ -558,7 +632,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4044,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box026"
   },
   {
     "type": 127,
@@ -569,7 +644,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4044,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box027"
   },
   {
     "type": 128,
@@ -580,7 +656,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4044,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box028"
   },
   {
     "type": 129,
@@ -591,7 +668,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4044,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box029"
   },
   {
     "type": 130,
@@ -602,7 +680,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4044,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box030"
   },
   {
     "type": 131,
@@ -613,7 +692,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4044,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box031"
   },
   {
     "type": 132,
@@ -624,7 +704,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4044,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box032"
   },
   {
     "type": 133,
@@ -635,7 +716,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4044,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box033"
   },
   {
     "type": 134,
@@ -646,7 +728,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4044,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box034"
   },
   {
     "type": 135,
@@ -657,7 +740,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4045,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box035"
   },
   {
     "type": 136,
@@ -668,7 +752,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4045,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box036"
   },
   {
     "type": 137,
@@ -679,7 +764,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4045,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box037"
   },
   {
     "type": 138,
@@ -690,7 +776,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4045,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box038"
   },
   {
     "type": 139,
@@ -701,7 +788,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4045,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box039"
   },
   {
     "type": 140,
@@ -712,7 +800,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4045,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box040"
   },
   {
     "type": 141,
@@ -723,7 +812,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4045,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box041"
   },
   {
     "type": 142,
@@ -734,7 +824,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4045,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box042"
   },
   {
     "type": 143,
@@ -745,7 +836,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4045,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box043"
   },
   {
     "type": 144,
@@ -756,7 +848,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4045,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box044"
   },
   {
     "type": 145,
@@ -767,7 +860,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4046,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box045"
   },
   {
     "type": 146,
@@ -778,7 +872,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4046,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box046"
   },
   {
     "type": 147,
@@ -789,7 +884,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4046,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box047"
   },
   {
     "type": 148,
@@ -800,7 +896,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4046,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box048"
   },
   {
     "type": 149,
@@ -811,7 +908,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4046,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box049"
   },
   {
     "type": 150,
@@ -822,7 +920,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4046,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box050"
   },
   {
     "type": 151,
@@ -833,7 +932,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4046,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box051"
   },
   {
     "type": 152,
@@ -844,7 +944,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4046,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box052"
   },
   {
     "type": 153,
@@ -855,7 +956,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4046,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box053"
   },
   {
     "type": 154,
@@ -866,7 +968,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4046,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box054"
   },
   {
     "type": 155,
@@ -877,7 +980,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4047,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box055"
   },
   {
     "type": 156,
@@ -888,7 +992,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4047,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box056"
   },
   {
     "type": 157,
@@ -899,7 +1004,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4047,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box057"
   },
   {
     "type": 158,
@@ -910,7 +1016,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4047,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box058"
   },
   {
     "type": 159,
@@ -921,7 +1028,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4047,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box059"
   },
   {
     "type": 160,
@@ -932,7 +1040,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4047,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box060"
   },
   {
     "type": 161,
@@ -943,7 +1052,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4047,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box061"
   },
   {
     "type": 162,
@@ -954,7 +1064,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4047,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box062"
   },
   {
     "type": 163,
@@ -965,7 +1076,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4047,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box063"
   },
   {
     "type": 164,
@@ -976,7 +1088,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4047,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box064"
   },
   {
     "type": 165,
@@ -987,7 +1100,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4048,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box065"
   },
   {
     "type": 166,
@@ -998,7 +1112,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4048,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box066"
   },
   {
     "type": 167,
@@ -1009,7 +1124,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4048,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box067"
   },
   {
     "type": 168,
@@ -1020,7 +1136,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4048,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box068"
   },
   {
     "type": 169,
@@ -1031,7 +1148,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4048,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box069"
   },
   {
     "type": 170,
@@ -1042,7 +1160,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4048,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box070"
   },
   {
     "type": 171,
@@ -1053,7 +1172,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4048,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box071"
   },
   {
     "type": 172,
@@ -1064,7 +1184,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4048,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box072"
   },
   {
     "type": 173,
@@ -1075,7 +1196,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4048,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box073"
   },
   {
     "type": 174,
@@ -1086,7 +1208,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4048,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-box074"
   },
   {
     "type": 202,
@@ -1097,7 +1220,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4050,
-    "storage": 1
+    "storage": 1,
+    "icon": "Goods-medl"
   },
   {
     "type": 999,
@@ -1108,7 +1232,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4055,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-sec"
   },
   {
     "type": 1000,
@@ -1119,7 +1244,8 @@
     "rechargeTime": 0,
     "rechargeMax": 0,
     "description": 4056,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-exp"
   },
   {
     "type": 1003,
@@ -1130,6 +1256,7 @@
     "rechargeTime": 300,
     "rechargeMax": 0,
     "description": 4059,
-    "storage": 0
+    "storage": 0,
+    "icon": "Goods-skil"
   }
 ]
