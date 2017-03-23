@@ -25,7 +25,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 2,
@@ -53,7 +55,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 3,
@@ -81,7 +85,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 4,
@@ -109,7 +115,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 5,
@@ -137,7 +145,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 6,
@@ -165,7 +175,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 7,
@@ -193,7 +205,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 8,
@@ -221,7 +235,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 9,
@@ -249,7 +265,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10,
@@ -277,7 +295,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 11,
@@ -305,7 +325,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 12,
@@ -333,7 +355,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 13,
@@ -361,7 +385,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 14,
@@ -389,7 +415,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 15,
@@ -417,7 +445,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 16,
@@ -445,7 +475,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 17,
@@ -473,7 +505,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 18,
@@ -501,7 +535,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 19,
@@ -529,7 +565,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 20,
@@ -557,7 +595,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 21,
@@ -585,7 +625,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 22,
@@ -613,7 +655,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 23,
@@ -641,7 +685,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 24,
@@ -669,7 +715,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 25,
@@ -697,7 +745,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 26,
@@ -725,7 +775,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 27,
@@ -753,7 +805,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 28,
@@ -781,7 +835,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 29,
@@ -809,7 +865,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 30,
@@ -837,7 +895,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 31,
@@ -865,7 +925,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 32,
@@ -893,7 +955,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 33,
@@ -921,7 +985,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 34,
@@ -949,7 +1015,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 35,
@@ -977,7 +1045,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 36,
@@ -1005,7 +1075,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 37,
@@ -1033,7 +1105,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 100,
@@ -1061,7 +1135,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 101,
@@ -1089,7 +1165,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 410,
@@ -1117,7 +1195,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 415,
@@ -1145,7 +1225,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 420,
@@ -1173,7 +1255,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 700,
@@ -1201,7 +1285,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 801,
@@ -1229,7 +1315,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 815,
@@ -1257,7 +1345,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 820,
@@ -1285,7 +1375,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 901,
@@ -1313,7 +1405,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 915,
@@ -1341,7 +1435,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 920,
@@ -1369,7 +1465,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 1020,
@@ -1397,7 +1495,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 1201,
@@ -1425,7 +1525,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 1601,
@@ -1453,7 +1555,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 1615,
@@ -1481,7 +1585,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 1620,
@@ -1509,7 +1615,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 1701,
@@ -1537,7 +1645,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 1710,
@@ -1565,7 +1675,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 1715,
@@ -1593,7 +1705,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 1801,
@@ -1621,7 +1735,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 1815,
@@ -1649,7 +1765,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 1820,
@@ -1677,7 +1795,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 1901,
@@ -1705,7 +1825,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 1915,
@@ -1733,7 +1855,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 2001,
@@ -1761,7 +1885,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 2015,
@@ -1789,7 +1915,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 2020,
@@ -1817,7 +1945,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 2115,
@@ -1845,7 +1975,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 2401,
@@ -1873,7 +2005,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 6002,
@@ -1901,7 +2035,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 8015,
@@ -1929,7 +2065,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10000,
@@ -1957,7 +2095,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10001,
@@ -1985,7 +2125,9 @@
     "atkPt": 1,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10002,
@@ -2013,7 +2155,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 1,
-    "rmStTn": 3
+    "rmStTn": 3,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10003,
@@ -2041,7 +2185,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 1,
-    "rmStTn": 99
+    "rmStTn": 99,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10004,
@@ -2069,7 +2215,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 2,
-    "rmStTn": 3
+    "rmStTn": 3,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10005,
@@ -2097,7 +2245,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 2,
-    "rmStTn": 99
+    "rmStTn": 99,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10006,
@@ -2125,7 +2275,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 4,
-    "rmStTn": 3
+    "rmStTn": 3,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10007,
@@ -2153,7 +2305,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 4,
-    "rmStTn": 99
+    "rmStTn": 99,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10008,
@@ -2181,7 +2335,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 8,
-    "rmStTn": 3
+    "rmStTn": 3,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10009,
@@ -2209,7 +2365,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 8,
-    "rmStTn": 99
+    "rmStTn": 99,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10010,
@@ -2237,7 +2395,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 32768,
-    "rmStTn": 3
+    "rmStTn": 3,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10011,
@@ -2265,7 +2425,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 32768,
-    "rmStTn": 99
+    "rmStTn": 99,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10012,
@@ -2293,7 +2455,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 32783,
-    "rmStTn": 3
+    "rmStTn": 3,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10013,
@@ -2321,7 +2485,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 32783,
-    "rmStTn": 99
+    "rmStTn": 99,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10014,
@@ -2349,7 +2515,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 16,
-    "rmStTn": 3
+    "rmStTn": 3,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10015,
@@ -2377,7 +2545,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 16,
-    "rmStTn": 99
+    "rmStTn": 99,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10016,
@@ -2405,7 +2575,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 32,
-    "rmStTn": 3
+    "rmStTn": 3,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10017,
@@ -2433,7 +2605,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 32,
-    "rmStTn": 99
+    "rmStTn": 99,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10018,
@@ -2461,7 +2635,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 64,
-    "rmStTn": 3
+    "rmStTn": 3,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10019,
@@ -2489,7 +2665,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 64,
-    "rmStTn": 99
+    "rmStTn": 99,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10020,
@@ -2517,7 +2695,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 256,
-    "rmStTn": 3
+    "rmStTn": 3,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10021,
@@ -2545,7 +2725,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 256,
-    "rmStTn": 99
+    "rmStTn": 99,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10022,
@@ -2573,7 +2755,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 368,
-    "rmStTn": 3
+    "rmStTn": 3,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10023,
@@ -2601,7 +2785,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 368,
-    "rmStTn": 99
+    "rmStTn": 99,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10024,
@@ -2629,7 +2815,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 128,
-    "rmStTn": 1
+    "rmStTn": 1,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10025,
@@ -2657,7 +2845,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 128,
-    "rmStTn": 99
+    "rmStTn": 99,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10026,
@@ -2685,7 +2875,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 512,
-    "rmStTn": 1
+    "rmStTn": 1,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10027,
@@ -2713,7 +2905,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 512,
-    "rmStTn": 99
+    "rmStTn": 99,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10028,
@@ -2741,7 +2935,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 1024,
-    "rmStTn": 1
+    "rmStTn": 1,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10029,
@@ -2769,7 +2965,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 1024,
-    "rmStTn": 99
+    "rmStTn": 99,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10030,
@@ -2797,7 +2995,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 10240,
-    "rmStTn": 1
+    "rmStTn": 1,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10031,
@@ -2825,7 +3025,9 @@
     "atkPt": 0,
     "rmStCn": 99,
     "rmStGp": 10240,
-    "rmStTn": 99
+    "rmStTn": 99,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10032,
@@ -2853,7 +3055,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 4069,
-    "rmStTn": 5
+    "rmStTn": 5,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10033,
@@ -2881,7 +3085,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 4069,
-    "rmStTn": 99
+    "rmStTn": 99,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 10034,
@@ -2909,7 +3115,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 16384,
-    "rmStTn": 99
+    "rmStTn": 99,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50013,
@@ -2937,7 +3145,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50014,
@@ -2965,7 +3175,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50024,
@@ -2993,7 +3205,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50032,
@@ -3021,7 +3235,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50034,
@@ -3049,7 +3265,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50042,
@@ -3077,7 +3295,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50043,
@@ -3105,7 +3325,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50044,
@@ -3133,7 +3355,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50063,
@@ -3161,7 +3385,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50073,
@@ -3189,7 +3415,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50074,
@@ -3217,7 +3445,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50082,
@@ -3245,7 +3475,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50083,
@@ -3273,7 +3505,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50104,
@@ -3301,7 +3535,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50112,
@@ -3329,7 +3565,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50113,
@@ -3357,7 +3595,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50114,
@@ -3385,7 +3625,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50123,
@@ -3413,7 +3655,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50124,
@@ -3441,7 +3685,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50132,
@@ -3469,7 +3715,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50133,
@@ -3497,7 +3745,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50134,
@@ -3525,7 +3775,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50139,
@@ -3553,7 +3805,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50144,
@@ -3581,7 +3835,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50154,
@@ -3609,7 +3865,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50162,
@@ -3637,7 +3895,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50163,
@@ -3665,7 +3925,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50164,
@@ -3693,7 +3955,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50174,
@@ -3721,7 +3985,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50183,
@@ -3749,7 +4015,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50192,
@@ -3777,7 +4045,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50194,
@@ -3805,7 +4075,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50199,
@@ -3833,7 +4105,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50202,
@@ -3861,7 +4135,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50204,
@@ -3889,7 +4165,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50205,
@@ -3917,7 +4195,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50209,
@@ -3945,7 +4225,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50211,
@@ -3973,7 +4255,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50212,
@@ -4001,7 +4285,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50213,
@@ -4029,7 +4315,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50214,
@@ -4057,7 +4345,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50222,
@@ -4085,7 +4375,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50223,
@@ -4113,7 +4405,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50224,
@@ -4141,7 +4435,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50263,
@@ -4169,7 +4465,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50264,
@@ -4197,7 +4495,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50273,
@@ -4225,7 +4525,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50274,
@@ -4253,7 +4555,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50282,
@@ -4281,7 +4585,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50283,
@@ -4309,7 +4615,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50284,
@@ -4337,7 +4645,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50304,
@@ -4365,7 +4675,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50313,
@@ -4393,7 +4705,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50314,
@@ -4421,7 +4735,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50323,
@@ -4449,7 +4765,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50324,
@@ -4477,7 +4795,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50333,
@@ -4505,7 +4825,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50334,
@@ -4533,7 +4855,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50342,
@@ -4561,7 +4885,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50343,
@@ -4589,7 +4915,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50354,
@@ -4617,7 +4945,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50363,
@@ -4645,7 +4975,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50373,
@@ -4673,7 +5005,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50374,
@@ -4701,7 +5035,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50375,
@@ -4729,7 +5065,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50382,
@@ -4757,7 +5095,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50383,
@@ -4785,7 +5125,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50384,
@@ -4813,7 +5155,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50393,
@@ -4841,7 +5185,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50394,
@@ -4869,7 +5215,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50402,
@@ -4897,7 +5245,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50403,
@@ -4925,7 +5275,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50404,
@@ -4953,7 +5305,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50412,
@@ -4981,7 +5335,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50413,
@@ -5009,7 +5365,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50414,
@@ -5037,7 +5395,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50422,
@@ -5065,7 +5425,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50423,
@@ -5093,7 +5455,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50424,
@@ -5121,7 +5485,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50453,
@@ -5149,7 +5515,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50454,
@@ -5177,7 +5545,39 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
+  },
+  {
+    "key": 50461,
+    "pfbName": "-",
+    "group": 32,
+    "thumbnail": "debuff-skii-02",
+    "spVal": 0,
+    "dotDamage": 0,
+    "unbeatableVal": 0,
+    "silenceVal": 0,
+    "stunVal": 0,
+    "aggroVal": 0,
+    "attackDamageBonus": 0,
+    "recvHealBonus": 0,
+    "maxHealthBonus": 0,
+    "speedBonus": 0,
+    "accuracyBonus": 0,
+    "luckBonus": 0,
+    "defenseBonus": -20,
+    "criticalChanceBonus": 0,
+    "criticalDamageBonus": 0,
+    "chance": 100,
+    "shield": 0,
+    "shldCn": 0,
+    "atkPt": 0,
+    "rmStCn": 0,
+    "rmStGp": 0,
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50462,
@@ -5205,7 +5605,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50463,
@@ -5233,7 +5635,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50464,
@@ -5261,7 +5665,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50469,
@@ -5283,13 +5689,15 @@
     "defenseBonus": 0,
     "criticalChanceBonus": 0,
     "criticalDamageBonus": 0,
-    "chance": 40,
+    "chance": 100,
     "shield": 0,
     "shldCn": 0,
     "atkPt": 0,
     "rmStCn": 1,
     "rmStGp": 1,
-    "rmStTn": 99
+    "rmStTn": 99,
+    "rmStStl": 1,
+    "rmStStlTn": 2
   },
   {
     "key": 50473,
@@ -5317,7 +5725,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 50474,
@@ -5345,7 +5755,129 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
+  },
+  {
+    "key": 50501,
+    "pfbName": "-",
+    "group": 64,
+    "thumbnail": "debuff-skii-03",
+    "spVal": 0,
+    "dotDamage": 0,
+    "unbeatableVal": 0,
+    "silenceVal": 0,
+    "stunVal": 0,
+    "aggroVal": 0,
+    "attackDamageBonus": 0,
+    "recvHealBonus": 0,
+    "maxHealthBonus": 0,
+    "speedBonus": 0,
+    "accuracyBonus": -10,
+    "luckBonus": 0,
+    "defenseBonus": 0,
+    "criticalChanceBonus": 0,
+    "criticalDamageBonus": 0,
+    "chance": 100,
+    "shield": 0,
+    "shldCn": 0,
+    "atkPt": 0,
+    "rmStCn": 0,
+    "rmStGp": 0,
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
+  },
+  {
+    "key": 50502,
+    "pfbName": "-",
+    "group": 64,
+    "thumbnail": "debuff-skii-03",
+    "spVal": 0,
+    "dotDamage": 0,
+    "unbeatableVal": 0,
+    "silenceVal": 0,
+    "stunVal": 0,
+    "aggroVal": 0,
+    "attackDamageBonus": 0,
+    "recvHealBonus": 0,
+    "maxHealthBonus": 0,
+    "speedBonus": 0,
+    "accuracyBonus": -30,
+    "luckBonus": 0,
+    "defenseBonus": 0,
+    "criticalChanceBonus": 0,
+    "criticalDamageBonus": 0,
+    "chance": 100,
+    "shield": 0,
+    "shldCn": 0,
+    "atkPt": 0,
+    "rmStCn": 0,
+    "rmStGp": 0,
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
+  },
+  {
+    "key": 50503,
+    "pfbName": "-",
+    "group": 64,
+    "thumbnail": "debuff-skii-03",
+    "spVal": 0,
+    "dotDamage": 0,
+    "unbeatableVal": 0,
+    "silenceVal": 0,
+    "stunVal": 0,
+    "aggroVal": 0,
+    "attackDamageBonus": 0,
+    "recvHealBonus": 0,
+    "maxHealthBonus": 0,
+    "speedBonus": 0,
+    "accuracyBonus": -20,
+    "luckBonus": 0,
+    "defenseBonus": 0,
+    "criticalChanceBonus": 0,
+    "criticalDamageBonus": 0,
+    "chance": 100,
+    "shield": 0,
+    "shldCn": 0,
+    "atkPt": 0,
+    "rmStCn": 0,
+    "rmStGp": 0,
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
+  },
+  {
+    "key": 50504,
+    "pfbName": "Fx_unit5050_Shield",
+    "group": 16384,
+    "thumbnail": "-",
+    "spVal": 0,
+    "dotDamage": 0,
+    "unbeatableVal": 0,
+    "silenceVal": 0,
+    "stunVal": 0,
+    "aggroVal": 0,
+    "attackDamageBonus": 0,
+    "recvHealBonus": 0,
+    "maxHealthBonus": 0,
+    "speedBonus": 0,
+    "accuracyBonus": 0,
+    "luckBonus": 0,
+    "defenseBonus": 0,
+    "criticalChanceBonus": 0,
+    "criticalDamageBonus": 0,
+    "chance": 100,
+    "shield": 113,
+    "shldCn": 0,
+    "atkPt": 0,
+    "rmStCn": 0,
+    "rmStGp": 0,
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 59964,
@@ -5373,7 +5905,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 59972,
@@ -5401,7 +5935,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 59973,
@@ -5429,7 +5965,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 59974,
@@ -5457,7 +5995,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 59982,
@@ -5485,7 +6025,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 59983,
@@ -5513,7 +6055,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 59984,
@@ -5541,7 +6085,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 61916,
@@ -5569,7 +6115,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 61917,
@@ -5597,7 +6145,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 61918,
@@ -5625,7 +6175,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 61921,
@@ -5653,7 +6205,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 61922,
@@ -5681,7 +6235,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 61923,
@@ -5709,7 +6265,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 62016,
@@ -5737,7 +6295,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 62017,
@@ -5765,7 +6325,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 62018,
@@ -5793,7 +6355,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 62021,
@@ -5821,7 +6385,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 62022,
@@ -5849,7 +6415,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 62023,
@@ -5877,7 +6445,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 63417,
@@ -5905,7 +6475,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 63419,
@@ -5933,7 +6505,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 63424,
@@ -5961,7 +6535,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 63426,
@@ -5989,7 +6565,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 63517,
@@ -6017,7 +6595,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 63519,
@@ -6045,7 +6625,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 63524,
@@ -6073,7 +6655,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 63526,
@@ -6101,7 +6685,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 63531,
@@ -6129,7 +6715,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 63533,
@@ -6157,7 +6745,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 64412,
@@ -6185,7 +6775,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 64414,
@@ -6213,7 +6805,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 64421,
@@ -6241,7 +6835,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 64425,
@@ -6269,7 +6865,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 64512,
@@ -6297,7 +6895,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 64514,
@@ -6325,7 +6925,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 64521,
@@ -6353,7 +6955,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 64525,
@@ -6381,7 +6985,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 64532,
@@ -6409,7 +7015,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 65917,
@@ -6437,7 +7045,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 65919,
@@ -6465,7 +7075,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 65925,
@@ -6493,7 +7105,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 65927,
@@ -6521,7 +7135,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 65929,
@@ -6549,7 +7165,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 66017,
@@ -6577,7 +7195,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 66019,
@@ -6605,7 +7225,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 66025,
@@ -6633,7 +7255,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 66027,
@@ -6661,7 +7285,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 66029,
@@ -6689,7 +7315,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 66034,
@@ -6717,7 +7345,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 66036,
@@ -6745,7 +7375,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 66117,
@@ -6773,7 +7405,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 66118,
@@ -6801,7 +7435,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 66119,
@@ -6829,7 +7465,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 66217,
@@ -6857,7 +7495,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 66218,
@@ -6885,7 +7525,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 66219,
@@ -6913,7 +7555,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 66317,
@@ -6941,7 +7585,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 66318,
@@ -6969,7 +7615,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 66319,
@@ -6997,7 +7645,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 67612,
@@ -7025,7 +7675,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 67613,
@@ -7053,7 +7705,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 67615,
@@ -7081,7 +7735,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 67616,
@@ -7109,7 +7765,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 67712,
@@ -7137,7 +7795,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 67713,
@@ -7165,7 +7825,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 67715,
@@ -7193,7 +7855,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 67716,
@@ -7221,7 +7885,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 67812,
@@ -7249,7 +7915,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 67813,
@@ -7277,7 +7945,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 67815,
@@ -7305,7 +7975,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 67816,
@@ -7333,7 +8005,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 68833,
@@ -7361,7 +8035,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 68917,
@@ -7389,7 +8065,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 68919,
@@ -7417,7 +8095,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 69017,
@@ -7445,7 +8125,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 69019,
@@ -7473,7 +8155,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 69912,
@@ -7501,7 +8185,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 70012,
@@ -7529,7 +8215,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 77411,
@@ -7557,7 +8245,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 77413,
@@ -7585,7 +8275,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 77415,
@@ -7613,7 +8305,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 77511,
@@ -7641,7 +8335,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 77513,
@@ -7669,7 +8365,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 77515,
@@ -7697,7 +8395,189 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
+  },
+  {
+    "key": 82911,
+    "pfbName": "Fx_Buffs_Burning01",
+    "group": 0,
+    "thumbnail": "-",
+    "spVal": 0,
+    "dotDamage": 2600,
+    "unbeatableVal": 0,
+    "silenceVal": 0,
+    "stunVal": 0,
+    "aggroVal": 0,
+    "attackDamageBonus": 0,
+    "recvHealBonus": 0,
+    "maxHealthBonus": 0,
+    "speedBonus": 0,
+    "accuracyBonus": 0,
+    "luckBonus": 0,
+    "defenseBonus": 0,
+    "criticalChanceBonus": 0,
+    "criticalDamageBonus": 0,
+    "chance": 100,
+    "shield": 0,
+    "shldCn": 0,
+    "atkPt": 0,
+    "rmStCn": 0,
+    "rmStGp": 0,
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
+  },
+  {
+    "key": 82913,
+    "pfbName": "Fx_Buffs_Burning01",
+    "group": 0,
+    "thumbnail": "-",
+    "spVal": 0,
+    "dotDamage": 2600,
+    "unbeatableVal": 0,
+    "silenceVal": 0,
+    "stunVal": 0,
+    "aggroVal": 0,
+    "attackDamageBonus": 0,
+    "recvHealBonus": 0,
+    "maxHealthBonus": 0,
+    "speedBonus": 0,
+    "accuracyBonus": 0,
+    "luckBonus": 0,
+    "defenseBonus": 0,
+    "criticalChanceBonus": 0,
+    "criticalDamageBonus": 0,
+    "chance": 100,
+    "shield": 0,
+    "shldCn": 0,
+    "atkPt": 0,
+    "rmStCn": 0,
+    "rmStGp": 0,
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
+  },
+  {
+    "key": 83011,
+    "pfbName": "Fx_Buffs_Burning01",
+    "group": 0,
+    "thumbnail": "-",
+    "spVal": 0,
+    "dotDamage": 2600,
+    "unbeatableVal": 0,
+    "silenceVal": 0,
+    "stunVal": 0,
+    "aggroVal": 0,
+    "attackDamageBonus": 0,
+    "recvHealBonus": 0,
+    "maxHealthBonus": 0,
+    "speedBonus": 0,
+    "accuracyBonus": 0,
+    "luckBonus": 0,
+    "defenseBonus": 0,
+    "criticalChanceBonus": 0,
+    "criticalDamageBonus": 0,
+    "chance": 100,
+    "shield": 0,
+    "shldCn": 0,
+    "atkPt": 0,
+    "rmStCn": 0,
+    "rmStGp": 0,
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
+  },
+  {
+    "key": 83013,
+    "pfbName": "Fx_Buffs_Burning01",
+    "group": 0,
+    "thumbnail": "-",
+    "spVal": 0,
+    "dotDamage": 2600,
+    "unbeatableVal": 0,
+    "silenceVal": 0,
+    "stunVal": 0,
+    "aggroVal": 0,
+    "attackDamageBonus": 0,
+    "recvHealBonus": 0,
+    "maxHealthBonus": 0,
+    "speedBonus": 0,
+    "accuracyBonus": 0,
+    "luckBonus": 0,
+    "defenseBonus": 0,
+    "criticalChanceBonus": 0,
+    "criticalDamageBonus": 0,
+    "chance": 100,
+    "shield": 0,
+    "shldCn": 0,
+    "atkPt": 0,
+    "rmStCn": 0,
+    "rmStGp": 0,
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
+  },
+  {
+    "key": 83912,
+    "pfbName": "Fx_Buffs_Burning01",
+    "group": 0,
+    "thumbnail": "-",
+    "spVal": 0,
+    "dotDamage": 4000,
+    "unbeatableVal": 0,
+    "silenceVal": 0,
+    "stunVal": 0,
+    "aggroVal": 0,
+    "attackDamageBonus": 0,
+    "recvHealBonus": 0,
+    "maxHealthBonus": 0,
+    "speedBonus": 0,
+    "accuracyBonus": 0,
+    "luckBonus": 0,
+    "defenseBonus": 0,
+    "criticalChanceBonus": 0,
+    "criticalDamageBonus": 0,
+    "chance": 100,
+    "shield": 0,
+    "shldCn": 0,
+    "atkPt": 0,
+    "rmStCn": 0,
+    "rmStGp": 0,
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
+  },
+  {
+    "key": 84012,
+    "pfbName": "Fx_Buffs_Burning01",
+    "group": 0,
+    "thumbnail": "-",
+    "spVal": 0,
+    "dotDamage": 4000,
+    "unbeatableVal": 0,
+    "silenceVal": 0,
+    "stunVal": 0,
+    "aggroVal": 0,
+    "attackDamageBonus": 0,
+    "recvHealBonus": 0,
+    "maxHealthBonus": 0,
+    "speedBonus": 0,
+    "accuracyBonus": 0,
+    "luckBonus": 0,
+    "defenseBonus": 0,
+    "criticalChanceBonus": 0,
+    "criticalDamageBonus": 0,
+    "chance": 100,
+    "shield": 0,
+    "shldCn": 0,
+    "atkPt": 0,
+    "rmStCn": 0,
+    "rmStGp": 0,
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 3001211,
@@ -7725,7 +8605,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 8000072,
@@ -7753,7 +8635,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 8001031,
@@ -7781,7 +8665,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 8001071,
@@ -7809,7 +8695,9 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   },
   {
     "key": 8001111,
@@ -7837,6 +8725,8 @@
     "atkPt": 0,
     "rmStCn": 0,
     "rmStGp": 0,
-    "rmStTn": 0
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0
   }
 ]
