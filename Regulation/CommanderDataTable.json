@@ -592,6 +592,22 @@
     "explanation": 1015042
   },
   {
+    "id": 43,
+    "S_Idx": 1005043,
+    "C_Type": 1,
+    "unitId": 5043,
+    "resourceId": "n_013",
+    "_isAcademyExposure": "Y",
+    "academyExposureRate": 5,
+    "grade": 3,
+    "recruitHonor": 100,
+    "recruitGold": 2000,
+    "overlapReward": 35,
+    "medalExplanation": 1025043,
+    "favormax": 30,
+    "explanation": 1015043
+  },
+  {
     "id": 45,
     "S_Idx": 1005045,
     "C_Type": 1,
