@@ -217,7 +217,11 @@
   },
   {
     "key": "GUILD_OCCUPY_DEFEAT_SCORE",
-    "value": "-25"
+    "value": "-50"
+  },
+  {
+    "key": "GUILD_OCCUPY_GAPSCORE_MAX",
+    "value": "50"
   },
   {
     "key": "GUILD_OCCUPY_LEVEL",
@@ -269,7 +273,7 @@
   },
   {
     "key": "GUILD_OCCUPY_TIE_SCORE",
-    "value": "15"
+    "value": "50"
   },
   {
     "key": "GUILD_OCCUPY_VICTORY_REWARD",
@@ -277,7 +281,7 @@
   },
   {
     "key": "GUILD_OCCUPY_VICTORY_SCORE",
-    "value": "50"
+    "value": "100"
   },
   {
     "key": "GUILD_POINT_DAILY_MAX",
