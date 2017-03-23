@@ -394,102 +394,17 @@
     "type": 5,
     "grade": 1,
     "minLevel": 1,
-    "displayCount": 10,
+    "displayCount": 6,
     "g_idx": 2,
     "startRechargePrice": 50,
     "numberMeasure": 3,
-    "priceAddPercent": 200,
+    "priceAddPercent": 100,
     "openTime": [
+      "09:00",
+      "12:00",
+      "18:00",
       "21:00",
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "type": 5,
-    "grade": 2,
-    "minLevel": 15,
-    "displayCount": 10,
-    "g_idx": 2,
-    "startRechargePrice": 50,
-    "numberMeasure": 3,
-    "priceAddPercent": 200,
-    "openTime": [
-      "21:00",
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "type": 5,
-    "grade": 3,
-    "minLevel": 25,
-    "displayCount": 10,
-    "g_idx": 2,
-    "startRechargePrice": 50,
-    "numberMeasure": 3,
-    "priceAddPercent": 200,
-    "openTime": [
-      "21:00",
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "type": 5,
-    "grade": 4,
-    "minLevel": 35,
-    "displayCount": 10,
-    "g_idx": 2,
-    "startRechargePrice": 50,
-    "numberMeasure": 3,
-    "priceAddPercent": 200,
-    "openTime": [
-      "21:00",
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "type": 5,
-    "grade": 5,
-    "minLevel": 50,
-    "displayCount": 10,
-    "g_idx": 2,
-    "startRechargePrice": 50,
-    "numberMeasure": 3,
-    "priceAddPercent": 200,
-    "openTime": [
-      "21:00",
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "type": 5,
-    "grade": 6,
-    "minLevel": 70,
-    "displayCount": 10,
-    "g_idx": 2,
-    "startRechargePrice": 50,
-    "numberMeasure": 3,
-    "priceAddPercent": 200,
-    "openTime": [
-      "21:00",
-      0,
-      0,
-      0,
-      0
+      "24:00"
     ]
   },
   {
