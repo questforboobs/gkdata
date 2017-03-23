@@ -1150,6 +1150,66 @@
     "voicesound": "voice_50_07"
   },
   {
+    "index": 54,
+    "type": 4,
+    "voicesound": "voice_54_01"
+  },
+  {
+    "index": 54,
+    "type": 5,
+    "voicesound": "voice_54_02"
+  },
+  {
+    "index": 54,
+    "type": 7,
+    "voicesound": "voice_54_04"
+  },
+  {
+    "index": 54,
+    "type": 8,
+    "voicesound": "voice_54_05"
+  },
+  {
+    "index": 54,
+    "type": 9,
+    "voicesound": "voice_54_06"
+  },
+  {
+    "index": 54,
+    "type": 10,
+    "voicesound": "voice_54_07"
+  },
+  {
+    "index": 55,
+    "type": 4,
+    "voicesound": "voice_55_01"
+  },
+  {
+    "index": 55,
+    "type": 6,
+    "voicesound": "voice_55_03"
+  },
+  {
+    "index": 55,
+    "type": 7,
+    "voicesound": "voice_55_04"
+  },
+  {
+    "index": 55,
+    "type": 8,
+    "voicesound": "voice_55_05"
+  },
+  {
+    "index": 55,
+    "type": 9,
+    "voicesound": "voice_55_06"
+  },
+  {
+    "index": 55,
+    "type": 10,
+    "voicesound": "voice_55_07"
+  },
+  {
     "index": 999,
     "type": 4,
     "voicesound": "voice_999_01"
