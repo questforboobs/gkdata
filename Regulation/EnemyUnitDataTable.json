@@ -46363,7 +46363,7 @@
     "id": 7156,
     "wave": 1,
     "unitId": 715611,
-    "unitLevel": 79,
+    "unitLevel": 84,
     "unitPosition": 5,
     "unitGrade": 1,
     "unitClass": 1,
@@ -47213,7 +47213,7 @@
     "id": 7256,
     "wave": 1,
     "unitId": 725611,
-    "unitLevel": 79,
+    "unitLevel": 84,
     "unitPosition": 1,
     "unitGrade": 1,
     "unitClass": 1,
@@ -47230,7 +47230,7 @@
     "id": 7256,
     "wave": 1,
     "unitId": 725612,
-    "unitLevel": 79,
+    "unitLevel": 84,
     "unitPosition": 3,
     "unitGrade": 1,
     "unitClass": 1,
@@ -47247,7 +47247,7 @@
     "id": 7256,
     "wave": 1,
     "unitId": 725613,
-    "unitLevel": 79,
+    "unitLevel": 84,
     "unitPosition": 8,
     "unitGrade": 1,
     "unitClass": 1,
@@ -47354,10 +47354,10 @@
     "unitGrade": 2,
     "unitClass": 8,
     "skillLevel": [
-      15,
-      15,
-      14,
-      6
+      34,
+      34,
+      33,
+      25
     ],
     "unitScale": 100
   },
@@ -47371,10 +47371,10 @@
     "unitGrade": 2,
     "unitClass": 10,
     "skillLevel": [
-      34,
-      34,
-      33,
-      25
+      50,
+      50,
+      49,
+      41
     ],
     "unitScale": 100
   },
@@ -47405,10 +47405,10 @@
     "unitGrade": 2,
     "unitClass": 10,
     "skillLevel": [
-      34,
-      34,
-      33,
-      25
+      50,
+      50,
+      49,
+      41
     ],
     "unitScale": 100
   },
@@ -47422,10 +47422,10 @@
     "unitGrade": 3,
     "unitClass": 12,
     "skillLevel": [
-      50,
-      50,
-      49,
-      41
+      64,
+      64,
+      63,
+      55
     ],
     "unitScale": 100
   },
@@ -47439,10 +47439,10 @@
     "unitGrade": 3,
     "unitClass": 12,
     "skillLevel": [
-      50,
-      50,
-      49,
-      41
+      64,
+      64,
+      63,
+      55
     ],
     "unitScale": 100
   },
@@ -47456,10 +47456,10 @@
     "unitGrade": 4,
     "unitClass": 13,
     "skillLevel": [
-      64,
-      64,
-      63,
-      55
+      74,
+      74,
+      73,
+      65
     ],
     "unitScale": 100
   },
@@ -47473,23 +47473,6 @@
     "unitGrade": 4,
     "unitClass": 13,
     "skillLevel": [
-      64,
-      64,
-      63,
-      55
-    ],
-    "unitScale": 100
-  },
-  {
-    "index": 2793,
-    "id": 7306,
-    "wave": 1,
-    "unitId": 5004,
-    "unitLevel": 79,
-    "unitPosition": 5,
-    "unitGrade": 5,
-    "unitClass": 15,
-    "skillLevel": [
       74,
       74,
       73,
@@ -47498,19 +47481,36 @@
     "unitScale": 100
   },
   {
+    "index": 2793,
+    "id": 7306,
+    "wave": 1,
+    "unitId": 5004,
+    "unitLevel": 84,
+    "unitPosition": 5,
+    "unitGrade": 5,
+    "unitClass": 16,
+    "skillLevel": [
+      84,
+      84,
+      83,
+      75
+    ],
+    "unitScale": 100
+  },
+  {
     "index": 2794,
     "id": 7306,
     "wave": 1,
     "unitId": 5011,
-    "unitLevel": 79,
+    "unitLevel": 84,
     "unitPosition": 8,
     "unitGrade": 5,
-    "unitClass": 15,
+    "unitClass": 16,
     "skillLevel": [
-      79,
-      79,
-      78,
-      70
+      84,
+      84,
+      83,
+      75
     ],
     "unitScale": 100
   },
@@ -48233,7 +48233,7 @@
     "id": 7356,
     "wave": 1,
     "unitId": 735611,
-    "unitLevel": 79,
+    "unitLevel": 84,
     "unitPosition": 1,
     "unitGrade": 1,
     "unitClass": 1,
@@ -48250,7 +48250,7 @@
     "id": 7356,
     "wave": 1,
     "unitId": 735612,
-    "unitLevel": 79,
+    "unitLevel": 84,
     "unitPosition": 2,
     "unitGrade": 1,
     "unitClass": 1,
@@ -48267,7 +48267,7 @@
     "id": 7356,
     "wave": 1,
     "unitId": 735613,
-    "unitLevel": 79,
+    "unitLevel": 84,
     "unitPosition": 3,
     "unitGrade": 1,
     "unitClass": 1,
@@ -48284,7 +48284,7 @@
     "id": 7356,
     "wave": 1,
     "unitId": 735614,
-    "unitLevel": 79,
+    "unitLevel": 84,
     "unitPosition": 8,
     "unitGrade": 1,
     "unitClass": 1,
