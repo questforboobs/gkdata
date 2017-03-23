@@ -7,7 +7,7 @@
     "startRecharge": 5,
     "vipMeasure": 1,
     "rechargeAddPoint": 1,
-    "startRechargePrice": 50,
+    "startRechargePrice": 25,
     "numberMeasure": 2,
     "priceAddPercent": 200,
     "rechargeAmount": 120
@@ -124,7 +124,7 @@
     "startRecharge": 9,
     "vipMeasure": 1,
     "rechargeAddPoint": 2,
-    "startRechargePrice": 10,
+    "startRechargePrice": 5,
     "numberMeasure": 3,
     "priceAddPercent": 200,
     "rechargeAmount": 1

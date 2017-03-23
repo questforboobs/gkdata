@@ -1260,6 +1260,41 @@
     "voicesound": "voice_55_07"
   },
   {
+    "index": 56,
+    "type": 4,
+    "voicesound": "voice_56_01"
+  },
+  {
+    "index": 56,
+    "type": 5,
+    "voicesound": "voice_56_02"
+  },
+  {
+    "index": 56,
+    "type": 6,
+    "voicesound": "voice_56_03"
+  },
+  {
+    "index": 56,
+    "type": 7,
+    "voicesound": "voice_56_04"
+  },
+  {
+    "index": 56,
+    "type": 8,
+    "voicesound": "voice_56_05"
+  },
+  {
+    "index": 56,
+    "type": 9,
+    "voicesound": "voice_56_06"
+  },
+  {
+    "index": 56,
+    "type": 10,
+    "voicesound": "voice_56_07"
+  },
+  {
     "index": 999,
     "type": 4,
     "voicesound": "voice_999_01"

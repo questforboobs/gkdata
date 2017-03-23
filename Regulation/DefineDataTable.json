@@ -8,6 +8,18 @@
     "value": "3"
   },
   {
+    "key": "ARENA_3WAVE_END_TURN",
+    "value": "58"
+  },
+  {
+    "key": "ARENA_3WAVE_MATCHING_REFRESH_COOL_TIME",
+    "value": "10"
+  },
+  {
+    "key": "ARENA_3WAVE_OPEN_LEVEL",
+    "value": "35"
+  },
+  {
     "key": "ARENA_END_TURN",
     "value": "18"
   },
@@ -52,6 +64,10 @@
     "value": "300"
   },
   {
+    "key": "BATTLE_SHARE_DELAY",
+    "value": "60"
+  },
+  {
     "key": "BATTLE_STRUGGLE_END_TIME",
     "value": "19:00"
   },
@@ -86,6 +102,22 @@
   {
     "key": "ENEMY_DIFFICULTY",
     "value": "35"
+  },
+  {
+    "key": "EQUIPITEM_1SLOT_OPEN_CLASS_LIMIT",
+    "value": "9"
+  },
+  {
+    "key": "EQUIPITEM_2SLOT_OPEN_CLASS_LIMIT",
+    "value": "11"
+  },
+  {
+    "key": "EQUIPITEM_3SLOT_OPEN_CLASS_LIMIT",
+    "value": "13"
+  },
+  {
+    "key": "EQUIPITEM_4SLOT_OPEN_CLASS_LIMIT",
+    "value": "15"
   },
   {
     "key": "FIRST_START_BULLET",
@@ -133,11 +165,11 @@
   },
   {
     "key": "GUILD_CHAT_COUNT",
-    "value": "5"
+    "value": "1"
   },
   {
     "key": "GUILD_CHAT_DELAY",
-    "value": "30"
+    "value": "1"
   },
   {
     "key": "GUILD_CREATION_PRICE",
@@ -298,6 +330,10 @@
   {
     "key": "NONPERCENT_RAID",
     "value": "30"
+  },
+  {
+    "key": "NPC_START_UNO",
+    "value": "3000000"
   },
   {
     "key": "NPC_THUMBNAIL",

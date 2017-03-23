@@ -1,6 +1,54 @@
 [
   {
-    "csid": 80001,
-    "quarter": 8000101
+    "csid": 101,
+    "quarter": 10101
+  },
+  {
+    "csid": 102,
+    "quarter": 10201
+  },
+  {
+    "csid": 103,
+    "quarter": 10301
+  },
+  {
+    "csid": 104,
+    "quarter": 10401
+  },
+  {
+    "csid": 201,
+    "quarter": 20101
+  },
+  {
+    "csid": 202,
+    "quarter": 20201
+  },
+  {
+    "csid": 203,
+    "quarter": 20301
+  },
+  {
+    "csid": 204,
+    "quarter": 20401
+  },
+  {
+    "csid": 501,
+    "quarter": 50101
+  },
+  {
+    "csid": 502,
+    "quarter": 50201
+  },
+  {
+    "csid": 502,
+    "quarter": 50202
+  },
+  {
+    "csid": 503,
+    "quarter": 50301
+  },
+  {
+    "csid": 504,
+    "quarter": 50401
   }
 ]
