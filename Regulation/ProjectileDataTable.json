@@ -5963,7 +5963,7 @@
     "splashPattern": "000000000000P000000000000",
     "shouldRenderSplash": true,
     "clingingTime": 0,
-    "clingingTurn": 1,
+    "clingingTurn": 2,
     "statusEffectDrks": [
       59973,
       0,
