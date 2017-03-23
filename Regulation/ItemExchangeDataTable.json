@@ -795,6 +795,21 @@
     "position3": 0
   },
   {
+    "idx": 152,
+    "type": 2,
+    "typeidx": 57,
+    "display": 2,
+    "pricetype": 1,
+    "pricetypeidx": 4,
+    "price": 500,
+    "navigatortype1": 7,
+    "position1": 0,
+    "navigatortype2": 0,
+    "position2": 0,
+    "navigatortype3": 0,
+    "position3": 0
+  },
+  {
     "idx": 142,
     "type": 2,
     "typeidx": 996,

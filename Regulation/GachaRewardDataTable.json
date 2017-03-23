@@ -261,7 +261,7 @@
     "rewardType": 3,
     "rewardId": 43,
     "rewardCount": 1,
-    "rate": 500
+    "rate": 20
   },
   {
     "index": 33,
@@ -469,7 +469,7 @@
     "rewardType": 2,
     "rewardId": 43,
     "rewardCount": 2,
-    "rate": 1400
+    "rate": 700
   },
   {
     "index": 59,
