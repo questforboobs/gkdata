@@ -1,6 +1,6 @@
 {
   "Localization.txt": [
-    "20170124063521",
+    "20170125152850",
     5280128
   ],
   "DailyBonusDataTable.json": [
@@ -192,8 +192,8 @@
     6444
   ],
   "GuildOccupyDataTable.json": [
-    "20170124010832",
-    6272
+    "20170125151318",
+    6232
   ],
   "GuildLevelInfoDataTable.json": [
     "20161129020715",
@@ -248,7 +248,7 @@
     53080
   ],
   "DefineDataTable.json": [
-    "20170124010649",
+    "20170125151306",
     6144
   ],
   "DailyEventDataTable.json": [
@@ -284,7 +284,7 @@
     8704
   ],
   "CarnivalTypeDataTable.json": [
-    "20170124010458",
+    "20170125151249",
     31832
   ],
   "CarnivalDataTable.json": [
@@ -320,7 +320,7 @@
     1406720
   ],
   "BattleTimeDataTable.json": [
-    "20170124063542",
+    "20170125151227",
     1920
   ],
   "WaveBattleDataTable.json": [
