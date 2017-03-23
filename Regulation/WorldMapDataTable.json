@@ -1,0 +1,110 @@
+[
+  {
+    "id": 0,
+    "name": 5408,
+    "unlockUserLevel": 1,
+    "resourceId": 0,
+    "c_idx": 5,
+    "resource": "c_005_t3",
+    "bgm": "Pocket_BGM_Chapter_001"
+  },
+  {
+    "id": 1,
+    "name": 5398,
+    "unlockUserLevel": 1,
+    "resourceId": 8,
+    "c_idx": 26,
+    "resource": "c_026_t3",
+    "bgm": "Pocket_BGM_Chapter_001"
+  },
+  {
+    "id": 2,
+    "name": 5399,
+    "unlockUserLevel": 1,
+    "resourceId": 3,
+    "c_idx": 14,
+    "resource": "c_014_t3",
+    "bgm": "Pocket_BGM_Chapter_001"
+  },
+  {
+    "id": 3,
+    "name": 5400,
+    "unlockUserLevel": 1,
+    "resourceId": 6,
+    "c_idx": 19,
+    "resource": "c_019_t3",
+    "bgm": "Pocket_BGM_Chapter_001"
+  },
+  {
+    "id": 4,
+    "name": 5401,
+    "unlockUserLevel": 1,
+    "resourceId": 1,
+    "c_idx": 12,
+    "resource": "c_012_t3",
+    "bgm": "Pocket_BGM_Chapter_001"
+  },
+  {
+    "id": 5,
+    "name": 5402,
+    "unlockUserLevel": 1,
+    "resourceId": 7,
+    "c_idx": 7,
+    "resource": "c_007_t3",
+    "bgm": "Pocket_BGM_Chapter_001"
+  },
+  {
+    "id": 6,
+    "name": 5403,
+    "unlockUserLevel": 1,
+    "resourceId": 2,
+    "c_idx": 10,
+    "resource": "c_010_t3",
+    "bgm": "Pocket_BGM_Chapter_001"
+  },
+  {
+    "id": 7,
+    "name": 5404,
+    "unlockUserLevel": 1,
+    "resourceId": 5,
+    "c_idx": 27,
+    "resource": "c_027_t3",
+    "bgm": "Pocket_BGM_Chapter_001"
+  },
+  {
+    "id": 8,
+    "name": 5405,
+    "unlockUserLevel": 1,
+    "resourceId": 9,
+    "c_idx": 20,
+    "resource": "c_020_t3",
+    "bgm": "Pocket_BGM_Chapter_001"
+  },
+  {
+    "id": 9,
+    "name": 5406,
+    "unlockUserLevel": 1,
+    "resourceId": 4,
+    "c_idx": 30,
+    "resource": "c_030_t3",
+    "bgm": "Pocket_BGM_Chapter_001"
+  },
+  {
+    "id": 10,
+    "name": 5407,
+    "unlockUserLevel": 1,
+    "resourceId": 10,
+    "c_idx": 16,
+    "resource": "c_016_t3",
+    "bgm": "Pocket_BGM_Chapter_001"
+  },
+  {
+    "id": 11,
+    "name": 6145,
+    "unlockUserLevel": 1,
+    "resourceId": 11,
+    "c_idx": 47,
+    "resource": "c_047_t3",
+    "bgm": "Pocket_BGM_Chapter_001"
+  }
+]

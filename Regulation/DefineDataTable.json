@@ -1,0 +1,402 @@
+[
+  {
+    "key": "ANNIHILATE_END_TURN",
+    "value": "8"
+  },
+  {
+    "key": "ANNIHILATE_PILOT_CLASS_LIMIT",
+    "value": "3"
+  },
+  {
+    "key": "ARENA_END_TURN",
+    "value": "18"
+  },
+  {
+    "key": "ARENA_NONPERCENT",
+    "value": "30"
+  },
+  {
+    "key": "ARENA_POINT_LOSE",
+    "value": "1"
+  },
+  {
+    "key": "ARENA_POINT_WIN",
+    "value": 2
+  },
+  {
+    "key": "ARENA_RANK_LOSE",
+    "value": "0"
+  },
+  {
+    "key": "ARENA_RANK_WIN",
+    "value": "30"
+  },
+  {
+    "key": "ARENA_RANK_WINNING",
+    "value": "3"
+  },
+  {
+    "key": "ARENA_RANK_WINNING_MAX",
+    "value": "30"
+  },
+  {
+    "key": "BATTLE_CLEAR_MAX_COUNT",
+    "value": "10"
+  },
+  {
+    "key": "BATTLE_ENTRY_BULLET_PERCENT",
+    "value": "25"
+  },
+  {
+    "key": "BATTLE_MAX_PROCESS_TIME",
+    "value": "300"
+  },
+  {
+    "key": "BATTLE_STRUGGLE_END_TIME",
+    "value": "19:00"
+  },
+  {
+    "key": "BATTLE_STRUGGLE_START_TIME",
+    "value": "15:00"
+  },
+  {
+    "key": "CASH_CONSUME_SORT",
+    "value": "0"
+  },
+  {
+    "key": "COMMANDER_EMPLOY_TRANSMISSION_MEDAL_PERCENT",
+    "value": "70"
+  },
+  {
+    "key": "DAILYBATTLE_END_TURN",
+    "value": 5
+  },
+  {
+    "key": "DAILYMISSION_MIN_VIP",
+    "value": "10"
+  },
+  {
+    "key": "DATE_FAVOR_UP",
+    "value": "10"
+  },
+  {
+    "key": "DATE_PRESENT_COUNT",
+    "value": "600"
+  },
+  {
+    "key": "ENEMY_DIFFICULTY",
+    "value": "35"
+  },
+  {
+    "key": "FIRST_START_BULLET",
+    "value": "60"
+  },
+  {
+    "key": "FIRST_START_CASH",
+    "value": "0"
+  },
+  {
+    "key": "FIRST_START_GET_COMMANDER_ID",
+    "value": "1"
+  },
+  {
+    "key": "FIRST_START_GOLD",
+    "value": "5000"
+  },
+  {
+    "key": "FIRST_START_TRAINING_TICKET",
+    "value": "0"
+  },
+  {
+    "key": "FREE_GACHA_RECHARGE_TIME",
+    "value": "6:00"
+  },
+  {
+    "key": "GOLD_CONSUME_SORT",
+    "value": "0"
+  },
+  {
+    "key": "GUILD_BOARD_PAGE_COUNT",
+    "value": "3"
+  },
+  {
+    "key": "GUILD_BOARD_PAGE_DELAY",
+    "value": "5"
+  },
+  {
+    "key": "GUILD_BOARD_REFRESH_DELAY",
+    "value": "3"
+  },
+  {
+    "key": "GUILD_BOARD_SEND_DELAY",
+    "value": "3"
+  },
+  {
+    "key": "GUILD_CHAT_COUNT",
+    "value": "5"
+  },
+  {
+    "key": "GUILD_CHAT_DELAY",
+    "value": "30"
+  },
+  {
+    "key": "GUILD_CREATION_PRICE",
+    "value": "300"
+  },
+  {
+    "key": "GUILD_DISPATCH_LIMIT",
+    "value": "1"
+  },
+  {
+    "key": "GUILD_EMBLEM_CHANGE_PRICE",
+    "value": "100"
+  },
+  {
+    "key": "GUILD_EMPLOY_LIMIT",
+    "value": 5
+  },
+  {
+    "key": "GUILD_EXPIRE_COUNT",
+    "value": "5"
+  },
+  {
+    "key": "GUILD_LIST_COUNT",
+    "value": "20"
+  },
+  {
+    "key": "GUILD_MAX_AIDE",
+    "value": "2"
+  },
+  {
+    "key": "GUILD_NAME_CHANGE_PRICE",
+    "value": "500"
+  },
+  {
+    "key": "GUILD_OCCUPY_BATTLE_END_TURN",
+    "value": "18"
+  },
+  {
+    "key": "GUILD_OCCUPY_DEFEAT_REWARD",
+    "value": 174
+  },
+  {
+    "key": "GUILD_OCCUPY_DEFEAT_SCORE",
+    "value": -3
+  },
+  {
+    "key": "GUILD_OCCUPY_LEVEL",
+    "value": "1"
+  },
+  {
+    "key": "GUILD_OCCUPY_PREMIUM_TEAM",
+    "value": "1"
+  },
+  {
+    "key": "GUILD_OCCUPY_PREMIUM_TEAM_PRICE",
+    "value": "2"
+  },
+  {
+    "key": "GUILD_OCCUPY_QUICKMOVE",
+    "value": "50"
+  },
+  {
+    "key": "GUILD_OCCUPY_QUICKMOVE_PRICE",
+    "value": "1"
+  },
+  {
+    "key": "GUILD_OCCUPY_RADAR_DELAY",
+    "value": "300"
+  },
+  {
+    "key": "GUILD_OCCUPY_RADAR_PRICE",
+    "value": "3"
+  },
+  {
+    "key": "GUILD_OCCUPY_RADAR_REFRESH_DELAY",
+    "value": "10"
+  },
+  {
+    "key": "GUILD_OCCUPY_REFRESH_DELAY",
+    "value": "5"
+  },
+  {
+    "key": "GUILD_OCCUPY_TEAM",
+    "value": "2"
+  },
+  {
+    "key": "GUILD_OCCUPY_TELEPORT_PRICE",
+    "value": 50
+  },
+  {
+    "key": "GUILD_OCCUPY_TIE_REWARD",
+    "value": 173
+  },
+  {
+    "key": "GUILD_OCCUPY_TIE_SCORE",
+    "value": 5
+  },
+  {
+    "key": "GUILD_OCCUPY_VICTORY_REWARD",
+    "value": 172
+  },
+  {
+    "key": "GUILD_OCCUPY_VICTORY_SCORE",
+    "value": 10
+  },
+  {
+    "key": "GUILD_POINT_DAILY_MAX",
+    "value": "800"
+  },
+  {
+    "key": "GUILD_PREMIUM_EMPLOY",
+    "value": 10
+  },
+  {
+    "key": "GUILD_REQUEST_COUNT_LIMIT",
+    "value": "20"
+  },
+  {
+    "key": "GUILD_SECESSION_COUNT",
+    "value": "3"
+  },
+  {
+    "key": "GUILD_SECESSION_INSTANTLY_COUNT",
+    "value": "1"
+  },
+  {
+    "key": "GUILD_SECESSION_INSTANTLY_TIME",
+    "value": "3600"
+  },
+  {
+    "key": "GUILD_SECESSION_SAME_GUILD_COUNT",
+    "value": "1"
+  },
+  {
+    "key": "GUILD_SECESSION_SAME_GUILD_TIME",
+    "value": "172800"
+  },
+  {
+    "key": "GUILD_SECESSION_TIME",
+    "value": "604800"
+  },
+  {
+    "key": "GUILD_STRUGGLE_LIST_RANGE",
+    "value": "2"
+  },
+  {
+    "key": "MATCHING_REFRESH_CASH",
+    "value": "10"
+  },
+  {
+    "key": "MATCHING_REFRESH_COOL_TIME",
+    "value": "900"
+  },
+  {
+    "key": "NONPERCENT_ARENA",
+    "value": "30"
+  },
+  {
+    "key": "NONPERCENT_RAID",
+    "value": "30"
+  },
+  {
+    "key": "NPC_THUMBNAIL",
+    "value": "1"
+  },
+  {
+    "key": "NPC_USER_NAME",
+    "value": "npc"
+  },
+  {
+    "key": "PRE_DECK_COUNT",
+    "value": "5"
+  },
+  {
+    "key": "RAID_NONPERCENT",
+    "value": "30"
+  },
+  {
+    "key": "RANK_LIST_MAX_LENGTH",
+    "value": "30"
+  },
+  {
+    "key": "SENDBOX_LIST_LIMIT_TIME",
+    "value": "604800"
+  },
+  {
+    "key": "SKY_SHOP_CREATE_CASH",
+    "value": "900"
+  },
+  {
+    "key": "SKY_SHOP_OPEN_LOSE_PERCENT",
+    "value": "300"
+  },
+  {
+    "key": "SKY_SHOP_OPEN_WIN_PERCENT",
+    "value": "50"
+  },
+  {
+    "key": "SKY_SHOP_RESET_TIME",
+    "value": 3600
+  },
+  {
+    "key": "TREASURE_COSTUME_RATE",
+    "value": "3"
+  },
+  {
+    "key": "TREASURE_PILOT_RATE",
+    "value": "10"
+  },
+  {
+    "key": "TUTORIAL_CASH_GACHA_COMMANDER_IDX",
+    "value": "2"
+  },
+  {
+    "key": "USER_CHANGE_NICKNAME_CASH",
+    "value": "100"
+  },
+  {
+    "key": "VIP_GACHA_CASH",
+    "value": "800"
+  },
+  {
+    "key": "VIP_GACHA_COUNT",
+    "value": "10"
+  },
+  {
+    "key": "VIP_GACHA_RESET_TIME",
+    "value": "14"
+  },
+  {
+    "key": "VIP_GACHA_STATS_TIME",
+    "value": "05:00:00"
+  },
+  {
+    "key": "VIPGRADE_ANNIHILATE_RESET",
+    "value": 11
+  },
+  {
+    "key": "VIPGRADE_BATTLESHOP_REFRESH",
+    "value": 13
+  },
+  {
+    "key": "VIPGRADE_DISPATCH_GOLD",
+    "value": 7
+  },
+  {
+    "key": "VIPGRADE_GACHA_DELAY_FREE",
+    "value": 3
+  },
+  {
+    "key": "VIPGRADE_GACHA_FREE_PREMIUM",
+    "value": 2
+  },
+  {
+    "key": "VIPGRADE_GACHA_FREE_PREMIUM_TIME",
+    "value": "86400"
+  },
+  {
+    "key": "WARROOM_CLEAR_MAX_COUNT",
+    "value": "5"
+  }
+]

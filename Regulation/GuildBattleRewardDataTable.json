@@ -1,0 +1,520 @@
+[
+  {
+    "index": 0,
+    "type": 1,
+    "enemylevmin": 1,
+    "enemylevmax": 35,
+    "idx": 101
+  },
+  {
+    "index": 1,
+    "type": 1,
+    "enemylevmin": 36,
+    "enemylevmax": 39,
+    "idx": 102
+  },
+  {
+    "index": 2,
+    "type": 1,
+    "enemylevmin": 40,
+    "enemylevmax": 43,
+    "idx": 103
+  },
+  {
+    "index": 3,
+    "type": 1,
+    "enemylevmin": 44,
+    "enemylevmax": 47,
+    "idx": 104
+  },
+  {
+    "index": 4,
+    "type": 1,
+    "enemylevmin": 48,
+    "enemylevmax": 51,
+    "idx": 105
+  },
+  {
+    "index": 5,
+    "type": 1,
+    "enemylevmin": 52,
+    "enemylevmax": 55,
+    "idx": 106
+  },
+  {
+    "index": 6,
+    "type": 1,
+    "enemylevmin": 56,
+    "enemylevmax": 59,
+    "idx": 107
+  },
+  {
+    "index": 7,
+    "type": 1,
+    "enemylevmin": 60,
+    "enemylevmax": 63,
+    "idx": 108
+  },
+  {
+    "index": 8,
+    "type": 1,
+    "enemylevmin": 64,
+    "enemylevmax": 67,
+    "idx": 109
+  },
+  {
+    "index": 9,
+    "type": 1,
+    "enemylevmin": 68,
+    "enemylevmax": 71,
+    "idx": 110
+  },
+  {
+    "index": 10,
+    "type": 1,
+    "enemylevmin": 72,
+    "enemylevmax": 75,
+    "idx": 111
+  },
+  {
+    "index": 11,
+    "type": 1,
+    "enemylevmin": 76,
+    "enemylevmax": 79,
+    "idx": 112
+  },
+  {
+    "index": 12,
+    "type": 1,
+    "enemylevmin": 80,
+    "enemylevmax": 83,
+    "idx": 113
+  },
+  {
+    "index": 13,
+    "type": 1,
+    "enemylevmin": 84,
+    "enemylevmax": 87,
+    "idx": 114
+  },
+  {
+    "index": 14,
+    "type": 1,
+    "enemylevmin": 88,
+    "enemylevmax": 91,
+    "idx": 115
+  },
+  {
+    "index": 15,
+    "type": 1,
+    "enemylevmin": 92,
+    "enemylevmax": 95,
+    "idx": 116
+  },
+  {
+    "index": 16,
+    "type": 1,
+    "enemylevmin": 96,
+    "enemylevmax": 100,
+    "idx": 117
+  },
+  {
+    "index": 17,
+    "type": 2,
+    "enemylevmin": 1,
+    "enemylevmax": 35,
+    "idx": 118
+  },
+  {
+    "index": 18,
+    "type": 2,
+    "enemylevmin": 36,
+    "enemylevmax": 39,
+    "idx": 119
+  },
+  {
+    "index": 19,
+    "type": 2,
+    "enemylevmin": 40,
+    "enemylevmax": 43,
+    "idx": 120
+  },
+  {
+    "index": 20,
+    "type": 2,
+    "enemylevmin": 44,
+    "enemylevmax": 47,
+    "idx": 121
+  },
+  {
+    "index": 21,
+    "type": 2,
+    "enemylevmin": 48,
+    "enemylevmax": 51,
+    "idx": 122
+  },
+  {
+    "index": 22,
+    "type": 2,
+    "enemylevmin": 52,
+    "enemylevmax": 55,
+    "idx": 123
+  },
+  {
+    "index": 23,
+    "type": 2,
+    "enemylevmin": 56,
+    "enemylevmax": 59,
+    "idx": 124
+  },
+  {
+    "index": 24,
+    "type": 2,
+    "enemylevmin": 60,
+    "enemylevmax": 63,
+    "idx": 125
+  },
+  {
+    "index": 25,
+    "type": 2,
+    "enemylevmin": 64,
+    "enemylevmax": 67,
+    "idx": 126
+  },
+  {
+    "index": 26,
+    "type": 2,
+    "enemylevmin": 68,
+    "enemylevmax": 71,
+    "idx": 127
+  },
+  {
+    "index": 27,
+    "type": 2,
+    "enemylevmin": 72,
+    "enemylevmax": 75,
+    "idx": 128
+  },
+  {
+    "index": 28,
+    "type": 2,
+    "enemylevmin": 76,
+    "enemylevmax": 79,
+    "idx": 129
+  },
+  {
+    "index": 29,
+    "type": 2,
+    "enemylevmin": 80,
+    "enemylevmax": 83,
+    "idx": 130
+  },
+  {
+    "index": 30,
+    "type": 2,
+    "enemylevmin": 84,
+    "enemylevmax": 87,
+    "idx": 131
+  },
+  {
+    "index": 31,
+    "type": 2,
+    "enemylevmin": 88,
+    "enemylevmax": 91,
+    "idx": 132
+  },
+  {
+    "index": 32,
+    "type": 2,
+    "enemylevmin": 92,
+    "enemylevmax": 95,
+    "idx": 133
+  },
+  {
+    "index": 33,
+    "type": 2,
+    "enemylevmin": 96,
+    "enemylevmax": 100,
+    "idx": 134
+  },
+  {
+    "index": 34,
+    "type": 3,
+    "enemylevmin": 1,
+    "enemylevmax": 1,
+    "idx": 135
+  },
+  {
+    "index": 35,
+    "type": 3,
+    "enemylevmin": 2,
+    "enemylevmax": 2,
+    "idx": 136
+  },
+  {
+    "index": 36,
+    "type": 3,
+    "enemylevmin": 3,
+    "enemylevmax": 3,
+    "idx": 137
+  },
+  {
+    "index": 37,
+    "type": 3,
+    "enemylevmin": 4,
+    "enemylevmax": 4,
+    "idx": 138
+  },
+  {
+    "index": 38,
+    "type": 3,
+    "enemylevmin": 5,
+    "enemylevmax": 5,
+    "idx": 139
+  },
+  {
+    "index": 39,
+    "type": 3,
+    "enemylevmin": 6,
+    "enemylevmax": 6,
+    "idx": 140
+  },
+  {
+    "index": 40,
+    "type": 3,
+    "enemylevmin": 7,
+    "enemylevmax": 7,
+    "idx": 141
+  },
+  {
+    "index": 41,
+    "type": 3,
+    "enemylevmin": 8,
+    "enemylevmax": 8,
+    "idx": 142
+  },
+  {
+    "index": 42,
+    "type": 3,
+    "enemylevmin": 9,
+    "enemylevmax": 9,
+    "idx": 143
+  },
+  {
+    "index": 43,
+    "type": 3,
+    "enemylevmin": 10,
+    "enemylevmax": 10,
+    "idx": 144
+  },
+  {
+    "index": 44,
+    "type": 4,
+    "enemylevmin": 1,
+    "enemylevmax": 1,
+    "idx": 145
+  },
+  {
+    "index": 45,
+    "type": 4,
+    "enemylevmin": 2,
+    "enemylevmax": 2,
+    "idx": 146
+  },
+  {
+    "index": 46,
+    "type": 4,
+    "enemylevmin": 3,
+    "enemylevmax": 3,
+    "idx": 147
+  },
+  {
+    "index": 47,
+    "type": 4,
+    "enemylevmin": 4,
+    "enemylevmax": 4,
+    "idx": 148
+  },
+  {
+    "index": 48,
+    "type": 4,
+    "enemylevmin": 5,
+    "enemylevmax": 5,
+    "idx": 149
+  },
+  {
+    "index": 49,
+    "type": 4,
+    "enemylevmin": 6,
+    "enemylevmax": 6,
+    "idx": 150
+  },
+  {
+    "index": 50,
+    "type": 4,
+    "enemylevmin": 7,
+    "enemylevmax": 7,
+    "idx": 151
+  },
+  {
+    "index": 51,
+    "type": 4,
+    "enemylevmin": 8,
+    "enemylevmax": 8,
+    "idx": 152
+  },
+  {
+    "index": 52,
+    "type": 4,
+    "enemylevmin": 9,
+    "enemylevmax": 9,
+    "idx": 153
+  },
+  {
+    "index": 53,
+    "type": 4,
+    "enemylevmin": 10,
+    "enemylevmax": 10,
+    "idx": 154
+  },
+  {
+    "index": 54,
+    "type": 5,
+    "enemylevmin": 1,
+    "enemylevmax": 1,
+    "idx": 155
+  },
+  {
+    "index": 55,
+    "type": 5,
+    "enemylevmin": 2,
+    "enemylevmax": 2,
+    "idx": 156
+  },
+  {
+    "index": 56,
+    "type": 5,
+    "enemylevmin": 3,
+    "enemylevmax": 3,
+    "idx": 157
+  },
+  {
+    "index": 57,
+    "type": 5,
+    "enemylevmin": 4,
+    "enemylevmax": 4,
+    "idx": 158
+  },
+  {
+    "index": 58,
+    "type": 5,
+    "enemylevmin": 5,
+    "enemylevmax": 5,
+    "idx": 159
+  },
+  {
+    "index": 59,
+    "type": 5,
+    "enemylevmin": 6,
+    "enemylevmax": 6,
+    "idx": 160
+  },
+  {
+    "index": 60,
+    "type": 5,
+    "enemylevmin": 7,
+    "enemylevmax": 7,
+    "idx": 161
+  },
+  {
+    "index": 61,
+    "type": 5,
+    "enemylevmin": 8,
+    "enemylevmax": 8,
+    "idx": 162
+  },
+  {
+    "index": 62,
+    "type": 5,
+    "enemylevmin": 9,
+    "enemylevmax": 9,
+    "idx": 163
+  },
+  {
+    "index": 63,
+    "type": 5,
+    "enemylevmin": 10,
+    "enemylevmax": 10,
+    "idx": 164
+  },
+  {
+    "index": 64,
+    "type": 6,
+    "enemylevmin": 1,
+    "enemylevmax": 1,
+    "idx": 165
+  },
+  {
+    "index": 65,
+    "type": 6,
+    "enemylevmin": 2,
+    "enemylevmax": 2,
+    "idx": 166
+  },
+  {
+    "index": 66,
+    "type": 6,
+    "enemylevmin": 3,
+    "enemylevmax": 3,
+    "idx": 167
+  },
+  {
+    "index": 67,
+    "type": 6,
+    "enemylevmin": 4,
+    "enemylevmax": 4,
+    "idx": 168
+  },
+  {
+    "index": 68,
+    "type": 6,
+    "enemylevmin": 5,
+    "enemylevmax": 5,
+    "idx": 169
+  },
+  {
+    "index": 69,
+    "type": 6,
+    "enemylevmin": 6,
+    "enemylevmax": 6,
+    "idx": 170
+  },
+  {
+    "index": 70,
+    "type": 6,
+    "enemylevmin": 7,
+    "enemylevmax": 7,
+    "idx": 171
+  },
+  {
+    "index": 71,
+    "type": 6,
+    "enemylevmin": 8,
+    "enemylevmax": 8,
+    "idx": 172
+  },
+  {
+    "index": 72,
+    "type": 6,
+    "enemylevmin": 9,
+    "enemylevmax": 9,
+    "idx": 173
+  },
+  {
+    "index": 73,
+    "type": 6,
+    "enemylevmin": 10,
+    "enemylevmax": 10,
+    "idx": 174
+  }
+]

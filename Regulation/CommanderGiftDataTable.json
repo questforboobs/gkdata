@@ -1,0 +1,37 @@
+[
+  {
+    "idx": 50,
+    "type": 1,
+    "favorPoint": 10
+  },
+  {
+    "idx": 51,
+    "type": 1,
+    "favorPoint": 30
+  },
+  {
+    "idx": 52,
+    "type": 1,
+    "favorPoint": 50
+  },
+  {
+    "idx": 53,
+    "type": 1,
+    "favorPoint": 150
+  },
+  {
+    "idx": 54,
+    "type": 1,
+    "favorPoint": 300
+  },
+  {
+    "idx": 55,
+    "type": 1,
+    "favorPoint": 500
+  },
+  {
+    "idx": 56,
+    "type": 2,
+    "favorPoint": 100
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "Level": 1,
+    "Idx": 1,
+    "Gold": 1000,
+    "ChipReserves": 1,
+    "ExchangeGoldUpCash": 10,
+    "ExchangeGoldUpCashUp": 150,
+    "ExchangePointPercent1": 60,
+    "UpExchangePoint1": 1,
+    "ExchangePointPercent2": 40,
+    "UpExchangePoint2": 2
+  },
+  {
+    "Level": 2,
+    "Idx": 2,
+    "Gold": 2000,
+    "ChipReserves": 1,
+    "ExchangeGoldUpCash": 10,
+    "ExchangeGoldUpCashUp": 150,
+    "ExchangePointPercent1": 60,
+    "UpExchangePoint1": 1,
+    "ExchangePointPercent2": 40,
+    "UpExchangePoint2": 2
+  },
+  {
+    "Level": 3,
+    "Idx": 2,
+    "Gold": 2000,
+    "ChipReserves": 2,
+    "ExchangeGoldUpCash": 15,
+    "ExchangeGoldUpCashUp": 150,
+    "ExchangePointPercent1": 60,
+    "UpExchangePoint1": 1,
+    "ExchangePointPercent2": 40,
+    "UpExchangePoint2": 2
+  },
+  {
+    "Level": 4,
+    "Idx": 3,
+    "Gold": 3000,
+    "ChipReserves": 2,
+    "ExchangeGoldUpCash": 15,
+    "ExchangeGoldUpCashUp": 150,
+    "ExchangePointPercent1": 60,
+    "UpExchangePoint1": 1,
+    "ExchangePointPercent2": 40,
+    "UpExchangePoint2": 2
+  },
+  {
+    "Level": 5,
+    "Idx": 3,
+    "Gold": 3000,
+    "ChipReserves": 3,
+    "ExchangeGoldUpCash": 25,
+    "ExchangeGoldUpCashUp": 150,
+    "ExchangePointPercent1": 60,
+    "UpExchangePoint1": 1,
+    "ExchangePointPercent2": 40,
+    "UpExchangePoint2": 2
+  },
+  {
+    "Level": 6,
+    "Idx": 4,
+    "Gold": 5000,
+    "ChipReserves": 3,
+    "ExchangeGoldUpCash": 25,
+    "ExchangeGoldUpCashUp": 150,
+    "ExchangePointPercent1": 60,
+    "UpExchangePoint1": 1,
+    "ExchangePointPercent2": 40,
+    "UpExchangePoint2": 2
+  },
+  {
+    "Level": 7,
+    "Idx": 4,
+    "Gold": 5000,
+    "ChipReserves": 4,
+    "ExchangeGoldUpCash": 35,
+    "ExchangeGoldUpCashUp": 150,
+    "ExchangePointPercent1": 60,
+    "UpExchangePoint1": 1,
+    "ExchangePointPercent2": 40,
+    "UpExchangePoint2": 2
+  },
+  {
+    "Level": 8,
+    "Idx": 5,
+    "Gold": 10000,
+    "ChipReserves": 4,
+    "ExchangeGoldUpCash": 35,
+    "ExchangeGoldUpCashUp": 150,
+    "ExchangePointPercent1": 60,
+    "UpExchangePoint1": 1,
+    "ExchangePointPercent2": 40,
+    "UpExchangePoint2": 2
+  },
+  {
+    "Level": 9,
+    "Idx": 5,
+    "Gold": 10000,
+    "ChipReserves": 5,
+    "ExchangeGoldUpCash": 45,
+    "ExchangeGoldUpCashUp": 150,
+    "ExchangePointPercent1": 60,
+    "UpExchangePoint1": 1,
+    "ExchangePointPercent2": 40,
+    "UpExchangePoint2": 2
+  }
+]

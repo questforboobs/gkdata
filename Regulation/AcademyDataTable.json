@@ -1,0 +1,87 @@
+[
+  {
+    "level": "1",
+    "recruitExposureCount": "2",
+    "traingTicketIncrease": "0",
+    "recruitAutoRefreshTime": "90000",
+    "recruitRefreshCash": "100",
+    "recruitStandbyDataList": [
+      {
+        "Cash": "100",
+        "Time": "90000"
+      },
+      {
+        "Cash": "100",
+        "Time": "90000"
+      }
+    ]
+  },
+  {
+    "level": "2",
+    "recruitExposureCount": "3",
+    "traingTicketIncrease": "1",
+    "recruitAutoRefreshTime": "90000",
+    "recruitRefreshCash": "100",
+    "recruitStandbyDataList": [
+      {
+        "Cash": "100",
+        "Time": "90000"
+      },
+      {
+        "Cash": "100",
+        "Time": "90000"
+      }
+    ]
+  },
+  {
+    "level": "3",
+    "recruitExposureCount": "4",
+    "traingTicketIncrease": "2",
+    "recruitAutoRefreshTime": "90000",
+    "recruitRefreshCash": "100",
+    "recruitStandbyDataList": [
+      {
+        "Cash": "100",
+        "Time": "90000"
+      },
+      {
+        "Cash": "100",
+        "Time": "90000"
+      }
+    ]
+  },
+  {
+    "level": "4",
+    "recruitExposureCount": "5",
+    "traingTicketIncrease": "3",
+    "recruitAutoRefreshTime": "90000",
+    "recruitRefreshCash": "100",
+    "recruitStandbyDataList": [
+      {
+        "Cash": "100",
+        "Time": "90000"
+      },
+      {
+        "Cash": "100",
+        "Time": "90000"
+      }
+    ]
+  },
+  {
+    "level": "5",
+    "recruitExposureCount": "6",
+    "traingTicketIncrease": "4",
+    "recruitAutoRefreshTime": "90000",
+    "recruitRefreshCash": "100",
+    "recruitStandbyDataList": [
+      {
+        "Cash": "100",
+        "Time": "90000"
+      },
+      {
+        "Cash": "100",
+        "Time": "90000"
+      }
+    ]
+  }
+]
