@@ -193,7 +193,7 @@
   },
   {
     "key": "GUILD_OCCUPY_PREMIUM_TEAM_PRICE",
-    "value": "10"
+    "value": "1"
   },
   {
     "key": "GUILD_OCCUPY_QUICKMOVE",
@@ -201,7 +201,7 @@
   },
   {
     "key": "GUILD_OCCUPY_QUICKMOVE_PRICE",
-    "value": "20"
+    "value": "2"
   },
   {
     "key": "GUILD_OCCUPY_RADAR_DELAY",
@@ -209,7 +209,7 @@
   },
   {
     "key": "GUILD_OCCUPY_RADAR_PRICE",
-    "value": "15"
+    "value": "1"
   },
   {
     "key": "GUILD_OCCUPY_RADAR_REFRESH_DELAY",

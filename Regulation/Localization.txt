@@ -2866,13 +2866,13 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 42045|세련된 아름다움이란 이런 것이죠?\nby 리우 렌|This is what I call classic! by Liu Len|时尚之美由我来体现 -<劉蓮>|This is what I call classic! by Liu Len|This is what I call classic! by Liu Len|This is what I call classic! by Liu Len|This is what I call classic! by Liu Len|This is what I call classic! by Liu Len
 42046|꽃보다 아름다운 넬라의 귀여운 한복|Nella's Cute Traditional Flower Girl Dress|比花儿更美的韩服-<奈拉·巴德雷亞>|Nella's Cute Traditional Flower Girl Dress|Nella's Cute Traditional Flower Girl Dress|Nella's Cute Traditional Flower Girl Dress|Nella's Cute Traditional Flower Girl Dress|Nella's Cute Traditional Flower Girl Dress
 42047|전통의 멋에 현대적 감각을 새로 입힌 마리나의 퓨전 한복|Marina's Classic dress with Modern style tints|古典美与现代美融为一体的改良韩服-<瑪麗娜·加西亞>|Marina's Classic dress with Modern style tints|Marina's Classic dress with Modern style tints|Marina's Classic dress with Modern style tints|Marina's Classic dress with Modern style tints|Marina's Classic dress with Modern style tints
-44000|나이:|Age:|年齡：|Edad:|Alter:|Umur:|อายุ:|Âge :
-44001|탄생일:|DOB:|生日：|F. de Nac.:|GEB.DAT.:|Tgl. Lahir:|วันเกิด:|Date de naissance :
-44002|혈액형:|Blood Type:|血型：|Tipo de sangre:|Blutgruppe:|Golongan Darah:|กรุ๊ปเลือด:|Groupe sanguin :
-44003|신장/체중:|Height/Weight:|身高/體重：|Altura/peso:|Größe/Gewicht:|Tinggi/Berat:|ส่วนสูง/น้ำหนัก:|Signe du zodiaque :
-44004|3 사이즈:|Figure Size:|3尺寸：|Tamaño de la figura:|Maße:|Ukuran Badan:|สัดส่วน:|Taille/Poids :
-44005|좋아하는 것:|Likes:|喜歡的東西：|Le gusta:|Mag:|Suka:|สิ่งที่ชอบ:|Mensurations :
-44006|싫어하는 것:|Dislikes:|討厭的東西：|No le gusta:|Mag nicht:|Tidak Suka:|สิ่งที่ไม่ชอบ:|Aime :
+44000|나이|Age:|年齡：|Edad:|Alter:|Umur:|อายุ:|Âge :
+44001|탄생일|DOB:|生日：|F. de Nac.:|GEB.DAT.:|Tgl. Lahir:|วันเกิด:|Date de naissance :
+44002|혈액형|Blood Type:|血型：|Tipo de sangre:|Blutgruppe:|Golongan Darah:|กรุ๊ปเลือด:|Groupe sanguin :
+44003|신장/체중|Height/Weight:|身高/體重：|Altura/peso:|Größe/Gewicht:|Tinggi/Berat:|ส่วนสูง/น้ำหนัก:|Signe du zodiaque :
+44004|3 사이즈|Figure Size:|3尺寸：|Tamaño de la figura:|Maße:|Ukuran Badan:|สัดส่วน:|Taille/Poids :
+44005|좋아하는 것|Likes:|喜歡的東西：|Le gusta:|Mag:|Suka:|สิ่งที่ชอบ:|Mensurations :
+44006|싫어하는 것|Dislikes:|討厭的東西：|No le gusta:|Mag nicht:|Tidak Suka:|สิ่งที่ไม่ชอบ:|Aime :
 44007|남에게 말할 수 없는 비밀|My Secret:|不能對別人透露的秘密|Mi secreto:|Mein Geheimnis:|Rahasiaku:|ความลับของฉัน:|N’aime pas :
 44008|이상형|Ideal Type|喜歡的類型|Ideal Type|Ideal Type|Ideal Type|Ideal Type|Ideal Type
 44009|좋아하는 음식|Favourite Food|喜歡的料理|Favourite Food|Favourite Food|Favourite Food|Favourite Food|Favourite Food

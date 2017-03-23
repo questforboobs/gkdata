@@ -76,7 +76,7 @@
     "startDate": "0",
     "startTime": "21:00:00",
     "endDate": "0",
-    "endTime": "22:00:00",
+    "endTime": "23:00:00",
     "weekIdx": "1,2,3,4,5,6,7"
   },
   {
@@ -84,7 +84,7 @@
     "type": 4,
     "typeIndex": 0,
     "startDate": "0",
-    "startTime": "22:00:00",
+    "startTime": "23:00:00",
     "endDate": "0",
     "endTime": "24:00:00",
     "weekIdx": "1,2,3,4,5,6,7"
