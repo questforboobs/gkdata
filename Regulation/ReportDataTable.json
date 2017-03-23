@@ -1,0 +1,74 @@
+[
+  {
+    "idx": 1,
+    "key": "dcnt",
+    "title": 130001,
+    "description": 130002
+  },
+  {
+    "idx": 2,
+    "key": "hold",
+    "title": 130003,
+    "description": 130004
+  },
+  {
+    "idx": 3,
+    "key": "cmdr",
+    "title": 130005,
+    "description": 130006
+  },
+  {
+    "idx": 4,
+    "key": "shop",
+    "title": 130007,
+    "description": 130008
+  },
+  {
+    "idx": 5,
+    "key": "expd",
+    "title": 130009,
+    "description": 130010
+  },
+  {
+    "idx": 6,
+    "key": "mwdw",
+    "title": 130011,
+    "description": 130012
+  },
+  {
+    "idx": 7,
+    "key": "srgs",
+    "title": 130013,
+    "description": 130014
+  },
+  {
+    "idx": 8,
+    "key": "srge",
+    "title": 130015,
+    "description": 130016
+  },
+  {
+    "idx": 9,
+    "key": "ocps",
+    "title": 130017,
+    "description": 130018
+  },
+  {
+    "idx": 10,
+    "key": "ocpe",
+    "title": 130019,
+    "description": 130020
+  },
+  {
+    "idx": 11,
+    "key": "raid",
+    "title": 130021,
+    "description": 130022
+  },
+  {
+    "idx": 12,
+    "key": "arena",
+    "title": 130023,
+    "description": 130024
+  }
+]

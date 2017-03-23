@@ -1,0 +1,30 @@
+[
+  {
+    "index": 0,
+    "type": 1,
+    "count": 1,
+    "priceType": 4,
+    "cost": 10000
+  },
+  {
+    "index": 1,
+    "type": 1,
+    "count": 10,
+    "priceType": 4,
+    "cost": 90000
+  },
+  {
+    "index": 2,
+    "type": 2,
+    "count": 1,
+    "priceType": 2,
+    "cost": 150
+  },
+  {
+    "index": 3,
+    "type": 2,
+    "count": 10,
+    "priceType": 2,
+    "cost": 1350
+  }
+]

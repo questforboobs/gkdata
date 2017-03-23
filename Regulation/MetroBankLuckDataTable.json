@@ -1,0 +1,122 @@
+[
+  {
+    "Luck": 1,
+    "vipMin": 0,
+    "vipMax": 7,
+    "ChipPercent": 300
+  },
+  {
+    "Luck": 2,
+    "vipMin": 0,
+    "vipMax": 7,
+    "ChipPercent": 200
+  },
+  {
+    "Luck": 3,
+    "vipMin": 0,
+    "vipMax": 7,
+    "ChipPercent": 50
+  },
+  {
+    "Luck": 4,
+    "vipMin": 0,
+    "vipMax": 7,
+    "ChipPercent": 10
+  },
+  {
+    "Luck": 5,
+    "vipMin": 0,
+    "vipMax": 7,
+    "ChipPercent": 5
+  },
+  {
+    "Luck": 6,
+    "vipMin": 0,
+    "vipMax": 7,
+    "ChipPercent": 1
+  },
+  {
+    "Luck": 7,
+    "vipMin": 0,
+    "vipMax": 7,
+    "ChipPercent": 1
+  },
+  {
+    "Luck": 8,
+    "vipMin": 0,
+    "vipMax": 7,
+    "ChipPercent": 1
+  },
+  {
+    "Luck": 9,
+    "vipMin": 0,
+    "vipMax": 7,
+    "ChipPercent": 1
+  },
+  {
+    "Luck": 10,
+    "vipMin": 0,
+    "vipMax": 7,
+    "ChipPercent": 10
+  },
+  {
+    "Luck": 101,
+    "vipMin": 8,
+    "vipMax": 14,
+    "ChipPercent": 0
+  },
+  {
+    "Luck": 102,
+    "vipMin": 8,
+    "vipMax": 14,
+    "ChipPercent": 270
+  },
+  {
+    "Luck": 103,
+    "vipMin": 8,
+    "vipMax": 14,
+    "ChipPercent": 150
+  },
+  {
+    "Luck": 104,
+    "vipMin": 8,
+    "vipMax": 14,
+    "ChipPercent": 60
+  },
+  {
+    "Luck": 105,
+    "vipMin": 8,
+    "vipMax": 14,
+    "ChipPercent": 10
+  },
+  {
+    "Luck": 106,
+    "vipMin": 8,
+    "vipMax": 14,
+    "ChipPercent": 6
+  },
+  {
+    "Luck": 107,
+    "vipMin": 8,
+    "vipMax": 14,
+    "ChipPercent": 6
+  },
+  {
+    "Luck": 108,
+    "vipMin": 8,
+    "vipMax": 14,
+    "ChipPercent": 6
+  },
+  {
+    "Luck": 109,
+    "vipMin": 8,
+    "vipMax": 14,
+    "ChipPercent": 6
+  },
+  {
+    "Luck": 110,
+    "vipMin": 8,
+    "vipMax": 14,
+    "ChipPercent": 16
+  }
+]

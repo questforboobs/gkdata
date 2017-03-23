@@ -1,0 +1,1298 @@
+[
+  {
+    "type": 101,
+    "grade": 1,
+    "name": 3000001,
+    "serverFieldName": "icon_part_01_01",
+    "max": 9999,
+    "description": 3001001,
+    "storage": 1
+  },
+  {
+    "type": 102,
+    "grade": 2,
+    "name": 3000002,
+    "serverFieldName": "icon_part_01_01",
+    "max": 9999,
+    "description": 3001002,
+    "storage": 1
+  },
+  {
+    "type": 103,
+    "grade": 3,
+    "name": 3000003,
+    "serverFieldName": "icon_part_01_01",
+    "max": 9999,
+    "description": 3001003,
+    "storage": 1
+  },
+  {
+    "type": 104,
+    "grade": 4,
+    "name": 3000004,
+    "serverFieldName": "icon_part_01_01",
+    "max": 9999,
+    "description": 3001004,
+    "storage": 1
+  },
+  {
+    "type": 202,
+    "grade": 2,
+    "name": 3000007,
+    "serverFieldName": "icon_part_02_01",
+    "max": 9999,
+    "description": 3001007,
+    "storage": 1
+  },
+  {
+    "type": 203,
+    "grade": 3,
+    "name": 3000008,
+    "serverFieldName": "icon_part_02_01",
+    "max": 9999,
+    "description": 3001008,
+    "storage": 1
+  },
+  {
+    "type": 204,
+    "grade": 4,
+    "name": 3000009,
+    "serverFieldName": "icon_part_02_01",
+    "max": 9999,
+    "description": 3001009,
+    "storage": 1
+  },
+  {
+    "type": 303,
+    "grade": 3,
+    "name": 3000013,
+    "serverFieldName": "icon_part_02_02",
+    "max": 9999,
+    "description": 3001013,
+    "storage": 1
+  },
+  {
+    "type": 304,
+    "grade": 4,
+    "name": 3000014,
+    "serverFieldName": "icon_part_02_02",
+    "max": 9999,
+    "description": 3001014,
+    "storage": 1
+  },
+  {
+    "type": 403,
+    "grade": 3,
+    "name": 3000018,
+    "serverFieldName": "icon_part_02_03",
+    "max": 9999,
+    "description": 3001018,
+    "storage": 1
+  },
+  {
+    "type": 404,
+    "grade": 4,
+    "name": 3000019,
+    "serverFieldName": "icon_part_02_03",
+    "max": 9999,
+    "description": 3001019,
+    "storage": 1
+  },
+  {
+    "type": 503,
+    "grade": 3,
+    "name": 3000023,
+    "serverFieldName": "icon_part_02_04",
+    "max": 9999,
+    "description": 3001023,
+    "storage": 1
+  },
+  {
+    "type": 504,
+    "grade": 4,
+    "name": 3000024,
+    "serverFieldName": "icon_part_02_04",
+    "max": 9999,
+    "description": 3001024,
+    "storage": 1
+  },
+  {
+    "type": 603,
+    "grade": 3,
+    "name": 3000028,
+    "serverFieldName": "icon_part_02_05",
+    "max": 9999,
+    "description": 3001028,
+    "storage": 1
+  },
+  {
+    "type": 604,
+    "grade": 4,
+    "name": 3000029,
+    "serverFieldName": "icon_part_02_05",
+    "max": 9999,
+    "description": 3001029,
+    "storage": 1
+  },
+  {
+    "type": 703,
+    "grade": 4,
+    "name": 3000033,
+    "serverFieldName": "icon_part_03_01",
+    "max": 9999,
+    "description": 3001033,
+    "storage": 1
+  },
+  {
+    "type": 704,
+    "grade": 4,
+    "name": 3000034,
+    "serverFieldName": "icon_part_03_01",
+    "max": 9999,
+    "description": 3001034,
+    "storage": 1
+  },
+  {
+    "type": 804,
+    "grade": 4,
+    "name": 3000039,
+    "serverFieldName": "icon_part_03_02",
+    "max": 9999,
+    "description": 3001039,
+    "storage": 1
+  },
+  {
+    "type": 904,
+    "grade": 4,
+    "name": 3000044,
+    "serverFieldName": "icon_part_03_03",
+    "max": 9999,
+    "description": 3001044,
+    "storage": 1
+  },
+  {
+    "type": 1001,
+    "grade": 1,
+    "name": 3000046,
+    "serverFieldName": "icon_part_04_01",
+    "max": 9999,
+    "description": 3001046,
+    "storage": 1
+  },
+  {
+    "type": 1002,
+    "grade": 2,
+    "name": 3000047,
+    "serverFieldName": "icon_part_04_01",
+    "max": 9999,
+    "description": 3001047,
+    "storage": 1
+  },
+  {
+    "type": 1003,
+    "grade": 3,
+    "name": 3000048,
+    "serverFieldName": "icon_part_04_01",
+    "max": 9999,
+    "description": 3001048,
+    "storage": 1
+  },
+  {
+    "type": 1004,
+    "grade": 4,
+    "name": 3000049,
+    "serverFieldName": "icon_part_04_01",
+    "max": 9999,
+    "description": 3001049,
+    "storage": 1
+  },
+  {
+    "type": 1101,
+    "grade": 1,
+    "name": 3000051,
+    "serverFieldName": "icon_part_04_02",
+    "max": 9999,
+    "description": 3001051,
+    "storage": 1
+  },
+  {
+    "type": 1102,
+    "grade": 2,
+    "name": 3000052,
+    "serverFieldName": "icon_part_04_02",
+    "max": 9999,
+    "description": 3001052,
+    "storage": 1
+  },
+  {
+    "type": 1103,
+    "grade": 3,
+    "name": 3000053,
+    "serverFieldName": "icon_part_04_02",
+    "max": 9999,
+    "description": 3001053,
+    "storage": 1
+  },
+  {
+    "type": 1104,
+    "grade": 4,
+    "name": 3000054,
+    "serverFieldName": "icon_part_04_02",
+    "max": 9999,
+    "description": 3001054,
+    "storage": 1
+  },
+  {
+    "type": 1201,
+    "grade": 1,
+    "name": 3000056,
+    "serverFieldName": "icon_part_04_03",
+    "max": 9999,
+    "description": 3001056,
+    "storage": 1
+  },
+  {
+    "type": 1202,
+    "grade": 2,
+    "name": 3000057,
+    "serverFieldName": "icon_part_04_03",
+    "max": 9999,
+    "description": 3001057,
+    "storage": 1
+  },
+  {
+    "type": 1203,
+    "grade": 3,
+    "name": 3000058,
+    "serverFieldName": "icon_part_04_03",
+    "max": 9999,
+    "description": 3001058,
+    "storage": 1
+  },
+  {
+    "type": 1204,
+    "grade": 4,
+    "name": 3000059,
+    "serverFieldName": "icon_part_04_03",
+    "max": 9999,
+    "description": 3001059,
+    "storage": 1
+  },
+  {
+    "type": 1301,
+    "grade": 1,
+    "name": 3000061,
+    "serverFieldName": "icon_part_04_04",
+    "max": 9999,
+    "description": 3001061,
+    "storage": 1
+  },
+  {
+    "type": 1302,
+    "grade": 2,
+    "name": 3000062,
+    "serverFieldName": "icon_part_04_04",
+    "max": 9999,
+    "description": 3001062,
+    "storage": 1
+  },
+  {
+    "type": 1303,
+    "grade": 3,
+    "name": 3000063,
+    "serverFieldName": "icon_part_04_04",
+    "max": 9999,
+    "description": 3001063,
+    "storage": 1
+  },
+  {
+    "type": 1304,
+    "grade": 4,
+    "name": 3000064,
+    "serverFieldName": "icon_part_04_04",
+    "max": 9999,
+    "description": 3001064,
+    "storage": 1
+  },
+  {
+    "type": 1401,
+    "grade": 1,
+    "name": 3000066,
+    "serverFieldName": "icon_part_04_05",
+    "max": 9999,
+    "description": 3001066,
+    "storage": 1
+  },
+  {
+    "type": 1402,
+    "grade": 2,
+    "name": 3000067,
+    "serverFieldName": "icon_part_04_05",
+    "max": 9999,
+    "description": 3001067,
+    "storage": 1
+  },
+  {
+    "type": 1403,
+    "grade": 3,
+    "name": 3000068,
+    "serverFieldName": "icon_part_04_05",
+    "max": 9999,
+    "description": 3001068,
+    "storage": 1
+  },
+  {
+    "type": 1404,
+    "grade": 4,
+    "name": 3000069,
+    "serverFieldName": "icon_part_04_05",
+    "max": 9999,
+    "description": 3001069,
+    "storage": 1
+  },
+  {
+    "type": 1501,
+    "grade": 1,
+    "name": 3000071,
+    "serverFieldName": "icon_part_04_06",
+    "max": 9999,
+    "description": 3001071,
+    "storage": 1
+  },
+  {
+    "type": 1502,
+    "grade": 2,
+    "name": 3000072,
+    "serverFieldName": "icon_part_04_06",
+    "max": 9999,
+    "description": 3001072,
+    "storage": 1
+  },
+  {
+    "type": 1503,
+    "grade": 3,
+    "name": 3000073,
+    "serverFieldName": "icon_part_04_06",
+    "max": 9999,
+    "description": 3001073,
+    "storage": 1
+  },
+  {
+    "type": 1504,
+    "grade": 4,
+    "name": 3000074,
+    "serverFieldName": "icon_part_04_06",
+    "max": 9999,
+    "description": 3001074,
+    "storage": 1
+  },
+  {
+    "type": 1601,
+    "grade": 1,
+    "name": 3000076,
+    "serverFieldName": "icon_part_04_07",
+    "max": 9999,
+    "description": 3001076,
+    "storage": 1
+  },
+  {
+    "type": 1602,
+    "grade": 2,
+    "name": 3000077,
+    "serverFieldName": "icon_part_04_07",
+    "max": 9999,
+    "description": 3001077,
+    "storage": 1
+  },
+  {
+    "type": 1603,
+    "grade": 3,
+    "name": 3000078,
+    "serverFieldName": "icon_part_04_07",
+    "max": 9999,
+    "description": 3001078,
+    "storage": 1
+  },
+  {
+    "type": 1604,
+    "grade": 4,
+    "name": 3000079,
+    "serverFieldName": "icon_part_04_07",
+    "max": 9999,
+    "description": 3001079,
+    "storage": 1
+  },
+  {
+    "type": 1701,
+    "grade": 1,
+    "name": 3000081,
+    "serverFieldName": "icon_part_04_08",
+    "max": 9999,
+    "description": 3001081,
+    "storage": 1
+  },
+  {
+    "type": 1702,
+    "grade": 2,
+    "name": 3000082,
+    "serverFieldName": "icon_part_04_08",
+    "max": 9999,
+    "description": 3001082,
+    "storage": 1
+  },
+  {
+    "type": 1703,
+    "grade": 3,
+    "name": 3000083,
+    "serverFieldName": "icon_part_04_08",
+    "max": 9999,
+    "description": 3001083,
+    "storage": 1
+  },
+  {
+    "type": 1704,
+    "grade": 4,
+    "name": 3000084,
+    "serverFieldName": "icon_part_04_08",
+    "max": 9999,
+    "description": 3001084,
+    "storage": 1
+  },
+  {
+    "type": 1801,
+    "grade": 1,
+    "name": 3000086,
+    "serverFieldName": "icon_part_04_09",
+    "max": 9999,
+    "description": 3001086,
+    "storage": 1
+  },
+  {
+    "type": 1802,
+    "grade": 2,
+    "name": 3000087,
+    "serverFieldName": "icon_part_04_09",
+    "max": 9999,
+    "description": 3001087,
+    "storage": 1
+  },
+  {
+    "type": 1803,
+    "grade": 3,
+    "name": 3000088,
+    "serverFieldName": "icon_part_04_09",
+    "max": 9999,
+    "description": 3001088,
+    "storage": 1
+  },
+  {
+    "type": 1804,
+    "grade": 4,
+    "name": 3000089,
+    "serverFieldName": "icon_part_04_09",
+    "max": 9999,
+    "description": 3001089,
+    "storage": 1
+  },
+  {
+    "type": 1901,
+    "grade": 1,
+    "name": 3000091,
+    "serverFieldName": "icon_part_04_10",
+    "max": 9999,
+    "description": 3001091,
+    "storage": 1
+  },
+  {
+    "type": 1902,
+    "grade": 2,
+    "name": 3000092,
+    "serverFieldName": "icon_part_04_10",
+    "max": 9999,
+    "description": 3001092,
+    "storage": 1
+  },
+  {
+    "type": 1903,
+    "grade": 3,
+    "name": 3000093,
+    "serverFieldName": "icon_part_04_10",
+    "max": 9999,
+    "description": 3001093,
+    "storage": 1
+  },
+  {
+    "type": 1904,
+    "grade": 4,
+    "name": 3000094,
+    "serverFieldName": "icon_part_04_10",
+    "max": 9999,
+    "description": 3001094,
+    "storage": 1
+  },
+  {
+    "type": 2001,
+    "grade": 1,
+    "name": 3000096,
+    "serverFieldName": "icon_part_04_11",
+    "max": 9999,
+    "description": 3001096,
+    "storage": 1
+  },
+  {
+    "type": 2002,
+    "grade": 2,
+    "name": 3000097,
+    "serverFieldName": "icon_part_04_11",
+    "max": 9999,
+    "description": 3001097,
+    "storage": 1
+  },
+  {
+    "type": 2003,
+    "grade": 3,
+    "name": 3000098,
+    "serverFieldName": "icon_part_04_11",
+    "max": 9999,
+    "description": 3001098,
+    "storage": 1
+  },
+  {
+    "type": 2004,
+    "grade": 4,
+    "name": 3000099,
+    "serverFieldName": "icon_part_04_11",
+    "max": 9999,
+    "description": 3001099,
+    "storage": 1
+  },
+  {
+    "type": 2101,
+    "grade": 1,
+    "name": 3000101,
+    "serverFieldName": "icon_part_04_12",
+    "max": 9999,
+    "description": 3001101,
+    "storage": 1
+  },
+  {
+    "type": 2102,
+    "grade": 2,
+    "name": 3000102,
+    "serverFieldName": "icon_part_04_12",
+    "max": 9999,
+    "description": 3001102,
+    "storage": 1
+  },
+  {
+    "type": 2103,
+    "grade": 3,
+    "name": 3000103,
+    "serverFieldName": "icon_part_04_12",
+    "max": 9999,
+    "description": 3001103,
+    "storage": 1
+  },
+  {
+    "type": 2104,
+    "grade": 4,
+    "name": 3000104,
+    "serverFieldName": "icon_part_04_12",
+    "max": 9999,
+    "description": 3001104,
+    "storage": 1
+  },
+  {
+    "type": 2201,
+    "grade": 1,
+    "name": 3000106,
+    "serverFieldName": "icon_part_04_13",
+    "max": 9999,
+    "description": 3001106,
+    "storage": 1
+  },
+  {
+    "type": 2202,
+    "grade": 2,
+    "name": 3000107,
+    "serverFieldName": "icon_part_04_13",
+    "max": 9999,
+    "description": 3001107,
+    "storage": 1
+  },
+  {
+    "type": 2203,
+    "grade": 3,
+    "name": 3000108,
+    "serverFieldName": "icon_part_04_13",
+    "max": 9999,
+    "description": 3001108,
+    "storage": 1
+  },
+  {
+    "type": 2204,
+    "grade": 4,
+    "name": 3000109,
+    "serverFieldName": "icon_part_04_13",
+    "max": 9999,
+    "description": 3001109,
+    "storage": 1
+  },
+  {
+    "type": 2301,
+    "grade": 1,
+    "name": 3000111,
+    "serverFieldName": "icon_part_04_14",
+    "max": 9999,
+    "description": 3001111,
+    "storage": 1
+  },
+  {
+    "type": 2302,
+    "grade": 2,
+    "name": 3000112,
+    "serverFieldName": "icon_part_04_14",
+    "max": 9999,
+    "description": 3001112,
+    "storage": 1
+  },
+  {
+    "type": 2303,
+    "grade": 3,
+    "name": 3000113,
+    "serverFieldName": "icon_part_04_14",
+    "max": 9999,
+    "description": 3001113,
+    "storage": 1
+  },
+  {
+    "type": 2304,
+    "grade": 4,
+    "name": 3000114,
+    "serverFieldName": "icon_part_04_14",
+    "max": 9999,
+    "description": 3001114,
+    "storage": 1
+  },
+  {
+    "type": 2401,
+    "grade": 1,
+    "name": 3000116,
+    "serverFieldName": "icon_part_04_15",
+    "max": 9999,
+    "description": 3001116,
+    "storage": 1
+  },
+  {
+    "type": 2402,
+    "grade": 2,
+    "name": 3000117,
+    "serverFieldName": "icon_part_04_15",
+    "max": 9999,
+    "description": 3001117,
+    "storage": 1
+  },
+  {
+    "type": 2403,
+    "grade": 3,
+    "name": 3000118,
+    "serverFieldName": "icon_part_04_15",
+    "max": 9999,
+    "description": 3001118,
+    "storage": 1
+  },
+  {
+    "type": 2404,
+    "grade": 4,
+    "name": 3000119,
+    "serverFieldName": "icon_part_04_15",
+    "max": 9999,
+    "description": 3001119,
+    "storage": 1
+  },
+  {
+    "type": 2501,
+    "grade": 1,
+    "name": 3000121,
+    "serverFieldName": "icon_part_04_16",
+    "max": 9999,
+    "description": 3001121,
+    "storage": 1
+  },
+  {
+    "type": 2502,
+    "grade": 2,
+    "name": 3000122,
+    "serverFieldName": "icon_part_04_16",
+    "max": 9999,
+    "description": 3001122,
+    "storage": 1
+  },
+  {
+    "type": 2503,
+    "grade": 3,
+    "name": 3000123,
+    "serverFieldName": "icon_part_04_16",
+    "max": 9999,
+    "description": 3001123,
+    "storage": 1
+  },
+  {
+    "type": 2504,
+    "grade": 4,
+    "name": 3000124,
+    "serverFieldName": "icon_part_04_16",
+    "max": 9999,
+    "description": 3001124,
+    "storage": 1
+  },
+  {
+    "type": 2601,
+    "grade": 1,
+    "name": 3000126,
+    "serverFieldName": "icon_part_04_17",
+    "max": 9999,
+    "description": 3001126,
+    "storage": 1
+  },
+  {
+    "type": 2602,
+    "grade": 2,
+    "name": 3000127,
+    "serverFieldName": "icon_part_04_17",
+    "max": 9999,
+    "description": 3001127,
+    "storage": 1
+  },
+  {
+    "type": 2603,
+    "grade": 3,
+    "name": 3000128,
+    "serverFieldName": "icon_part_04_17",
+    "max": 9999,
+    "description": 3001128,
+    "storage": 1
+  },
+  {
+    "type": 2604,
+    "grade": 4,
+    "name": 3000129,
+    "serverFieldName": "icon_part_04_17",
+    "max": 9999,
+    "description": 3001129,
+    "storage": 1
+  },
+  {
+    "type": 2701,
+    "grade": 1,
+    "name": 3000131,
+    "serverFieldName": "icon_part_04_18",
+    "max": 9999,
+    "description": 3001131,
+    "storage": 1
+  },
+  {
+    "type": 2702,
+    "grade": 2,
+    "name": 3000132,
+    "serverFieldName": "icon_part_04_18",
+    "max": 9999,
+    "description": 3001132,
+    "storage": 1
+  },
+  {
+    "type": 2703,
+    "grade": 3,
+    "name": 3000133,
+    "serverFieldName": "icon_part_04_18",
+    "max": 9999,
+    "description": 3001133,
+    "storage": 1
+  },
+  {
+    "type": 2704,
+    "grade": 4,
+    "name": 3000134,
+    "serverFieldName": "icon_part_04_18",
+    "max": 9999,
+    "description": 3001134,
+    "storage": 1
+  },
+  {
+    "type": 2801,
+    "grade": 1,
+    "name": 3000136,
+    "serverFieldName": "icon_part_04_19",
+    "max": 9999,
+    "description": 3001136,
+    "storage": 1
+  },
+  {
+    "type": 2802,
+    "grade": 2,
+    "name": 3000137,
+    "serverFieldName": "icon_part_04_19",
+    "max": 9999,
+    "description": 3001137,
+    "storage": 1
+  },
+  {
+    "type": 2803,
+    "grade": 3,
+    "name": 3000138,
+    "serverFieldName": "icon_part_04_19",
+    "max": 9999,
+    "description": 3001138,
+    "storage": 1
+  },
+  {
+    "type": 2804,
+    "grade": 4,
+    "name": 3000139,
+    "serverFieldName": "icon_part_04_19",
+    "max": 9999,
+    "description": 3001139,
+    "storage": 1
+  },
+  {
+    "type": 2901,
+    "grade": 1,
+    "name": 3000141,
+    "serverFieldName": "icon_part_04_20",
+    "max": 9999,
+    "description": 3001141,
+    "storage": 1
+  },
+  {
+    "type": 2902,
+    "grade": 2,
+    "name": 3000142,
+    "serverFieldName": "icon_part_04_20",
+    "max": 9999,
+    "description": 3001142,
+    "storage": 1
+  },
+  {
+    "type": 2903,
+    "grade": 3,
+    "name": 3000143,
+    "serverFieldName": "icon_part_04_20",
+    "max": 9999,
+    "description": 3001143,
+    "storage": 1
+  },
+  {
+    "type": 2904,
+    "grade": 4,
+    "name": 3000144,
+    "serverFieldName": "icon_part_04_20",
+    "max": 9999,
+    "description": 3001144,
+    "storage": 1
+  },
+  {
+    "type": 3001,
+    "grade": 1,
+    "name": 3000146,
+    "serverFieldName": "icon_part_04_21",
+    "max": 9999,
+    "description": 3001146,
+    "storage": 1
+  },
+  {
+    "type": 3002,
+    "grade": 2,
+    "name": 3000147,
+    "serverFieldName": "icon_part_04_21",
+    "max": 9999,
+    "description": 3001147,
+    "storage": 1
+  },
+  {
+    "type": 3003,
+    "grade": 3,
+    "name": 3000148,
+    "serverFieldName": "icon_part_04_21",
+    "max": 9999,
+    "description": 3001148,
+    "storage": 1
+  },
+  {
+    "type": 3004,
+    "grade": 4,
+    "name": 3000149,
+    "serverFieldName": "icon_part_04_21",
+    "max": 9999,
+    "description": 3001149,
+    "storage": 1
+  },
+  {
+    "type": 3101,
+    "grade": 1,
+    "name": 3000151,
+    "serverFieldName": "icon_part_04_22",
+    "max": 9999,
+    "description": 3001151,
+    "storage": 1
+  },
+  {
+    "type": 3102,
+    "grade": 2,
+    "name": 3000152,
+    "serverFieldName": "icon_part_04_22",
+    "max": 9999,
+    "description": 3001152,
+    "storage": 1
+  },
+  {
+    "type": 3103,
+    "grade": 3,
+    "name": 3000153,
+    "serverFieldName": "icon_part_04_22",
+    "max": 9999,
+    "description": 3001153,
+    "storage": 1
+  },
+  {
+    "type": 3104,
+    "grade": 4,
+    "name": 3000154,
+    "serverFieldName": "icon_part_04_22",
+    "max": 9999,
+    "description": 3001154,
+    "storage": 1
+  },
+  {
+    "type": 3201,
+    "grade": 1,
+    "name": 3000156,
+    "serverFieldName": "icon_part_04_23",
+    "max": 9999,
+    "description": 3001156,
+    "storage": 1
+  },
+  {
+    "type": 3202,
+    "grade": 2,
+    "name": 3000157,
+    "serverFieldName": "icon_part_04_23",
+    "max": 9999,
+    "description": 3001157,
+    "storage": 1
+  },
+  {
+    "type": 3203,
+    "grade": 3,
+    "name": 3000158,
+    "serverFieldName": "icon_part_04_23",
+    "max": 9999,
+    "description": 3001158,
+    "storage": 1
+  },
+  {
+    "type": 3204,
+    "grade": 4,
+    "name": 3000159,
+    "serverFieldName": "icon_part_04_23",
+    "max": 9999,
+    "description": 3001159,
+    "storage": 1
+  },
+  {
+    "type": 3301,
+    "grade": 1,
+    "name": 3000161,
+    "serverFieldName": "icon_part_04_24",
+    "max": 9999,
+    "description": 3001161,
+    "storage": 1
+  },
+  {
+    "type": 3302,
+    "grade": 2,
+    "name": 3000162,
+    "serverFieldName": "icon_part_04_24",
+    "max": 9999,
+    "description": 3001162,
+    "storage": 1
+  },
+  {
+    "type": 3303,
+    "grade": 3,
+    "name": 3000163,
+    "serverFieldName": "icon_part_04_24",
+    "max": 9999,
+    "description": 3001163,
+    "storage": 1
+  },
+  {
+    "type": 3304,
+    "grade": 4,
+    "name": 3000164,
+    "serverFieldName": "icon_part_04_24",
+    "max": 9999,
+    "description": 3001164,
+    "storage": 1
+  },
+  {
+    "type": 3401,
+    "grade": 1,
+    "name": 3000166,
+    "serverFieldName": "icon_part_04_25",
+    "max": 9999,
+    "description": 3001166,
+    "storage": 1
+  },
+  {
+    "type": 3402,
+    "grade": 2,
+    "name": 3000167,
+    "serverFieldName": "icon_part_04_25",
+    "max": 9999,
+    "description": 3001167,
+    "storage": 1
+  },
+  {
+    "type": 3403,
+    "grade": 3,
+    "name": 3000168,
+    "serverFieldName": "icon_part_04_25",
+    "max": 9999,
+    "description": 3001168,
+    "storage": 1
+  },
+  {
+    "type": 3404,
+    "grade": 4,
+    "name": 3000169,
+    "serverFieldName": "icon_part_04_25",
+    "max": 9999,
+    "description": 3001169,
+    "storage": 1
+  },
+  {
+    "type": 10101,
+    "grade": 1,
+    "name": 3000001,
+    "serverFieldName": "icon_part_11_01",
+    "max": 99999,
+    "description": 3001001,
+    "storage": 1
+  },
+  {
+    "type": 10202,
+    "grade": 1,
+    "name": 3000007,
+    "serverFieldName": "icon_part_12_02",
+    "max": 99999,
+    "description": 3001007,
+    "storage": 1
+  },
+  {
+    "type": 10203,
+    "grade": 1,
+    "name": 3000008,
+    "serverFieldName": "icon_part_12_03",
+    "max": 99999,
+    "description": 3001008,
+    "storage": 1
+  },
+  {
+    "type": 10204,
+    "grade": 1,
+    "name": 3000009,
+    "serverFieldName": "icon_part_12_04",
+    "max": 99999,
+    "description": 3001009,
+    "storage": 1
+  },
+  {
+    "type": 10205,
+    "grade": 1,
+    "name": 3000010,
+    "serverFieldName": "icon_part_12_05",
+    "max": 99999,
+    "description": 3001010,
+    "storage": 1
+  },
+  {
+    "type": 10703,
+    "grade": 1,
+    "name": 3000123,
+    "serverFieldName": "icon_part_13_03",
+    "max": 99999,
+    "description": 3001123,
+    "storage": 1
+  },
+  {
+    "type": 10704,
+    "grade": 1,
+    "name": 3000124,
+    "serverFieldName": "icon_part_13_04",
+    "max": 99999,
+    "description": 3001124,
+    "storage": 1
+  },
+  {
+    "type": 10705,
+    "grade": 1,
+    "name": 3000125,
+    "serverFieldName": "icon_part_13_05",
+    "max": 99999,
+    "description": 3001125,
+    "storage": 1
+  },
+  {
+    "type": 11001,
+    "grade": 1,
+    "name": 3000031,
+    "serverFieldName": "icon_part_14_01",
+    "max": 99999,
+    "description": 3001031,
+    "storage": 1
+  },
+  {
+    "type": 11002,
+    "grade": 1,
+    "name": 3000032,
+    "serverFieldName": "icon_part_14_02",
+    "max": 99999,
+    "description": 3001032,
+    "storage": 1
+  },
+  {
+    "type": 11003,
+    "grade": 1,
+    "name": 3000033,
+    "serverFieldName": "icon_part_14_03",
+    "max": 99999,
+    "description": 3001033,
+    "storage": 1
+  },
+  {
+    "type": 11004,
+    "grade": 1,
+    "name": 3000034,
+    "serverFieldName": "icon_part_14_04",
+    "max": 99999,
+    "description": 3001034,
+    "storage": 1
+  },
+  {
+    "type": 11005,
+    "grade": 1,
+    "name": 3000035,
+    "serverFieldName": "icon_part_14_05",
+    "max": 99999,
+    "description": 3001035,
+    "storage": 1
+  },
+  {
+    "type": 11101,
+    "grade": 1,
+    "name": 3000036,
+    "serverFieldName": "icon_part_15_01",
+    "max": 99999,
+    "description": 3001036,
+    "storage": 1
+  },
+  {
+    "type": 11102,
+    "grade": 1,
+    "name": 3000037,
+    "serverFieldName": "icon_part_15_02",
+    "max": 99999,
+    "description": 3001037,
+    "storage": 1
+  },
+  {
+    "type": 11103,
+    "grade": 1,
+    "name": 3000038,
+    "serverFieldName": "icon_part_15_03",
+    "max": 99999,
+    "description": 3001038,
+    "storage": 1
+  },
+  {
+    "type": 11104,
+    "grade": 1,
+    "name": 3000039,
+    "serverFieldName": "icon_part_15_04",
+    "max": 99999,
+    "description": 3001039,
+    "storage": 1
+  },
+  {
+    "type": 11105,
+    "grade": 1,
+    "name": 3000040,
+    "serverFieldName": "icon_part_15_05",
+    "max": 99999,
+    "description": 3001040,
+    "storage": 1
+  },
+  {
+    "type": 11201,
+    "grade": 1,
+    "name": 3000041,
+    "serverFieldName": "icon_part_16_01",
+    "max": 99999,
+    "description": 3001041,
+    "storage": 1
+  },
+  {
+    "type": 11202,
+    "grade": 1,
+    "name": 3000042,
+    "serverFieldName": "icon_part_16_02",
+    "max": 99999,
+    "description": 3001042,
+    "storage": 1
+  },
+  {
+    "type": 11203,
+    "grade": 1,
+    "name": 3000043,
+    "serverFieldName": "icon_part_16_03",
+    "max": 99999,
+    "description": 3001043,
+    "storage": 1
+  },
+  {
+    "type": 11204,
+    "grade": 1,
+    "name": 3000044,
+    "serverFieldName": "icon_part_16_04",
+    "max": 99999,
+    "description": 3001044,
+    "storage": 1
+  },
+  {
+    "type": 11205,
+    "grade": 1,
+    "name": 3000045,
+    "serverFieldName": "icon_part_16_05",
+    "max": 99999,
+    "description": 3001045,
+    "storage": 1
+  },
+  {
+    "type": 20001,
+    "grade": 1,
+    "name": 4335,
+    "serverFieldName": "event_icon02",
+    "max": 99999,
+    "description": 4337,
+    "storage": 1
+  },
+  {
+    "type": 20002,
+    "grade": 1,
+    "name": 4336,
+    "serverFieldName": "event_icon01",
+    "max": 99999,
+    "description": 4338,
+    "storage": 1
+  }
+]

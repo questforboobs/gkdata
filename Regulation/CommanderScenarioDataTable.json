@@ -1,0 +1,17 @@
+[
+  {
+    "index": 0,
+    "csid": 80001,
+    "cid": 800,
+    "order": 1,
+    "name": 30101,
+    "desc": 30102,
+    "level": 0,
+    "grade": 0,
+    "cls": 9,
+    "favor": 0,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 0
+  }
+]
