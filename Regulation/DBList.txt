@@ -1,15 +1,15 @@
 {
   "Localization.txt": [
-    "20170214030719",
-    5446956
+    "20170221042337",
+    5496960
   ],
   "DailyBonusDataTable.json": [
     "20170124010633",
     10840
   ],
   "CommanderDataTable.json": [
-    "20170214000001",
-    79020
+    "20170221000228",
+    79704
   ],
   "WorldMapDataTable.json": [
     "20170124011019",
@@ -20,8 +20,8 @@
     87552
   ],
   "UnitDataTable.json": [
-    "20170214000311",
-    2137260
+    "20170221000907",
+    2138584
   ],
   "WorldMapStageTypeDataTable.json": [
     "20161129020715",
@@ -40,7 +40,7 @@
     88
   ],
   "UserLevelDataTable.json": [
-    "20170214000323",
+    "20170221000919",
     13312
   ],
   "GoodsDataTable.json": [
@@ -80,16 +80,16 @@
     128088
   ],
   "SkillDataTable.json": [
-    "20170214000209",
-    634968
+    "20170221000759",
+    646912
   ],
   "ProjectileDataTable.json": [
-    "20170214000232",
-    153176
+    "20170221000827",
+    158040
   ],
   "StatusEffectDataTable.json": [
-    "20170214000221",
-    168108
+    "20170221000814",
+    173228
   ],
   "MissionTable.json": [
     "20161129020715",
@@ -120,28 +120,28 @@
     1792
   ],
   "SkillUpgradeDataTable.json": [
-    "20170214000245",
-    94380
+    "20170221000841",
+    97624
   ],
   "InteractionDataTable.json": [
-    "20170214000116",
-    432856
+    "20170221000500",
+    450904
   ],
   "RankingRewardDataTable.json": [
     "20161129020715",
     14464
   ],
   "ProjectileMotionPhaseDataTable.json": [
-    "20170214000352",
-    221912
+    "20170220235936",
+    232664
   ],
   "UnitMotionDataTable.json": [
-    "20170214000405",
-    461824
+    "20170220235957",
+    468524
   ],
   "FireActionDataTable.json": [
-    "20170214000336",
-    21036
+    "20170220235913",
+    21632
   ],
   "PartDataTable.json": [
     "20170207000101",
@@ -160,24 +160,24 @@
     344
   ],
   "GachaRewardDataTable.json": [
-    "20170214000103",
-    11820
+    "20170221000441",
+    12716
   ],
   "BattleItemDataTable.json": [
     "20161129020715",
     640
   ],
   "LevelPatternDataTable.json": [
-    "20170214000147",
-    25472
+    "20170221000623",
+    26456
   ],
   "DropGoldPatternDataTable.json": [
     "20161129020715",
     172
   ],
   "RewardDataTable.json": [
-    "20170214000650",
-    789080
+    "20170221000637",
+    802732
   ],
   "GuildStruggleDataTable.json": [
     "20161129020715",
@@ -216,12 +216,12 @@
     1024
   ],
   "ShopDataTable.json": [
-    "20161213040236",
-    7552
+    "20170221000723",
+    6528
   ],
   "ShopProductDataTable.json": [
-    "20170124063440",
-    1408
+    "20170221000735",
+    940
   ],
   "FavorStepDataTable.json": [
     "20170124010800",
@@ -236,16 +236,16 @@
     984
   ],
   "ClassPatternDataTable.json": [
-    "20170213235949",
-    83884
+    "20170221000216",
+    87424
   ],
   "CommanderClassDataTable.json": [
-    "20170214000014",
-    153432
+    "20170221000240",
+    159960
   ],
   "ItemExchangeDataTable.json": [
-    "20170214000131",
-    54104
+    "20170221000552",
+    54572
   ],
   "DefineDataTable.json": [
     "20170125151306",
@@ -260,8 +260,8 @@
     5336
   ],
   "CommanderCostumeDataTable.json": [
-    "20170214000026",
-    26072
+    "20170221000253",
+    26584
   ],
   "GachaRewardEventDataTable.json": [
     "20161129020715",
@@ -272,8 +272,8 @@
     12248
   ],
   "FavorDataTable.json": [
-    "20170214000053",
-    49452
+    "20170221000417",
+    51328
   ],
   "CommanderGiftDataTable.json": [
     "20161129020715",
@@ -284,40 +284,40 @@
     8704
   ],
   "CarnivalTypeDataTable.json": [
-    "20170213235903",
-    34648
+    "20170221000116",
+    36056
   ],
   "CarnivalDataTable.json": [
-    "20170213235833",
-    238680
+    "20170221000052",
+    244440
   ],
   "CommanderVoiceDataTable.json": [
-    "20170214000040",
-    17280
+    "20170221000328",
+    17920
   ],
   "RaidChallengeDataTable.json": [
     "20161129020715",
     472
   ],
   "CommanderScenarioDataTable.json": [
-    "20161227031116",
-    4736
+    "20170221000307",
+    7424
   ],
   "ScenarioBattleDataTable.json": [
     "20161129020715",
     172
   ],
   "ScenarioQuarterDataTable.json": [
-    "20161227031847",
-    1196
+    "20170221000653",
+    1880
   ],
   "ScenarioBattleUnitDataTable.json": [
     "20161129020715",
     344
   ],
   "ScenarioLocalization.txt": [
-    "20161227033429",
-    1406720
+    "20170221000711",
+    2207872
   ],
   "BattleTimeDataTable.json": [
     "20170125151227",

@@ -61,6 +61,66 @@
   },
   {
     "index": 4,
+    "csid": 105,
+    "cid": 1,
+    "order": 5,
+    "name": 30109,
+    "desc": 30110,
+    "level": 0,
+    "grade": 0,
+    "cls": 0,
+    "favor": 7,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 104
+  },
+  {
+    "index": 5,
+    "csid": 106,
+    "cid": 1,
+    "order": 6,
+    "name": 30111,
+    "desc": 30112,
+    "level": 0,
+    "grade": 0,
+    "cls": 0,
+    "favor": 8,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 105
+  },
+  {
+    "index": 6,
+    "csid": 107,
+    "cid": 1,
+    "order": 7,
+    "name": 30113,
+    "desc": 30114,
+    "level": 0,
+    "grade": 0,
+    "cls": 0,
+    "favor": 9,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 106
+  },
+  {
+    "index": 7,
+    "csid": 108,
+    "cid": 1,
+    "order": 8,
+    "name": 30115,
+    "desc": 30116,
+    "level": 0,
+    "grade": 0,
+    "cls": 0,
+    "favor": 10,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 107
+  },
+  {
+    "index": 8,
     "csid": 201,
     "cid": 2,
     "order": 1,
@@ -75,7 +135,7 @@
     "scenarioClear": 0
   },
   {
-    "index": 5,
+    "index": 9,
     "csid": 202,
     "cid": 2,
     "order": 2,
@@ -90,7 +150,7 @@
     "scenarioClear": 201
   },
   {
-    "index": 6,
+    "index": 10,
     "csid": 203,
     "cid": 2,
     "order": 3,
@@ -105,7 +165,7 @@
     "scenarioClear": 202
   },
   {
-    "index": 7,
+    "index": 11,
     "csid": 204,
     "cid": 2,
     "order": 4,
@@ -120,7 +180,7 @@
     "scenarioClear": 203
   },
   {
-    "index": 8,
+    "index": 12,
     "csid": 501,
     "cid": 5,
     "order": 1,
@@ -135,7 +195,7 @@
     "scenarioClear": 0
   },
   {
-    "index": 9,
+    "index": 13,
     "csid": 502,
     "cid": 5,
     "order": 2,
@@ -150,7 +210,7 @@
     "scenarioClear": 501
   },
   {
-    "index": 10,
+    "index": 14,
     "csid": 503,
     "cid": 5,
     "order": 3,
@@ -165,7 +225,7 @@
     "scenarioClear": 502
   },
   {
-    "index": 11,
+    "index": 15,
     "csid": 504,
     "cid": 5,
     "order": 4,
@@ -180,7 +240,7 @@
     "scenarioClear": 503
   },
   {
-    "index": 12,
+    "index": 16,
     "csid": 1701,
     "cid": 17,
     "order": 1,
@@ -195,7 +255,7 @@
     "scenarioClear": 0
   },
   {
-    "index": 13,
+    "index": 17,
     "csid": 1702,
     "cid": 17,
     "order": 2,
@@ -210,7 +270,7 @@
     "scenarioClear": 1701
   },
   {
-    "index": 14,
+    "index": 18,
     "csid": 1703,
     "cid": 17,
     "order": 3,
@@ -225,7 +285,7 @@
     "scenarioClear": 1702
   },
   {
-    "index": 15,
+    "index": 19,
     "csid": 1801,
     "cid": 18,
     "order": 1,
@@ -240,7 +300,7 @@
     "scenarioClear": 0
   },
   {
-    "index": 16,
+    "index": 20,
     "csid": 1802,
     "cid": 18,
     "order": 2,
@@ -255,7 +315,7 @@
     "scenarioClear": 1801
   },
   {
-    "index": 17,
+    "index": 21,
     "csid": 1803,
     "cid": 18,
     "order": 3,
@@ -270,7 +330,7 @@
     "scenarioClear": 1802
   },
   {
-    "index": 18,
+    "index": 22,
     "csid": 1804,
     "cid": 18,
     "order": 4,
@@ -285,7 +345,7 @@
     "scenarioClear": 1803
   },
   {
-    "index": 19,
+    "index": 23,
     "csid": 2601,
     "cid": 26,
     "order": 1,
@@ -300,7 +360,7 @@
     "scenarioClear": 0
   },
   {
-    "index": 20,
+    "index": 24,
     "csid": 2602,
     "cid": 26,
     "order": 2,
@@ -315,7 +375,7 @@
     "scenarioClear": 2601
   },
   {
-    "index": 21,
+    "index": 25,
     "csid": 2603,
     "cid": 26,
     "order": 3,
@@ -330,7 +390,7 @@
     "scenarioClear": 2602
   },
   {
-    "index": 22,
+    "index": 26,
     "csid": 2604,
     "cid": 26,
     "order": 4,
@@ -343,5 +403,140 @@
     "mapClear": 0,
     "commander": 0,
     "scenarioClear": 2603
+  },
+  {
+    "index": 27,
+    "csid": 3201,
+    "cid": 32,
+    "order": 1,
+    "name": 33201,
+    "desc": 33202,
+    "level": 0,
+    "grade": 0,
+    "cls": 9,
+    "favor": 0,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 0
+  },
+  {
+    "index": 28,
+    "csid": 3202,
+    "cid": 32,
+    "order": 2,
+    "name": 33203,
+    "desc": 33204,
+    "level": 0,
+    "grade": 0,
+    "cls": 0,
+    "favor": 1,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 3201
+  },
+  {
+    "index": 29,
+    "csid": 3203,
+    "cid": 32,
+    "order": 3,
+    "name": 33205,
+    "desc": 33206,
+    "level": 0,
+    "grade": 0,
+    "cls": 0,
+    "favor": 3,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 3202
+  },
+  {
+    "index": 30,
+    "csid": 3204,
+    "cid": 32,
+    "order": 4,
+    "name": 33207,
+    "desc": 33208,
+    "level": 0,
+    "grade": 0,
+    "cls": 0,
+    "favor": 5,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 3203
+  },
+  {
+    "index": 31,
+    "csid": 3205,
+    "cid": 32,
+    "order": 5,
+    "name": 33209,
+    "desc": 33210,
+    "level": 0,
+    "grade": 0,
+    "cls": 0,
+    "favor": 7,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 3204
+  },
+  {
+    "index": 32,
+    "csid": 4101,
+    "cid": 41,
+    "order": 1,
+    "name": 34101,
+    "desc": 34102,
+    "level": 0,
+    "grade": 0,
+    "cls": 9,
+    "favor": 0,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 0
+  },
+  {
+    "index": 33,
+    "csid": 4102,
+    "cid": 41,
+    "order": 2,
+    "name": 34103,
+    "desc": 34104,
+    "level": 0,
+    "grade": 0,
+    "cls": 0,
+    "favor": 1,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 4101
+  },
+  {
+    "index": 34,
+    "csid": 4103,
+    "cid": 41,
+    "order": 3,
+    "name": 34105,
+    "desc": 34106,
+    "level": 0,
+    "grade": 0,
+    "cls": 0,
+    "favor": 3,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 4102
+  },
+  {
+    "index": 35,
+    "csid": 4104,
+    "cid": 41,
+    "order": 4,
+    "name": 34107,
+    "desc": 34108,
+    "level": 0,
+    "grade": 0,
+    "cls": 0,
+    "favor": 5,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 4103
   }
 ]

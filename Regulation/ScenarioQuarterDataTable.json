@@ -16,6 +16,22 @@
     "quarter": 10401
   },
   {
+    "csid": 105,
+    "quarter": 10501
+  },
+  {
+    "csid": 106,
+    "quarter": 10601
+  },
+  {
+    "csid": 107,
+    "quarter": 10701
+  },
+  {
+    "csid": 108,
+    "quarter": 10801
+  },
+  {
     "csid": 201,
     "quarter": 20101
   },
@@ -114,5 +130,57 @@
   {
     "csid": 2604,
     "quarter": 260402
+  },
+  {
+    "csid": 3201,
+    "quarter": 320101
+  },
+  {
+    "csid": 3202,
+    "quarter": 320201
+  },
+  {
+    "csid": 3203,
+    "quarter": 320301
+  },
+  {
+    "csid": 3203,
+    "quarter": 320302
+  },
+  {
+    "csid": 3204,
+    "quarter": 320401
+  },
+  {
+    "csid": 3204,
+    "quarter": 320402
+  },
+  {
+    "csid": 3204,
+    "quarter": 320403
+  },
+  {
+    "csid": 3205,
+    "quarter": 320501
+  },
+  {
+    "csid": 4101,
+    "quarter": 410101
+  },
+  {
+    "csid": 4102,
+    "quarter": 410201
+  },
+  {
+    "csid": 4102,
+    "quarter": 410202
+  },
+  {
+    "csid": 4103,
+    "quarter": 410301
+  },
+  {
+    "csid": 4104,
+    "quarter": 410401
   }
 ]

@@ -3864,6 +3864,174 @@
     "stat": 1000
   },
   {
+    "cid": 52,
+    "step": 1,
+    "profile": 45530,
+    "statType": 8,
+    "stat": 6
+  },
+  {
+    "cid": 52,
+    "step": 2,
+    "profile": 45531,
+    "statType": 1,
+    "stat": 40
+  },
+  {
+    "cid": 52,
+    "step": 3,
+    "profile": 45532,
+    "statType": 8,
+    "stat": 8
+  },
+  {
+    "cid": 52,
+    "step": 4,
+    "profile": 45533,
+    "statType": 1,
+    "stat": 300
+  },
+  {
+    "cid": 52,
+    "step": 5,
+    "profile": 45534,
+    "statType": 4,
+    "stat": 300
+  },
+  {
+    "cid": 52,
+    "step": 6,
+    "profile": 45535,
+    "statType": 8,
+    "stat": 10
+  },
+  {
+    "cid": 52,
+    "step": 7,
+    "profile": 45536,
+    "statType": 7,
+    "stat": 20
+  },
+  {
+    "cid": 52,
+    "step": 8,
+    "profile": 45537,
+    "statType": 8,
+    "stat": 12
+  },
+  {
+    "cid": 52,
+    "step": 9,
+    "profile": 45538,
+    "statType": 1,
+    "stat": 500
+  },
+  {
+    "cid": 52,
+    "step": 10,
+    "profile": 45539,
+    "statType": 8,
+    "stat": 12
+  },
+  {
+    "cid": 52,
+    "step": 11,
+    "profile": 47530,
+    "statType": 5,
+    "stat": 200
+  },
+  {
+    "cid": 52,
+    "step": 12,
+    "profile": 47531,
+    "statType": 1,
+    "stat": 1000
+  },
+  {
+    "cid": 53,
+    "step": 1,
+    "profile": 45540,
+    "statType": 8,
+    "stat": 6
+  },
+  {
+    "cid": 53,
+    "step": 2,
+    "profile": 45541,
+    "statType": 2,
+    "stat": 5
+  },
+  {
+    "cid": 53,
+    "step": 3,
+    "profile": 45542,
+    "statType": 8,
+    "stat": 8
+  },
+  {
+    "cid": 53,
+    "step": 4,
+    "profile": 45543,
+    "statType": 2,
+    "stat": 35
+  },
+  {
+    "cid": 53,
+    "step": 5,
+    "profile": 45544,
+    "statType": 4,
+    "stat": 300
+  },
+  {
+    "cid": 53,
+    "step": 6,
+    "profile": 45545,
+    "statType": 8,
+    "stat": 10
+  },
+  {
+    "cid": 53,
+    "step": 7,
+    "profile": 45546,
+    "statType": 7,
+    "stat": 20
+  },
+  {
+    "cid": 53,
+    "step": 8,
+    "profile": 45547,
+    "statType": 8,
+    "stat": 12
+  },
+  {
+    "cid": 53,
+    "step": 9,
+    "profile": 45548,
+    "statType": 2,
+    "stat": 60
+  },
+  {
+    "cid": 53,
+    "step": 10,
+    "profile": 45549,
+    "statType": 8,
+    "stat": 12
+  },
+  {
+    "cid": 53,
+    "step": 11,
+    "profile": 47540,
+    "statType": 5,
+    "stat": 200
+  },
+  {
+    "cid": 53,
+    "step": 12,
+    "profile": 47541,
+    "statType": 2,
+    "stat": 200
+  },
+  {
     "cid": 54,
     "step": 1,
     "profile": 45510,

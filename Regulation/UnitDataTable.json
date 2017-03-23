@@ -1435,6 +1435,76 @@
     "explanation": 1035050
   },
   {
+    "key": 5052,
+    "nameKey": 175,
+    "prefabId": "Unit-5052",
+    "resourcename": "Commander-30051",
+    "_branch": "L",
+    "type": 1,
+    "typeUpper": 4,
+    "typeDown": 0,
+    "typeBonus": 250,
+    "typeHandicap": 100,
+    "unlockLevel": 0,
+    "skillDrks": [
+      50521,
+      50522,
+      50523,
+      50524
+    ],
+    "maxHealth": 1017,
+    "attackDamage": 310,
+    "defense": 19,
+    "accuracy": 397,
+    "luck": 23,
+    "criticalChance": 30,
+    "criticalDamageBonus": 130,
+    "speed": 46,
+    "dropGold": 0,
+    "dropGoldPattern": 0,
+    "levelPattern": 52,
+    "job": 1,
+    "troop": 2,
+    "classPattern": 5052,
+    "stateAllImmunity": 0,
+    "explanation": 1035052
+  },
+  {
+    "key": 5053,
+    "nameKey": 176,
+    "prefabId": "Unit-5053",
+    "resourcename": "Commander-30052",
+    "_branch": "L",
+    "type": 1,
+    "typeUpper": 4,
+    "typeDown": 0,
+    "typeBonus": 250,
+    "typeHandicap": 100,
+    "unlockLevel": 0,
+    "skillDrks": [
+      50531,
+      50532,
+      50533,
+      50534
+    ],
+    "maxHealth": 1017,
+    "attackDamage": 231,
+    "defense": 61,
+    "accuracy": 397,
+    "luck": 27,
+    "criticalChance": 30,
+    "criticalDamageBonus": 130,
+    "speed": 46,
+    "dropGold": 0,
+    "dropGoldPattern": 0,
+    "levelPattern": 53,
+    "job": 2,
+    "troop": 2,
+    "classPattern": 5053,
+    "stateAllImmunity": 0,
+    "explanation": 1035053
+  },
+  {
     "key": 5054,
     "nameKey": 177,
     "prefabId": "Unit-5054",
@@ -27207,7 +27277,7 @@
     "typeHandicap": 100,
     "unlockLevel": 0,
     "skillDrks": [
-      50271,
+      50278,
       50279,
       50273,
       50274
@@ -42502,7 +42572,7 @@
     "typeHandicap": 100,
     "unlockLevel": 0,
     "skillDrks": [
-      50271,
+      50278,
       50279,
       50273,
       50274
@@ -42572,7 +42642,7 @@
     "typeHandicap": 100,
     "unlockLevel": 0,
     "skillDrks": [
-      50271,
+      50278,
       50279,
       50273,
       50274
@@ -50832,7 +50902,7 @@
     "typeHandicap": 100,
     "unlockLevel": 0,
     "skillDrks": [
-      50271,
+      50278,
       50279,
       50273,
       50274
@@ -73162,7 +73232,7 @@
     "typeHandicap": 100,
     "unlockLevel": 0,
     "skillDrks": [
-      50271,
+      50278,
       50279,
       50273,
       50274
@@ -78727,7 +78797,7 @@
     "typeHandicap": 100,
     "unlockLevel": 0,
     "skillDrks": [
-      50271,
+      50278,
       50279,
       50273,
       50274
@@ -79217,7 +79287,7 @@
     "typeHandicap": 100,
     "unlockLevel": 0,
     "skillDrks": [
-      50271,
+      50278,
       50279,
       50273,
       50274
