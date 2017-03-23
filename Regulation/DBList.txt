@@ -1,7 +1,7 @@
 {
   "Localization.txt": [
-    "20170125152846",
-    5280128
+    "20170207041246",
+    5338200
   ],
   "DailyBonusDataTable.json": [
     "20170124012433",
@@ -144,8 +144,8 @@
     19884
   ],
   "PartDataTable.json": [
-    "20170124012736",
-    23384
+    "20170207002325",
+    23680
   ],
   "AchievementTable.json": [
     "20170124060550",
@@ -176,8 +176,8 @@
     172
   ],
   "RewardDataTable.json": [
-    "20170124012820",
-    814636
+    "20170207002338",
+    824492
   ],
   "GuildStruggleDataTable.json": [
     "20170124012214",
@@ -244,8 +244,8 @@
     137048
   ],
   "ItemExchangeDataTable.json": [
-    "20170124012624",
-    52312
+    "20170207002309",
+    52824
   ],
   "DefineDataTable.json": [
     "20170125151215",
@@ -260,8 +260,8 @@
     5336
   ],
   "CommanderCostumeDataTable.json": [
-    "20170124012415",
-    23768
+    "20170207002256",
+    24792
   ],
   "GachaRewardEventDataTable.json": [
     "20170124012214",
@@ -284,12 +284,12 @@
     8704
   ],
   "CarnivalTypeDataTable.json": [
-    "20170125151338",
-    31832
+    "20170207002237",
+    33452
   ],
   "CarnivalDataTable.json": [
-    "20170124012324",
-    222680
+    "20170207002223",
+    231212
   ],
   "CommanderVoiceDataTable.json": [
     "20170124012424",
