@@ -213,7 +213,7 @@
     "rewardType": 3,
     "rewardId": 8,
     "rewardCount": 1,
-    "rate": 500
+    "rate": 20
   },
   {
     "index": 27,
@@ -373,7 +373,7 @@
     "rewardType": 2,
     "rewardId": 8,
     "rewardCount": 2,
-    "rate": 1400
+    "rate": 700
   },
   {
     "index": 47,

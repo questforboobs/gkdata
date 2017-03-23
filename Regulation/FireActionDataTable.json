@@ -901,6 +901,91 @@
     }
   },
   {
+    "key": "50502",
+    "on": {
+      "duration": 10600,
+      "eventTime": 700,
+      "fireDelayTime": 2350,
+      "hitDelayTime": 0,
+      "timeSleepDuringFire": true
+    },
+    "off": {
+      "duration": 8000,
+      "eventTime": -1,
+      "fireDelayTime": 0,
+      "hitDelayTime": 0,
+      "timeSleepDuringFire": true
+    }
+  },
+  {
+    "key": "59962",
+    "on": {
+      "duration": 7000,
+      "eventTime": 700,
+      "fireDelayTime": 0,
+      "hitDelayTime": 1700,
+      "timeSleepDuringFire": true
+    },
+    "off": {
+      "duration": 5700,
+      "eventTime": -1,
+      "fireDelayTime": 0,
+      "hitDelayTime": 600,
+      "timeSleepDuringFire": true
+    }
+  },
+  {
+    "key": "59963",
+    "on": {
+      "duration": 0,
+      "eventTime": -1,
+      "fireDelayTime": 0,
+      "hitDelayTime": 0,
+      "timeSleepDuringFire": false
+    },
+    "off": {
+      "duration": 1500,
+      "eventTime": -1,
+      "fireDelayTime": 0,
+      "hitDelayTime": 0,
+      "timeSleepDuringFire": false
+    }
+  },
+  {
+    "key": "59972",
+    "on": {
+      "duration": 8000,
+      "eventTime": 0,
+      "fireDelayTime": 1900,
+      "hitDelayTime": 0,
+      "timeSleepDuringFire": true
+    },
+    "off": {
+      "duration": 6000,
+      "eventTime": -1,
+      "fireDelayTime": 0,
+      "hitDelayTime": 0,
+      "timeSleepDuringFire": true
+    }
+  },
+  {
+    "key": "59982",
+    "on": {
+      "duration": 7200,
+      "eventTime": 700,
+      "fireDelayTime": 0,
+      "hitDelayTime": 1500,
+      "timeSleepDuringFire": true
+    },
+    "off": {
+      "duration": 6500,
+      "eventTime": -1,
+      "fireDelayTime": 0,
+      "hitDelayTime": 0,
+      "timeSleepDuringFire": true
+    }
+  },
+  {
     "key": "59992",
     "on": {
       "duration": 5000,

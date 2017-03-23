@@ -8969,7 +8969,7 @@
     "thumbnail": "battle_icon_skill_50192",
     "rangetype": 1,
     "rangeicon": "r_02",
-    "cutInEffectId": "-",
+    "cutInEffectId": 50192,
     "unitMotionDrk": "8019/active",
     "firePatterns": [
       "0000P0000",

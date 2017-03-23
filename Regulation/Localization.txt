@@ -149,6 +149,9 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 169|디스트로이어|디스트로이어|디스트로이어|디스트로이어|디스트로이어|디스트로이어|디스트로이어|디스트로이어
 170|레비아탄|레비아탄|레비아탄|레비아탄|레비아탄|레비아탄|레비아탄|레비아탄
 171|레기온|Legion|雷奇恩|Legion|Legion|Legion|Legion|Legion
+172|카나리아|카나리아|카나리아|카나리아|카나리아|카나리아|카나리아|카나리아
+173|브리샤|브리샤|브리샤|브리샤|브리샤|브리샤|브리샤|브리샤
+174|춘향|춘향|춘향|춘향|춘향|춘향|춘향|춘향
 201|수류탄 투척|Grenade Throw|投擲手榴彈|Lanzamiento de granada|Granatenwerfer|Lemparan Granat|เขวี้ยงระเบิด|Lancer de grenade
 202|폭연탄 발사|Fire Bomb|發射爆煙彈|Bomba incendiaria|Brandbombe|Bom Api|ระเบิดเพลิง|Bombe incendiaire
 203|기관포 난사|Machine Gun Salvo|機關砲掃射|Salva de ametralladora|Maschinengewehr-Salve|Salvo Senapan Mesin|ยิงซัลโวปืนกล|Rafale de mitrailleuse
@@ -749,6 +752,8 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 4336|산타 양말|Santa Socks|聖誕襪|Santa Socks|Santa Socks|Santa Socks|Santa Socks|Santa Socks
 4337|즐거운 크리스마스를 기념하기 위한 장식용 벨|Bell Decoration for Christmas|聖誕裝飾用的鈴鐺|Bell Decoration for Christmas|Bell Decoration for Christmas|Bell Decoration for Christmas|Bell Decoration for Christmas|Bell Decoration for Christmas
 4338|벽에 걸어둔 양말에 산타할아버지가 선물을 가득 채워주기를 바래요.|We hope you get lots of Christmas presents from Santa.|真心希望聖誕襪里能裝滿禮物.|We hope you get lots of Christmas presents from Santa.|We hope you get lots of Christmas presents from Santa.|We hope you get lots of Christmas presents from Santa.|We hope you get lots of Christmas presents from Santa.|We hope you get lots of Christmas presents from Santa.
+4339|할로윈 촛불|Halloween Candle|萬聖節-蠟燭|Halloween Candle|Halloween Candle|Halloween Candle|Halloween Candle|Halloween Candle
+4340|이벤트 기간동안 촛불을 모아 할로윈 코스튬을 교환할 수 있습니다!!|Exchange Halloween Candles during the Event and get Limited Halloween Costumes!!|活動期間收集足夠的蠟燭來兌換萬聖節時裝吧！|Exchange Halloween Candles during the Event and get Limited Halloween Costumes!!|Exchange Halloween Candles during the Event and get Limited Halloween Costumes!!|Exchange Halloween Candles during the Event and get Limited Halloween Costumes!!|Exchange Halloween Candles during the Event and get Limited Halloween Costumes!!|Exchange Halloween Candles during the Event and get Limited Halloween Costumes!!
 4801|도달 WAVE|Cleared Wave|達到的WAVE|Etapa superada|Cleared Wave|Ronde yang Diselesaikan|ระลอกที่เคลียร์|Vague contrée
 4802|{0} 후 닫힘|Closed after {0}.|{0}後關閉|Cerrado después de {0}.|Geschlossen nach {0}.|Ditutup setelah {0}.|ปิดหลังจาก {0}|Fermé(e) après {0}.
 4803|{0} 후 열림|Opened after {0}.|{0}後開啟|Abierto después de {0}.|Geöffnet nach {0}.|Dibuka setelah {0}.|เปิดหลังจาก {0}|Ouvert(e) après {0}.
@@ -2285,7 +2290,8 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 19082|qm-navercafe-icon|qm-community-icon|qm-community-icon|qm-community-icon|qm-community-icon|qm-community-icon|qm-community-icon|qm-community-icon
 19083|성우 음성 파일을 다운로드 합니다.\n\nWIFI 연결중이 아닐 경우 별도의\n데이터 통화료가 발생 할 수 있습니다.\n\n(취소하는 경우 게임 내 환경설정에서\n다시 다운로드 할 수 있습니다.)|[Info] You are about to download pilot voice files.\n\nYou may want to check if you are connected to a wi-fi\nconnection before you proceed.\nIf you cancel the download, you can always proceed again from\nthe settings menu in the game to download the voice files.|配音文件正在下載.\n\n如果您不在WIFI環境\n會附加產生流量費用\n點擊取消后隨時可以在\n環境設置里進行下載|[Info] You are about to download pilot voice files.\n\nYou may want to check if you are connected to a wi-fi\nconnection before you proceed.\nIf you cancel the download, you can always proceed again from\nthe settings menu in the game to download the voice files.|[Info] You are about to download pilot voice files.\n\nYou may want to check if you are connected to a wi-fi\nconnection before you proceed.\nIf you cancel the download, you can always proceed again from\nthe settings menu in the game to download the voice files.|[Info] You are about to download pilot voice files.\n\nYou may want to check if you are connected to a wi-fi\nconnection before you proceed.\nIf you cancel the download, you can always proceed again from\nthe settings menu in the game to download the voice files.|[Info] You are about to download pilot voice files.\n\nYou may want to check if you are connected to a wi-fi\nconnection before you proceed.\nIf you cancel the download, you can always proceed again from\nthe settings menu in the game to download the voice files.|[Info] You are about to download pilot voice files.\n\nYou may want to check if you are connected to a wi-fi\nconnection before you proceed.\nIf you cancel the download, you can always proceed again from\nthe settings menu in the game to download the voice files.
 19084|다운로드|Download|下載|Download|Download|Download|Download|Download
-19085|데이터 파일이 잘못 적용이 되어있습니다.\n 정상적인 데이터 파일로 변경하여 적용을 진행합니다.|데이터 파일이 잘못 적용이 되어있습니다.\n 정상적인 데이터 파일로 변경하여 적용을 진행합니다.|데이터 파일이 잘못 적용이 되어있습니다.\n 정상적인 데이터 파일로 변경하여 적용을 진행합니다.|데이터 파일이 잘못 적용이 되어있습니다.\n 정상적인 데이터 파일로 변경하여 적용을 진행합니다.|데이터 파일이 잘못 적용이 되어있습니다.\n 정상적인 데이터 파일로 변경하여 적용을 진행합니다.|데이터 파일이 잘못 적용이 되어있습니다.\n 정상적인 데이터 파일로 변경하여 적용을 진행합니다.|데이터 파일이 잘못 적용이 되어있습니다.\n 정상적인 데이터 파일로 변경하여 적용을 진행합니다.|데이터 파일이 잘못 적용이 되어있습니다.\n 정상적인 데이터 파일로 변경하여 적용을 진행합니다.
+19085|데이터 파일이 잘못 적용되어 있습니다.\n정상적인 데이터 파일로 다시 다운로드 합니다.|Your current game-configuration data files \nare incomplete or misplaced.\nThe correct data files will now begin to re-download.|部分文件已被損壞無法正常讀取數據\n請在正規渠道里下載正規版本.|Your current game-configuration data files \nare incomplete or misplaced.\nThe correct data files will now begin to re-download.|Your current game-configuration data files \nare incomplete or misplaced.\nThe correct data files will now begin to re-download.|Your current game-configuration data files \nare incomplete or misplaced.\nThe correct data files will now begin to re-download.|Your current game-configuration data files \nare incomplete or misplaced.\nThe correct data files will now begin to re-download.|Your current game-configuration data files \nare incomplete or misplaced.\nThe correct data files will now begin to re-download.
+19086|예기치 못한 네트워크 문제로, 정상적인 데이터 파일을 적용할 수 없습니다.\n안정된 네트워크 환경에서 다시 시도해 주세요.|Could not proceed due to a sudden connection failure.\nPlease make sure to connect from a secure network and try again.|網絡連接不穩定無法正常讀取數據\n請在穩定的網絡環境里重試|Could not proceed due to a sudden connection failure.\nPlease make sure to connect from a secure network and try again.|Could not proceed due to a sudden connection failure.\nPlease make sure to connect from a secure network and try again.|Could not proceed due to a sudden connection failure.\nPlease make sure to connect from a secure network and try again.|Could not proceed due to a sudden connection failure.\nPlease make sure to connect from a secure network and try again.|Could not proceed due to a sudden connection failure.\nPlease make sure to connect from a secure network and try again.
 19300|업데이트 파일을 다운로드 중입니다. 잠시만 기다려 주세요.|Downloading update files. Please wait.|正在下載更新，請稍後|Descargando archivos de actualización. Por favor, espera |Herunterladen von Update-Dateien. Bitte warten |Sedang mengunduh berkas pembaruan. Tunggu sebentar |ดาวน์โหลดไฟล์อัพเดท กรุณารอสักครู่ |Téléchargement des fichiers de mise à jour. Veuillez patienter 
 19301|데이터 최적화 중입니다. 잠시만 기다려 주세요.|Optimising Data. Please wait.|正在解壓文件，請稍後|Optimizando los datos. Por favor, espera|Optimierung der Daten. Bitte warten |Mengoptimalkan Data. Tunggu sebentar |กำลังทำข้อมูลให้เหมาะสม กรุณารอสักครู่ |Optimisation des données. Veuillez patienter 
 19302|데이터를 불러오고 있습니다. 잠시만 기다려 주세요.|Retrieving Data. Please wait.|正在讀取數據，請稍後|Recibiendo datos... Por favor, espera |Daten werden empfangen. Bitte warten |Sedang Mengambil data. Tunggu sebentar |กำลังรับข้อมูล กรุณารอสักครู่ |Récupération des données. Veuillez patienter 
@@ -2665,6 +2671,32 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 27182|450 다이아 >> 고급 훈련 티켓x50|450 Diamonds >> High Grade Training Tickets x50|鑽石x450 >> 高級訓練卷x50|450 Diamonds >> High Grade Training Tickets x50|450 Diamonds >> High Grade Training Tickets x50|450 Diamonds >> High Grade Training Tickets x50|450 Diamonds >> High Grade Training Tickets x50|450 Diamonds >> High Grade Training Tickets x50
 27183|520 다이아 >> 최고급 훈련 티켓x20|520 Diamonds >> Ultimate Grade Training Tickets x20|鑽石x520 >> 最高級訓練卷x20|520 Diamonds >> Ultimate Grade Training Tickets x20|520 Diamonds >> Ultimate Grade Training Tickets x20|520 Diamonds >> Ultimate Grade Training Tickets x20|520 Diamonds >> Ultimate Grade Training Tickets x20|520 Diamonds >> Ultimate Grade Training Tickets x20
 27184|750 다이아 >> 특급 훈련 티켓x10|750 Diamonds >> Special Grade Training Tickets x10|鑽石x750 >> 特級訓練卷x10|750 Diamonds >> Special Grade Training Tickets x10|750 Diamonds >> Special Grade Training Tickets x10|750 Diamonds >> Special Grade Training Tickets x10|750 Diamonds >> Special Grade Training Tickets x10|750 Diamonds >> Special Grade Training Tickets x10
+27185|최초 획득 이벤트|최초 획득 이벤트|최초 획득 이벤트|최초 획득 이벤트|최초 획득 이벤트|최초 획득 이벤트|최초 획득 이벤트|최초 획득 이벤트
+27186|콜라보 훈장 구매|콜라보 훈장 구매|콜라보 훈장 구매|콜라보 훈장 구매|콜라보 훈장 구매|콜라보 훈장 구매|콜라보 훈장 구매|콜라보 훈장 구매
+27187|카나리아 획득 하기|카나리아 획득 하기|카나리아 획득 하기|카나리아 획득 하기|카나리아 획득 하기|카나리아 획득 하기|카나리아 획득 하기|카나리아 획득 하기
+27188|브리샤 획득 하기|브리샤 획득 하기|브리샤 획득 하기|브리샤 획득 하기|브리샤 획득 하기|브리샤 획득 하기|브리샤 획득 하기|브리샤 획득 하기
+27189|춘향 획득 하기|춘향 획득 하기|춘향 획득 하기|춘향 획득 하기|춘향 획득 하기|춘향 획득 하기|춘향 획득 하기|춘향 획득 하기
+27190|30,000골드 >> 카나리아 훈장x1|30,000골드 >> 카나리아 훈장x1|30,000골드 >> 카나리아 훈장x1|30,000골드 >> 카나리아 훈장x1|30,000골드 >> 카나리아 훈장x1|30,000골드 >> 카나리아 훈장x1|30,000골드 >> 카나리아 훈장x1|30,000골드 >> 카나리아 훈장x1
+27191|30,000골드 >> 브리샤 훈장x1|30,000골드 >> 브리샤 훈장x1|30,000골드 >> 브리샤 훈장x1|30,000골드 >> 브리샤 훈장x1|30,000골드 >> 브리샤 훈장x1|30,000골드 >> 브리샤 훈장x1|30,000골드 >> 브리샤 훈장x1|30,000골드 >> 브리샤 훈장x1
+27192|300,000골드 >> 카나리아 훈장x10|300,000골드 >> 카나리아 훈장x10|300,000골드 >> 카나리아 훈장x10|300,000골드 >> 카나리아 훈장x10|300,000골드 >> 카나리아 훈장x10|300,000골드 >> 카나리아 훈장x10|300,000골드 >> 카나리아 훈장x10|300,000골드 >> 카나리아 훈장x10
+27193|300,000골드 >> 브리샤 훈장x10|300,000골드 >> 브리샤 훈장x10|300,000골드 >> 브리샤 훈장x10|300,000골드 >> 브리샤 훈장x10|300,000골드 >> 브리샤 훈장x10|300,000골드 >> 브리샤 훈장x10|300,000골드 >> 브리샤 훈장x10|300,000골드 >> 브리샤 훈장x10
+27194|40 다이아 >> 카나리아 훈장x1|40 다이아 >> 카나리아 훈장x1|40 다이아 >> 카나리아 훈장x1|40 다이아 >> 카나리아 훈장x1|40 다이아 >> 카나리아 훈장x1|40 다이아 >> 카나리아 훈장x1|40 다이아 >> 카나리아 훈장x1|40 다이아 >> 카나리아 훈장x1
+27195|40 다이아 >> 브리샤 훈장x1|40 다이아 >> 브리샤 훈장x1|40 다이아 >> 브리샤 훈장x1|40 다이아 >> 브리샤 훈장x1|40 다이아 >> 브리샤 훈장x1|40 다이아 >> 브리샤 훈장x1|40 다이아 >> 브리샤 훈장x1|40 다이아 >> 브리샤 훈장x1
+27196|400 다이아 >> 카나리아 훈장x10|400 다이아 >> 카나리아 훈장x10|400 다이아 >> 카나리아 훈장x10|400 다이아 >> 카나리아 훈장x10|400 다이아 >> 카나리아 훈장x10|400 다이아 >> 카나리아 훈장x10|400 다이아 >> 카나리아 훈장x10|400 다이아 >> 카나리아 훈장x10
+27197|400 다이아 >> 브리샤 훈장x10|400 다이아 >> 브리샤 훈장x10|400 다이아 >> 브리샤 훈장x10|400 다이아 >> 브리샤 훈장x10|400 다이아 >> 브리샤 훈장x10|400 다이아 >> 브리샤 훈장x10|400 다이아 >> 브리샤 훈장x10|400 다이아 >> 브리샤 훈장x10
+27198|뒤늦은 할로윈|Late Halloween|來遲的萬聖節！|Late Halloween|Late Halloween|Late Halloween|Late Halloween|Late Halloween
+27199|할로윈 촛불x350  >>  세실 레니에 코스튬|Halloween Candle x350 >> Cecile Renier Costume|萬聖節-蠟燭x350>>|Halloween Candle x350 >> Cecile Renier Costume|Halloween Candle x350 >> Cecile Renier Costume|Halloween Candle x350 >> Cecile Renier Costume|Halloween Candle x350 >> Cecile Renier Costume|Halloween Candle x350 >> Cecile Renier Costume
+27200|할로윈 촛불x350  >>  엘린 밀러 코스튬|Halloween Candle x350 >> Elin Miller Costume|萬聖節-蠟燭x350>>|Halloween Candle x350 >> Elin Miller Costume|Halloween Candle x350 >> Elin Miller Costume|Halloween Candle x350 >> Elin Miller Costume|Halloween Candle x350 >> Elin Miller Costume|Halloween Candle x350 >> Elin Miller Costume
+27201|할로윈 촛불x350  >>  타냐 브라운 코스튬|Halloween Candle x350 >> Tanya Brown Costume|萬聖節-蠟燭x350>>|Halloween Candle x350 >> Tanya Brown Costume|Halloween Candle x350 >> Tanya Brown Costume|Halloween Candle x350 >> Tanya Brown Costume|Halloween Candle x350 >> Tanya Brown Costume|Halloween Candle x350 >> Tanya Brown Costume
+27202|할로윈 촛불x350  >>  지앙 룬메이 코스튬|Halloween Candle x350 >> Jiang Lun Mei Costume|萬聖節-蠟燭x350>>|Halloween Candle x350 >> Jiang Lun Mei Costume|Halloween Candle x350 >> Jiang Lun Mei Costume|Halloween Candle x350 >> Jiang Lun Mei Costume|Halloween Candle x350 >> Jiang Lun Mei Costume|Halloween Candle x350 >> Jiang Lun Mei Costume
+27203|할로윈 촛불x350  >>  에노모토 츠바사 코스튬|Halloween Candle x350 >> Enomoto Tsubasa Costume|萬聖節-蠟燭x350>>|Halloween Candle x350 >> Enomoto Tsubasa Costume|Halloween Candle x350 >> Enomoto Tsubasa Costume|Halloween Candle x350 >> Enomoto Tsubasa Costume|Halloween Candle x350 >> Enomoto Tsubasa Costume|Halloween Candle x350 >> Enomoto Tsubasa Costume
+27204|할로윈 촛불x20  >>  공용 훈장x1|Halloween Candle x20 >> Convertible Medal x1|萬聖節-蠟燭x20>>|Halloween Candle x20 >> Convertible Medal x1|Halloween Candle x20 >> Convertible Medal x1|Halloween Candle x20 >> Convertible Medal x1|Halloween Candle x20 >> Convertible Medal x1|Halloween Candle x20 >> Convertible Medal x1
+27205|할로윈 촛불x200  >>  공용 훈장x10|Halloween Candle x200 >> Convertible Medal x10|萬聖節-蠟燭x200>>|Halloween Candle x200 >> Convertible Medal x10|Halloween Candle x200 >> Convertible Medal x10|Halloween Candle x200 >> Convertible Medal x10|Halloween Candle x200 >> Convertible Medal x10|Halloween Candle x200 >> Convertible Medal x10
+27206|할로윈 촛불 구매|Halloween Candles for Sale!|購買萬聖節-蠟燭|Halloween Candles for Sale!|Halloween Candles for Sale!|Halloween Candles for Sale!|Halloween Candles for Sale!|Halloween Candles for Sale!
+27207|35,000골드 >> 할로윈 촛불x10|35,000 Gold >> Halloween Candles x10|金幣 35,000 >> 萬聖節-蠟燭 x10|35,000 Gold >> Halloween Candles x10|35,000 Gold >> Halloween Candles x10|35,000 Gold >> Halloween Candles x10|35,000 Gold >> Halloween Candles x10|35,000 Gold >> Halloween Candles x10
+27208|70,000골드 >> 할로윈 촛불x20|70,000 Gold >> Halloween Candles x20|金幣 70,000 >> 萬聖節-蠟燭 x20|70,000 Gold >> Halloween Candles x20|70,000 Gold >> Halloween Candles x20|70,000 Gold >> Halloween Candles x20|70,000 Gold >> Halloween Candles x20|70,000 Gold >> Halloween Candles x20
+27209|50 다이아 >> 할로윈 촛불x10|50 Diamonds >> Halloween Candles x10|鑽石50顆 >>萬聖節-蠟燭 x10|50 Diamonds >> Halloween Candles x10|50 Diamonds >> Halloween Candles x10|50 Diamonds >> Halloween Candles x10|50 Diamonds >> Halloween Candles x10|50 Diamonds >> Halloween Candles x10
+27210|500 다이아 >> 할로윈 촛불x100|500 Diamonds >> Halloween Candles x100|鑽石500顆 >> 萬聖節-蠟燭 x100|500 Diamonds >> Halloween Candles x100|500 Diamonds >> Halloween Candles x100|500 Diamonds >> Halloween Candles x100|500 Diamonds >> Halloween Candles x100|500 Diamonds >> Halloween Candles x100
 30101|깐깐한 그녀|Meticulous Girl|嚴苛的她|Chica meticulosa|Sorgfältiges Mädchen|Gadis Teliti|สาวจู้จี้จุกจิก|Fille méticuleuse
 30102|언제나 깐깐하기 그지없는 내 보좌관 정 이영. 그녀는 새로 온 사령관인 내가 탐탁지 않은 것 같다. 하지만 날 데려 온 건 바로 너라고!|Your assistant E-young is the most meticulous girl there is. But she doesn't have much confidence in you as the new commander. But wasn't it E-young who scouted you in the firs place?|總是非常嚴苛的我的助理鄭以寧。她好像不太喜歡新任為司令官的我。不過帶我來的可是你啊！|Tu asistenta E-young es la chica más meticulosa de todas. Pero ella no tiene mucha confianza en ti como nuevo comandante. ¿Pero no fue E-young quien te reclutó en primer lugar?|Dein Assistent E-young ist das sorgfältigste Mädchen überhaupt. Aber sie hat nicht viel Vertrauen in dich als neuen Kommandanten. Aber war es nicht E-young, die dich im Tannenwald ausgekundschaftet hat?|Asistenmu, E-young, adalah gadis yang paling teliti. Tapi dia kurang memercayai kamu sebagai komandan baru. Tetapi bukankah E-young yang membinamu sejak awal?|ผู้ช่วยของคุณ อี-ยัง เป็นสาวจู้จี้จุกจิกที่สุด แต่เธอไม่มีความมั่นใจในตัวคุณมากนักเพราะว่าคุณผู้บัญชาการคนใหม่ แต่ไม่ใช่ อี-ยัง หรอกหรือที่เป็นคนจ้างคุณตั้งแต่แรก?|Votre assistante E-young est la fille la plus méticuleuse qui soit. Mais elle n'a pas beaucoup confiance en vous en tant que nouveau commandant. Mais n'est-ce pas E-young qui vous a repéré en premier lieu ?
 30103|만남|The First Encounter|相會|El primer encuentro|Die erste Begegnung|Perjumpaan Pertama|การเผชิญหน้าครั้งแรก|La première rencontre
@@ -2804,7 +2836,9 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 44006|싫어하는 것:|Dislikes:|討厭的東西：|No le gusta:|Mag nicht:|Tidak Suka:|สิ่งที่ไม่ชอบ:|Aime :
 44007|남에게 말할 수 없는 비밀|My Secret:|不能對別人透露的秘密|Mi secreto:|Mein Geheimnis:|Rahasiaku:|ความลับของฉัน:|N’aime pas :
 44008|이상형|Ideal Type|喜歡的類型|Ideal Type|Ideal Type|Ideal Type|Ideal Type|Ideal Type
-44009|사령관에게 하고 싶은 말|Message to Commander:|想對司令官說的話|Mensaje al comandante:|Nachricht an den Kommandanten:|Pesan ke Komandan:|ข้อความถึงผู้บัญชาการ:|Message au commandant :
+44009|좋아하는 음식|좋아하는 음식|좋아하는 음식|좋아하는 음식|좋아하는 음식|좋아하는 음식|좋아하는 음식|좋아하는 음식
+44010|장래희망|장래희망|장래희망|장래희망|장래희망|장래희망|장래희망|장래희망
+44011|나만의 보물|나만의 보물|나만의 보물|나만의 보물|나만의 보물|나만의 보물|나만의 보물|나만의 보물
 45000|20세|20|20歲|20|20|20|20|20
 45001|2월 26일|Feb. 26|2月26日|Feb. 26|Feb. 26|Feb. 26|กุมภาพันธ์ 26|Févr. 26
 45002|B형|B|B型|B|B|B|B|B
@@ -2814,7 +2848,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45006|실수를 반복하는 것|Repeating mistakes|重蹈覆轍|Repetir errores|Fehler wiederholen|Mengulangi kesalahan|ทำผิดซ้ำ ๆ|Répéter ses erreurs
 45007|첫사랑이 오빠였다는 것|That her first love was her elder brother|初戀是鄭毅翰|That her first love was her elder brother|That her first love was her elder brother|That her first love was her elder brother|That her first love was her elder brother|That her first love was her elder brother
 45008|오빠 같은 사람|Person like her elder brother|像鄭毅翰的人|Person like her elder brother|Person like her elder brother|Person like her elder brother|Person like her elder brother|Person like her elder brother
-45009|오빠 같은 사람|Person like her elder brother|像鄭毅翰的人|Person like her elder brother|Person like her elder brother|Person like her elder brother|Person like her elder brother|Person like her elder brother
+45009|파르페|파르페|파르페|파르페|파르페|파르페|파르페|파르페
 45010|18세|18|18歲|18|18|18|18|18
 45011|1월 18일|Jan. 18|1月18日|Ene. 18|Jan. 18|Jan. 18|มกราคม 18|Janv. 18
 45012|A형|A|A型|A|A|A|A|A
@@ -2824,7 +2858,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45016|예쁘지 않은 교복|Unpretty school uniform|不好看的校服|Uniforme escolar poco agraciado|Unschöne Schuluniform|Seragam sekolah jelek|เครื่องแบบนักเรียนแย่ ๆ|Un uniforme scolaire qui n'est pas joli
 45017|학창 생활에 미련이 있다는 것|That she has feelings left for school life|迷戀校園生活|That she has feelings left for school life|That she has feelings left for school life|That she has feelings left for school life|That she has feelings left for school life|That she has feelings left for school life
 45018|상냥하고 맛있는 걸 많이 사주는 사람|Friendly person who buys her tasty things|給我買好吃的人|Friendly person who buys her tasty things|Friendly person who buys her tasty things|Friendly person who buys her tasty things|Friendly person who buys her tasty things|Friendly person who buys her tasty things
-45019|상냥하고 맛있는 걸 많이 사주는 사람|Friendly person who buys her tasty things|給我買好吃的人|Friendly person who buys her tasty things|Friendly person who buys her tasty things|Friendly person who buys her tasty things|Friendly person who buys her tasty things|Friendly person who buys her tasty things
+45019|너무 많아 특정할 수 없음|너무 많아 특정할 수 없음|너무 많아 특정할 수 없음|너무 많아 특정할 수 없음|너무 많아 특정할 수 없음|너무 많아 특정할 수 없음|너무 많아 특정할 수 없음|너무 많아 특정할 수 없음
 45020|21세|21|21歲|21|21|21|21|21
 45021|1월 1일|Jan. 1|1月1日|Ene. 1|Jan. 1|Jan. 1|มกราคม 1|Janv. 1
 45022|AB형|AB|AB型|AB|AB|AB|AB|AB
@@ -2834,7 +2868,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45026|가난|Poverty|貧窮|Pobreza|Armut|Kemiskinan|ความยากจน|Pauvreté
 45027|숫자에 대한 심한 강박증|Strong obsession with numbers|數字強迫症|Fuerte obsesión con los números|Starke Obsession mit Zahlen|Sangat terobsesi dengan angka|หมกมุ่นกับตัวเลขอย่างรุนแรง|Forte obsession avec les chiffres
 45028|언제나 신뢰할 수 있는 정직한 사람|Person who is always there for her|可一直信賴的人|Person who is always there for her|Person who is always there for her|Person who is always there for her|Person who is always there for her|Person who is always there for her
-45029|언제나 신뢰할 수 있는 정직한 사람|Person who is always there for her|可一直信賴的人|Person who is always there for her|Person who is always there for her|Person who is always there for her|Person who is always there for her|Person who is always there for her
+45029|샤오룽바오|샤오룽바오|샤오룽바오|샤오룽바오|샤오룽바오|샤오룽바오|샤오룽바오|샤오룽바오
 45030|20세|20|20歲|20|20|20|20|20
 45031|12월 25일|Dec. 25|12月25日|Dic. 25|Dez. 25|Des. 25|ธันวาคม 25|Déc. 25
 45032|O형|O|O型|O|O|O|O|O
@@ -2844,7 +2878,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45036|주근깨|Freckles|雀斑|Pecas|Sommersprossen|Bintik-bintik|กระ|Taches de rousseur
 45037|남몰래 모으고 있는 오래된 장난감|Secret collection of toys|偷摸珍藏的老玩具|Secret collection of toys|Secret collection of toys|Secret collection of toys|Secret collection of toys|Secret collection of toys
 45038|자신을 평범하게 대해주는 사람|Person who treats her normally|待我如平凡的男人|Person who treats her normally|Person who treats her normally|Person who treats her normally|Person who treats her normally|Person who treats her normally
-45039|자신을 평범하게 대해주는 사람|Person who treats her normally|待我如平凡的男人|Person who treats her normally|Person who treats her normally|Person who treats her normally|Person who treats her normally|Person who treats her normally
+45039|햄버거|햄버거|햄버거|햄버거|햄버거|햄버거|햄버거|햄버거
 45040|16세|16|16歲|16|16|16|16|16
 45041|8월 7일|Aug. 7|8月7日|Ago. 7|Aug. 7|Agt. 7|สิงหาคม 7|Août 7
 45042|AB형|AB|AB型|AB|AB|AB|AB|AB
@@ -2854,7 +2888,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45046|어린아이 취급 받는 것|Being treated as a kid|被當成小孩|Ser tratado como un niño|Als Kind behandelt zu werden|Diperlakukan sebagai anak-anak|ได้รับการปฏิบัติเหมือนเป็นเด็ก|Pistolets, cuisiner
 45047|어른스러운 속옷을 수집하는 것|To collect mature underwear|喜歡收藏成熟點的內衣|To collect mature underwear|To collect mature underwear|To collect mature underwear|To collect mature underwear|To collect mature underwear
 45048|동화 속 기사나 왕자 같은 사람|Prince Charming from the Faily Tales|像童話里的騎士或王子|Prince Charming from the Faily Tales|Prince Charming from the Faily Tales|Prince Charming from the Faily Tales|Prince Charming from the Faily Tales|Prince Charming from the Faily Tales
-45049|동화 속 기사나 왕자 같은 사람|Prince Charming from the Faily Tales|像童話里的騎士或王子|Prince Charming from the Faily Tales|Prince Charming from the Faily Tales|Prince Charming from the Faily Tales|Prince Charming from the Faily Tales|Prince Charming from the Faily Tales
+45049|리프 기지 식당의 모든 메뉴|리프 기지 식당의 모든 메뉴|리프 기지 식당의 모든 메뉴|리프 기지 식당의 모든 메뉴|리프 기지 식당의 모든 메뉴|리프 기지 식당의 모든 메뉴|리프 기지 식당의 모든 메뉴|리프 기지 식당의 모든 메뉴
 45050|18세|18|18歲|18|18|18|18|18
 45051|6월 16일|Jun. 16|6月16日|Jun. 16|Jun. 16|Jun. 16|มิถุนายน 16|Juin 16
 45052|A형|A|A型|A|A|A|A|A
@@ -2864,7 +2898,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45056|치즈류 전반|Cheese!|奶酪|Cheese!|Cheese!|Cheese!|Cheese!|Cheese!
 45057|사령관에 대한 정보를 몰래 메모하는 것|To take secret notes of her commander|偷摸收集司令官的情報|To take secret notes of her commander|To take secret notes of her commander|To take secret notes of her commander|To take secret notes of her commander|To take secret notes of her commander
 45058|자신만을 특별취급해 주는 사람|Person who treats her special|待她特別的人|Person who treats her special|Person who treats her special|Person who treats her special|Person who treats her special|Person who treats her special
-45059|자신만을 특별취급해 주는 사람|Person who treats her special|待她特別的人|Person who treats her special|Person who treats her special|Person who treats her special|Person who treats her special|Person who treats her special
+45059|슈바이네 학센|슈바이네 학센|슈바이네 학센|슈바이네 학센|슈바이네 학센|슈바이네 학센|슈바이네 학센|슈바이네 학센
 45060|16세|16|16歲|16|16|16|16|16
 45061|6월 25일|Jun. 25|6月25日|Jun. 25|Jun. 25|Jun. 25|มิถุนายน 25|Juin 25
 45062|O형|O|O型|O|O|O|O|O
@@ -2874,7 +2908,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45066|겉치레|Superficial|浮華|Superficial|Oberflächliches|Dangkal|ทำอะไรเพียงผิวเผิน|Superficielle
 45067|최근 방에서 키스 연습을 하고 있다는 것|That she is secretly practicing kissing in her room|最近在房間裡練習接吻|That she is secretly practicing kissing in her room|That she is secretly practicing kissing in her room|That she is secretly practicing kissing in her room|That she is secretly practicing kissing in her room|That she is secretly practicing kissing in her room
 45068|듬직하고 의지할 수 있는 사람|Person who is always trustworthy|穩重并可依賴的人|Person who is always trustworthy|Person who is always trustworthy|Person who is always trustworthy|Person who is always trustworthy|Person who is always trustworthy
-45069|듬직하고 의지할 수 있는 사람|Person who is always trustworthy|穩重并可依賴的人|Person who is always trustworthy|Person who is always trustworthy|Person who is always trustworthy|Person who is always trustworthy|Person who is always trustworthy
+45069|양고기 스테이크|양고기 스테이크|양고기 스테이크|양고기 스테이크|양고기 스테이크|양고기 스테이크|양고기 스테이크|양고기 스테이크
 45070|18세|18|18歲|18|18|18|18|18
 45071|3월 24일|Mar. 24|3月24日|Mar. 24|Mär. 24|Mar. 24|มีนาคม 24|Mars 24
 45072|A형|A|A型|A|A|A|A|A
@@ -2884,7 +2918,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45076|가슴 때문에 놀림 받는 것|Getting teased about breast size|被人取笑胸部|Las bromas por el tamaño de su pecho|Wird wegen Ihrer Brustgröße gehänselt|Digoda karena ukuran payudara|ถูกแกล้งเรื่องขนาดหน้าอก|Être taquinée à propos de la taille de ses seins
 45077|추리 게임을 잘 못 한다는 것|That she is not good at guessing games|不擅於推理|That she is not good at guessing games|That she is not good at guessing games|That she is not good at guessing games|That she is not good at guessing games|That she is not good at guessing games
 45078|홈즈 같이 머리가 좋은 사람|Person who is smart as Holmes|喜歡頭腦精明的人|Person who is smart as Holmes|Person who is smart as Holmes|Person who is smart as Holmes|Person who is smart as Holmes|Person who is smart as Holmes
-45079|홈즈 같이 머리가 좋은 사람|Person who is smart as Holmes|喜歡頭腦精明的人|Person who is smart as Holmes|Person who is smart as Holmes|Person who is smart as Holmes|Person who is smart as Holmes|Person who is smart as Holmes
+45079|컵라면|컵라면|컵라면|컵라면|컵라면|컵라면|컵라면|컵라면
 45080|19세|19|19歲|19|19|19|19|19
 45081|4월 11일|Apr. 11|4月11日|Abr. 11|Apr. 11|Apr. 11|เมษายน 11|Avr. 11
 45082|B형|B|B型|B|B|B|B|B
@@ -2894,7 +2928,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45086|무계획적인 일|Unexpected events|毫無計畫的事|Los eventos inesperados|Unerwartete Ereignisse|Kejadian tak terduga|เหตุการณ์ที่ไม่คาดคิด|Les événements inattendus
 45087|신용불량을 겪었던 일|Bad credit|曾經是信用不良者|Problemas de crédito|Schechter Kredit|Kredit macet|การที่เครดิตไม่ดี|Mauvaise solvabilité
 45088|성실하고 부지런한 사람|Person who is diligent|誠實與勤勞的人|Person who is diligent|Person who is diligent|Person who is diligent|Person who is diligent|Person who is diligent
-45089|성실하고 부지런한 사람|Person who is diligent|誠實與勤勞的人|Person who is diligent|Person who is diligent|Person who is diligent|Person who is diligent|Person who is diligent
+45089|푸틴 프라이스|푸틴 프라이스|푸틴 프라이스|푸틴 프라이스|푸틴 프라이스|푸틴 프라이스|푸틴 프라이스|푸틴 프라이스
 45090|19세|19|19歲|19|19|19|19|19
 45091|2월 28일|Feb. 28|2月28日|Feb. 28|Feb. 28|Feb. 28|กุมภาพันธ์ 28|Févr. 28
 45092|AB형|AB|AB型|AB|AB|AB|AB|AB
@@ -2904,7 +2938,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45096|마술 비밀을 밝히는 사람|People who exposes magic tricks|揭發魔術秘密的人|Las personas que revelan los trucos de magia|Menschen, die Zaubertricks entlarven|Orang-orang yang membuka trik sulap|คนที่เปิดโปงเทคนิคมายากล|Les gens qui révèlent des tours de magie
 45097|남몰래 하는 봉사활동|Secret voluntary work|偷偷參加義工活動|Trabajo voluntario secreto|Geheime freiwillige Arbeit|Kerja sukarela rahasia|ทำงานอาสาสมัครที่เป็นความลับ|Travail volontaire secret
 45098|순수한 사람|Person who is pure and innocent|純真樸實的人|Person who is pure and innocent|Person who is pure and innocent|Person who is pure and innocent|Person who is pure and innocent|Person who is pure and innocent
-45099|순수한 사람|Person who is pure and innocent|純真樸實的人|Person who is pure and innocent|Person who is pure and innocent|Person who is pure and innocent|Person who is pure and innocent|Person who is pure and innocent
+45099|쿠키류 전반|쿠키류 전반|쿠키류 전반|쿠키류 전반|쿠키류 전반|쿠키류 전반|쿠키류 전반|쿠키류 전반
 45100|17세|17|17歲|17|17|17|17|17
 45101|6월 24일|Jun. 24|6月24日|Jun. 24|Jun. 24|Jun. 24|มิถุนายน 24|Juin 24
 45102|O형|O|O型|O|O|O|O|O
@@ -2914,7 +2948,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45106|돼지고기|Pork|豬肉|Cerdo|Schweinefleisch|Daging babi|เนื้อหมู|Porc
 45107|늘 토끼 그림의 잠옷을 입고 잔다|Always sleeps in a her bunny pajamas|一直穿兔子圖案的的睡衣睡覺.|Always sleeps in a her bunny pajamas|Always sleeps in a her bunny pajamas|Always sleeps in a her bunny pajamas|Always sleeps in a her bunny pajamas|Always sleeps in a her bunny pajamas
 45108|마음이 따뜻한 사람|Person who has a warm-heart|心暖的人|Person who has a warm-heart|Person who has a warm-heart|Person who has a warm-heart|Person who has a warm-heart|Person who has a warm-heart
-45109|마음이 따뜻한 사람|Person who has a warm-heart|心暖的人|Person who has a warm-heart|Person who has a warm-heart|Person who has a warm-heart|Person who has a warm-heart|Person who has a warm-heart
+45109|케밥|케밥|케밥|케밥|케밥|케밥|케밥|케밥
 45110|22세|22|22歲|22|22|22|22|22
 45111|7월 14일|Jul. 14|7月14日|Jul. 14|Jul. 14|Jul. 14|กรกฎาคม 14|Juil. 14
 45112|A형|A|A型|A|A|A|A|A
@@ -2924,7 +2958,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45116|수학, 복잡한 것|Math, complicated things|數學、複雜的東西|Matemáticas, cosas complicadas|Mathe, komplizierte Dinge|Matematika, hal yang rumit|คณิตศาสตร์ สิ่งที่ซับซ้อน|Les maths, les choses compliquées
 45117|언젠가 만날 애인을 위해 사둔 야한 아오자이|Sexy Aodai she bought for her future boyfriend|給未來愛人穿的性感越式旗袍|Sexy Aodai she bought for her future boyfriend|Sexy Aodai she bought for her future boyfriend|Sexy Aodai she bought for her future boyfriend|Sexy Aodai she bought for her future boyfriend|Sexy Aodai she bought for her future boyfriend
 45118|함께 꿈을 꿀 수 있는 사람|Person who she can dream together|有共同理想的人|Person who she can dream together|Person who she can dream together|Person who she can dream together|Person who she can dream together|Person who she can dream together
-45119|함께 꿈을 꿀 수 있는 사람|Person who she can dream together|有共同理想的人|Person who she can dream together|Person who she can dream together|Person who she can dream together|Person who she can dream together|Person who she can dream together
+45119|분짜|분짜|분짜|분짜|분짜|분짜|분짜|분짜
 45120|19세|19|19歲|19|19|19|19|19
 45121|10월 11일|Oct. 11|10月11日|Oct. 11|Okt. 11|Okt. 11|ตุลาคม 11|Oct. 11
 45122|B형|B|B型|B|B|B|B|B
@@ -2934,7 +2968,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45126|꼬치꼬치 캐묻는 사람|A person who asks inquisitively|問個不停的人|Una persona que pide inquisitivamente|Eine Person, die wissbegierig fragt|Orang yang bertanya dengan penuh rasa ingin tahu|คนที่ชอบซักถามด้วยอยากรู้อยากเห็น|Les personnes inquisitrices
 45127|어릴 때, 신의 계시를 받았던 일|Receiving the call of divinity when she was young.|小時候曾經得到神的啟示|Recibir la llamada de la divinidad cuando era joven.|Empfing den Ruf der Göttlichkeit, als sie jung war.|Menerima panggilan ilahi ketika dia masih kecil.|ตอบรับความต้องการของพระเจ้าเมื่อเธอยังเป็นเด็ก|Recevoir l'appel de la divinité quand elle était jeune.
 45128|마음이 넓은 사람|Person who has a broad mind|心寬之人|Person who has a broad mind|Person who has a broad mind|Person who has a broad mind|Person who has a broad mind|Person who has a broad mind
-45129|마음이 넓은 사람|Person who has a broad mind|心寬之人|Person who has a broad mind|Person who has a broad mind|Person who has a broad mind|Person who has a broad mind|Person who has a broad mind
+45129|탄두리 치킨|탄두리 치킨|탄두리 치킨|탄두리 치킨|탄두리 치킨|탄두리 치킨|탄두리 치킨|탄두리 치킨
 45130|20세|20|20歲|20|20|20|20|20
 45131|12월 22일|Dec. 22|12月22日|Dic. 22|Dez. 22|Des. 22|ธันวาคม 22|Déc. 22
 45132|O형|O|O型|O|O|O|O|O
@@ -2944,7 +2978,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45136|화장품|Cosmetics|化妝品|Productos cosméticos|Kosmetik|Kosmetik|เครื่องสำอาง|Cosmétiques
 45137|파충류를 매우 귀여워한다는 것|That she thinks reptiles are cute|喜歡爬蟲類|That she thinks reptiles are cute|That she thinks reptiles are cute|That she thinks reptiles are cute|That she thinks reptiles are cute|That she thinks reptiles are cute
 45138|자연과 동물을 사랑하는 사람|Person who loves nature and animals|喜歡大自然和動物的人|Person who loves nature and animals|Person who loves nature and animals|Person who loves nature and animals|Person who loves nature and animals|Person who loves nature and animals
-45139|자연과 동물을 사랑하는 사람|Person who loves nature and animals|喜歡大自然和動物的人|Person who loves nature and animals|Person who loves nature and animals|Person who loves nature and animals|Person who loves nature and animals|Person who loves nature and animals
+45139|팔라펠|팔라펠|팔라펠|팔라펠|팔라펠|팔라펠|팔라펠|팔라펠
 45140|16세|16|16歲|16|16|16|16|16
 45141|12월 24일|Dec. 24|12月24日|Dic. 24|Dez. 24|Des. 24|ธันวาคม 24|Déc. 24
 45142|A형|A|A型|A|A|A|A|A
@@ -2954,7 +2988,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45146|병균, 더러운 물건|Germs, dirty things|病菌、髒的東西|Gérmenes, cosas sucias|Bazillen, schmutzige Dinge|Kuman, benda kotor|เชื้อโรค สิ่งสกปรก|Les germes, les choses sales
 45147|몽유병이 심하다는 것.|That she sleep-walks|有嚴重的夢遊病|That she sleep-walks|That she sleep-walks|That she sleep-walks|That she sleep-walks|That she sleep-walks
 45148|탐구심이 강한 사람|Person with an inquiring mind|有探求慾的人|Person with an inquiring mind|Person with an inquiring mind|Person with an inquiring mind|Person with an inquiring mind|Person with an inquiring mind
-45149|탐구심이 강한 사람|Person with an inquiring mind|有探求慾的人|Person with an inquiring mind|Person with an inquiring mind|Person with an inquiring mind|Person with an inquiring mind|Person with an inquiring mind
+45149|커피|커피|커피|커피|커피|커피|커피|커피
 45150|16세|16|16歲|16|16|16|16|16
 45151|4월 20일|Apr. 20|4月20日|Abr. 20|Apr. 20|Apr. 20|เมษายน 20|Avr. 20
 45152|불명|Unknown|不明|Desconocido|Unbekannt|Tidak diketahui|ไม่ทราบ|Inconnu
@@ -2964,7 +2998,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45156|공포 영화|Horror movies|恐怖電影|Películas de terror|Horrorfilme|Film horor|ภาพยนตร์สยองขวัญ|Les films d'horreur
 45157|다른 별 외계인을 보고 무서워서 울었던 일|Crying in fear after seeing an alien from another planet.|看到外星人後，怕得哭了|Llorar de miedo después de ver a un extraterrestre de otro planeta.|Vor Angst schreien beim Anblick eines Aliens von einem anderen Planeten.|Menangis ketakutan setelah melihat alien dari planet lain.|ร้องไห้ด้วยความกลัวหลังจากที่ได้เห็นมนุษย์ต่างดาวจากดาวเคราะห์ดวงอื่น|Pleurer de peur après avoir vu un extraterrestre d'une autre planète.
 45158|(특히 지구에 대해) 박식한 사람|Person who knows a lot about the planet earth|學識淵博的人（尤其對地球方面的知識）|Person who knows a lot about the planet earth|Person who knows a lot about the planet earth|Person who knows a lot about the planet earth|Person who knows a lot about the planet earth|Person who knows a lot about the planet earth
-45159|(특히 지구에 대해) 박식한 사람|Person who knows a lot about the planet earth|學識淵博的人（尤其對地球方面的知識）|Person who knows a lot about the planet earth|Person who knows a lot about the planet earth|Person who knows a lot about the planet earth|Person who knows a lot about the planet earth|Person who knows a lot about the planet earth
+45159|지구의 음식 (특히 매운 것)|지구의 음식 (특히 매운 것)|지구의 음식 (특히 매운 것)|지구의 음식 (특히 매운 것)|지구의 음식 (특히 매운 것)|지구의 음식 (특히 매운 것)|지구의 음식 (특히 매운 것)|지구의 음식 (특히 매운 것)
 45160|18세|18|18歲|18|18|18|18|18
 45161|12월 4일|Dec. 4|12月4日|Dic. 4|Dez. 4|Des. 4|ธันวาคม 4|Déc. 4
 45162|A형|A|A型|A|A|A|A|A
@@ -2974,7 +3008,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45166|낭만 없는 사람|Unromantic person|不浪漫的人|Personas poco románticas|Unromantische Person|Orang yang tidak romantis|คนไม่โรแมนติก|Les personnes pas romantiques
 45167|자기가 담근 술을 마시고 말썽을 피운 일|Causing a scene after drinking homemade wine.|曾經喝了自己釀的酒以後發酒瘋|Montar una escena después de beber vino casero.|Eine Szene machen, nach dem Trinken von hausgemachtem Wein.|Mengacau sesudah minum anggur buatan sendiri.|ก่อ 'เหตุการณ์' หนึ่ง หลังจากดื่มไวน์ที่ทำเอง|Faire une scène après avoir bu du vin fait maison.
 45168|바른생활 사나이|Mr Perfect|生活有規律的男人|Mr Perfect|Mr Perfect|Mr Perfect|Mr Perfect|Mr Perfect
-45169|바른생활 사나이|Mr Perfect|生活有規律的男人|Mr Perfect|Mr Perfect|Mr Perfect|Mr Perfect|Mr Perfect
+45169|파스타|파스타|파스타|파스타|파스타|파스타|파스타|파스타
 45170|20세|20|20歲|20|20|20|20|20
 45171|9월 5일|Sep. 5|9月5日|Sep. 5|Sep. 5|Sep. 5|กันยายน 5|Sept. 5
 45172|O형|O|O型|O|O|O|O|O
@@ -2984,7 +3018,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45176|달링을 유혹하는 여자|Girls who flirts with her boyfriend.|誘惑達令的女人|Las niñas que flirtean con su novio.|Mädchen, das mit ihrem Freund flirtet.|Gadis yang merayu pacarnya.|สาว ๆ ที่มาจีบแฟนของเธอ|Les filles qui flirtent avec son petit ami.
 45177|가끔 한없이 게을러질 때가 있다|Sometimes can be lazy as a turtle|有時會變的超懶惰|Sometimes can be lazy as a turtle|Sometimes can be lazy as a turtle|Sometimes can be lazy as a turtle|Sometimes can be lazy as a turtle|Sometimes can be lazy as a turtle
 45178|가정적인 남자|Family Man|顧家的男人|Family Man|Family Man|Family Man|Family Man|Family Man
-45179|가정적인 남자|Family Man|顧家的男人|Family Man|Family Man|Family Man|Family Man|Family Man
+45179|일본 가정식 요리|일본 가정식 요리|일본 가정식 요리|일본 가정식 요리|일본 가정식 요리|일본 가정식 요리|일본 가정식 요리|일본 가정식 요리
 45180|18세|18|18歲|18|18|18|18|18
 45181|6월 6일|Jun. 6|6月6日|Jun. 6|Jun. 6|Jun. 6|มิถุนายน 6|Juin 6
 45182|A형|A|A型|A|A|A|A|A
@@ -2994,7 +3028,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45186|흐린 날|Cloudy day|陰天|Días nublados|Bewölkter Tag|Hari yang mendung|วันที่มีเมฆมาก|Jours nuageux
 45187|한조라는 별명을 마음에 들어 한다|Likes the nickname Hanzo|很喜歡‘半藏’這個別名|Likes the nickname Hanzo|Likes the nickname Hanzo|Likes the nickname Hanzo|Likes the nickname Hanzo|Likes the nickname Hanzo
 45188|취미가 통하는 사람|Person who has a similar hobby|有共同愛好的人|Person who has a similar hobby|Person who has a similar hobby|Person who has a similar hobby|Person who has a similar hobby|Person who has a similar hobby
-45189|취미가 통하는 사람|Person who has a similar hobby|有共同愛好的人|Person who has a similar hobby|Person who has a similar hobby|Person who has a similar hobby|Person who has a similar hobby|Person who has a similar hobby
+45189|와플|와플|와플|와플|와플|와플|와플|와플
 45190|15세|15|15歲|15|15|15|15|15
 45191|4월 21일|Apr. 21|4月21日|Abr. 21|Apr. 21|Apr. 21|เมษายน 21|Avr. 21
 45192|O형|O|O型|O|O|O|O|O
@@ -3004,7 +3038,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45196|일기를 누가 훔쳐보는 것|Someone peeping her diary|被人偷看日記|Alguien que mire furtivamente a su diario|Jemand, der in ihrem Tagebuch rumstöbert|Orang yang mengintip buku hariannya|ใครบางคนมาแอบดูไดอารี่ของเธอ|Quelqu'un qui lit son journal en cachette
 45197|늘 곰 인형을 안고 잔다|Always sleeps hugging her teddy bear|一直抱熊娃娃睡|Always sleeps hugging her teddy bear|Always sleeps hugging her teddy bear|Always sleeps hugging her teddy bear|Always sleeps hugging her teddy bear|Always sleeps hugging her teddy bear
 45198|아빠 같은 사람|Person like her daddy|像爸爸的人|Person like her daddy|Person like her daddy|Person like her daddy|Person like her daddy|Person like her daddy
-45199|아빠 같은 사람|Person like her daddy|像爸爸的人|Person like her daddy|Person like her daddy|Person like her daddy|Person like her daddy|Person like her daddy
+45199|연어 요리|연어 요리|연어 요리|연어 요리|연어 요리|연어 요리|연어 요리|연어 요리
 45200|17세|17|17歲|17|17|17|17|17
 45201|4월 5일|Apr. 5|4月5日|Abr. 5|Apr. 5|Apr. 5|เมษายน 5|Avr. 5
 45202|AB형|AB|AB型|AB|AB|AB|AB|AB
@@ -3014,7 +3048,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45206|더위|Hot weather|酷暑|Clima caliente|Heißes Wetter|Cuaca panas|อากาศร้อน|Temps chaud
 45207|비밀 폴더 속에 들어 있는 야동|Porn Videos hidden in secret folder|加密文檔裡的19禁影片|Porn Videos hidden in secret folder|Porn Videos hidden in secret folder|Porn Videos hidden in secret folder|Porn Videos hidden in secret folder|Porn Videos hidden in secret folder
 45208|자신을 아껴주고 지켜주는 사람|Person who takes care of her|待我如寶并守護我左右的人|Person who takes care of her|Person who takes care of her|Person who takes care of her|Person who takes care of her|Person who takes care of her
-45209|자신을 아껴주고 지켜주는 사람|Person who takes care of her|待我如寶并守護我左右的人|Person who takes care of her|Person who takes care of her|Person who takes care of her|Person who takes care of her|Person who takes care of her
+45209|보르쉬|보르쉬|보르쉬|보르쉬|보르쉬|보르쉬|보르쉬|보르쉬
 45210|21세|21|21歲|21|21|21|21|21
 45211|1월 23일|Jan. 23|1月23日|Ene. 23|Jan. 23|Jan. 23|มกราคม 23|Janv. 23
 45212|B형|B|B型|B|B|B|B|B
@@ -3024,7 +3058,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45216|짝퉁 물건|Imitation items|冒牌貨|Artículos de imitación|Imitationen|Barang-barang imitasi|ของเลียนแบบ|Contrefaçons
 45217|속아서 짝퉁 물건을 비싸게 샀던 일|Getting ripped off on an imitation item.|曾經被哄騙用高價買了冒牌貨|Fue timada con un artículo de imitación.|Mit einem Imitiationsartikel abgezockt zu werden.|Barang imitasinya dilucuti.|ถูกฉีกหน้าเพราะของเลียนแบบ|Se faire arnaquer avec une contrefaçon.
 45218|자신과 동등한 수준의 사람|Person who is most equal to her|跟自己水準差不多的人|Person who is most equal to her|Person who is most equal to her|Person who is most equal to her|Person who is most equal to her|Person who is most equal to her
-45219|자신과 동등한 수준의 사람|Person who is most equal to her|跟自己水準差不多的人|Person who is most equal to her|Person who is most equal to her|Person who is most equal to her|Person who is most equal to her|Person who is most equal to her
+45219|와인|와인|와인|와인|와인|와인|와인|와인
 45220|23세|23|23歲|23|23|23|23|23
 45221|11월 12일|Nov. 12|11月12日|Nov. 12|Nov. 12|Nov. 12|พฤศจิกายน 12|Nov. 12
 45222|A형|A|A型|A|A|A|A|A
@@ -3034,7 +3068,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45226|노래방에서 마이크 빼앗기기|Getting the mike taken away in Karaoke.|唱卡拉OK被搶麥克風|Que le quiten el micrófono en un Karaoke.|Das Mikrofon beim Karaoke weggenommen bekommen.|Mikrofonnya dicuri di Karaoke.|การไมค์นำออกไปคาราโอเกะด้วย|Se faire enlever le micro au karaoké.
 45227|밤에 몰래 술을 마시는 일|That she secretly drinks during the night|晚上偷摸喝酒|That she secretly drinks during the night|That she secretly drinks during the night|That she secretly drinks during the night|That she secretly drinks during the night|That she secretly drinks during the night
 45228|신앙심이 깊고 성실한 사람|Earnest person who has deep faith|誠實，有信仰的人|Earnest person who has deep faith|Earnest person who has deep faith|Earnest person who has deep faith|Earnest person who has deep faith|Earnest person who has deep faith
-45229|신앙심이 깊고 성실한 사람|Earnest person who has deep faith|誠實，有信仰的人|Earnest person who has deep faith|Earnest person who has deep faith|Earnest person who has deep faith|Earnest person who has deep faith|Earnest person who has deep faith
+45229|브랜디|브랜디|브랜디|브랜디|브랜디|브랜디|브랜디|브랜디
 45230|16세|16|16歲|16|16|16|16|16
 45231|4월 29일|Apr. 29|4月29日|Abr. 29|Apr. 29|Apr. 29|เมษายน 29|Avr. 29
 45232|AB형|AB|AB型|AB|AB|AB|AB|AB
@@ -3044,7 +3078,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45236|동물 학대|Animal abuse|虐待動物|Abuso animal|Tierquälerei|Perlakuan kejam terhadap binatang|การทารุณสัตว์|La cruauté envers les animaux
 45237|개조당한 팔 때문에 소중한 사람을 다치게 한 일|Hurting people she loves with her artificial arm.|被改造的手曾經讓珍惜的人受了傷|Hace daño a la gente que ama con su brazo artificial.|Menschen, die sie liebt, mit ihrem künstlichen Arm zu verletzen.|Menyakiti orang yang dicintainya dengan lengan palsunya.|ทำร้ายคนที่เธอรักด้วยแขนเทียมของเธอ|Blesser les gens qu'elle aime avec son bras artificiel.
 45238|자신을 사람취급 해 주는 사람|Person who treats her like another person|尊重我意向的人|Person who treats her like another person|Person who treats her like another person|Person who treats her like another person|Person who treats her like another person|Person who treats her like another person
-45239|자신을 사람취급 해 주는 사람|Person who treats her like another person|尊重我意向的人|Person who treats her like another person|Person who treats her like another person|Person who treats her like another person|Person who treats her like another person|Person who treats her like another person
+45239|한나가 만든 에너지 드링크|한나가 만든 에너지 드링크|한나가 만든 에너지 드링크|한나가 만든 에너지 드링크|한나가 만든 에너지 드링크|한나가 만든 에너지 드링크|한나가 만든 에너지 드링크|한나가 만든 에너지 드링크
 45240|24세|24|24歲|24|24|24|24|24
 45241|12월 15일|Dec. 15|12月15日|Dic. 15|Dez. 15|Des. 15|ธันวาคม 15|Déc. 15
 45242|AB형|AB|AB型|AB|AB|AB|AB|AB
@@ -3054,7 +3088,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45246|따분함|Being bored|無聊的事|Estar aburrida|Gelangweilt sein|Menjadi bosan|ถูกเบื่อ|S'ennuyer
 45247|첫사랑에게 못생겼다고 차인 일|That she got dumped by her first love because of her looks|因長得糗被初戀對象甩的事|That she got dumped by her first love because of her looks|That she got dumped by her first love because of her looks|That she got dumped by her first love because of her looks|That she got dumped by her first love because of her looks|That she got dumped by her first love because of her looks
 45248|겉모습보다 내면을 중요시하는 사람|Person who see the inside of a person than her looks|比起外貌更注重內涵的人|Person who see the inside of a person than her looks|Person who see the inside of a person than her looks|Person who see the inside of a person than her looks|Person who see the inside of a person than her looks|Person who see the inside of a person than her looks
-45249|겉모습보다 내면을 중요시하는 사람|Person who see the inside of a person than her looks|比起外貌更注重內涵的人|Person who see the inside of a person than her looks|Person who see the inside of a person than her looks|Person who see the inside of a person than her looks|Person who see the inside of a person than her looks|Person who see the inside of a person than her looks
+45249|포테이토 칩|포테이토 칩|포테이토 칩|포테이토 칩|포테이토 칩|포테이토 칩|포테이토 칩|포테이토 칩
 45250|17세|17|17歲|17|17|17|17|17
 45251|8월 12일|Aug. 12|8月12日|Ago. 12|Aug. 12|Agt. 12|สิงหาคม 12|Août 12
 45252|O형|O|O型|O|O|O|O|O
@@ -3064,7 +3098,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45256|자연 파괴|Destruction of nature|破壞自然|Destrucción de la naturaleza|Die Zerstörung der Natur|Kerusakan alam|การทำลายล้างของธรรมชาติ|Destruction de la nature
 45257|휘파람을 불다가 인근의 뱀이 마을에 모여든 일|She whistled and all the snakes in the area came to her.|曾經吹口哨引來了很多蛇|Silbó y todas las serpientes en la zona se acercaron a ella.|Sie pfiff und alle Schlangen in der Gegend kamen zu ihr.|Dia bersiul dan semua ular di area itu mendatanginya.|เธอผิวปาก แล้วงูแถว ๆนั้นทั้งหมดก็เข้ามาหาเธอ|Elle a sifflé et tous les serpents du coin sont venus vers elle.
 45258|자연을 소중히 여기는 사람|Person who cares about nature|愛護大自然的人|Person who cares about nature|Person who cares about nature|Person who cares about nature|Person who cares about nature|Person who cares about nature
-45259|자연을 소중히 여기는 사람|Person who cares about nature|愛護大自然的人|Person who cares about nature|Person who cares about nature|Person who cares about nature|Person who cares about nature|Person who cares about nature
+45259|고기류 전반|고기류 전반|고기류 전반|고기류 전반|고기류 전반|고기류 전반|고기류 전반|고기류 전반
 45260|19세|19|19歲|19|19|19|19|19
 45261|9월 14일|Sep. 14|9月14日|Sep. 14|Sep. 14|Sep. 14|กันยายน 14|Sept. 14
 45262|B형|B|B型|B|B|B|B|B
@@ -3074,7 +3108,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45266|악당|Villain|惡徒|Villanos|Bösewicht|Penjahat|คนร้าย|Méchant
 45267|정의의 영웅 흉내를 내다가 위험에 처했던 일|Being caught in a dangerous situation for real while playing a hero.|曾經在扮演正義的英雄時陷入危險|Quedarse atrapada en una situación de peligro real mientras jugaba a ser una heroína.|In eine gefährliche Situation hineinzugeraten, während man den Helden spielt.|Terperangkap dalam situasi berbahaya di dunia nyata saat menjadi pahlawan.|ถูกจับได้ว่าอยู่ในสถานการณ์ที่อันตรายจริง ๆ ในขณะที่กำลังเล่นสวมบทเป็นฮีโร่|Être prise dans une situation dangereuse en vrai, en jouant au héros.
 45268|약속을 지키는 사람|Person who keeps promises|守約的人|Person who keeps promises|Person who keeps promises|Person who keeps promises|Person who keeps promises|Person who keeps promises
-45269|약속을 지키는 사람|Person who keeps promises|守約的人|Person who keeps promises|Person who keeps promises|Person who keeps promises|Person who keeps promises|Person who keeps promises
+45269|마늘이 들어간 요리 전반|마늘이 들어간 요리 전반|마늘이 들어간 요리 전반|마늘이 들어간 요리 전반|마늘이 들어간 요리 전반|마늘이 들어간 요리 전반|마늘이 들어간 요리 전반|마늘이 들어간 요리 전반
 45270|19세|19|19歲|19|19|19|19|19
 45271|9월 9일|Sep. 9|9月9日|Sep. 9|Sep. 9|Sep. 9|Sep. 9|Sep. 9
 45272|O형|O|O型|O|O|O|O|O
@@ -3084,7 +3118,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45276|운으로 승부하는 게임|Game of luck|靠運氣贏的遊戲|Game of luck|Game of luck|Game of luck|Game of luck|Game of luck
 45277|난센스 퀴즈에 약하다|Not good at nonesense quizes|不擅於解答類似于腦筋急轉彎的問題|Not good at nonesense quizes|Not good at nonesense quizes|Not good at nonesense quizes|Not good at nonesense quizes|Not good at nonesense quizes
 45278|자신이 인정할 정도로 능력이 있는 사람|Person is competent enough for her|能力方面能使自己佩服的人|Person is competent enough for her|Person is competent enough for her|Person is competent enough for her|Person is competent enough for her|Person is competent enough for her
-45279|자신이 인정할 정도로 능력이 있는 사람|Person is competent enough for her|能力方面能使自己佩服的人|Person is competent enough for her|Person is competent enough for her|Person is competent enough for her|Person is competent enough for her|Person is competent enough for her
+45279|타파스|타파스|타파스|타파스|타파스|타파스|타파스|타파스
 45280|16세|16|16歲|16|16|16|16|16
 45281|11월 9일|Nov. 9|11月9日|Nov. 9|Nov. 9|Nov. 9|พฤศจิกายน 9|Nov. 9
 45282|B형|B|B型|B|B|B|B|B
@@ -3094,7 +3128,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45286|손질 안 된 무기|Dirty weapons|未保養的武器|Armas sucias|Schmutzige Waffen|Senjata kotor|อาวุธที่สกปรก|Les armes sales
 45287|아무도 모르게 여성 잡지를 구독하고 있다|Secretly collect feminine magazines|自己偷摸看女性雜誌|Secretly collect feminine magazines|Secretly collect feminine magazines|Secretly collect feminine magazines|Secretly collect feminine magazines|Secretly collect feminine magazines
 45288|자신을 소녀로 대해줄 수 있는 사람|Person who respects her as a delicate girl|能待我如少女般的人|Person who respects her as a delicate girl|Person who respects her as a delicate girl|Person who respects her as a delicate girl|Person who respects her as a delicate girl|Person who respects her as a delicate girl
-45289|자신을 소녀로 대해줄 수 있는 사람|Person who respects her as a delicate girl|能待我如少女般的人|Person who respects her as a delicate girl|Person who respects her as a delicate girl|Person who respects her as a delicate girl|Person who respects her as a delicate girl|Person who respects her as a delicate girl
+45289|통조림 햄|통조림 햄|통조림 햄|통조림 햄|통조림 햄|통조림 햄|통조림 햄|통조림 햄
 45290|23세|23|23歲|23|23|23|23|23
 45291|10월 1일|Oct. 1|10月1日|Oct. 1|Okt. 1|Okt. 1|ตุลาคม 1|Oct. 1
 45292|O형|O|O型|O|O|O|O|O
@@ -3104,7 +3138,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45296|귀찮은 남자|Guys who try to flirt.|煩人的男人|Los chicos que tratan de ligar.|Jungs, die versuchen zu flirten.|Orang-orang yang mencoba untuk menggoda.|ผู้ชายที่พยายามเข้ามาจีบ|Les gars qui essaient de flirter.
 45297|어린 시절, 소매치기 전력이 있었다|Has been a pick-pocket in her child hood|小時候有偷過東西的經歷|Has been a pick-pocket in her child hood|Has been a pick-pocket in her child hood|Has been a pick-pocket in her child hood|Has been a pick-pocket in her child hood|Has been a pick-pocket in her child hood
 45298|상대를 존중해 주는 사람|Person who respects others|尊敬對方的人|Person who respects others|Person who respects others|Person who respects others|Person who respects others|Person who respects others
-45299|상대를 존중해 주는 사람|Person who respects others|尊敬對方的人|Person who respects others|Person who respects others|Person who respects others|Person who respects others|Person who respects others
+45299|칵테일|칵테일|칵테일|칵테일|칵테일|칵테일|칵테일|칵테일
 45300|23세|23|23歲|23|23|23|23|23
 45301|8월 25일|Aug. 25|8月25日|Ago. 25|Aug. 25|Agt. 25|สิงหาคม 25|Août 25
 45302|O형|O|O型|O|O|O|O|O
@@ -3114,7 +3148,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45306|어른 취급|Being treated like an old lady|被當做大媽對待|Ser tratada como una anciana|Wie eine alte Dame behandelt zu werden|Diperlakukan seperti wanita tua|ถูกปฏิบัติเหมือนเป็นหญิงชรา|Être traitée comme une vieille femme
 45307|과거에 CIA와 FBI에 소속된 적이 있다|Has been working for the CIA and FBI before|過去在CIA和FBI里任職過|Has been working for the CIA and FBI before|Has been working for the CIA and FBI before|Has been working for the CIA and FBI before|Has been working for the CIA and FBI before|Has been working for the CIA and FBI before
 45308|믿고 의지할 수 있는 사람|Person who can trust and count on|可信任并能依賴的人|Person who can trust and count on|Person who can trust and count on|Person who can trust and count on|Person who can trust and count on|Person who can trust and count on
-45309|믿고 의지할 수 있는 사람|Person who can trust and count on|可信任并能依賴的人|Person who can trust and count on|Person who can trust and count on|Person who can trust and count on|Person who can trust and count on|Person who can trust and count on
+45309|일본식 안주류|일본식 안주류|일본식 안주류|일본식 안주류|일본식 안주류|일본식 안주류|일본식 안주류|일본식 안주류
 45310|25세|25|25歲|25|25|25|25|25
 45311|4월 23일|Apr. 23|4月23日|Abr. 23|Apr. 23|Apr. 23|เมษายน 23|Avr. 23
 45312|B형|B|B型|B|B|B|B|B
@@ -3124,7 +3158,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45316|동생과 닮았다는 말|Being told that she looks like her younger sister|與妹妹長得很像這句話|Que le hayan dicho que se parece a su hermana menor|Gesagt zu bekommen, dass sie wie ihre jüngere Schwester aussieht|Diberi tahu bahwa dia mirip adik perempuannya|การถูกบอกว่าเธอดูเหมือนน้องสาวของเธอ|Lorsqu'on lui dit qu'elle ressemble à sa sœur cadette
 45317|쌍둥이 동생과 텔레파시 비슷한 교감 능력이 있다|Has ability to commune with her twin sister telepathically|與雙胞胎妹妹有類似于心靈感應的能力。|Has ability to commune with her twin sister telepathically|Has ability to commune with her twin sister telepathically|Has ability to commune with her twin sister telepathically|Has ability to commune with her twin sister telepathically|Has ability to commune with her twin sister telepathically
 45318|자신을 리드할 수 있는 사람|Person who can lead|能带领我的人|Person who can lead|Person who can lead|Person who can lead|Person who can lead|Person who can lead
-45319|자신을 리드할 수 있는 사람|Person who can lead|能带领我的人|Person who can lead|Person who can lead|Person who can lead|Person who can lead|Person who can lead
+45319|케이크 종류 전반|케이크 종류 전반|케이크 종류 전반|케이크 종류 전반|케이크 종류 전반|케이크 종류 전반|케이크 종류 전반|케이크 종류 전반
 45320|20세|20|20歲|20|20|20|20|20
 45321|10월 24일|Oct. 24|10月24日|Oct. 24|Okt. 24|Okt. 24|ตุลาคม 24|Oct. 24
 45322|O형|O|O型|O|O|O|O|O
@@ -3134,7 +3168,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45326|물건을 막 쓰는 사람|People who are careless with their items.|不會珍惜東西的人|Las personas que son descuidadas con sus cosas.|Leute, die achtlos mit Ihren Dingen umgehen.|Orang yang ceroboh dengan barang-barang mereka.|คนที่ไม่ใส่ใจกับข้าวของของพวกเขา|Les gens qui sont négligents avec leurs affaires.
 45327|정리벽이 있지만, 막상 자신의 방은 지저분하다|Has mysophobia, but sometimes her room is messy|雖然有整理癖，但自己的房間卻是亂七八糟。|Has mysophobia, but sometimes her room is messy|Has mysophobia, but sometimes her room is messy|Has mysophobia, but sometimes her room is messy|Has mysophobia, but sometimes her room is messy|Has mysophobia, but sometimes her room is messy
 45328|매사에 꼼꼼하고 깔끔한 사람|Person who is always neat and tidy|處事細心，乾淨的人|Person who is always neat and tidy|Person who is always neat and tidy|Person who is always neat and tidy|Person who is always neat and tidy|Person who is always neat and tidy
-45329|매사에 꼼꼼하고 깔끔한 사람|Person who is always neat and tidy|處事細心，乾淨的人|Person who is always neat and tidy|Person who is always neat and tidy|Person who is always neat and tidy|Person who is always neat and tidy|Person who is always neat and tidy
+45329|탄탄면|탄탄면|탄탄면|탄탄면|탄탄면|탄탄면|탄탄면|탄탄면
 45330|25세|25|25歲|25|25|25|25|25
 45331|5월 23일|May 23|5月23日|May 23|23. Mai|23 Mei|พฤษภาคม 23|23 mai
 45332|AB형|AB|AB型|AB|AB|AB|AB|AB
@@ -3144,7 +3178,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45336|도박, 주식|Gambling, stocks|賭博、股份|Juegos de azar, acciones|Zocken, Aktien|Perjudian, saham|การพนัน, หุ้น|Les jeux de hasard, la bourse
 45337|어린 시절 생이별한 남동생이 있다|Has lost her younger brother during childhood|小時候有跟弟弟生離別過|Has lost her younger brother during childhood|Has lost her younger brother during childhood|Has lost her younger brother during childhood|Has lost her younger brother during childhood|Has lost her younger brother during childhood
 45338|자신을 지탱해 줄 수 있는 사람|Person who can support her|能讓我依靠的人|Person who can support her|Person who can support her|Person who can support her|Person who can support her|Person who can support her
-45339|자신을 지탱해 줄 수 있는 사람|Person who can support her|能讓我依靠的人|Person who can support her|Person who can support her|Person who can support her|Person who can support her|Person who can support her
+45339|육포|육포|육포|육포|육포|육포|육포|육포
 45340|24세|24|24歲|24|24|24|24|24
 45341|1월 30일|Jan. 30|1月30日|Ene. 30|Jan. 30|Jan. 30|มกราคม 30|Janv. 30
 45342|B형|B|B型|B|B|B|B|B
@@ -3154,7 +3188,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45346|경박한 남자|Gigolo|輕浮的男人|Gigoló|Gigolo|Gigolo|ผู้ชายแมงดา|Les gigolos
 45347|데이트를 밥 먹듯이 하지만 사실 연애 불감증이다|Is always dating somebody but feels nothing|雖然經常與他人約會但事實上卻有愛情麻木癥|Is always dating somebody but feels nothing|Is always dating somebody but feels nothing|Is always dating somebody but feels nothing|Is always dating somebody but feels nothing|Is always dating somebody but feels nothing
 45348|운명을 느낄 수 있는 사람|Person of her destiny|能讓我Feel到的人|Person of her destiny|Person of her destiny|Person of her destiny|Person of her destiny|Person of her destiny
-45349|운명을 느낄 수 있는 사람|Person of her destiny|能讓我Feel到的人|Person of her destiny|Person of her destiny|Person of her destiny|Person of her destiny|Person of her destiny
+45349|위스키|위스키|위스키|위스키|위스키|위스키|위스키|위스키
 45350|25세|25|25歲|25|25|25|25|25
 45351|12월 12일|Dec. 12|12月12日|Dic. 12|Dez. 12|Des. 12|ธันวาคม 12|Déc. 12
 45352|O형|O|O型|O|O|O|O|O
@@ -3164,7 +3198,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45356|과소비 하는 사람|Excessively wasteful person|過度消費的人|Persona excesivamente derrochadora|Übermäßig verschwenderische Person|Orang yang sangat boros|คนที่สุรุ่ยสุร่ายมากเกินไป|Une personne excessivement dépensière
 45357|거금의 적금통장을 여러 개 가지고 있다|Has numerous savings accounts with incredible funds|持有好幾個大額存折|Has numerous savings accounts with incredible funds|Has numerous savings accounts with incredible funds|Has numerous savings accounts with incredible funds|Has numerous savings accounts with incredible funds|Has numerous savings accounts with incredible funds
 45358|꼼꼼하고 계획적인 사람|Person who is precise and calculative|處事細心，有計劃的人|Person who is precise and calculative|Person who is precise and calculative|Person who is precise and calculative|Person who is precise and calculative|Person who is precise and calculative
-45359|꼼꼼하고 계획적인 사람|Person who is precise and calculative|處事細心，有計劃的人|Person who is precise and calculative|Person who is precise and calculative|Person who is precise and calculative|Person who is precise and calculative|Person who is precise and calculative
+45359|프라이드치킨과 맥주|프라이드치킨과 맥주|프라이드치킨과 맥주|프라이드치킨과 맥주|프라이드치킨과 맥주|프라이드치킨과 맥주|프라이드치킨과 맥주|프라이드치킨과 맥주
 45360|20세|20|20歲|20|20|20|20|20
 45361|9월 30일|Sep. 30|9月30日|Sep. 30|Sep. 30|Sep. 30|กันยายน 30|Sept. 30
 45362|A형|A|A型|A|A|A|A|A
@@ -3174,7 +3208,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45366|e북|eBook|電子書|Libro electrónico|E-Book|eBook|หนังสืออิเล็กทรอนิกส์|Les livres électroniques
 45367|로맨스소설 마니아로 천 권 넘게 소장하고 있다|Is into romance novels and has over 1,000 copies|收藏了千卷以上的言情小說|Is into romance novels and has over 1,000 copies|Is into romance novels and has over 1,000 copies|Is into romance novels and has over 1,000 copies|Is into romance novels and has over 1,000 copies|Is into romance novels and has over 1,000 copies
 45368|박식한 사람|Smart person|學識淵博的人|Smart person|Smart person|Smart person|Smart person|Smart person
-45369|박식한 사람|Smart person|學識淵博的人|Smart person|Smart person|Smart person|Smart person|Smart person
+45369|프렌치프라이|프렌치프라이|프렌치프라이|프렌치프라이|프렌치프라이|프렌치프라이|프렌치프라이|프렌치프라이
 45370|17세|17|17歲|17|17|17|17|17
 45371|3월 30일|Mar. 30|3月30日|Mar. 30|Mär. 30|Mar. 30|มีนาคม 30|Mars 30
 45372|B형|B|B型|B|B|B|B|B
@@ -3184,7 +3218,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45376|무식한 사람|Dumb people|大老粗|Gente tonta|Dumme Leute|Orang bodoh|คนโง่|Les gens stupides
 45377|어린 시절 프로게임단에서 스카우트 제의를 받은 적이 있다|Has been offered a position in the professional games team|小時候被某個職業遊戲團隊備受邀請過|Has been offered a position in the professional games team|Has been offered a position in the professional games team|Has been offered a position in the professional games team|Has been offered a position in the professional games team|Has been offered a position in the professional games team
 45378|자신을 이성으로 봐 주는 사람|Person who treats her as a woman|能把我看成異性的人|Person who treats her as a woman|Person who treats her as a woman|Person who treats her as a woman|Person who treats her as a woman|Person who treats her as a woman
-45379|자신을 이성으로 봐 주는 사람|Person who treats her as a woman|能把我看成異性的人|Person who treats her as a woman|Person who treats her as a woman|Person who treats her as a woman|Person who treats her as a woman|Person who treats her as a woman
+45379|핫도그|핫도그|핫도그|핫도그|핫도그|핫도그|핫도그|핫도그
 45380|26세|26|26歲|26|26|26|26|26
 45381|2월 5일|Feb. 5|2月5日|Feb. 5|Feb. 5|Feb. 5|กุมภาพันธ์ 5|Févr. 5
 45382|B형|B|B型|B|B|B|B|B
@@ -3194,7 +3228,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45386|바퀴벌레|Cockroach|蟑螂|Cucarachas|Kakerlake|Kecoak|แมลงสาบ|Les cafards
 45387|상당한 밀리터리 마니아|Hardcore Military Mania|軍事狂迷|Manía Militar Dura|Hardcore-Militär-Mania|Hardcore Militer Mania|ทหารคลั่งระดับฮาร์ดคอร์|La folie militaire pure et dure
 45388|이상적인 군인|Ideal Soldier|理想的軍人|Ideal Soldier|Ideal Soldier|Ideal Soldier|Ideal Soldier|Ideal Soldier
-45389|이상적인 군인|Ideal Soldier|理想的軍人|Ideal Soldier|Ideal Soldier|Ideal Soldier|Ideal Soldier|Ideal Soldier
+45389|비프스테이크|비프스테이크|비프스테이크|비프스테이크|비프스테이크|비프스테이크|비프스테이크|비프스테이크
 45390|23세|23|23歲|23|23|23|23|23
 45391|10월 9일|Oct. 9|10月9日|Oct. 9|Okt. 9|Okt. 9|ตุลาคม 9|Oct. 9
 45392|O형|O|O型|O|O|O|O|O
@@ -3204,7 +3238,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45396|다이어트|Going on diet|減肥|Entrar en una dieta|Diät machen|Berdiet|การไดเอท|Se mettre au régime
 45397|딱 한번 변장을 하고 란제리 모델을 한 적이 있다|Has modeled for langerie just once|當過一次內衣模特（僅一次）|Has modeled for langerie just once|Has modeled for langerie just once|Has modeled for langerie just once|Has modeled for langerie just once|Has modeled for langerie just once
 45398|자신의 모든 것을 받아줄 수 있는 사람|Person who can see her as she is|可接納我全部的人|Person who can see her as she is|Person who can see her as she is|Person who can see her as she is|Person who can see her as she is|Person who can see her as she is
-45399|자신의 모든 것을 받아줄 수 있는 사람|Person who can see her as she is|可接納我全部的人|Person who can see her as she is|Person who can see her as she is|Person who can see her as she is|Person who can see her as she is|Person who can see her as she is
+45399|타코|타코|타코|타코|타코|타코|타코|타코
 45400|25세|25|25歲|25|25|25|25|25
 45401|4월 23일|Apr. 23|4月23日|Abr. 23|Apr. 23|Apr. 23|เมษายน 23|Avr. 23
 45402|B형|B|B型|B|B|B|B|B
@@ -3214,7 +3248,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45406|언니와 닮았다는 말|Being told that she looks like her older sister|與姐姐長得很像這句話|Que le digan que se parece a su hermana mayor|Gesagt bekommen, dass sie wie ihre ältere Schwester aussieht|Diberi tahu bahwa dia mirip kakak perempuannya|ถูกบอกว่าเธอดูเหมือนพี่สาวของเธอ|Lorsqu'on lui dit qu'elle ressemble à sa soeur aînée
 45407|쌍둥이 언니와 텔레파시 비슷한 교감 능력이 있다|Has ability to commune with her twin sister telepathically|與雙胞胎姐姐有類似于心靈感應的能力。|Has ability to commune with her twin sister telepathically|Has ability to commune with her twin sister telepathically|Has ability to commune with her twin sister telepathically|Has ability to commune with her twin sister telepathically|Has ability to commune with her twin sister telepathically
 45408|모든 면에서 완벽한 사람|A Perfect Guy|接近完美的人|A Perfect Guy|A Perfect Guy|A Perfect Guy|A Perfect Guy|A Perfect Guy
-45409|모든 면에서 완벽한 사람|A Perfect Guy|接近完美的人|A Perfect Guy|A Perfect Guy|A Perfect Guy|A Perfect Guy|A Perfect Guy
+45409|고급 프랑스 요리|고급 프랑스 요리|고급 프랑스 요리|고급 프랑스 요리|고급 프랑스 요리|고급 프랑스 요리|고급 프랑스 요리|고급 프랑스 요리
 45410|19세|19|19歲|19|19|19|19|19
 45411|6월 5일|Jun. 5|6月5日|Jun. 5|Jun. 5|Jun. 5|มิถุนายน 5|Juin 5
 45412|AB형|AB|AB型|AB|AB|AB|AB|AB
@@ -3224,7 +3258,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45416|사기꾼|Conman|騙子|Estafadores|Bauernfänger|Penipu|คนจอมเจ้าเล่ห์จอมเอาเปรียบ|Les escrocs
 45417|모아둔 재산이 상당하다.|Has great wealth|累積了不少財產|Has great wealth|Has great wealth|Has great wealth|Has great wealth|Has great wealth
 45418|취미를 공유할 수 있는 사람|Person who she can share her hobby|能分享愛好的人|Person who she can share her hobby|Person who she can share her hobby|Person who she can share her hobby|Person who she can share her hobby|Person who she can share her hobby
-45419|취미를 공유할 수 있는 사람|Person who she can share her hobby|能分享愛好的人|Person who she can share her hobby|Person who she can share her hobby|Person who she can share her hobby|Person who she can share her hobby|Person who she can share her hobby
+45419|사과 파이|사과 파이|사과 파이|사과 파이|사과 파이|사과 파이|사과 파이|사과 파이
 45420|21세|21|21歲|21|21|21|21|21
 45421|8월 8일|Aug. 8|8月8日|Ago. 8|Aug. 8|Agu. 8|ส.ค. 8|Août 8
 45422|B형|B|B型|B|B|B|B|B
@@ -3234,7 +3268,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45426|약한 남자|Weak man|軟弱的男人|Hombres débiles|Schwacher Mann|Orang yang lemah|ผู้ชายอ่อนแอ|Homme faible
 45427|리프의 격투기 대회에서 우승한 경력이 있다|She won the R.E.A.P Hand-to-Hand Combat tournament.|有裏普格鬥大會上獲冠的經歷|Has won in the R.E.A.P combat sports championship before|Has won in the R.E.A.P combat sports championship before|Has won in the R.E.A.P combat sports championship before|Has won in the R.E.A.P combat sports championship before|Has won in the R.E.A.P combat sports championship before
 45428|귀여워할 수 있는 동생 같은 사람|A Cute youngster|像弟弟般可愛的人|A Cute youngster|A Cute youngster|A Cute youngster|A Cute youngster|A Cute youngster
-45429|귀여워할 수 있는 동생 같은 사람|A Cute youngster|像弟弟般可愛的人|A Cute youngster|A Cute youngster|A Cute youngster|A Cute youngster|A Cute youngster
+45429|떡볶이|떡볶이|떡볶이|떡볶이|떡볶이|떡볶이|떡볶이|떡볶이
 45430|17세|17|17歲|17|17|17|17|17
 45431|10월 30일|Oct. 30|10月30日|Oct. 30|Oct. 30|Oct. 30|Oct. 30|Oct. 30
 45432|AB형|AB|AB型|AB|AB|AB|AB|AB
@@ -3244,7 +3278,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45436|인스턴트 음식|Junk food|即食食品|Junk food|Junk food|Junk food|Junk food|Junk food
 45437|가끔 몰래 컵라면을 먹는다|Secretly eats cup noodles|有時偷摸吃桶麵|Secretly eats cup noodles|Secretly eats cup noodles|Secretly eats cup noodles|Secretly eats cup noodles|Secretly eats cup noodles
 45438|어떤 음식이든 맛있게 잘 먹는 사람|People who are not picky about food|吃東西給人感覺很香的人|People who are not picky about food|People who are not picky about food|People who are not picky about food|People who are not picky about food|People who are not picky about food
-45439|어떤 음식이든 맛있게 잘 먹는 사람|People who are not picky about food|吃東西給人感覺很香的人|People who are not picky about food|People who are not picky about food|People who are not picky about food|People who are not picky about food|People who are not picky about food
+45439|연어 요리|연어 요리|연어 요리|연어 요리|연어 요리|연어 요리|연어 요리|연어 요리
 45440|14세|14|14歲|14|14|14|14|14
 45441|3월 1일|Mar. 1|3月1日|Mar. 1|Mar. 1|Mar. 1|Mar. 1|Mar. 1
 45442|B형|B|B型|B|B|B|B|B
@@ -3254,7 +3288,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45446|(자신이 보기에)예쁘지 않은 것|(Subjectively) unpretty things|(自認為)不怎麼好看|(Subjectively) unpretty things|(Subjectively) unpretty things|(Subjectively) unpretty things|(Subjectively) unpretty things|(Subjectively) unpretty things
 45447|심각할 정도로 기계치다|Not a machine person|嚴重的機器盲|Not a machine person|Not a machine person|Not a machine person|Not a machine person|Not a machine person
 45448|매사에 센스가 있는 사람|People with good sense|有眼力的人|People with good sense|People with good sense|People with good sense|People with good sense|People with good sense
-45449|매사에 센스가 있는 사람|People with good sense|有眼力的人|People with good sense|People with good sense|People with good sense|People with good sense|People with good sense
+45449|컵케이크|컵케이크|컵케이크|컵케이크|컵케이크|컵케이크|컵케이크|컵케이크
 45450|17세|17|17岁|17|17|17|17|17
 45451|2월 29일|29 Feb|2月29日|29 Feb|29 Feb|29 Feb|29 Feb|29 Feb
 45452|A형|A|A型|A|A|A|A|A
@@ -3264,7 +3298,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45456|남자아이로 오해받는 일|To be misunderstood as a boy|誤認為是個男孩|To be misunderstood as a boy|To be misunderstood as a boy|To be misunderstood as a boy|To be misunderstood as a boy|To be misunderstood as a boy
 45457|옷장에 미니스커트가 잔뜩 있다|Has a pile of miniskirts in her closet|衣櫃里掛滿了超短裙|Has a pile of miniskirts in her closet|Has a pile of miniskirts in her closet|Has a pile of miniskirts in her closet|Has a pile of miniskirts in her closet|Has a pile of miniskirts in her closet
 45458|순정만화 주인공 같은 사람|Like the main character in Love Comics|純情漫畫里的主人公|Like the main character in Love Comics|Like the main character in Love Comics|Like the main character in Love Comics|Like the main character in Love Comics|Like the main character in Love Comics
-45459|순정만화 주인공 같은 사람|Like the main character in Love Comics|像純情漫畫里的主角|Like the main character in Love Comics|Like the main character in Love Comics|Like the main character in Love Comics|Like the main character in Love Comics|Like the main character in Love Comics
+45459|초밥|초밥|초밥|초밥|초밥|초밥|초밥|초밥
 45460|17세|17세|17세|17세|17세|17세|17세|17세
 45461|12월 24일|12월 24일|12월 24일|12월 24일|12월 24일|12월 24일|12월 24일|12월 24일
 45462|불명|불명|불명|불명|불명|불명|불명|불명
@@ -3274,7 +3308,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45466|뜨거운 물 전반(차, 온천 등)|뜨거운 물 전반(차, 온천 등)|뜨거운 물 전반(차, 온천 등)|뜨거운 물 전반(차, 온천 등)|뜨거운 물 전반(차, 온천 등)|뜨거운 물 전반(차, 온천 등)|뜨거운 물 전반(차, 온천 등)|뜨거운 물 전반(차, 온천 등)
 45467|과거 아주 뚱뚱했었다.|과거 아주 뚱뚱했었다.|과거 아주 뚱뚱했었다.|과거 아주 뚱뚱했었다.|과거 아주 뚱뚱했었다.|과거 아주 뚱뚱했었다.|과거 아주 뚱뚱했었다.|과거 아주 뚱뚱했었다.
 45468|자신에게 늘 관심을 가져주는 사람|자신에게 늘 관심을 가져주는 사람|자신에게 늘 관심을 가져주는 사람|자신에게 늘 관심을 가져주는 사람|자신에게 늘 관심을 가져주는 사람|자신에게 늘 관심을 가져주는 사람|자신에게 늘 관심을 가져주는 사람|자신에게 늘 관심을 가져주는 사람
-45469|자신에게 늘 관심을 가져주는 사람|자신에게 늘 관심을 가져주는 사람|자신에게 늘 관심을 가져주는 사람|자신에게 늘 관심을 가져주는 사람|자신에게 늘 관심을 가져주는 사람|자신에게 늘 관심을 가져주는 사람|자신에게 늘 관심을 가져주는 사람|자신에게 늘 관심을 가져주는 사람
+45469|아이스크림|아이스크림|아이스크림|아이스크림|아이스크림|아이스크림|아이스크림|아이스크림
 45470|20세|20세|20세|20세|20세|20세|20세|20세
 45471|5월 18일|5월 18일|5월 18일|5월 18일|5월 18일|5월 18일|5월 18일|5월 18일
 45472|B형|B형|B형|B형|B형|B형|B형|B형
@@ -3284,7 +3318,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45476|파충류 전반|파충류 전반|파충류 전반|파충류 전반|파충류 전반|파충류 전반|파충류 전반|파충류 전반
 45477|과거에 잠깐 비행청소년이었던 시절이 있었다.|과거에 잠깐 비행청소년이었던 시절이 있었다.|과거에 잠깐 비행청소년이었던 시절이 있었다.|과거에 잠깐 비행청소년이었던 시절이 있었다.|과거에 잠깐 비행청소년이었던 시절이 있었다.|과거에 잠깐 비행청소년이었던 시절이 있었다.|과거에 잠깐 비행청소년이었던 시절이 있었다.|과거에 잠깐 비행청소년이었던 시절이 있었다.
 45478|집안의 기둥이 되어 줄 수 있는 사람|집안의 기둥이 되어 줄 수 있는 사람|집안의 기둥이 되어 줄 수 있는 사람|집안의 기둥이 되어 줄 수 있는 사람|집안의 기둥이 되어 줄 수 있는 사람|집안의 기둥이 되어 줄 수 있는 사람|집안의 기둥이 되어 줄 수 있는 사람|집안의 기둥이 되어 줄 수 있는 사람
-45479|집안의 기둥이 되어 줄 수 있는 사람|집안의 기둥이 되어 줄 수 있는 사람|집안의 기둥이 되어 줄 수 있는 사람|집안의 기둥이 되어 줄 수 있는 사람|집안의 기둥이 되어 줄 수 있는 사람|집안의 기둥이 되어 줄 수 있는 사람|집안의 기둥이 되어 줄 수 있는 사람|집안의 기둥이 되어 줄 수 있는 사람
+45479|스튜|스튜|스튜|스튜|스튜|스튜|스튜|스튜
 45480|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN
 45481|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN
 45482|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN
@@ -3294,7 +3328,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45486|사랑의 방해물|사랑의 방해물|사랑의 방해물|사랑의 방해물|사랑의 방해물|사랑의 방해물|사랑의 방해물|사랑의 방해물
 45487|사실은 피를 무서워한다.|사실은 피를 무서워한다.|사실은 피를 무서워한다.|사실은 피를 무서워한다.|사실은 피를 무서워한다.|사실은 피를 무서워한다.|사실은 피를 무서워한다.|사실은 피를 무서워한다.
 45488|일편단심으로 자신만을 바라보는 사람|일편단심으로 자신만을 바라보는 사람|일편단심으로 자신만을 바라보는 사람|일편단심으로 자신만을 바라보는 사람|일편단심으로 자신만을 바라보는 사람|일편단심으로 자신만을 바라보는 사람|일편단심으로 자신만을 바라보는 사람|일편단심으로 자신만을 바라보는 사람
-45489|일편단심으로 자신만을 바라보는 사람|일편단심으로 자신만을 바라보는 사람|일편단심으로 자신만을 바라보는 사람|일편단심으로 자신만을 바라보는 사람|일편단심으로 자신만을 바라보는 사람|일편단심으로 자신만을 바라보는 사람|일편단심으로 자신만을 바라보는 사람|일편단심으로 자신만을 바라보는 사람
+45489|각종 내장요리|각종 내장요리|각종 내장요리|각종 내장요리|각종 내장요리|각종 내장요리|각종 내장요리|각종 내장요리
 45490|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN
 45491|9월 9일|9월 9일|9월 9일|9월 9일|9월 9일|9월 9일|9월 9일|9월 9일
 45492|B형|B형|B형|B형|B형|B형|B형|B형
@@ -3304,7 +3338,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45496|개(크기에 관계 없이)|개(크기에 관계 없이)|개(크기에 관계 없이)|개(크기에 관계 없이)|개(크기에 관계 없이)|개(크기에 관계 없이)|개(크기에 관계 없이)|개(크기에 관계 없이)
 45497|구미호의 속성을 가지고 있지만 인간이 되고싶은 마음은 없다.|구미호의 속성을 가지고 있지만 인간이 되고싶은 마음은 없다.|구미호의 속성을 가지고 있지만 인간이 되고싶은 마음은 없다.|구미호의 속성을 가지고 있지만 인간이 되고싶은 마음은 없다.|구미호의 속성을 가지고 있지만 인간이 되고싶은 마음은 없다.|구미호의 속성을 가지고 있지만 인간이 되고싶은 마음은 없다.|구미호의 속성을 가지고 있지만 인간이 되고싶은 마음은 없다.|구미호의 속성을 가지고 있지만 인간이 되고싶은 마음은 없다.
 45498|응석을 부릴 수 있는 사람|응석을 부릴 수 있는 사람|응석을 부릴 수 있는 사람|응석을 부릴 수 있는 사람|응석을 부릴 수 있는 사람|응석을 부릴 수 있는 사람|응석을 부릴 수 있는 사람|응석을 부릴 수 있는 사람
-45499|응석을 부릴 수 있는 사람|응석을 부릴 수 있는 사람|응석을 부릴 수 있는 사람|응석을 부릴 수 있는 사람|응석을 부릴 수 있는 사람|응석을 부릴 수 있는 사람|응석을 부릴 수 있는 사람|응석을 부릴 수 있는 사람
+45499|사과|사과|사과|사과|사과|사과|사과|사과
 45500|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN
 45501|4월 8일|4월 8일|4월 8일|4월 8일|4월 8일|4월 8일|4월 8일|4월 8일
 45502|O형|O형|O형|O형|O형|O형|O형|O형
@@ -3314,7 +3348,109 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 45506|사생팬|사생팬|사생팬|사생팬|사생팬|사생팬|사생팬|사생팬
 45507|처음에는 음치였다. 엄청난 노력으로 아이돌이 되었다.|처음에는 음치였다. 엄청난 노력으로 아이돌이 되었다.|처음에는 음치였다. 엄청난 노력으로 아이돌이 되었다.|처음에는 음치였다. 엄청난 노력으로 아이돌이 되었다.|처음에는 음치였다. 엄청난 노력으로 아이돌이 되었다.|처음에는 음치였다. 엄청난 노력으로 아이돌이 되었다.|처음에는 음치였다. 엄청난 노력으로 아이돌이 되었다.|처음에는 음치였다. 엄청난 노력으로 아이돌이 되었다.
 45508|자신을 최고의 아이돌로 만들어 줄 민완 프로듀서|자신을 최고의 아이돌로 만들어 줄 민완 프로듀서|자신을 최고의 아이돌로 만들어 줄 민완 프로듀서|자신을 최고의 아이돌로 만들어 줄 민완 프로듀서|자신을 최고의 아이돌로 만들어 줄 민완 프로듀서|자신을 최고의 아이돌로 만들어 줄 민완 프로듀서|자신을 최고의 아이돌로 만들어 줄 민완 프로듀서|자신을 최고의 아이돌로 만들어 줄 민완 프로듀서
-45509|자신을 최고의 아이돌로 만들어 줄 민완 프로듀서|자신을 최고의 아이돌로 만들어 줄 민완 프로듀서|자신을 최고의 아이돌로 만들어 줄 민완 프로듀서|자신을 최고의 아이돌로 만들어 줄 민완 프로듀서|자신을 최고의 아이돌로 만들어 줄 민완 프로듀서|자신을 최고의 아이돌로 만들어 줄 민완 프로듀서|자신을 최고의 아이돌로 만들어 줄 민완 프로듀서|자신을 최고의 아이돌로 만들어 줄 민완 프로듀서
+45509|냉면|냉면|냉면|냉면|냉면|냉면|냉면|냉면
+47000|고아원 원장|고아원 원장|고아원 원장|고아원 원장|고아원 원장|고아원 원장|고아원 원장|고아원 원장
+47001|오빠의 유품들|오빠의 유품들|오빠의 유품들|오빠의 유품들|오빠의 유품들|오빠의 유품들|오빠의 유품들|오빠의 유품들
+47010|주인공의 연인|주인공의 연인|주인공의 연인|주인공의 연인|주인공의 연인|주인공의 연인|주인공의 연인|주인공의 연인
+47011|어머니에게 받은 인형|어머니에게 받은 인형|어머니에게 받은 인형|어머니에게 받은 인형|어머니에게 받은 인형|어머니에게 받은 인형|어머니에게 받은 인형|어머니에게 받은 인형
+47020|리우 인더스트리의 재건|리우 인더스트리의 재건|리우 인더스트리의 재건|리우 인더스트리의 재건|리우 인더스트리의 재건|리우 인더스트리의 재건|리우 인더스트리의 재건|리우 인더스트리의 재건
+47021|용병 때부터 쓰던 저격총|용병 때부터 쓰던 저격총|용병 때부터 쓰던 저격총|용병 때부터 쓰던 저격총|용병 때부터 쓰던 저격총|용병 때부터 쓰던 저격총|용병 때부터 쓰던 저격총|용병 때부터 쓰던 저격총
+47030|두 아이의 어머니|두 아이의 어머니|두 아이의 어머니|두 아이의 어머니|두 아이의 어머니|두 아이의 어머니|두 아이의 어머니|두 아이의 어머니
+47031|아버지에게 선물 받은 야구모자|아버지에게 선물 받은 야구모자|아버지에게 선물 받은 야구모자|아버지에게 선물 받은 야구모자|아버지에게 선물 받은 야구모자|아버지에게 선물 받은 야구모자|아버지에게 선물 받은 야구모자|아버지에게 선물 받은 야구모자
+47040|조국의 총리|조국의 총리|조국의 총리|조국의 총리|조국의 총리|조국의 총리|조국의 총리|조국의 총리
+47041|마법소녀 만화 콜렉션|마법소녀 만화 콜렉션|마법소녀 만화 콜렉션|마법소녀 만화 콜렉션|마법소녀 만화 콜렉션|마법소녀 만화 콜렉션|마법소녀 만화 콜렉션|마법소녀 만화 콜렉션
+47050|화가|화가|화가|화가|화가|화가|화가|화가
+47051|부모님이 선물해주신 목걸이|부모님이 선물해주신 목걸이|부모님이 선물해주신 목걸이|부모님이 선물해주신 목걸이|부모님이 선물해주신 목걸이|부모님이 선물해주신 목걸이|부모님이 선물해주신 목걸이|부모님이 선물해주신 목걸이
+47060|세계 최고의 연예인|세계 최고의 연예인|세계 최고의 연예인|세계 최고의 연예인|세계 최고의 연예인|세계 최고의 연예인|세계 최고의 연예인|세계 최고의 연예인
+47061|해방전선 동료들과 함께 찍은 사진|해방전선 동료들과 함께 찍은 사진|해방전선 동료들과 함께 찍은 사진|해방전선 동료들과 함께 찍은 사진|해방전선 동료들과 함께 찍은 사진|해방전선 동료들과 함께 찍은 사진|해방전선 동료들과 함께 찍은 사진|해방전선 동료들과 함께 찍은 사진
+47070|사립탐정|사립탐정|사립탐정|사립탐정|사립탐정|사립탐정|사립탐정|사립탐정
+47071|탐정 도구 세트|탐정 도구 세트|탐정 도구 세트|탐정 도구 세트|탐정 도구 세트|탐정 도구 세트|탐정 도구 세트|탐정 도구 세트
+47080|부자|부자|부자|부자|부자|부자|부자|부자
+47081|적금 통장|적금 통장|적금 통장|적금 통장|적금 통장|적금 통장|적금 통장|적금 통장
+47090|마법사|마법사|마법사|마법사|마법사|마법사|마법사|마법사
+47091|남몰래 수집한 오컬트 물품들|남몰래 수집한 오컬트 물품들|남몰래 수집한 오컬트 물품들|남몰래 수집한 오컬트 물품들|남몰래 수집한 오컬트 물품들|남몰래 수집한 오컬트 물품들|남몰래 수집한 오컬트 물품들|남몰래 수집한 오컬트 물품들
+47100|평범한 학생|평범한 학생|평범한 학생|평범한 학생|평범한 학생|평범한 학생|평범한 학생|평범한 학생
+47101|동료들에게 생일선물로 받은 토끼인형|동료들에게 생일선물로 받은 토끼인형|동료들에게 생일선물로 받은 토끼인형|동료들에게 생일선물로 받은 토끼인형|동료들에게 생일선물로 받은 토끼인형|동료들에게 생일선물로 받은 토끼인형|동료들에게 생일선물로 받은 토끼인형|동료들에게 생일선물로 받은 토끼인형
+47110|아이돌|아이돌|아이돌|아이돌|아이돌|아이돌|아이돌|아이돌
+47111|처음으로 구입했던 아이돌 음반|처음으로 구입했던 아이돌 음반|처음으로 구입했던 아이돌 음반|처음으로 구입했던 아이돌 음반|처음으로 구입했던 아이돌 음반|처음으로 구입했던 아이돌 음반|처음으로 구입했던 아이돌 음반|처음으로 구입했던 아이돌 음반
+47120|심리학자|심리학자|심리학자|심리학자|심리학자|심리학자|심리학자|심리학자
+47121|필에게 선물받은 오르골|필에게 선물받은 오르골|필에게 선물받은 오르골|필에게 선물받은 오르골|필에게 선물받은 오르골|필에게 선물받은 오르골|필에게 선물받은 오르골|필에게 선물받은 오르골
+47130|수의사|수의사|수의사|수의사|수의사|수의사|수의사|수의사
+47131|한 방에서 지내고 있는 라쿤 '리노'|한 방에서 지내고 있는 라쿤 '리노'|한 방에서 지내고 있는 라쿤 '리노'|한 방에서 지내고 있는 라쿤 '리노'|한 방에서 지내고 있는 라쿤 '리노'|한 방에서 지내고 있는 라쿤 '리노'|한 방에서 지내고 있는 라쿤 '리노'|한 방에서 지내고 있는 라쿤 '리노'
+47140|우주 탐사대원|우주 탐사대원|우주 탐사대원|우주 탐사대원|우주 탐사대원|우주 탐사대원|우주 탐사대원|우주 탐사대원
+47141|외계인 관련 수집 물품들|외계인 관련 수집 물품들|외계인 관련 수집 물품들|외계인 관련 수집 물품들|외계인 관련 수집 물품들|외계인 관련 수집 물품들|외계인 관련 수집 물품들|외계인 관련 수집 물품들
+47150|지구인|지구인|지구인|지구인|지구인|지구인|지구인|지구인
+47151|지구에 관한 정보파일들|지구에 관한 정보파일들|지구에 관한 정보파일들|지구에 관한 정보파일들|지구에 관한 정보파일들|지구에 관한 정보파일들|지구에 관한 정보파일들|지구에 관한 정보파일들
+47160|리프의 장성|리프의 장성|리프의 장성|리프의 장성|리프의 장성|리프의 장성|리프의 장성|리프의 장성
+47161|헨리가 선물해 준 팔찌|헨리가 선물해 준 팔찌|헨리가 선물해 준 팔찌|헨리가 선물해 준 팔찌|헨리가 선물해 준 팔찌|헨리가 선물해 준 팔찌|헨리가 선물해 준 팔찌|헨리가 선물해 준 팔찌
+47170|주인공의 신부|주인공의 신부|주인공의 신부|주인공의 신부|주인공의 신부|주인공의 신부|주인공의 신부|주인공의 신부
+47171|에노모토 집안의 보검 '히류'|에노모토 집안의 보검 '히류'|에노모토 집안의 보검 '히류'|에노모토 집안의 보검 '히류'|에노모토 집안의 보검 '히류'|에노모토 집안의 보검 '히류'|에노모토 집안의 보검 '히류'|에노모토 집안의 보검 '히류'
+47180|양궁 올림픽 선수|양궁 올림픽 선수|양궁 올림픽 선수|양궁 올림픽 선수|양궁 올림픽 선수|양궁 올림픽 선수|양궁 올림픽 선수|양궁 올림픽 선수
+47181|부모님께 처음으로 받은 양궁 활|부모님께 처음으로 받은 양궁 활|부모님께 처음으로 받은 양궁 활|부모님께 처음으로 받은 양궁 활|부모님께 처음으로 받은 양궁 활|부모님께 처음으로 받은 양궁 활|부모님께 처음으로 받은 양궁 활|부모님께 처음으로 받은 양궁 활
+47190|한센 텔레콤의 재건|한센 텔레콤의 재건|한센 텔레콤의 재건|한센 텔레콤의 재건|한센 텔레콤의 재건|한센 텔레콤의 재건|한센 텔레콤의 재건|한센 텔레콤의 재건
+47191|아빠에게 받은 곰 인형|아빠에게 받은 곰 인형|아빠에게 받은 곰 인형|아빠에게 받은 곰 인형|아빠에게 받은 곰 인형|아빠에게 받은 곰 인형|아빠에게 받은 곰 인형|아빠에게 받은 곰 인형
+47200|인형 디자이너|인형 디자이너|인형 디자이너|인형 디자이너|인형 디자이너|인형 디자이너|인형 디자이너|인형 디자이너
+47201|각종 토끼 관련 굿즈|각종 토끼 관련 굿즈|각종 토끼 관련 굿즈|각종 토끼 관련 굿즈|각종 토끼 관련 굿즈|각종 토끼 관련 굿즈|각종 토끼 관련 굿즈|각종 토끼 관련 굿즈
+47210|무역회사의 사주|무역회사의 사주|무역회사의 사주|무역회사의 사주|무역회사의 사주|무역회사의 사주|무역회사의 사주|무역회사의 사주
+47211|친어머니께 받은 반지|친어머니께 받은 반지|친어머니께 받은 반지|친어머니께 받은 반지|친어머니께 받은 반지|친어머니께 받은 반지|친어머니께 받은 반지|친어머니께 받은 반지
+47220|정식 수녀로 복귀하는 것|정식 수녀로 복귀하는 것|정식 수녀로 복귀하는 것|정식 수녀로 복귀하는 것|정식 수녀로 복귀하는 것|정식 수녀로 복귀하는 것|정식 수녀로 복귀하는 것|정식 수녀로 복귀하는 것
+47221|존경하는 수녀님께 받은 십자가|존경하는 수녀님께 받은 십자가|존경하는 수녀님께 받은 십자가|존경하는 수녀님께 받은 십자가|존경하는 수녀님께 받은 십자가|존경하는 수녀님께 받은 십자가|존경하는 수녀님께 받은 십자가|존경하는 수녀님께 받은 십자가
+47230|평범한 사람이 되는 것|평범한 사람이 되는 것|평범한 사람이 되는 것|평범한 사람이 되는 것|평범한 사람이 되는 것|평범한 사람이 되는 것|평범한 사람이 되는 것|평범한 사람이 되는 것
+47231|부모님의 사진|부모님의 사진|부모님의 사진|부모님의 사진|부모님의 사진|부모님의 사진|부모님의 사진|부모님의 사진
+47240|자신의 게임회사를 재건하는 것|자신의 게임회사를 재건하는 것|자신의 게임회사를 재건하는 것|자신의 게임회사를 재건하는 것|자신의 게임회사를 재건하는 것|자신의 게임회사를 재건하는 것|자신의 게임회사를 재건하는 것|자신의 게임회사를 재건하는 것
+47241|백 년 넘은 레트로 게임 카트리지|백 년 넘은 레트로 게임 카트리지|백 년 넘은 레트로 게임 카트리지|백 년 넘은 레트로 게임 카트리지|백 년 넘은 레트로 게임 카트리지|백 년 넘은 레트로 게임 카트리지|백 년 넘은 레트로 게임 카트리지|백 년 넘은 레트로 게임 카트리지
+47250|농장 주인|농장 주인|농장 주인|농장 주인|농장 주인|농장 주인|농장 주인|농장 주인
+47251|동식물 도감|동식물 도감|동식물 도감|동식물 도감|동식물 도감|동식물 도감|동식물 도감|동식물 도감
+47260|탐험가|탐험가|탐험가|탐험가|탐험가|탐험가|탐험가|탐험가
+47261|어머니가 물려주신 로사리오|어머니가 물려주신 로사리오|어머니가 물려주신 로사리오|어머니가 물려주신 로사리오|어머니가 물려주신 로사리오|어머니가 물려주신 로사리오|어머니가 물려주신 로사리오|어머니가 물려주신 로사리오
+47270|정치가|정치가|정치가|정치가|정치가|정치가|정치가|정치가
+47271|친구의 유품인 머리띠|친구의 유품인 머리띠|친구의 유품인 머리띠|친구의 유품인 머리띠|친구의 유품인 머리띠|친구의 유품인 머리띠|친구의 유품인 머리띠|친구의 유품인 머리띠
+47280|농부|농부|농부|농부|농부|농부|농부|농부
+47281|스승에게 받은 권총|스승에게 받은 권총|스승에게 받은 권총|스승에게 받은 권총|스승에게 받은 권총|스승에게 받은 권총|스승에게 받은 권총|스승에게 받은 권총
+47290|레이싱 선수로 복귀하는 것|레이싱 선수로 복귀하는 것|레이싱 선수로 복귀하는 것|레이싱 선수로 복귀하는 것|레이싱 선수로 복귀하는 것|레이싱 선수로 복귀하는 것|레이싱 선수로 복귀하는 것|레이싱 선수로 복귀하는 것
+47291|자신이 직접 개조한 바이크|자신이 직접 개조한 바이크|자신이 직접 개조한 바이크|자신이 직접 개조한 바이크|자신이 직접 개조한 바이크|자신이 직접 개조한 바이크|자신이 직접 개조한 바이크|자신이 직접 개조한 바이크
+47300|코스프레 찻집의 점장|코스프레 찻집의 점장|코스프레 찻집의 점장|코스프레 찻집의 점장|코스프레 찻집의 점장|코스프레 찻집의 점장|코스프레 찻집의 점장|코스프레 찻집의 점장
+47301|코스튬 콜렉션|코스튬 콜렉션|코스튬 콜렉션|코스튬 콜렉션|코스튬 콜렉션|코스튬 콜렉션|코스튬 콜렉션|코스튬 콜렉션
+47310|유치원 선생님|유치원 선생님|유치원 선생님|유치원 선생님|유치원 선생님|유치원 선생님|유치원 선생님|유치원 선생님
+47311|어린 시절 동생에게 받은 리본|어린 시절 동생에게 받은 리본|어린 시절 동생에게 받은 리본|어린 시절 동생에게 받은 리본|어린 시절 동생에게 받은 리본|어린 시절 동생에게 받은 리본|어린 시절 동생에게 받은 리본|어린 시절 동생에게 받은 리본
+47320|아버지의 정비소를 물려받는 것|아버지의 정비소를 물려받는 것|아버지의 정비소를 물려받는 것|아버지의 정비소를 물려받는 것|아버지의 정비소를 물려받는 것|아버지의 정비소를 물려받는 것|아버지의 정비소를 물려받는 것|아버지의 정비소를 물려받는 것
+47321|아버지에게 받은 공구 세트|아버지에게 받은 공구 세트|아버지에게 받은 공구 세트|아버지에게 받은 공구 세트|아버지에게 받은 공구 세트|아버지에게 받은 공구 세트|아버지에게 받은 공구 세트|아버지에게 받은 공구 세트
+47330|연금생활|연금생활|연금생활|연금생활|연금생활|연금생활|연금생활|연금생활
+47331|어린 시절 동생에게 받은 행운의 부적|어린 시절 동생에게 받은 행운의 부적|어린 시절 동생에게 받은 행운의 부적|어린 시절 동생에게 받은 행운의 부적|어린 시절 동생에게 받은 행운의 부적|어린 시절 동생에게 받은 행운의 부적|어린 시절 동생에게 받은 행운의 부적|어린 시절 동생에게 받은 행운의 부적
+47340|연구자 생활을 계속하는 것|연구자 생활을 계속하는 것|연구자 생활을 계속하는 것|연구자 생활을 계속하는 것|연구자 생활을 계속하는 것|연구자 생활을 계속하는 것|연구자 생활을 계속하는 것|연구자 생활을 계속하는 것
+47341|자신이 직접 개발한 인공지능 컴퓨터|자신이 직접 개발한 인공지능 컴퓨터|자신이 직접 개발한 인공지능 컴퓨터|자신이 직접 개발한 인공지능 컴퓨터|자신이 직접 개발한 인공지능 컴퓨터|자신이 직접 개발한 인공지능 컴퓨터|자신이 직접 개발한 인공지능 컴퓨터|자신이 직접 개발한 인공지능 컴퓨터
+47350|자신만의 은행을 설립하는 것|자신만의 은행을 설립하는 것|자신만의 은행을 설립하는 것|자신만의 은행을 설립하는 것|자신만의 은행을 설립하는 것|자신만의 은행을 설립하는 것|자신만의 은행을 설립하는 것|자신만의 은행을 설립하는 것
+47351|어린 시절 처음으로 만들었던 통장|어린 시절 처음으로 만들었던 통장|어린 시절 처음으로 만들었던 통장|어린 시절 처음으로 만들었던 통장|어린 시절 처음으로 만들었던 통장|어린 시절 처음으로 만들었던 통장|어린 시절 처음으로 만들었던 통장|어린 시절 처음으로 만들었던 통장
+47360|소설가|소설가|소설가|소설가|소설가|소설가|소설가|소설가
+47361|작가의 사인이 들어간 한정판 소설들|작가의 사인이 들어간 한정판 소설들|작가의 사인이 들어간 한정판 소설들|작가의 사인이 들어간 한정판 소설들|작가의 사인이 들어간 한정판 소설들|작가의 사인이 들어간 한정판 소설들|작가의 사인이 들어간 한정판 소설들|작가의 사인이 들어간 한정판 소설들
+47370|프로게이머|프로게이머|프로게이머|프로게이머|프로게이머|프로게이머|프로게이머|프로게이머
+47371|추억의 게임 콜렉션|추억의 게임 콜렉션|추억의 게임 콜렉션|추억의 게임 콜렉션|추억의 게임 콜렉션|추억의 게임 콜렉션|추억의 게임 콜렉션|추억의 게임 콜렉션
+47380|역사학자|역사학자|역사학자|역사학자|역사학자|역사학자|역사학자|역사학자
+47381|밀리터리 프라모델 디오라마 콜렉션|밀리터리 프라모델 디오라마 콜렉션|밀리터리 프라모델 디오라마 콜렉션|밀리터리 프라모델 디오라마 콜렉션|밀리터리 프라모델 디오라마 콜렉션|밀리터리 프라모델 디오라마 콜렉션|밀리터리 프라모델 디오라마 콜렉션|밀리터리 프라모델 디오라마 콜렉션
+47390|조국의 외교관|조국의 외교관|조국의 외교관|조국의 외교관|조국의 외교관|조국의 외교관|조국의 외교관|조국의 외교관
+47391|아버지의 유품인 만년필|아버지의 유품인 만년필|아버지의 유품인 만년필|아버지의 유품인 만년필|아버지의 유품인 만년필|아버지의 유품인 만년필|아버지의 유품인 만년필|아버지의 유품인 만년필
+47400|리프의 참모총장|리프의 참모총장|리프의 참모총장|리프의 참모총장|리프의 참모총장|리프의 참모총장|리프의 참모총장|리프의 참모총장
+47401|아버지에게 받은 전투모|아버지에게 받은 전투모|아버지에게 받은 전투모|아버지에게 받은 전투모|아버지에게 받은 전투모|아버지에게 받은 전투모|아버지에게 받은 전투모|아버지에게 받은 전투모
+47410|라스베가스의 공연 감독 겸 출연자|라스베가스의 공연 감독 겸 출연자|라스베가스의 공연 감독 겸 출연자|라스베가스의 공연 감독 겸 출연자|라스베가스의 공연 감독 겸 출연자|라스베가스의 공연 감독 겸 출연자|라스베가스의 공연 감독 겸 출연자|라스베가스의 공연 감독 겸 출연자
+47411|어린 시절 라스베가스에서 찍은 사진들|어린 시절 라스베가스에서 찍은 사진들|어린 시절 라스베가스에서 찍은 사진들|어린 시절 라스베가스에서 찍은 사진들|어린 시절 라스베가스에서 찍은 사진들|어린 시절 라스베가스에서 찍은 사진들|어린 시절 라스베가스에서 찍은 사진들|어린 시절 라스베가스에서 찍은 사진들
+47420|격투기 세계 챔피언|격투기 세계 챔피언|격투기 세계 챔피언|격투기 세계 챔피언|격투기 세계 챔피언|격투기 세계 챔피언|격투기 세계 챔피언|격투기 세계 챔피언
+47421|여동생 사진 콜렉션|여동생 사진 콜렉션|여동생 사진 콜렉션|여동생 사진 콜렉션|여동생 사진 콜렉션|여동생 사진 콜렉션|여동생 사진 콜렉션|여동생 사진 콜렉션
+47430|유명 요리사|유명 요리사|유명 요리사|유명 요리사|유명 요리사|유명 요리사|유명 요리사|유명 요리사
+47431|요리도구 콜렉션|요리도구 콜렉션|요리도구 콜렉션|요리도구 콜렉션|요리도구 콜렉션|요리도구 콜렉션|요리도구 콜렉션|요리도구 콜렉션
+47440|산업 디자이너|산업 디자이너|산업 디자이너|산업 디자이너|산업 디자이너|산업 디자이너|산업 디자이너|산업 디자이너
+47441|자신의 작품 콜렉션|자신의 작품 콜렉션|자신의 작품 콜렉션|자신의 작품 콜렉션|자신의 작품 콜렉션|자신의 작품 콜렉션|자신의 작품 콜렉션|자신의 작품 콜렉션
+47450|아이돌|아이돌|아이돌|아이돌|아이돌|아이돌|아이돌|아이돌
+47451|소녀틱한 드레스 콜렉션|소녀틱한 드레스 콜렉션|소녀틱한 드레스 콜렉션|소녀틱한 드레스 콜렉션|소녀틱한 드레스 콜렉션|소녀틱한 드레스 콜렉션|소녀틱한 드레스 콜렉션|소녀틱한 드레스 콜렉션
+47460|아이스크림 가게 주인|아이스크림 가게 주인|아이스크림 가게 주인|아이스크림 가게 주인|아이스크림 가게 주인|아이스크림 가게 주인|아이스크림 가게 주인|아이스크림 가게 주인
+47461|냉동고 속 아이스크림 콜렉션|냉동고 속 아이스크림 콜렉션|냉동고 속 아이스크림 콜렉션|냉동고 속 아이스크림 콜렉션|냉동고 속 아이스크림 콜렉션|냉동고 속 아이스크림 콜렉션|냉동고 속 아이스크림 콜렉션|냉동고 속 아이스크림 콜렉션
+47470|카페 주인|카페 주인|카페 주인|카페 주인|카페 주인|카페 주인|카페 주인|카페 주인
+47471|가족|가족|가족|가족|가족|가족|가족|가족
+47480|주인공의 신부|주인공의 신부|주인공의 신부|주인공의 신부|주인공의 신부|주인공의 신부|주인공의 신부|주인공의 신부
+47481|애용하는 식칼|애용하는 식칼|애용하는 식칼|애용하는 식칼|애용하는 식칼|애용하는 식칼|애용하는 식칼|애용하는 식칼
+47490|(경제적으로 여유 있는) 백수|(경제적으로 여유 있는) 백수|(경제적으로 여유 있는) 백수|(경제적으로 여유 있는) 백수|(경제적으로 여유 있는) 백수|(경제적으로 여유 있는) 백수|(경제적으로 여유 있는) 백수|(경제적으로 여유 있는) 백수
+47491|소중한 사람에게 받은 리본|소중한 사람에게 받은 리본|소중한 사람에게 받은 리본|소중한 사람에게 받은 리본|소중한 사람에게 받은 리본|소중한 사람에게 받은 리본|소중한 사람에게 받은 리본|소중한 사람에게 받은 리본
+47500|아이돌|아이돌|아이돌|아이돌|아이돌|아이돌|아이돌|아이돌
+47501|전용 마이크|전용 마이크|전용 마이크|전용 마이크|전용 마이크|전용 마이크|전용 마이크|전용 마이크
 50000|오비디언스(Obedience, 복종) 육체와 정신을 지배하는 외계 물질|Obedience: Alien substance that brainwashes its victim and controls both mind and body.|奧比迪恩斯（Obedience，服從）：控制肉體和精神的外星物質|Obediencia: sustancia ajena que lava el cerebro de su víctima y controla la mente y el cuerpo.|Obedience: Alien-Substanz, die ihr Opfer einer Gehirnwäsche unterzieht und sowohl Körper, als auch Geist fremdsteuert.|Obedience: zat Alien yang mencuci otak korbannya dan mengendalikan pikiran serta tubuhnya.|โอเบเดียนซ์: สสารจากต่างดาวที่จะล้างสมองเหยื่อ และควบคุมเหยื่อทั้งร่างกายและจิตใจ|Obédience : substance extraterrestre qui conditionne sa victime et contrôle à la fois son esprit et son corps.
 50001|매드 사이언티스트 카인은 그 힘에 집착한 나머지\n동생 에이벨의 연구를 빼앗고 살해한다|Mad Scientist Kain is so obsessed by its power that\nhe kills his own brother Abel and steals Abel's research.|瘋狂科學家凱茵太執著於這股力量，\n殺害了自己的親弟弟艾貝爾，並搶走了他的研究。|El científico loco Kain está tan obsesionado por su poder que\nasesina a su propio hermano Abel y roba su investigación.|Der verrückte Wissenschaftler Kain ist so besessen von seiner Macht, dass\ner seinen eigenen Bruder Abel umbringt und Abels Forschung stiehlt.|Ilmuwan Gila Kain sangat terobsesi dengan kekuatannya sehingga\ndia membunuh saudaranya sendiri, Abel, dan mencuri penelitian Abel.|เคน นักวิทยาศาสตร์ผู้บ้าคลั่ง หลงใหลไปกับพลังของมัน\nนั่นทำให้เขาฆ่าพี่ชายของตัวเอง อาเบล แล้วขโมยงานวิจัยของอาเบลไป|Le Savant fou Kain est tellement obsédé par sa puissance qu'il\n tue son frère Abel et vole ses recherches.
 50002|카인은 오비디언스를 백신으로 속여 전 세계에 퍼트렸고\n감염된 사람들은 순식간에 세뇌되어 이내 복종했다|Kain deceived the world and spread the Obedience as vaccine,\nwhich brainwashed the victims and put them under his control.|凱茵謊稱奧比迪恩斯是疫苗，將其擴散到全世界。\n遭到感染的人立刻被洗腦，變成了他的追隨者。|Kain engañó al mundo y difundió la obediencia como la vacuna,\nlavando con esta el cerebro de las víctimas y poniéndolas bajo su control.|Kain hat die Welt getäuscht und Obedience als Impfstoff verbreitet,\nwomit er die Opfer gehirngewaschen und sie unter seine Kontrolle gebracht hat.|Kain menipu dunia dan menyebarkan Obedience sebagai vaksin,\nyang mencuci otak korban agar Kain bisa menguasainya.|เคน หลอกลวงทั้งโลกแล้วกระจาย โอเบเดียนซ์ ออกไปว่าเป็นวัคซีน\nซึ่งนั่นเป็นการล้างสมองเหยื่อ และทำให้ทุกคนตกอยู่ใต้การควบคุมของเขา|Kain a trompé le monde et a répandu l'Obédience en tant que vaccin,\nce qui a conditionné les victimes et les a placées sous son contrôle.
@@ -5411,7 +5547,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 110285|점령전 승리 보상|Death Match Victory Rewards|佔領戰勝利獎勵|Recompensas de victorias en el combate a muerte|Death Match Sieg-Belohnungen|Hadiah Kemenangan Pertandingan Maut|รางวัลการชนะเดธแมชท์|Récompenses de victoire du Match à mort
 110286|점령전 패배 보상|Death Match Failure Rewards|佔領戰失敗獎勵|Recompensas de derrotas en el combate a muerte|Death Match Niederlage-Belohnungen|Hadiah Kegagalan Pertandingan Maut|รางวัลการล้มเหลวในเดธแมชท์|Récompenses de défaite du Match à mort
 110287|점령전 무승부 보상|Death Match Draw Rewards|佔領戰平局獎勵|Recompensas de empates en el combate a muerte|Death Match Unentschieden-Belohnungen|Hadiah Pertandingan Maut Seri|รางวัลการเสมอในเดธแมชท์|Récompenses d'égalité du Match à mort
-110288|{0}점령지 점령 보상|Reards for Territory {0}|{0}佔領地佔領獎勵|Recompensas por Territorio {0}|Belohnungen für Territorium {0}|Hadiah untuk Wilayah {0}|รางวัลสำหรับดินแดน {0}|Récompenses pour le Territoire {0}
+110288|점령지 점령 보상 ({0}개 점령 성공)|Reards for Territory {0}|{0}佔領地佔領獎勵|Recompensas por Territorio {0}|Belohnungen für Territorium {0}|Hadiah untuk Wilayah {0}|รางวัลสำหรับดินแดน {0}|Récompenses pour le Territoire {0}
 110289|지난 결과|History|戰鬥記錄|Tiempo pasado.|Zeit verstrichen.|Waktu sudah berlalu.|เวลาผ่านไปแล้ว|Temps écoulé.
 110290|{0}연합에서 탈퇴되었습니다.|You have left from Federation {0}|您從{0}聯盟退出.|Has dejado la Federación {0}|Sie haben das Bündnis {0} verlassen|Kamu sudah meninggalkan Federasi {0}|คุณออกมาจากสหพันธ์ {0} แล้ว|Vous avez quitté la Fédération {0}
 110291|결과 보기|View Result|查看結果|Ver resultado|Ergebnis anzeigen|Lihat Hasil|ดูผลลัพธ์|Voir les résultats
@@ -5475,7 +5611,7 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 110349|상대 연합을 찾기 위해 잠시 점령전에서 이탈합니다.|Matching for a new opponent. Moving back to Federation.|返回菜單并重新匹配對手|Matching for a new opponent. Moving back to Federation.|Matching for a new opponent. Moving back to Federation.|Matching for a new opponent. Moving back to Federation.|Matching for a new opponent. Moving back to Federation.|Matching for a new opponent. Moving back to Federation.
 110350|작전 시간이 종료 되었습니다.|Tactical Dispatch time has elapsed|戰鬥時間終了|Tactical Dispatch time has elapsed|Tactical Dispatch time has elapsed|Tactical Dispatch time has elapsed|Tactical Dispatch time has elapsed|Tactical Dispatch time has elapsed
 110351|대기 중인 아군 부대가 없습니다.|대기 중인 아군 부대가 없습니다.|대기 중인 아군 부대가 없습니다.|대기 중인 아군 부대가 없습니다.|대기 중인 아군 부대가 없습니다.|대기 중인 아군 부대가 없습니다.|대기 중인 아군 부대가 없습니다.|대기 중인 아군 부대가 없습니다.
-110352|대기 중인 아군 부대가 없어 정보를 확인 할 수 없습니다.|대기 중인 아군 부대가 없어 정보를 확인 할 수 없습니다.|대기 중인 아군 부대가 없어 정보를 확인 할 수 없습니다.|대기 중인 아군 부대가 없어 정보를 확인 할 수 없습니다.|대기 중인 아군 부대가 없어 정보를 확인 할 수 없습니다.|대기 중인 아군 부대가 없어 정보를 확인 할 수 없습니다.|대기 중인 아군 부대가 없어 정보를 확인 할 수 없습니다.|대기 중인 아군 부대가 없어 정보를 확인 할 수 없습니다.
+110352|대기 중인 아군 부대가 없어\n정보를 확인 할 수 없습니다.|대기 중인 아군 부대가 없어 정보를 확인 할 수 없습니다.|대기 중인 아군 부대가 없어 정보를 확인 할 수 없습니다.|대기 중인 아군 부대가 없어 정보를 확인 할 수 없습니다.|대기 중인 아군 부대가 없어 정보를 확인 할 수 없습니다.|대기 중인 아군 부대가 없어 정보를 확인 할 수 없습니다.|대기 중인 아군 부대가 없어 정보를 확인 할 수 없습니다.|대기 중인 아군 부대가 없어 정보를 확인 할 수 없습니다.
 110353|대기 중인 적군 부대가 없습니다.|대기 중인 적군 부대가 없습니다.|대기 중인 적군 부대가 없습니다.|대기 중인 적군 부대가 없습니다.|대기 중인 적군 부대가 없습니다.|대기 중인 적군 부대가 없습니다.|대기 중인 적군 부대가 없습니다.|대기 중인 적군 부대가 없습니다.
 110354|미 신청|미 신청|미 신청|미 신청|미 신청|미 신청|미 신청|미 신청
 110355|신청 완료|신청 완료|신청 완료|신청 완료|신청 완료|신청 완료|신청 완료|신청 완료
@@ -5483,7 +5619,15 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 110357|진행 중|진행 중|진행 중|진행 중|진행 중|진행 중|진행 중|진행 중
 110358|집계 중|집계 중|집계 중|집계 중|집계 중|집계 중|집계 중|집계 중
 110359|다음 신청까지|다음 신청까지|다음 신청까지|다음 신청까지|다음 신청까지|다음 신청까지|다음 신청까지|다음 신청까지
-110359|참가 신청은 연합장과 보좌관만 가능합니다.|참가 신청은 연합장과 보좌관만 가능합니다.|참가 신청은 연합장과 보좌관만 가능합니다.|참가 신청은 연합장과 보좌관만 가능합니다.|참가 신청은 연합장과 보좌관만 가능합니다.|참가 신청은 연합장과 보좌관만 가능합니다.|참가 신청은 연합장과 보좌관만 가능합니다.|참가 신청은 연합장과 보좌관만 가능합니다.
+110360|참가 신청은 연합장과 보좌관만 가능합니다.|참가 신청은 연합장과 보좌관만 가능합니다.|참가 신청은 연합장과 보좌관만 가능합니다.|참가 신청은 연합장과 보좌관만 가능합니다.|참가 신청은 연합장과 보좌관만 가능합니다.|참가 신청은 연합장과 보좌관만 가능합니다.|참가 신청은 연합장과 보좌관만 가능합니다.|참가 신청은 연합장과 보좌관만 가능합니다.
+110361|축하드립니다. 점령전에 승리하여 고급보급상자를드립니다.|축하드립니다. 점령전에 승리하여 고급보급상자를드립니다.|축하드립니다. 점령전에 승리하여 고급보급상자를드립니다.|축하드립니다. 점령전에 승리하여 고급보급상자를드립니다.|축하드립니다. 점령전에 승리하여 고급보급상자를드립니다.|축하드립니다. 점령전에 승리하여 고급보급상자를드립니다.|축하드립니다. 점령전에 승리하여 고급보급상자를드립니다.|축하드립니다. 점령전에 승리하여 고급보급상자를드립니다.
+110362|다음엔 꼭 이기리라 믿으며 일반보급상자를 드립니다.|다음엔 꼭 이기리라 믿으며 일반보급상자를 드립니다.|다음엔 꼭 이기리라 믿으며 일반보급상자를 드립니다.|다음엔 꼭 이기리라 믿으며 일반보급상자를 드립니다.|다음엔 꼭 이기리라 믿으며 일반보급상자를 드립니다.|다음엔 꼭 이기리라 믿으며 일반보급상자를 드립니다.|다음엔 꼭 이기리라 믿으며 일반보급상자를 드립니다.|다음엔 꼭 이기리라 믿으며 일반보급상자를 드립니다.
+110363|성장에 밑거름이 되길 바라며 나무보급상자를 드립니다.|성장에 밑거름이 되길 바라며 나무보급상자를 드립니다.|성장에 밑거름이 되길 바라며 나무보급상자를 드립니다.|성장에 밑거름이 되길 바라며 나무보급상자를 드립니다.|성장에 밑거름이 되길 바라며 나무보급상자를 드립니다.|성장에 밑거름이 되길 바라며 나무보급상자를 드립니다.|성장에 밑거름이 되길 바라며 나무보급상자를 드립니다.|성장에 밑거름이 되길 바라며 나무보급상자를 드립니다.
+110364|점령한 점령지에 따른 점령보급상자를 드립니다.|점령한 점령지에 따른 점령보급상자를 드립니다.|점령한 점령지에 따른 점령보급상자를 드립니다.|점령한 점령지에 따른 점령보급상자를 드립니다.|점령한 점령지에 따른 점령보급상자를 드립니다.|점령한 점령지에 따른 점령보급상자를 드립니다.|점령한 점령지에 따른 점령보급상자를 드립니다.|점령한 점령지에 따른 점령보급상자를 드립니다.
+110365|점령전 정보가 맞지 않아 점령전 진입을 제한합니다.|점령전 정보가 맞지 않아 점령전 진입을 제한합니다.|점령전 정보가 맞지 않아 점령전 진입을 제한합니다.|점령전 정보가 맞지 않아 점령전 진입을 제한합니다.|점령전 정보가 맞지 않아 점령전 진입을 제한합니다.|점령전 정보가 맞지 않아 점령전 진입을 제한합니다.|점령전 정보가 맞지 않아 점령전 진입을 제한합니다.|점령전 정보가 맞지 않아 점령전 진입을 제한합니다.
+110366|점령전 정보가 맞지 않습니다.\n다시 시도해 주시기 바랍니다.|점령전 정보가 맞지 않습니다.\n다시 시도해 주시기 바랍니다.|점령전 정보가 맞지 않습니다.\n다시 시도해 주시기 바랍니다.|점령전 정보가 맞지 않습니다.\n다시 시도해 주시기 바랍니다.|점령전 정보가 맞지 않습니다.\n다시 시도해 주시기 바랍니다.|점령전 정보가 맞지 않습니다.\n다시 시도해 주시기 바랍니다.|점령전 정보가 맞지 않습니다.\n다시 시도해 주시기 바랍니다.|점령전 정보가 맞지 않습니다.\n다시 시도해 주시기 바랍니다.
+110367|서버와 데이터가 맞지 않아\n게임을 종료 합니다.\n\n(오류 코드: {0})|서버와 데이터가 맞지 않아\n게임을 종료 합니다.\n\n(오류 코드: {0})|서버와 데이터가 맞지 않아\n게임을 종료 합니다.\n\n(오류 코드: {0})|서버와 데이터가 맞지 않아\n게임을 종료 합니다.\n\n(오류 코드: {0})|서버와 데이터가 맞지 않아\n게임을 종료 합니다.\n\n(오류 코드: {0})|서버와 데이터가 맞지 않아\n게임을 종료 합니다.\n\n(오류 코드: {0})|서버와 데이터가 맞지 않아\n게임을 종료 합니다.\n\n(오류 코드: {0})|서버와 데이터가 맞지 않아\n게임을 종료 합니다.\n\n(오류 코드: {0})
+110368|대기 중이였던 부대가 없어 전투 결과가 없습니다.|대기 중이였던 부대가 없어 전투 결과가 없습니다.|대기 중이였던 부대가 없어 전투 결과가 없습니다.|대기 중이였던 부대가 없어 전투 결과가 없습니다.|대기 중이였던 부대가 없어 전투 결과가 없습니다.|대기 중이였던 부대가 없어 전투 결과가 없습니다.|대기 중이였던 부대가 없어 전투 결과가 없습니다.|대기 중이였던 부대가 없어 전투 결과가 없습니다.
 111001|체력 증가|Increase HP|體力增加|Aumentar HP|TP erhöhen|Tingkatkan HP|เพิ่ม HP|Augmenter les PV
 111002|공격력 증가|Increase ATK|攻擊力增加|Aumentar ATK|ATK erhöhen|Tingkatkan ATK|เพิ่ม ATK|Augmenter l'ATQ
 111003|방어력 증가|Increase DEF|防禦力增加|Aumentar DEF|VERT erhöhen|Tingkatkan DEF|เพิ่ม DEF|Augmenter la DÉF
@@ -7142,6 +7286,9 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 1005050|람다|람다|람다|람다|람다|람다|람다|람다
 1005051|케이트 스콧|케이트 스콧|케이트 스콧|케이트 스콧|케이트 스콧|케이트 스콧|케이트 스콧|케이트 스콧
 1005052|린다 허드슨|린다 허드슨|린다 허드슨|린다 허드슨|린다 허드슨|린다 허드슨|린다 허드슨|린다 허드슨
+1005996|카나리아|카나리아|카나리아|카나리아|카나리아|카나리아|카나리아|카나리아
+1005997|브리샤|브리샤|브리샤|브리샤|브리샤|브리샤|브리샤|브리샤
+1005998|춘향|춘향|춘향|춘향|춘향|춘향|춘향|춘향
 1005999|정 이나|Ena|鄭依娜|Ena|Ena|Ena|เอน่า|Ena
 1008001|구름|Cloud|小雲|Nube|Cloud|Cloud|คลาวด์|Cloud
 1008002|샤를 소브라주 |Charles Sobraju |夏洛·索布拉澤 |Charles Sobraju |Charles Sobraju |Charles Sobraju |ชาร์ลส์ โซบราจู |Charles Sobraju 
@@ -7236,6 +7383,9 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 1015048|3개의 기체로 되어 있는 라파엘 V2를 동시에 사용할 수 있는 파일럿|3개의 기체로 되어 있는 라파엘 V2를 동시에 사용할 수 있는 파일럿|3개의 기체로 되어 있는 라파엘 V2를 동시에 사용할 수 있는 파일럿|3개의 기체로 되어 있는 라파엘 V2를 동시에 사용할 수 있는 파일럿|3개의 기체로 되어 있는 라파엘 V2를 동시에 사용할 수 있는 파일럿|3개의 기체로 되어 있는 라파엘 V2를 동시에 사용할 수 있는 파일럿|3개의 기체로 되어 있는 라파엘 V2를 동시에 사용할 수 있는 파일럿|3개의 기체로 되어 있는 라파엘 V2를 동시에 사용할 수 있는 파일럿
 1015049|대검을 사용하여 적을 파괴하는 버서커의 파일럿|대검을 사용하여 적을 파괴하는 버서커의 파일럿|대검을 사용하여 적을 파괴하는 버서커의 파일럿|대검을 사용하여 적을 파괴하는 버서커의 파일럿|대검을 사용하여 적을 파괴하는 버서커의 파일럿|대검을 사용하여 적을 파괴하는 버서커의 파일럿|대검을 사용하여 적을 파괴하는 버서커의 파일럿|대검을 사용하여 적을 파괴하는 버서커의 파일럿
 1015050|캐미솔 출신으로 생채 기관의 에너지를 이용하는 레비아탄의 파일럿|캐미솔 출신으로 생채 기관의 에너지를 이용하는 레비아탄의 파일럿|캐미솔 출신으로 생채 기관의 에너지를 이용하는 레비아탄의 파일럿|캐미솔 출신으로 생채 기관의 에너지를 이용하는 레비아탄의 파일럿|캐미솔 출신으로 생채 기관의 에너지를 이용하는 레비아탄의 파일럿|캐미솔 출신으로 생채 기관의 에너지를 이용하는 레비아탄의 파일럿|캐미솔 출신으로 생채 기관의 에너지를 이용하는 레비아탄의 파일럿|캐미솔 출신으로 생채 기관의 에너지를 이용하는 레비아탄의 파일럿
+1015996|고대부터 새장에 갇혀 있던 새의 인자를 추출해서 만든 기사|고대부터 새장에 갇혀 있던 새의 인자를 추출해서 만든 기사|고대부터 새장에 갇혀 있던 새의 인자를 추출해서 만든 기사|고대부터 새장에 갇혀 있던 새의 인자를 추출해서 만든 기사|고대부터 새장에 갇혀 있던 새의 인자를 추출해서 만든 기사|고대부터 새장에 갇혀 있던 새의 인자를 추출해서 만든 기사|고대부터 새장에 갇혀 있던 새의 인자를 추출해서 만든 기사|고대부터 새장에 갇혀 있던 새의 인자를 추출해서 만든 기사
+1015997|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN
+1015998|춘향의 인자를 이용하여 가희를 모티브로 제조된 기사. 전투 등에는 흥미가 없으며、모두에게 사랑받는 진정한 아이돌이 되는 것을 목표로 하고 있다.|춘향의 인자를 이용하여 가희를 모티브로 제조된 기사. 전투 등에는 흥미가 없으며、모두에게 사랑받는 진정한 아이돌이 되는 것을 목표로 하고 있다.|춘향의 인자를 이용하여 가희를 모티브로 제조된 기사. 전투 등에는 흥미가 없으며、모두에게 사랑받는 진정한 아이돌이 되는 것을 목표로 하고 있다.|춘향의 인자를 이용하여 가희를 모티브로 제조된 기사. 전투 등에는 흥미가 없으며、모두에게 사랑받는 진정한 아이돌이 되는 것을 목표로 하고 있다.|춘향의 인자를 이용하여 가희를 모티브로 제조된 기사. 전투 등에는 흥미가 없으며、모두에게 사랑받는 진정한 아이돌이 되는 것을 목표로 하고 있다.|춘향의 인자를 이용하여 가희를 모티브로 제조된 기사. 전투 등에는 흥미가 없으며、모두에게 사랑받는 진정한 아이돌이 되는 것을 목표로 하고 있다.|춘향의 인자를 이용하여 가희를 모티브로 제조된 기사. 전투 등에는 흥미가 없으며、모두에게 사랑받는 진정한 아이돌이 되는 것을 목표로 하고 있다.|춘향의 인자를 이용하여 가희를 모티브로 제조된 기사. 전투 등에는 흥미가 없으며、모두에게 사랑받는 진정한 아이돌이 되는 것을 목표로 하고 있다.
 1015999|전체 공격형 증가 스킬로 아군을 저돌적으로 만드는 저스티스 GK-2의 파일럿|Pilot of Justice GK-2 that enhances all ally units with ATK increase buff skill.|澤斯提斯GK-2的飛行員，用全體攻擊型提升技能使我方變得勇猛。|Piloto de Justice GK-2 que mejora todas las unidades aliadas con un aumento de la habilidad de ventaja ATK.|Pilotin von Justice GK-2, die die ATK aller Einheiten von Verbündeten erhöht und die Buff-Fähigkeit verbessert.|Pilot Justice GK-2 yang meningkatkan semua unit sekutu dengan keterampilan serangan ATK naik.|ไพล็อตแห่งความยุติธรรม GK-2 ที่เพิ่มประสิทธิภาพของยูนิตพันธมิตรทั้งหมดด้วยสกิลเสริมที่ช่วยเพิ่ม ATK|Pilote de Justice GK-2 qui booste toutes les unités alliées avec une compétence d'amélioration qui augmente les capacités d'attaque.
 1018001|구름 설명|Cloud Info|小雲說明|Información de la nube|Cloud Info|Info Cloud|ข้อมูลของคลาวด์|Infos sur Cloud
 1018002|샤를 소브라주 설명|Charles Sobraju Info|夏洛·索布拉澤說明|Información de Charles Sobraju|Charles Sobraju Info|Info Charles Sobraju|ของมูลของชาร์ลส์ โซบราจู|Infos sur Charles Sobraju
@@ -7325,6 +7475,9 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 1025049|80개를 수집하면 류빙빙을 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 류빙빙을 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 류빙빙을 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 류빙빙을 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 류빙빙을 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 류빙빙을 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 류빙빙을 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 류빙빙을 영입 가능하며 또한 진급에도 사용됩니다.
 1025050|80개를 수집하면 람다를 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 람다를 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 람다를 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 람다를 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 람다를 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 람다를 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 람다를 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 람다를 영입 가능하며 또한 진급에도 사용됩니다.
 1025051|80개를 수집하면 케이트 스콧을 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 케이트 스콧을 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 케이트 스콧을 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 케이트 스콧을 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 케이트 스콧을 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 케이트 스콧을 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 케이트 스콧을 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 케이트 스콧을 영입 가능하며 또한 진급에도 사용됩니다.
+1025996|80개를 수집하면 카나리아를 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 카나리아를 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 카나리아를 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 카나리아를 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 카나리아를 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 카나리아를 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 카나리아를 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 카나리아를 영입 가능하며 또한 진급에도 사용됩니다.
+1025997|80개를 수집하면 브리샤를 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 브리샤를 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 브리샤를 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 브리샤를 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 브리샤를 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 브리샤를 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 브리샤를 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 브리샤를 영입 가능하며 또한 진급에도 사용됩니다.
+1025998|10개를 수집하면 춘향을 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 춘향을 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 춘향을 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 춘향을 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 춘향을 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 춘향을 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 춘향을 영입 가능하며 또한 진급에도 사용됩니다.|80개를 수집하면 춘향을 영입 가능하며 또한 진급에도 사용됩니다.
 1025999|80개를 수집하면 정 이나를 영입 가능하며 또한 진급에도 사용됩니다.|You can scout Ena if you collect 80, or use it to promote a pilot.|收集80個就可以招募鄭依娜，還可用於進階。|Puedes explorar Ena si juntas 80, o utilizarlo para promover un piloto.|Du kannst damit Ena auskundschaften, wenn du 80 sammelst, oder es verwenden, um einen Piloten zu befördern.|Kamu dapat mengintai Ena jika mengumpulkan 80, atau menggunakannya untuk mempromosikan pilot.|คุณสามารถสำรวจ เอน่า ได้หากคุณสะสมเหรียญตราครบ 80 อัน หรือใช้มันเพื่อเลื่อนยศไพล็อต|Vous pouvez utiliser Ena comme éclaireuse si vous collectez 80 unités, ou l'utiliser pour promouvoir un pilote.
 1035001|리프의 대표적인 공격형 유닛으로 아군 공격 버프에 특화되어 있다.|It is Leaf's leading attack unit, specially tuned to maximize ally's attack buff.|裏普的早期攻擊型戰鬥機甲的升級版本，專長是我方攻擊增益。|Es la unidad de ataque más importante de Leaf, adaptada especialmente para maximizar la ventaja de ataque del aliado.|Es ist der führende Angriff der Leaf-Einheit, speziell abgestimmt auf die Maximierung von Stärkungszaubern für Alliierte.|Ini adalah unit serangan utama Leaf, khusus dirancang untuk memaksimalkan penguat serangan sekutu.|มันเป็นยูนิตโจมตีชั้นนำของลีฟ ถูกปรับแต่งมาเพื่อเพิ่มการบัฟพลังโจมตีของพวกเดียวกันโดยเฉพาะ|C'est l'unité d'attaque principale de Leaf, spécialement réglée pour utiliser au mieux les améliorations de l'attaque des alliés.
 1035002|강력한 방어력과 함께 다양한 공격 스킬도 함께 가지고 있는 유닛.|It has powerful defense armor with various attack skills.|裏普的早期防禦型戰鬥機甲。|Tiene una poderosa armadura de defensa con diversas habilidades de ataque.|Sie verfügt über eine leistungsfähige Verteidigungsrüstung mit verschiedenen Angriffsfertigkeiten.|Dia memiliki senjata pertahanan yang kuat dengan berbagai keahlian serangan.|มันมีเกราะป้องกันอันแข็งแกร่ง พร้อมด้วยสกิลการโจมตีต่าง ๆ|Elle a une armure de défense puissante avec diverses compétences d'attaque.
@@ -7374,6 +7527,9 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 1035048|3개의 기체로 한명이 파일럿이 동시에 다양한 작전을 수행하기 위해 제작된 제국군 유닛|3개의 기체로 한명이 파일럿이 동시에 다양한 작전을 수행하기 위해 제작된 제국군 유닛|3개의 기체로 한명이 파일럿이 동시에 다양한 작전을 수행하기 위해 제작된 제국군 유닛|3개의 기체로 한명이 파일럿이 동시에 다양한 작전을 수행하기 위해 제작된 제국군 유닛|3개의 기체로 한명이 파일럿이 동시에 다양한 작전을 수행하기 위해 제작된 제국군 유닛|3개의 기체로 한명이 파일럿이 동시에 다양한 작전을 수행하기 위해 제작된 제국군 유닛|3개의 기체로 한명이 파일럿이 동시에 다양한 작전을 수행하기 위해 제작된 제국군 유닛|3개의 기체로 한명이 파일럿이 동시에 다양한 작전을 수행하기 위해 제작된 제국군 유닛
 1035049|강력한 에너지원이 있는 대검을 사용하여 적을 파괴하는 유닛|강력한 에너지원이 있는 대검을 사용하여 적을 파괴하는 유닛|강력한 에너지원이 있는 대검을 사용하여 적을 파괴하는 유닛|강력한 에너지원이 있는 대검을 사용하여 적을 파괴하는 유닛|강력한 에너지원이 있는 대검을 사용하여 적을 파괴하는 유닛|강력한 에너지원이 있는 대검을 사용하여 적을 파괴하는 유닛|강력한 에너지원이 있는 대검을 사용하여 적을 파괴하는 유닛|강력한 에너지원이 있는 대검을 사용하여 적을 파괴하는 유닛
 1035050|기체에 특수한 생체 기관을 탑재해 새로운 에너지로 적의 무기를 무력화 하는 유닛|기체에 특수한 생체 기관을 탑재해 새로운 에너지로 적의 무기를 무력화 하는 유닛|기체에 특수한 생체 기관을 탑재해 새로운 에너지로 적의 무기를 무력화 하는 유닛|기체에 특수한 생체 기관을 탑재해 새로운 에너지로 적의 무기를 무력화 하는 유닛|기체에 특수한 생체 기관을 탑재해 새로운 에너지로 적의 무기를 무력화 하는 유닛|기체에 특수한 생체 기관을 탑재해 새로운 에너지로 적의 무기를 무력화 하는 유닛|기체에 특수한 생체 기관을 탑재해 새로운 에너지로 적의 무기를 무력화 하는 유닛|기체에 특수한 생체 기관을 탑재해 새로운 에너지로 적의 무기를 무력화 하는 유닛
+1035996|고대부터 새장에 갇혀 있던 새의 인자를 추출해서 만든 기사|고대부터 새장에 갇혀 있던 새의 인자를 추출해서 만든 기사|고대부터 새장에 갇혀 있던 새의 인자를 추출해서 만든 기사|고대부터 새장에 갇혀 있던 새의 인자를 추출해서 만든 기사|고대부터 새장에 갇혀 있던 새의 인자를 추출해서 만든 기사|고대부터 새장에 갇혀 있던 새의 인자를 추출해서 만든 기사|고대부터 새장에 갇혀 있던 새의 인자를 추출해서 만든 기사|고대부터 새장에 갇혀 있던 새의 인자를 추출해서 만든 기사
+1035997|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN|UNKNOWN
+1035998|춘향의 인자를 이용하여 가희를 모티브로 제조된 기사. 전투 등에는 흥미가 없으며、모두에게 사랑받는 진정한 아이돌이 되는 것을 목표로 하고 있다.|춘향의 인자를 이용하여 가희를 모티브로 제조된 기사. 전투 등에는 흥미가 없으며、모두에게 사랑받는 진정한 아이돌이 되는 것을 목표로 하고 있다.|춘향의 인자를 이용하여 가희를 모티브로 제조된 기사. 전투 등에는 흥미가 없으며、모두에게 사랑받는 진정한 아이돌이 되는 것을 목표로 하고 있다.|춘향의 인자를 이용하여 가희를 모티브로 제조된 기사. 전투 등에는 흥미가 없으며、모두에게 사랑받는 진정한 아이돌이 되는 것을 목표로 하고 있다.|춘향의 인자를 이용하여 가희를 모티브로 제조된 기사. 전투 등에는 흥미가 없으며、모두에게 사랑받는 진정한 아이돌이 되는 것을 목표로 하고 있다.|춘향의 인자를 이용하여 가희를 모티브로 제조된 기사. 전투 등에는 흥미가 없으며、모두에게 사랑받는 진정한 아이돌이 되는 것을 목표로 하고 있다.|춘향의 인자를 이용하여 가희를 모티브로 제조된 기사. 전투 등에는 흥미가 없으며、모두에게 사랑받는 진정한 아이돌이 되는 것을 목표로 하고 있다.|춘향의 인자를 이용하여 가희를 모티브로 제조된 기사. 전투 등에는 흥미가 없으며、모두에게 사랑받는 진정한 아이돌이 되는 것을 목표로 하고 있다.
 1035999|리프의 대표적인 공격형 유닛으로 아군 공격 버프에 특화되어 있다.|It is Leaf's leading attack unit, specially tuned to ally's attack buff.|裏普代表性的攻擊型戰鬥機甲，專長是我方攻擊增益。  |Es la unidad de ataque más importante de Leaf, adaptada especialmente a la ventaja de ataque del aliado.|Es ist die führende Angriffseinheit von Leaf, speziell abgestimmt auf die Maximierung von Stärkungszaubern für Alliierte.|Ini adalah unit serangan utama Leaf, khusus dirancang untuk memperkuat serangan sekutu.|มันเป็นยูนิตโจมตีชั้นนำของลีฟ ปรับแต่งมาเพื่อบัฟพลังโจมตีของพวกเดียวกันโดยเฉพาะ|C'est l'unité d'attaque principale de Leaf, spécialement réglée pour améliorer l'attaque des alliés.
 1050011|자동 속사|Auto Firing|自動速射|Disparo automático|Auto-Feuern|Tembakan Otomatis|ยิงอัตโนมัติ|Tir automatique
 1050012|돌풍의 사격|Whirlwind Shot|疾風射擊|Tiro tipo torbellino|Whirlwind-Schuss|Tembakan Lesus|กระสุนลมกรด|Tourbillon
@@ -7567,6 +7723,18 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 1050502|파멸의 광선|파멸의 광선|파멸의 광선|파멸의 광선|파멸의 광선|파멸의 광선|파멸의 광선|파멸의 광선
 1050503|무기 분해 광선|무기 분해 광선|무기 분해 광선|무기 분해 광선|무기 분해 광선|무기 분해 광선|무기 분해 광선|무기 분해 광선
 1050504|생체 공명 에너지|생체 공명 에너지|생체 공명 에너지|생체 공명 에너지|생체 공명 에너지|생체 공명 에너지|생체 공명 에너지|생체 공명 에너지
+1059961|선물 던지기|선물 던지기|선물 던지기|선물 던지기|선물 던지기|선물 던지기|선물 던지기|선물 던지기
+1059962|단도 던지기|단도 던지기|단도 던지기|단도 던지기|단도 던지기|단도 던지기|단도 던지기|단도 던지기
+1059963|반격|반격|반격|반격|반격|반격|반격|반격
+1059964|칼날 갈기|칼날 갈기|칼날 갈기|칼날 갈기|칼날 갈기|칼날 갈기|칼날 갈기|칼날 갈기
+1059971|여우불|여우불|여우불|여우불|여우불|여우불|여우불|여우불
+1059972|방어의 구슬|방어의 구슬|방어의 구슬|방어의 구슬|방어의 구슬|방어의 구슬|방어의 구슬|방어의 구슬
+1059973|매혹의 구슬|매혹의 구슬|매혹의 구슬|매혹의 구슬|매혹의 구슬|매혹의 구슬|매혹의 구슬|매혹의 구슬
+1059974|정기 흡수|정기 흡수|정기 흡수|정기 흡수|정기 흡수|정기 흡수|정기 흡수|정기 흡수
+1059981|음파 강타|음파 강타|음파 강타|음파 강타|음파 강타|음파 강타|음파 강타|음파 강타
+1059982|랄랄랄랄라~어때? 완벽하지?|랄랄랄랄라~어때? 완벽하지?|랄랄랄랄라~어때? 완벽하지?|랄랄랄랄라~어때? 완벽하지?|랄랄랄랄라~어때? 완벽하지?|랄랄랄랄라~어때? 완벽하지?|랄랄랄랄라~어때? 완벽하지?|랄랄랄랄라~어때? 완벽하지?
+1059983|퓨어하트 샤이닝 스타|퓨어하트 샤이닝 스타|퓨어하트 샤이닝 스타|퓨어하트 샤이닝 스타|퓨어하트 샤이닝 스타|퓨어하트 샤이닝 스타|퓨어하트 샤이닝 스타|퓨어하트 샤이닝 스타
+1059984|이제부터야! |이제부터야! |이제부터야! |이제부터야! |이제부터야! |이제부터야! |이제부터야! |이제부터야! 
 1100101|후방에서 강력한 포격을 하기위해 만들어진 포격용 전차|This is artillery unit designed for shooting powerful shells from the rear.|可以在後方進行強大砲擊的暴擊專用戰車。|Esta es la unidad de artillería diseñada para disparar proyectiles de gran alcance desde la parte trasera.|Dies ist eine Artillerie-Einheit, die für das Schießen leistungsstarker Granaten aus dem Hinterhalt entwickelt wurde.|Ini adalah unit artileri yang dirancang untuk menembak lapisan penutup kuat dari belakang.|นี่คือยูนิตทหารปืนใหญ่ที่ออกแบบมาเพื่อยิงกระสุนปืนใหญ่อันรุนแรงจากด้านหลัง|Cette unité d'artillerie est conçue pour tirer des obus puissants de l'arrière.
 1100103|특수한 탄을 사용할 수 있게 제작된 전차로 붉은 색이 특징|This unit is designed to shoot special shells. It is red color.|可以使用特殊砲彈的紅色戰車。|Esta unidad está diseñada para disparar proyectiles especiales. Es de color rojo.|Diese Einheit wurde für das Schießen spezieller Granaten entwickelt. Es ist rote Farbe.|Unit ini dirancang untuk menembak lapisan penutup khusus. Ini adalah warna merah.|ยูนิตนี้ถูกออกแบบมาเพื่อยิงกระสุนปืนใหญ่แบบพิเศษ มันเป็นสีแดง|Cette unité est conçue pour tirer des obus spéciaux. Elle est de couleur rouge.
 1100104|패튼의 강화형으로 좀더 강력한 공격을 한다.|This unit is upgraded version of Patton. It has more powerful attack ability.|巴頓的強化型，可以進行更大的攻擊。|Esta unidad es la versión actualizada de Patton. Tiene una capacidad más poderosa de ataque.|Diese Einheit ist eine aufgerüstete Version von Patton. Sie hat eine stärkere Angriffsfähigkeit.|Unit ini adalah versi upgrade dari Patton. Dia punya kemampuan serangan yang lebih kuat.|ยูนิตนี้คือแพ็ตตันรุ่นอัพเกรด แต่ก็มีความสามารถในการโจมตีที่รุนแรงกว่า|Cette unité est la version améliorée du Patton. Elle possède une capacité d'attaque plus puissante.
@@ -7802,8 +7970,20 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr
 2050494|전투가 시작되면 자신의 공격력이 증가합니다.\n효과 : 자신의 공격력이 5턴간 증가\n\n+ {0:N}% 공격력 증가|전투가 시작되면 자신의 공격력이 증가합니다.\n효과 : 자신의 공격력이 5턴간 증가\n\n+ {0:N}% 공격력 증가|전투가 시작되면 자신의 공격력이 증가합니다.\n효과 : 자신의 공격력이 5턴간 증가\n\n+ {0:N}% 공격력 증가|전투가 시작되면 자신의 공격력이 증가합니다.\n효과 : 자신의 공격력이 5턴간 증가\n\n+ {0:N}% 공격력 증가|전투가 시작되면 자신의 공격력이 증가합니다.\n효과 : 자신의 공격력이 5턴간 증가\n\n+ {0:N}% 공격력 증가|전투가 시작되면 자신의 공격력이 증가합니다.\n효과 : 자신의 공격력이 5턴간 증가\n\n+ {0:N}% 공격력 증가|전투가 시작되면 자신의 공격력이 증가합니다.\n효과 : 자신의 공격력이 5턴간 증가\n\n+ {0:N}% 공격력 증가|전투가 시작되면 자신의 공격력이 증가합니다.\n효과 : 자신의 공격력이 5턴간 증가\n\n+ {0:N}% 공격력 증가
 2050501|생체 에너지로 가장 명중률이 높은 적을 공격합니다.\n효과 : 기본 공격력의 90% 데미지 및 2턴간 명중률 10% 감소\n\n+ {0:N0} 추가 데미지|생체 에너지로 가장 명중률이 높은 적을 공격합니다.\n효과 : 기본 공격력의 90% 데미지 및 2턴간 명중률 10% 감소\n\n+ {0:N0} 추가 데미지|생체 에너지로 가장 명중률이 높은 적을 공격합니다.\n효과 : 기본 공격력의 90% 데미지 및 2턴간 명중률 10% 감소\n\n+ {0:N0} 추가 데미지|생체 에너지로 가장 명중률이 높은 적을 공격합니다.\n효과 : 기본 공격력의 90% 데미지 및 2턴간 명중률 10% 감소\n\n+ {0:N0} 추가 데미지|생체 에너지로 가장 명중률이 높은 적을 공격합니다.\n효과 : 기본 공격력의 90% 데미지 및 2턴간 명중률 10% 감소\n\n+ {0:N0} 추가 데미지|생체 에너지로 가장 명중률이 높은 적을 공격합니다.\n효과 : 기본 공격력의 90% 데미지 및 2턴간 명중률 10% 감소\n\n+ {0:N0} 추가 데미지|생체 에너지로 가장 명중률이 높은 적을 공격합니다.\n효과 : 기본 공격력의 90% 데미지 및 2턴간 명중률 10% 감소\n\n+ {0:N0} 추가 데미지|생체 에너지로 가장 명중률이 높은 적을 공격합니다.\n효과 : 기본 공격력의 90% 데미지 및 2턴간 명중률 10% 감소\n\n+ {0:N0} 추가 데미지
 2050502|생체 에너지를 폭발 시켜 가장 명중률이 높은 적에게 다가가 강력한 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지|생체 에너지를 폭발 시켜 가장 명중률이 높은 적에게 다가가 강력한 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지|생체 에너지를 폭발 시켜 가장 명중률이 높은 적에게 다가가 강력한 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지|생체 에너지를 폭발 시켜 가장 명중률이 높은 적에게 다가가 강력한 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지|생체 에너지를 폭발 시켜 가장 명중률이 높은 적에게 다가가 강력한 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지|생체 에너지를 폭발 시켜 가장 명중률이 높은 적에게 다가가 강력한 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지|생체 에너지를 폭발 시켜 가장 명중률이 높은 적에게 다가가 강력한 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지|생체 에너지를 폭발 시켜 가장 명중률이 높은 적에게 다가가 강력한 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지
-2050503|대상과 대상 뒤에 있는 모든 유닛을 생체 에너지로 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지|대상과 대상 뒤에 있는 모든 유닛을 생체 에너지로 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지|대상과 대상 뒤에 있는 모든 유닛을 생체 에너지로 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지|대상과 대상 뒤에 있는 모든 유닛을 생체 에너지로 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지|대상과 대상 뒤에 있는 모든 유닛을 생체 에너지로 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지|대상과 대상 뒤에 있는 모든 유닛을 생체 에너지로 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지|대상과 대상 뒤에 있는 모든 유닛을 생체 에너지로 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지|대상과 대상 뒤에 있는 모든 유닛을 생체 에너지로 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지
+2050503|대상과 대상 뒤에 있는 모든 유닛을 생체 에너지로 공격을 합니다.\n효과 : 기본 공격력의 300% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지|대상과 대상 뒤에 있는 모든 유닛을 생체 에너지로 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지|대상과 대상 뒤에 있는 모든 유닛을 생체 에너지로 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지|대상과 대상 뒤에 있는 모든 유닛을 생체 에너지로 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지|대상과 대상 뒤에 있는 모든 유닛을 생체 에너지로 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지|대상과 대상 뒤에 있는 모든 유닛을 생체 에너지로 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지|대상과 대상 뒤에 있는 모든 유닛을 생체 에너지로 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지|대상과 대상 뒤에 있는 모든 유닛을 생체 에너지로 공격을 합니다.\n효과 : 기본 공격력의 450% 데미지 및 2턴간 명중률 30% 감소\n\n+ {0:N0} 추가 데미지
 2050504|체력이 30%이하로 떨어지면 생체 에너지를 공명 시켜 데미지를 흡수하는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수|체력이 30%이하로 떨어지면 생체 에너지를 공명 시켜 데미지를 흡수하는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수|체력이 30%이하로 떨어지면 생체 에너지를 공명 시켜 데미지를 흡수하는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수|체력이 30%이하로 떨어지면 생체 에너지를 공명 시켜 데미지를 흡수하는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수|체력이 30%이하로 떨어지면 생체 에너지를 공명 시켜 데미지를 흡수하는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수|체력이 30%이하로 떨어지면 생체 에너지를 공명 시켜 데미지를 흡수하는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수|체력이 30%이하로 떨어지면 생체 에너지를 공명 시켜 데미지를 흡수하는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수|체력이 30%이하로 떨어지면 생체 에너지를 공명 시켜 데미지를 흡수하는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수
+2059961|단일 적에게 폭탄 선울을 던져 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지|단일 적에게 폭탄 선울을 던져 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지|단일 적에게 폭탄 선울을 던져 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지|단일 적에게 폭탄 선울을 던져 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지|단일 적에게 폭탄 선울을 던져 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지|단일 적에게 폭탄 선울을 던져 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지|단일 적에게 폭탄 선울을 던져 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지|단일 적에게 폭탄 선울을 던져 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지
+2059962|단일 적에게 단도를 던져 공격합니다.\n효과 : 기본 공격력의 400% 데미지\n\n+ {0:N0} 추가 데미지|단일 적에게 단도를 던져 공격합니다.\n효과 : 기본 공격력의 400% 데미지\n\n+ {0:N0} 추가 데미지|단일 적에게 단도를 던져 공격합니다.\n효과 : 기본 공격력의 400% 데미지\n\n+ {0:N0} 추가 데미지|단일 적에게 단도를 던져 공격합니다.\n효과 : 기본 공격력의 400% 데미지\n\n+ {0:N0} 추가 데미지|단일 적에게 단도를 던져 공격합니다.\n효과 : 기본 공격력의 400% 데미지\n\n+ {0:N0} 추가 데미지|단일 적에게 단도를 던져 공격합니다.\n효과 : 기본 공격력의 400% 데미지\n\n+ {0:N0} 추가 데미지|단일 적에게 단도를 던져 공격합니다.\n효과 : 기본 공격력의 400% 데미지\n\n+ {0:N0} 추가 데미지|단일 적에게 단도를 던져 공격합니다.\n효과 : 기본 공격력의 400% 데미지\n\n+ {0:N0} 추가 데미지
+2059963|자신이 피격당하면 단도를 연속으로 3개를 던집니다.\n효과 : 기본 공격력의 350%의 데미지\n\n+ {0:N0} 추가 데미지|자신이 피격당하면 단도를 연속으로 3개를 던집니다.\n효과 : 기본 공격력의 350%의 데미지\n\n+ {0:N0} 추가 데미지|자신이 피격당하면 단도를 연속으로 3개를 던집니다.\n효과 : 기본 공격력의 350%의 데미지\n\n+ {0:N0} 추가 데미지|자신이 피격당하면 단도를 연속으로 3개를 던집니다.\n효과 : 기본 공격력의 350%의 데미지\n\n+ {0:N0} 추가 데미지|자신이 피격당하면 단도를 연속으로 3개를 던집니다.\n효과 : 기본 공격력의 350%의 데미지\n\n+ {0:N0} 추가 데미지|자신이 피격당하면 단도를 연속으로 3개를 던집니다.\n효과 : 기본 공격력의 350%의 데미지\n\n+ {0:N0} 추가 데미지|자신이 피격당하면 단도를 연속으로 3개를 던집니다.\n효과 : 기본 공격력의 350%의 데미지\n\n+ {0:N0} 추가 데미지|자신이 피격당하면 단도를 연속으로 3개를 던집니다.\n효과 : 기본 공격력의 350%의 데미지\n\n+ {0:N0} 추가 데미지
+2059964|전투가 시작되면 자신의 공격력이 증가합니다.\n효과 : 자신의 공격력이 5턴간 증가\n\n+ {0:N}% 공격력 증가|전투가 시작되면 자신의 공격력이 증가합니다.\n효과 : 자신의 공격력이 5턴간 증가\n\n+ {0:N}% 공격력 증가|전투가 시작되면 자신의 공격력이 증가합니다.\n효과 : 자신의 공격력이 5턴간 증가\n\n+ {0:N}% 공격력 증가|전투가 시작되면 자신의 공격력이 증가합니다.\n효과 : 자신의 공격력이 5턴간 증가\n\n+ {0:N}% 공격력 증가|전투가 시작되면 자신의 공격력이 증가합니다.\n효과 : 자신의 공격력이 5턴간 증가\n\n+ {0:N}% 공격력 증가|전투가 시작되면 자신의 공격력이 증가합니다.\n효과 : 자신의 공격력이 5턴간 증가\n\n+ {0:N}% 공격력 증가|전투가 시작되면 자신의 공격력이 증가합니다.\n효과 : 자신의 공격력이 5턴간 증가\n\n+ {0:N}% 공격력 증가|전투가 시작되면 자신의 공격력이 증가합니다.\n효과 : 자신의 공격력이 5턴간 증가\n\n+ {0:N}% 공격력 증가
+2059971|단일 적에게 3발의 불로 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지|단일 적에게 3발의 불로 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지|단일 적에게 3발의 불로 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지|단일 적에게 3발의 불로 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지|단일 적에게 3발의 불로 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지|단일 적에게 3발의 불로 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지|단일 적에게 3발의 불로 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지|단일 적에게 3발의 불로 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지
+2059972|주위를 돌던 여우 구슬이 적의 공격을 막아주는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수|주위를 돌던 여우 구슬이 적의 공격을 막아주는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수|주위를 돌던 여우 구슬이 적의 공격을 막아주는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수|주위를 돌던 여우 구슬이 적의 공격을 막아주는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수|주위를 돌던 여우 구슬이 적의 공격을 막아주는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수|주위를 돌던 여우 구슬이 적의 공격을 막아주는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수|주위를 돌던 여우 구슬이 적의 공격을 막아주는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수|주위를 돌던 여우 구슬이 적의 공격을 막아주는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수
+2059973|전투가 시작되면 공격력이 가장 높은 적을 여우구슬로 공격합니다.\n효과 : 기본 공격력의 280%의 데미지 및 공격당한 적은 2턴간 100% 확률로 도발\n\n+ {0:N0} 추가 데미지|전투가 시작되면 공격력이 가장 높은 적을 여우구슬로 공격합니다.\n효과 : 기본 공격력의 280%의 데미지 및 공격당한 적은 2턴간 100% 확률로 도발\n\n+ {0:N0} 추가 데미지|전투가 시작되면 공격력이 가장 높은 적을 여우구슬로 공격합니다.\n효과 : 기본 공격력의 280%의 데미지 및 공격당한 적은 2턴간 100% 확률로 도발\n\n+ {0:N0} 추가 데미지|전투가 시작되면 공격력이 가장 높은 적을 여우구슬로 공격합니다.\n효과 : 기본 공격력의 280%의 데미지 및 공격당한 적은 2턴간 100% 확률로 도발\n\n+ {0:N0} 추가 데미지|전투가 시작되면 공격력이 가장 높은 적을 여우구슬로 공격합니다.\n효과 : 기본 공격력의 280%의 데미지 및 공격당한 적은 2턴간 100% 확률로 도발\n\n+ {0:N0} 추가 데미지|전투가 시작되면 공격력이 가장 높은 적을 여우구슬로 공격합니다.\n효과 : 기본 공격력의 280%의 데미지 및 공격당한 적은 2턴간 100% 확률로 도발\n\n+ {0:N0} 추가 데미지|전투가 시작되면 공격력이 가장 높은 적을 여우구슬로 공격합니다.\n효과 : 기본 공격력의 280%의 데미지 및 공격당한 적은 2턴간 100% 확률로 도발\n\n+ {0:N0} 추가 데미지|전투가 시작되면 공격력이 가장 높은 적을 여우구슬로 공격합니다.\n효과 : 기본 공격력의 280%의 데미지 및 공격당한 적은 2턴간 100% 확률로 도발\n\n+ {0:N0} 추가 데미지
+2059974|체력이 30%이하로 떨어지면 자신의 체력을 회복합니다.\n효과 : 자신의 공격력의 100% 체력 회복 및 전투 종료까지 방어력이 30% 증가합니다.\n\n+ {0:N0} 추가 회복|체력이 30%이하로 떨어지면 자신의 체력을 회복합니다.\n효과 : 자신의 공격력의 100% 체력 회복 및 전투 종료까지 방어력이 30% 증가합니다.\n\n+ {0:N0} 추가 회복|체력이 30%이하로 떨어지면 자신의 체력을 회복합니다.\n효과 : 자신의 공격력의 100% 체력 회복 및 전투 종료까지 방어력이 30% 증가합니다.\n\n+ {0:N0} 추가 회복|체력이 30%이하로 떨어지면 자신의 체력을 회복합니다.\n효과 : 자신의 공격력의 100% 체력 회복 및 전투 종료까지 방어력이 30% 증가합니다.\n\n+ {0:N0} 추가 회복|체력이 30%이하로 떨어지면 자신의 체력을 회복합니다.\n효과 : 자신의 공격력의 100% 체력 회복 및 전투 종료까지 방어력이 30% 증가합니다.\n\n+ {0:N0} 추가 회복|체력이 30%이하로 떨어지면 자신의 체력을 회복합니다.\n효과 : 자신의 공격력의 100% 체력 회복 및 전투 종료까지 방어력이 30% 증가합니다.\n\n+ {0:N0} 추가 회복|체력이 30%이하로 떨어지면 자신의 체력을 회복합니다.\n효과 : 자신의 공격력의 100% 체력 회복 및 전투 종료까지 방어력이 30% 증가합니다.\n\n+ {0:N0} 추가 회복|체력이 30%이하로 떨어지면 자신의 체력을 회복합니다.\n효과 : 자신의 공격력의 100% 체력 회복 및 전투 종료까지 방어력이 30% 증가합니다.\n\n+ {0:N0} 추가 회복
+2059981|마이크에 노래를 부르면 음파가 발생되어 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지|마이크에 노래를 부르면 음파가 발생되어 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지|마이크에 노래를 부르면 음파가 발생되어 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지|마이크에 노래를 부르면 음파가 발생되어 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지|마이크에 노래를 부르면 음파가 발생되어 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지|마이크에 노래를 부르면 음파가 발생되어 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지|마이크에 노래를 부르면 음파가 발생되어 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지|마이크에 노래를 부르면 음파가 발생되어 공격합니다.\n효과 : 기본 공격력의 100% 데미지\n\n+ {0:N0} 추가 데미지
+2059982|전투중인 모든 아군을 치유하며 공격력을 상승시킵니다.\n효과 : 기본 공격력의 100% 체력 회복 및 공격력이 2턴간 20% 증가합니다.\n\n+ {0:N0} 추가 회복|전투중인 모든 아군을 치유하며 공격력을 상승시킵니다.\n효과 : 기본 공격력의 100% 체력 회복 및 공격력이 2턴간 20% 증가합니다.\n\n+ {0:N0} 추가 회복|전투중인 모든 아군을 치유하며 공격력을 상승시킵니다.\n효과 : 기본 공격력의 100% 체력 회복 및 공격력이 2턴간 20% 증가합니다.\n\n+ {0:N0} 추가 회복|전투중인 모든 아군을 치유하며 공격력을 상승시킵니다.\n효과 : 기본 공격력의 100% 체력 회복 및 공격력이 2턴간 20% 증가합니다.\n\n+ {0:N0} 추가 회복|전투중인 모든 아군을 치유하며 공격력을 상승시킵니다.\n효과 : 기본 공격력의 100% 체력 회복 및 공격력이 2턴간 20% 증가합니다.\n\n+ {0:N0} 추가 회복|전투중인 모든 아군을 치유하며 공격력을 상승시킵니다.\n효과 : 기본 공격력의 100% 체력 회복 및 공격력이 2턴간 20% 증가합니다.\n\n+ {0:N0} 추가 회복|전투중인 모든 아군을 치유하며 공격력을 상승시킵니다.\n효과 : 기본 공격력의 100% 체력 회복 및 공격력이 2턴간 20% 증가합니다.\n\n+ {0:N0} 추가 회복|전투중인 모든 아군을 치유하며 공격력을 상승시킵니다.\n효과 : 기본 공격력의 100% 체력 회복 및 공격력이 2턴간 20% 증가합니다.\n\n+ {0:N0} 추가 회복
+2059983|전투가 시작되면 자신의 스킬게이지를 증가 스킬을 사용합니다.\n효과 : 자신의 스킬게이지가 증가\n\n+ {0:N0} 스킬게이지 증가|전투가 시작되면 자신의 스킬게이지를 증가 스킬을 사용합니다.\n효과 : 자신의 스킬게이지가 증가\n\n+ {0:N0} 스킬게이지 증가|전투가 시작되면 자신의 스킬게이지를 증가 스킬을 사용합니다.\n효과 : 자신의 스킬게이지가 증가\n\n+ {0:N0} 스킬게이지 증가|전투가 시작되면 자신의 스킬게이지를 증가 스킬을 사용합니다.\n효과 : 자신의 스킬게이지가 증가\n\n+ {0:N0} 스킬게이지 증가|전투가 시작되면 자신의 스킬게이지를 증가 스킬을 사용합니다.\n효과 : 자신의 스킬게이지가 증가\n\n+ {0:N0} 스킬게이지 증가|전투가 시작되면 자신의 스킬게이지를 증가 스킬을 사용합니다.\n효과 : 자신의 스킬게이지가 증가\n\n+ {0:N0} 스킬게이지 증가|전투가 시작되면 자신의 스킬게이지를 증가 스킬을 사용합니다.\n효과 : 자신의 스킬게이지가 증가\n\n+ {0:N0} 스킬게이지 증가|전투가 시작되면 자신의 스킬게이지를 증가 스킬을 사용합니다.\n효과 : 자신의 스킬게이지가 증가\n\n+ {0:N0} 스킬게이지 증가
+2059984|체력이 30%이하로 떨어지면 아군 전체에게 데미지를 흡수하는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수|체력이 30%이하로 떨어지면 아군 전체에게 데미지를 흡수하는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수|체력이 30%이하로 떨어지면 아군 전체에게 데미지를 흡수하는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수|체력이 30%이하로 떨어지면 아군 전체에게 데미지를 흡수하는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수|체력이 30%이하로 떨어지면 아군 전체에게 데미지를 흡수하는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수|체력이 30%이하로 떨어지면 아군 전체에게 데미지를 흡수하는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수|체력이 30%이하로 떨어지면 아군 전체에게 데미지를 흡수하는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수|체력이 30%이하로 떨어지면 아군 전체에게 데미지를 흡수하는 방어막을 생성합니다.\n효과 : 데미지를 흡수하는 방어막을 생성\n\n+ {0:N0} 추가 데미지 흡수
 3000001|유닛 코어|Unit Core|戰鬥機甲核心|Núcleo de la unidad|Kerneinheit|Unit Inti|แกนยูนิต|Essence d'unité
 3000002|강화 유닛 코어|Upgraded Unit Core|中級戰鬥機甲核心|Núcleo unitario actualizado|Verbesserte Kerneinheit|Inti Unit yang Sudah Upgrade|แกนยูนิตที่ปรับปรุงแล้ว|Essence d'unité améliorée
 3000003|고급 유닛 코어|High Grade Unit Core|高級戰鬥機甲核心|Núcleo unitario de alto grado|High-Grade Kerneinheit|Inti Unit Grade Tinggi|แกนยูนิตเกรดสูง|Essence d'unité de haute qualité
