@@ -13,7 +13,7 @@
       0
     ],
     "nexttime": [
-      120,
+      180,
       0,
       0
     ],
@@ -29,7 +29,7 @@
     "symbol": 110120,
     "stageType": 1,
     "positionx": 227,
-    "positiony": 188,
+    "positiony": 242,
     "crossRoads": 2,
     "next": [
       5,
@@ -37,14 +37,14 @@
       0
     ],
     "nexttime": [
-      120,
-      120,
+      180,
+      180,
       0
     ],
     "oPoint": 10,
-    "rewardType": 1,
-    "rewardIdx": 4,
-    "rewardCount": 100,
+    "rewardType": 4,
+    "rewardIdx": 104,
+    "rewardCount": 1,
     "building": "map_stage_research01"
   },
   {
@@ -53,7 +53,7 @@
     "symbol": 110121,
     "stageType": 1,
     "positionx": 365,
-    "positiony": 334,
+    "positiony": 422,
     "crossRoads": 2,
     "next": [
       4,
@@ -61,14 +61,14 @@
       0
     ],
     "nexttime": [
-      120,
-      120,
+      180,
+      180,
       0
     ],
     "oPoint": 10,
-    "rewardType": 1,
-    "rewardIdx": 4,
-    "rewardCount": 100,
+    "rewardType": 4,
+    "rewardIdx": 104,
+    "rewardCount": 1,
     "building": "map_stage_research01"
   },
   {
@@ -77,7 +77,7 @@
     "symbol": 110122,
     "stageType": 1,
     "positionx": 312,
-    "positiony": 537,
+    "positiony": 585,
     "crossRoads": 2,
     "next": [
       7,
@@ -85,14 +85,14 @@
       0
     ],
     "nexttime": [
-      120,
-      120,
+      180,
+      180,
       0
     ],
     "oPoint": 10,
-    "rewardType": 1,
-    "rewardIdx": 4,
-    "rewardCount": 100,
+    "rewardType": 4,
+    "rewardIdx": 104,
+    "rewardCount": 1,
     "building": "map_stage_research01"
   },
   {
@@ -101,7 +101,7 @@
     "symbol": 110123,
     "stageType": 1,
     "positionx": 469,
-    "positiony": 175,
+    "positiony": 235,
     "crossRoads": 3,
     "next": [
       8,
@@ -109,14 +109,14 @@
       2
     ],
     "nexttime": [
-      120,
-      120,
-      120
+      180,
+      180,
+      180
     ],
     "oPoint": 10,
-    "rewardType": 1,
-    "rewardIdx": 4,
-    "rewardCount": 100,
+    "rewardType": 4,
+    "rewardIdx": 104,
+    "rewardCount": 1,
     "building": "map_stage_research02"
   },
   {
@@ -125,7 +125,7 @@
     "symbol": 110124,
     "stageType": 1,
     "positionx": 575,
-    "positiony": 362,
+    "positiony": 413,
     "crossRoads": 2,
     "next": [
       7,
@@ -133,14 +133,14 @@
       0
     ],
     "nexttime": [
-      120,
-      120,
+      180,
+      180,
       0
     ],
     "oPoint": 10,
-    "rewardType": 1,
-    "rewardIdx": 4,
-    "rewardCount": 100,
+    "rewardType": 4,
+    "rewardIdx": 104,
+    "rewardCount": 1,
     "building": "map_stage_research02"
   },
   {
@@ -149,7 +149,7 @@
     "symbol": 110125,
     "stageType": 1,
     "positionx": 557,
-    "positiony": 554,
+    "positiony": 594,
     "crossRoads": 3,
     "next": [
       9,
@@ -157,14 +157,14 @@
       4
     ],
     "nexttime": [
-      120,
-      120,
-      120
+      180,
+      180,
+      180
     ],
     "oPoint": 10,
-    "rewardType": 1,
-    "rewardIdx": 4,
-    "rewardCount": 100,
+    "rewardType": 4,
+    "rewardIdx": 104,
+    "rewardCount": 1,
     "building": "map_stage_research02"
   },
   {
@@ -173,7 +173,7 @@
     "symbol": 110126,
     "stageType": 1,
     "positionx": 703,
-    "positiony": 177,
+    "positiony": 316,
     "crossRoads": 2,
     "next": [
       10,
@@ -181,14 +181,14 @@
       0
     ],
     "nexttime": [
-      120,
-      120,
+      180,
+      180,
       0
     ],
     "oPoint": 10,
-    "rewardType": 1,
-    "rewardIdx": 4,
-    "rewardCount": 100,
+    "rewardType": 4,
+    "rewardIdx": 104,
+    "rewardCount": 1,
     "building": "map_stage_research03"
   },
   {
@@ -197,7 +197,7 @@
     "symbol": 110127,
     "stageType": 1,
     "positionx": 752,
-    "positiony": 480,
+    "positiony": 582,
     "crossRoads": 2,
     "next": [
       11,
@@ -205,14 +205,14 @@
       0
     ],
     "nexttime": [
-      120,
-      120,
+      180,
+      180,
       0
     ],
     "oPoint": 10,
-    "rewardType": 1,
-    "rewardIdx": 4,
-    "rewardCount": 100,
+    "rewardType": 4,
+    "rewardIdx": 104,
+    "rewardCount": 1,
     "building": "map_stage_research03"
   },
   {
@@ -229,14 +229,14 @@
       8
     ],
     "nexttime": [
-      120,
-      120,
-      120
+      180,
+      180,
+      180
     ],
     "oPoint": 10,
-    "rewardType": 1,
-    "rewardIdx": 4,
-    "rewardCount": 100,
+    "rewardType": 4,
+    "rewardIdx": 104,
+    "rewardCount": 1,
     "building": "map_stage_research03"
   },
   {
@@ -253,14 +253,14 @@
       9
     ],
     "nexttime": [
-      120,
-      120,
-      120
+      180,
+      180,
+      180
     ],
     "oPoint": 10,
-    "rewardType": 1,
-    "rewardIdx": 4,
-    "rewardCount": 100,
+    "rewardType": 4,
+    "rewardIdx": 104,
+    "rewardCount": 1,
     "building": "map_stage_research03"
   },
   {
@@ -268,8 +268,8 @@
     "s_idx": 110156,
     "symbol": 110130,
     "stageType": 1,
-    "positionx": 1154,
-    "positiony": 316,
+    "positionx": 1104,
+    "positiony": 177,
     "crossRoads": 2,
     "next": [
       14,
@@ -277,14 +277,14 @@
       0
     ],
     "nexttime": [
-      120,
-      120,
+      180,
+      180,
       0
     ],
     "oPoint": 10,
-    "rewardType": 1,
-    "rewardIdx": 4,
-    "rewardCount": 100,
+    "rewardType": 4,
+    "rewardIdx": 104,
+    "rewardCount": 1,
     "building": "map_stage_research03"
   },
   {
@@ -292,8 +292,8 @@
     "s_idx": 110157,
     "symbol": 110131,
     "stageType": 1,
-    "positionx": 1225,
-    "positiony": 582,
+    "positionx": 1175,
+    "positiony": 480,
     "crossRoads": 2,
     "next": [
       16,
@@ -301,14 +301,14 @@
       0
     ],
     "nexttime": [
-      120,
-      120,
+      180,
+      180,
       0
     ],
     "oPoint": 10,
-    "rewardType": 1,
-    "rewardIdx": 4,
-    "rewardCount": 100,
+    "rewardType": 4,
+    "rewardIdx": 104,
+    "rewardCount": 1,
     "building": "map_stage_research03"
   },
   {
@@ -317,7 +317,7 @@
     "symbol": 110132,
     "stageType": 1,
     "positionx": 1336,
-    "positiony": 235,
+    "positiony": 175,
     "crossRoads": 3,
     "next": [
       17,
@@ -325,14 +325,14 @@
       12
     ],
     "nexttime": [
-      120,
-      120,
-      120
+      180,
+      180,
+      180
     ],
     "oPoint": 10,
-    "rewardType": 1,
-    "rewardIdx": 4,
-    "rewardCount": 100,
+    "rewardType": 4,
+    "rewardIdx": 104,
+    "rewardCount": 1,
     "building": "map_stage_research02"
   },
   {
@@ -341,7 +341,7 @@
     "symbol": 110133,
     "stageType": 1,
     "positionx": 1327,
-    "positiony": 413,
+    "positiony": 362,
     "crossRoads": 2,
     "next": [
       16,
@@ -349,14 +349,14 @@
       0
     ],
     "nexttime": [
-      120,
-      120,
+      180,
+      180,
       0
     ],
     "oPoint": 10,
-    "rewardType": 1,
-    "rewardIdx": 4,
-    "rewardCount": 100,
+    "rewardType": 4,
+    "rewardIdx": 104,
+    "rewardCount": 1,
     "building": "map_stage_research02"
   },
   {
@@ -365,7 +365,7 @@
     "symbol": 110134,
     "stageType": 1,
     "positionx": 1427,
-    "positiony": 594,
+    "positiony": 554,
     "crossRoads": 3,
     "next": [
       19,
@@ -373,14 +373,14 @@
       13
     ],
     "nexttime": [
-      120,
-      120,
-      120
+      180,
+      180,
+      180
     ],
     "oPoint": 10,
-    "rewardType": 1,
-    "rewardIdx": 4,
-    "rewardCount": 100,
+    "rewardType": 4,
+    "rewardIdx": 104,
+    "rewardCount": 1,
     "building": "map_stage_research02"
   },
   {
@@ -389,7 +389,7 @@
     "symbol": 110135,
     "stageType": 1,
     "positionx": 1562,
-    "positiony": 242,
+    "positiony": 188,
     "crossRoads": 2,
     "next": [
       18,
@@ -397,14 +397,14 @@
       0
     ],
     "nexttime": [
-      120,
-      120,
+      180,
+      180,
       0
     ],
     "oPoint": 10,
-    "rewardType": 1,
-    "rewardIdx": 4,
-    "rewardCount": 100,
+    "rewardType": 4,
+    "rewardIdx": 104,
+    "rewardCount": 1,
     "building": "map_stage_research01"
   },
   {
@@ -413,7 +413,7 @@
     "symbol": 110136,
     "stageType": 1,
     "positionx": 1519,
-    "positiony": 422,
+    "positiony": 334,
     "crossRoads": 3,
     "next": [
       19,
@@ -421,14 +421,14 @@
       0
     ],
     "nexttime": [
-      120,
-      120,
+      180,
+      180,
       0
     ],
     "oPoint": 10,
-    "rewardType": 1,
-    "rewardIdx": 4,
-    "rewardCount": 100,
+    "rewardType": 4,
+    "rewardIdx": 104,
+    "rewardCount": 1,
     "building": "map_stage_research01"
   },
   {
@@ -437,7 +437,7 @@
     "symbol": 110137,
     "stageType": 1,
     "positionx": 1666,
-    "positiony": 585,
+    "positiony": 537,
     "crossRoads": 2,
     "next": [
       18,
@@ -445,14 +445,14 @@
       0
     ],
     "nexttime": [
-      120,
-      120,
+      180,
+      180,
       0
     ],
     "oPoint": 10,
-    "rewardType": 1,
-    "rewardIdx": 4,
-    "rewardCount": 100,
+    "rewardType": 4,
+    "rewardIdx": 104,
+    "rewardCount": 1,
     "building": "map_stage_research01"
   },
   {
@@ -469,7 +469,7 @@
       0
     ],
     "nexttime": [
-      120,
+      180,
       0,
       0
     ],

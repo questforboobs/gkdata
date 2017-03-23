@@ -177,23 +177,23 @@
   },
   {
     "key": "GUILD_OCCUPY_DEFEAT_REWARD",
-    "value": 174
+    "value": "103"
   },
   {
     "key": "GUILD_OCCUPY_DEFEAT_SCORE",
-    "value": -3
+    "value": "-25"
   },
   {
     "key": "GUILD_OCCUPY_LEVEL",
-    "value": "1"
+    "value": "2"
   },
   {
     "key": "GUILD_OCCUPY_PREMIUM_TEAM",
-    "value": "1"
+    "value": "2"
   },
   {
     "key": "GUILD_OCCUPY_PREMIUM_TEAM_PRICE",
-    "value": "2"
+    "value": "10"
   },
   {
     "key": "GUILD_OCCUPY_QUICKMOVE",
@@ -201,23 +201,23 @@
   },
   {
     "key": "GUILD_OCCUPY_QUICKMOVE_PRICE",
-    "value": "1"
+    "value": "20"
   },
   {
     "key": "GUILD_OCCUPY_RADAR_DELAY",
-    "value": "300"
+    "value": "60"
   },
   {
     "key": "GUILD_OCCUPY_RADAR_PRICE",
-    "value": "3"
+    "value": "15"
   },
   {
     "key": "GUILD_OCCUPY_RADAR_REFRESH_DELAY",
-    "value": "10"
+    "value": "3"
   },
   {
     "key": "GUILD_OCCUPY_REFRESH_DELAY",
-    "value": "5"
+    "value": "3"
   },
   {
     "key": "GUILD_OCCUPY_TEAM",
@@ -229,19 +229,19 @@
   },
   {
     "key": "GUILD_OCCUPY_TIE_REWARD",
-    "value": 173
+    "value": "102"
   },
   {
     "key": "GUILD_OCCUPY_TIE_SCORE",
-    "value": 5
+    "value": "15"
   },
   {
     "key": "GUILD_OCCUPY_VICTORY_REWARD",
-    "value": 172
+    "value": "101"
   },
   {
     "key": "GUILD_OCCUPY_VICTORY_SCORE",
-    "value": 10
+    "value": "50"
   },
   {
     "key": "GUILD_POINT_DAILY_MAX",
@@ -356,22 +356,6 @@
     "value": "100"
   },
   {
-    "key": "VIP_GACHA_CASH",
-    "value": "800"
-  },
-  {
-    "key": "VIP_GACHA_COUNT",
-    "value": "10"
-  },
-  {
-    "key": "VIP_GACHA_RESET_TIME",
-    "value": "14"
-  },
-  {
-    "key": "VIP_GACHA_STATS_TIME",
-    "value": "05:00:00"
-  },
-  {
     "key": "VIPGRADE_ANNIHILATE_RESET",
     "value": 11
   },
@@ -394,6 +378,22 @@
   {
     "key": "VIPGRADE_GACHA_FREE_PREMIUM_TIME",
     "value": "86400"
+  },
+  {
+    "key": "VIP_GACHA_CASH",
+    "value": "800"
+  },
+  {
+    "key": "VIP_GACHA_COUNT",
+    "value": "10"
+  },
+  {
+    "key": "VIP_GACHA_RESET_TIME",
+    "value": "14"
+  },
+  {
+    "key": "VIP_GACHA_STATS_TIME",
+    "value": "05:00:00"
   },
   {
     "key": "WARROOM_CLEAR_MAX_COUNT",
