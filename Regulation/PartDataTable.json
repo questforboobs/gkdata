@@ -1330,5 +1330,14 @@
     "max": 99999,
     "description": 4346,
     "storage": 1
+  },
+  {
+    "type": 20007,
+    "grade": 1,
+    "name": 4347,
+    "serverFieldName": "event_icon05",
+    "max": 99999,
+    "description": 4348,
+    "storage": 1
   }
 ]

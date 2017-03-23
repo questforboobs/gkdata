@@ -1782,6 +1782,24 @@
     "stat3": 0
   },
   {
+    "ctid": 56001,
+    "cid": 56,
+    "name": 40001,
+    "Desc": 42001,
+    "sell": 0,
+    "gid": 0,
+    "sellPrice": 0,
+    "atlasNumber": 1,
+    "skinName": 1,
+    "order": 1,
+    "statType1": 0,
+    "stat1": 0,
+    "statType2": 0,
+    "stat2": 0,
+    "statType3": 0,
+    "stat3": 0
+  },
+  {
     "ctid": 996001,
     "cid": 996,
     "name": 40001,
