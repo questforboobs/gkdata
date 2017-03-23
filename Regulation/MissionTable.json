@@ -120,6 +120,18 @@
     "VipCount": 0
   },
   {
+    "idx": 23,
+    "level": 35,
+    "startTime": "0",
+    "endTime": "0",
+    "count": 5,
+    "description": 6125,
+    "link": "WaveDuel",
+    "icon": "icon_mission_23",
+    "title": 14033,
+    "VipCount": 0
+  },
+  {
     "idx": 100,
     "level": 1,
     "startTime": "08:00",

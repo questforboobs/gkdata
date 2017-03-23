@@ -1339,5 +1339,77 @@
     "max": 99999,
     "description": 4348,
     "storage": 1
+  },
+  {
+    "type": 30001,
+    "grade": 1,
+    "name": 5010401,
+    "serverFieldName": "icon_innocent_01",
+    "max": 99999,
+    "description": 5010411,
+    "storage": 1
+  },
+  {
+    "type": 30002,
+    "grade": 1,
+    "name": 5010402,
+    "serverFieldName": "icon_innocent_02",
+    "max": 99999,
+    "description": 5010412,
+    "storage": 1
+  },
+  {
+    "type": 30003,
+    "grade": 1,
+    "name": 5010403,
+    "serverFieldName": "icon_innocent_03",
+    "max": 99999,
+    "description": 5010413,
+    "storage": 1
+  },
+  {
+    "type": 30004,
+    "grade": 1,
+    "name": 5010404,
+    "serverFieldName": "icon_innocent_04",
+    "max": 99999,
+    "description": 5010414,
+    "storage": 1
+  },
+  {
+    "type": 40001,
+    "grade": 1,
+    "name": 5020401,
+    "serverFieldName": "icon_extraterrestrial_01",
+    "max": 99999,
+    "description": 5020411,
+    "storage": 1
+  },
+  {
+    "type": 40002,
+    "grade": 1,
+    "name": 5020402,
+    "serverFieldName": "icon_extraterrestrial_02",
+    "max": 99999,
+    "description": 5020412,
+    "storage": 1
+  },
+  {
+    "type": 40003,
+    "grade": 1,
+    "name": 5020403,
+    "serverFieldName": "icon_extraterrestrial_03",
+    "max": 99999,
+    "description": 5020413,
+    "storage": 1
+  },
+  {
+    "type": 40004,
+    "grade": 1,
+    "name": 5020404,
+    "serverFieldName": "icon_extraterrestrial_04",
+    "max": 99999,
+    "description": 5020414,
+    "storage": 1
   }
 ]

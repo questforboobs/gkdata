@@ -2117,5 +2117,18 @@
     "startLevel": 1,
     "endLevel": 100,
     "etc": 0
+  },
+  {
+    "idx": 164,
+    "name": 27262,
+    "sort": 15,
+    "Type": 14,
+    "startDate": "2017-02-28",
+    "startTime": "00:00:00",
+    "endDate": "2018-02-28",
+    "endTime": "00:00:00",
+    "startLevel": 1,
+    "endLevel": 100,
+    "etc": 0
   }
 ]
