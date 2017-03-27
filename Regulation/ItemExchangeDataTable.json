@@ -311,8 +311,8 @@
     "position1": 193,
     "navigatortype2": 1,
     "position2": 203,
-    "navigatortype3": 0,
-    "position3": 0
+    "navigatortype3": 1,
+    "position3": 258
   },
   {
     "idx": 115,
@@ -716,6 +716,21 @@
     "position1": 233,
     "navigatortype2": 1,
     "position2": 243,
+    "navigatortype3": 0,
+    "position3": 0
+  },
+  {
+    "idx": 153,
+    "type": 2,
+    "typeidx": 51,
+    "display": 2,
+    "pricetype": 1,
+    "pricetypeidx": 4,
+    "price": 500,
+    "navigatortype1": 1,
+    "position1": 253,
+    "navigatortype2": 1,
+    "position2": 263,
     "navigatortype3": 0,
     "position3": 0
   },
@@ -2874,8 +2889,8 @@
     "price": 250,
     "navigatortype1": 8,
     "position1": 12,
-    "navigatortype2": 0,
-    "position2": 0,
+    "navigatortype2": 8,
+    "position2": 13,
     "navigatortype3": 0,
     "position3": 0
   },
@@ -2917,8 +2932,8 @@
     "pricetype": 1,
     "pricetypeidx": 4,
     "price": 250,
-    "navigatortype1": 7,
-    "position1": 0,
+    "navigatortype1": 8,
+    "position1": 13,
     "navigatortype2": 0,
     "position2": 0,
     "navigatortype3": 0,
@@ -2996,8 +3011,8 @@
     "position1": 207,
     "navigatortype2": 1,
     "position2": 227,
-    "navigatortype3": 0,
-    "position3": 0
+    "navigatortype3": 1,
+    "position3": 247
   },
   {
     "idx": 311,
@@ -3071,8 +3086,8 @@
     "position1": 205,
     "navigatortype2": 1,
     "position2": 225,
-    "navigatortype3": 0,
-    "position3": 0
+    "navigatortype3": 1,
+    "position3": 245
   },
   {
     "idx": 315,
@@ -3146,8 +3161,8 @@
     "position1": 206,
     "navigatortype2": 1,
     "position2": 226,
-    "navigatortype3": 0,
-    "position3": 0
+    "navigatortype3": 1,
+    "position3": 246
   },
   {
     "idx": 324,
