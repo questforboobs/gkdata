@@ -1,0 +1,275 @@
+[
+  {
+    "idx": 2011,
+    "worldMap": 1,
+    "minClass": 1,
+    "searchTime": 1,
+    "searchExp": 50
+  },
+  {
+    "idx": 2012,
+    "worldMap": 1,
+    "minClass": 1,
+    "searchTime": 6,
+    "searchExp": 300
+  },
+  {
+    "idx": 2013,
+    "worldMap": 1,
+    "minClass": 1,
+    "searchTime": 12,
+    "searchExp": 600
+  },
+  {
+    "idx": 2021,
+    "worldMap": 2,
+    "minClass": 1,
+    "searchTime": 1,
+    "searchExp": 100
+  },
+  {
+    "idx": 2022,
+    "worldMap": 2,
+    "minClass": 1,
+    "searchTime": 6,
+    "searchExp": 600
+  },
+  {
+    "idx": 2023,
+    "worldMap": 2,
+    "minClass": 1,
+    "searchTime": 12,
+    "searchExp": 1200
+  },
+  {
+    "idx": 2031,
+    "worldMap": 3,
+    "minClass": 2,
+    "searchTime": 1,
+    "searchExp": 150
+  },
+  {
+    "idx": 2032,
+    "worldMap": 3,
+    "minClass": 2,
+    "searchTime": 6,
+    "searchExp": 900
+  },
+  {
+    "idx": 2033,
+    "worldMap": 3,
+    "minClass": 2,
+    "searchTime": 12,
+    "searchExp": 1800
+  },
+  {
+    "idx": 2041,
+    "worldMap": 4,
+    "minClass": 4,
+    "searchTime": 1,
+    "searchExp": 200
+  },
+  {
+    "idx": 2042,
+    "worldMap": 4,
+    "minClass": 4,
+    "searchTime": 6,
+    "searchExp": 1200
+  },
+  {
+    "idx": 2043,
+    "worldMap": 4,
+    "minClass": 4,
+    "searchTime": 12,
+    "searchExp": 2400
+  },
+  {
+    "idx": 2051,
+    "worldMap": 5,
+    "minClass": 5,
+    "searchTime": 1,
+    "searchExp": 250
+  },
+  {
+    "idx": 2052,
+    "worldMap": 5,
+    "minClass": 5,
+    "searchTime": 6,
+    "searchExp": 1500
+  },
+  {
+    "idx": 2053,
+    "worldMap": 5,
+    "minClass": 5,
+    "searchTime": 12,
+    "searchExp": 3000
+  },
+  {
+    "idx": 2061,
+    "worldMap": 6,
+    "minClass": 6,
+    "searchTime": 1,
+    "searchExp": 300
+  },
+  {
+    "idx": 2062,
+    "worldMap": 6,
+    "minClass": 6,
+    "searchTime": 6,
+    "searchExp": 1800
+  },
+  {
+    "idx": 2063,
+    "worldMap": 6,
+    "minClass": 6,
+    "searchTime": 12,
+    "searchExp": 3600
+  },
+  {
+    "idx": 2071,
+    "worldMap": 7,
+    "minClass": 7,
+    "searchTime": 1,
+    "searchExp": 350
+  },
+  {
+    "idx": 2072,
+    "worldMap": 7,
+    "minClass": 7,
+    "searchTime": 6,
+    "searchExp": 2100
+  },
+  {
+    "idx": 2073,
+    "worldMap": 7,
+    "minClass": 7,
+    "searchTime": 12,
+    "searchExp": 4200
+  },
+  {
+    "idx": 2081,
+    "worldMap": 8,
+    "minClass": 8,
+    "searchTime": 1,
+    "searchExp": 400
+  },
+  {
+    "idx": 2082,
+    "worldMap": 8,
+    "minClass": 8,
+    "searchTime": 6,
+    "searchExp": 2400
+  },
+  {
+    "idx": 2083,
+    "worldMap": 8,
+    "minClass": 8,
+    "searchTime": 12,
+    "searchExp": 4800
+  },
+  {
+    "idx": 2091,
+    "worldMap": 9,
+    "minClass": 9,
+    "searchTime": 1,
+    "searchExp": 450
+  },
+  {
+    "idx": 2092,
+    "worldMap": 9,
+    "minClass": 9,
+    "searchTime": 6,
+    "searchExp": 2700
+  },
+  {
+    "idx": 2093,
+    "worldMap": 9,
+    "minClass": 9,
+    "searchTime": 12,
+    "searchExp": 5400
+  },
+  {
+    "idx": 2101,
+    "worldMap": 10,
+    "minClass": 10,
+    "searchTime": 1,
+    "searchExp": 500
+  },
+  {
+    "idx": 2102,
+    "worldMap": 10,
+    "minClass": 10,
+    "searchTime": 6,
+    "searchExp": 3000
+  },
+  {
+    "idx": 2103,
+    "worldMap": 10,
+    "minClass": 10,
+    "searchTime": 12,
+    "searchExp": 6000
+  },
+  {
+    "idx": 2111,
+    "worldMap": 11,
+    "minClass": 13,
+    "searchTime": 1,
+    "searchExp": 550
+  },
+  {
+    "idx": 2112,
+    "worldMap": 11,
+    "minClass": 13,
+    "searchTime": 6,
+    "searchExp": 3300
+  },
+  {
+    "idx": 2113,
+    "worldMap": 11,
+    "minClass": 13,
+    "searchTime": 12,
+    "searchExp": 6600
+  },
+  {
+    "idx": 2121,
+    "worldMap": 12,
+    "minClass": 14,
+    "searchTime": 1,
+    "searchExp": 600
+  },
+  {
+    "idx": 2122,
+    "worldMap": 12,
+    "minClass": 14,
+    "searchTime": 6,
+    "searchExp": 3600
+  },
+  {
+    "idx": 2123,
+    "worldMap": 12,
+    "minClass": 14,
+    "searchTime": 12,
+    "searchExp": 7200
+  },
+  {
+    "idx": 2131,
+    "worldMap": 13,
+    "minClass": 15,
+    "searchTime": 1,
+    "searchExp": 650
+  },
+  {
+    "idx": 2132,
+    "worldMap": 13,
+    "minClass": 15,
+    "searchTime": 6,
+    "searchExp": 3900
+  },
+  {
+    "idx": 2133,
+    "worldMap": 13,
+    "minClass": 15,
+    "searchTime": 12,
+    "searchExp": 7800
+  }
+]
