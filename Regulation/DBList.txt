@@ -1,10 +1,10 @@
 {
   "Localization.txt": [
-    "20170418004911",
-    7284736
+    "20170425111701",
+    7397376
   ],
   "DailyBonusDataTable.json": [
-    "20170328010202",
+    "20170424235945",
     10840
   ],
   "CommanderDataTable.json": [
@@ -44,7 +44,7 @@
     13784
   ],
   "GoodsDataTable.json": [
-    "20170418005126",
+    "20170425000012",
     23000
   ],
   "GoodsRechargeCashDataTable.json": [
@@ -80,16 +80,16 @@
     128088
   ],
   "SkillDataTable.json": [
-    "20170418005245",
+    "20170425000120",
     739672
   ],
   "ProjectileDataTable.json": [
-    "20170418005313",
-    188332
+    "20170425000144",
+    188376
   ],
   "StatusEffectDataTable.json": [
-    "20170418005300",
-    197164
+    "20170425000131",
+    198912
   ],
   "MissionTable.json": [
     "20170328010227",
@@ -120,7 +120,7 @@
     1792
   ],
   "SkillUpgradeDataTable.json": [
-    "20170418005324",
+    "20170425000153",
     115672
   ],
   "InteractionDataTable.json": [
@@ -144,8 +144,8 @@
     23680
   ],
   "PartDataTable.json": [
-    "20170411001333",
-    25472
+    "20170425020356",
+    25644
   ],
   "AchievementTable.json": [
     "20170328005812",
@@ -176,8 +176,8 @@
     172
   ],
   "RewardDataTable.json": [
-    "20170418005216",
-    1158528
+    "20170425000048",
+    1166848
   ],
   "GuildStruggleDataTable.json": [
     "20170328010750",
@@ -208,11 +208,11 @@
     61784
   ],
   "VipRechargeDataTable.json": [
-    "20170418005438",
+    "20170425000220",
     2732
   ],
   "VipExpDataTable.json": [
-    "20170418005412",
+    "20170425000212",
     1024
   ],
   "ShopDataTable.json": [
@@ -220,7 +220,7 @@
     6744
   ],
   "ShopProductDataTable.json": [
-    "20170418005226",
+    "20170425000057",
     1024
   ],
   "FavorStepDataTable.json": [
@@ -244,11 +244,11 @@
     196096
   ],
   "ItemExchangeDataTable.json": [
-    "20170418005151",
-    61440
+    "20170425000022",
+    61696
   ],
   "DefineDataTable.json": [
-    "20170328010253",
+    "20170425000000",
     6872
   ],
   "DailyEventDataTable.json": [
@@ -284,12 +284,12 @@
     10880
   ],
   "CarnivalTypeDataTable.json": [
-    "20170418004959",
-    53336
+    "20170424235929",
+    56620
   ],
   "CarnivalDataTable.json": [
-    "20170418004929",
-    378028
+    "20170424235907",
+    412120
   ],
   "CommanderVoiceDataTable.json": [
     "20170418005106",
@@ -316,8 +316,8 @@
     344
   ],
   "ScenarioLocalization.txt": [
-    "20170411001413",
-    3124012
+    "20170425013733",
+    3064876
   ],
   "BattleTimeDataTable.json": [
     "20170328005856",
