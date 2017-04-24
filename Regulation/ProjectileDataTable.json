@@ -3910,7 +3910,7 @@
       0
     ],
     "accuracyScale": 100,
-    "attackDamageScale": 70,
+    "attackDamageScale": 100,
     "criticalChanceScale": 100,
     "depletionScale": 100,
     "healingScale": 100
@@ -3954,7 +3954,7 @@
       0
     ],
     "accuracyScale": 100,
-    "attackDamageScale": 200,
+    "attackDamageScale": 250,
     "criticalChanceScale": 100,
     "depletionScale": 100,
     "healingScale": 100
@@ -3966,7 +3966,7 @@
     "shouldRenderSplash": true,
     "clingingTime": 0,
     "clingingTurn": [
-      2,
+      5,
       0,
       0
     ],
@@ -4108,7 +4108,7 @@
       0
     ],
     "accuracyScale": 100,
-    "attackDamageScale": 70,
+    "attackDamageScale": 100,
     "criticalChanceScale": 100,
     "depletionScale": 100,
     "healingScale": 100
@@ -4164,7 +4164,7 @@
     "shouldRenderSplash": true,
     "clingingTime": 0,
     "clingingTurn": [
-      4,
+      10,
       0,
       0
     ],
@@ -4548,7 +4548,7 @@
       0
     ],
     "accuracyScale": 100,
-    "attackDamageScale": 100,
+    "attackDamageScale": 120,
     "criticalChanceScale": 100,
     "depletionScale": 100,
     "healingScale": 100
@@ -4560,12 +4560,12 @@
     "shouldRenderSplash": true,
     "clingingTime": 0,
     "clingingTurn": [
-      0,
+      1,
       0,
       0
     ],
     "statusEffectDrks": [
-      0,
+      50142,
       0,
       0
     ],
@@ -4592,7 +4592,7 @@
       0
     ],
     "accuracyScale": 100,
-    "attackDamageScale": 120,
+    "attackDamageScale": 220,
     "criticalChanceScale": 100,
     "depletionScale": 100,
     "healingScale": 100
@@ -5946,12 +5946,12 @@
     "shouldRenderSplash": true,
     "clingingTime": 0,
     "clingingTurn": [
-      0,
+      2,
       0,
       0
     ],
     "statusEffectDrks": [
-      0,
+      50302,
       0,
       0
     ],
@@ -6650,8 +6650,8 @@
     "shouldRenderSplash": true,
     "clingingTime": 0,
     "clingingTurn": [
-      3,
-      3,
+      5,
+      5,
       0
     ],
     "statusEffectDrks": [
@@ -6672,12 +6672,12 @@
     "shouldRenderSplash": true,
     "clingingTime": 0,
     "clingingTurn": [
-      0,
+      1,
       0,
       0
     ],
     "statusEffectDrks": [
-      0,
+      50381,
       0,
       0
     ],
@@ -6704,7 +6704,7 @@
       0
     ],
     "accuracyScale": 100,
-    "attackDamageScale": 110,
+    "attackDamageScale": 200,
     "criticalChanceScale": 100,
     "depletionScale": 100,
     "healingScale": 100
@@ -6716,7 +6716,7 @@
     "shouldRenderSplash": false,
     "clingingTime": 0,
     "clingingTurn": [
-      3,
+      99,
       0,
       0
     ],
@@ -6738,7 +6738,7 @@
     "shouldRenderSplash": false,
     "clingingTime": 0,
     "clingingTurn": [
-      3,
+      5,
       0,
       0
     ],
