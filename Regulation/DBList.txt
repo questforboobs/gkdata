@@ -1,7 +1,7 @@
 {
   "Localization.txt": [
-    "20170425112023",
-    7397376
+    "20170502000625",
+    7454424
   ],
   "DailyBonusDataTable.json": [
     "20170425000732",
@@ -176,8 +176,8 @@
     172
   ],
   "RewardDataTable.json": [
-    "20170425000655",
-    1189208
+    "20170502000723",
+    1190528
   ],
   "GuildStruggleDataTable.json": [
     "20170328010504",
@@ -220,7 +220,7 @@
     6744
   ],
   "ShopProductDataTable.json": [
-    "20170425000847",
+    "20170502000824",
     1024
   ],
   "FavorStepDataTable.json": [
@@ -260,8 +260,8 @@
     6572
   ],
   "CommanderCostumeDataTable.json": [
-    "20170418010111",
-    30252
+    "20170502000739",
+    31320
   ],
   "GachaRewardEventDataTable.json": [
     "20170328010342",
@@ -284,15 +284,15 @@
     10880
   ],
   "CarnivalTypeDataTable.json": [
-    "20170425000631",
-    56620
+    "20170502020857",
+    57560
   ],
   "CarnivalDataTable.json": [
-    "20170425000612",
-    412160
+    "20170502000645",
+    415104
   ],
   "CommanderVoiceDataTable.json": [
-    "20170418010122",
+    "20170502000757",
     19500
   ],
   "RaidChallengeDataTable.json": [
@@ -316,7 +316,7 @@
     344
   ],
   "ScenarioLocalization.txt": [
-    "20170425014059",
+    "20170502000810",
     3064876
   ],
   "BattleTimeDataTable.json": [
