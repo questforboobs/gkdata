@@ -858,5 +858,35 @@
     "rewardBullet": 134,
     "bankGold": 43294,
     "goldIncrease": 362
+  },
+  {
+    "level": 87,
+    "exp": 63500,
+    "uExp": 653940,
+    "maxBullet": 146,
+    "maxSkill": 10,
+    "rewardBullet": 135,
+    "bankGold": 43510,
+    "goldIncrease": 365
+  },
+  {
+    "level": 88,
+    "exp": 67800,
+    "uExp": 721740,
+    "maxBullet": 147,
+    "maxSkill": 10,
+    "rewardBullet": 136,
+    "bankGold": 43728,
+    "goldIncrease": 368
+  },
+  {
+    "level": 89,
+    "exp": 72100,
+    "uExp": 793840,
+    "maxBullet": 148,
+    "maxSkill": 10,
+    "rewardBullet": 137,
+    "bankGold": 43948,
+    "goldIncrease": 371
   }
 ]
