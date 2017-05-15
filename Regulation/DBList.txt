@@ -1,15 +1,15 @@
 {
   "Localization.txt": [
-    "20170509000718",
-    7454336
+    "20170515235932",
+    7508824
   ],
   "DailyBonusDataTable.json": [
     "20170424235945",
     10840
   ],
   "CommanderDataTable.json": [
-    "20170509001030",
-    85548
+    "20170516000050",
+    86188
   ],
   "WorldMapDataTable.json": [
     "20170328011012",
@@ -20,8 +20,8 @@
     94680
   ],
   "UnitDataTable.json": [
-    "20170509001752",
-    2269740
+    "20170516000507",
+    2271020
   ],
   "WorldMapStageTypeDataTable.json": [
     "20170328010944",
@@ -40,11 +40,11 @@
     88
   ],
   "UserLevelDataTable.json": [
-    "20170509001817",
+    "20170516000521",
     14296
   ],
   "GoodsDataTable.json": [
-    "20170425000012",
+    "20170516000205",
     23000
   ],
   "GoodsRechargeCashDataTable.json": [
@@ -80,16 +80,16 @@
     128088
   ],
   "SkillDataTable.json": [
-    "20170509001644",
-    745560
+    "20170516000358",
+    757632
   ],
   "ProjectileDataTable.json": [
-    "20170509001710",
-    189912
+    "20170516000428",
+    192984
   ],
   "StatusEffectDataTable.json": [
-    "20170509001657",
-    201176
+    "20170516000413",
+    204544
   ],
   "MissionTable.json": [
     "20170328010227",
@@ -120,32 +120,32 @@
     1792
   ],
   "SkillUpgradeDataTable.json": [
-    "20170509001725",
-    117292
+    "20170516000440",
+    120620
   ],
   "InteractionDataTable.json": [
-    "20170509001234",
-    514008
+    "20170516000218",
+    533720
   ],
   "RankingRewardDataTable.json": [
     "20170328011222",
     21888
   ],
   "ProjectileMotionPhaseDataTable.json": [
-    "20170509000637",
-    258732
+    "20170515235852",
+    265088
   ],
   "UnitMotionDataTable.json": [
-    "20170509000649",
-    496940
+    "20170515235904",
+    504152
   ],
   "FireActionDataTable.json": [
-    "20170509000625",
-    23980
+    "20170515235838",
+    24536
   ],
   "PartDataTable.json": [
-    "20170425020356",
-    25644
+    "20170516000302",
+    25772
   ],
   "AchievementTable.json": [
     "20170328005812",
@@ -160,24 +160,24 @@
     344
   ],
   "GachaRewardDataTable.json": [
-    "20170509001201",
-    13056
+    "20170516000155",
+    13440
   ],
   "BattleItemDataTable.json": [
     "20170328005030",
     640
   ],
   "LevelPatternDataTable.json": [
-    "20170509001319",
-    32472
+    "20170516000251",
+    33496
   ],
   "DropGoldPatternDataTable.json": [
     "20170328010629",
     172
   ],
   "RewardDataTable.json": [
-    "20170509001509",
-    1182080
+    "20170516000320",
+    1239724
   ],
   "GuildStruggleDataTable.json": [
     "20170328010750",
@@ -208,11 +208,11 @@
     61784
   ],
   "VipRechargeDataTable.json": [
-    "20170425000220",
+    "20170516000553",
     2732
   ],
   "VipExpDataTable.json": [
-    "20170425000212",
+    "20170516000532",
     1024
   ],
   "ShopDataTable.json": [
@@ -220,7 +220,7 @@
     6744
   ],
   "ShopProductDataTable.json": [
-    "20170509001624",
+    "20170516000332",
     1024
   ],
   "FavorStepDataTable.json": [
@@ -236,19 +236,19 @@
     984
   ],
   "ClassPatternDataTable.json": [
-    "20170509001017",
-    101420
+    "20170516000035",
+    104920
   ],
   "CommanderClassDataTable.json": [
-    "20170509001042",
-    199596
+    "20170516000102",
+    206592
   ],
   "ItemExchangeDataTable.json": [
-    "20170509001257",
-    61952
+    "20170516000229",
+    62720
   ],
   "DefineDataTable.json": [
-    "20170425000000",
+    "20170516002214",
     6872
   ],
   "DailyEventDataTable.json": [
@@ -260,8 +260,8 @@
     6572
   ],
   "CommanderCostumeDataTable.json": [
-    "20170509001102",
-    32344
+    "20170516000112",
+    32856
   ],
   "GachaRewardEventDataTable.json": [
     "20170328010618",
@@ -272,8 +272,8 @@
     12248
   ],
   "FavorDataTable.json": [
-    "20170509001128",
-    58028
+    "20170516000142",
+    59904
   ],
   "CommanderGiftDataTable.json": [
     "20170328010035",
@@ -284,16 +284,16 @@
     10880
   ],
   "CarnivalTypeDataTable.json": [
-    "20170509000929",
-    59480
+    "20170516000004",
+    62040
   ],
   "CarnivalDataTable.json": [
-    "20170509000745",
-    424920
+    "20170515235947",
+    435840
   ],
   "CommanderVoiceDataTable.json": [
-    "20170509001116",
-    20992
+    "20170516000122",
+    21676
   ],
   "RaidChallengeDataTable.json": [
     "20170328011130",
