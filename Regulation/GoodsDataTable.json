@@ -216,6 +216,42 @@
     "icon": "Goods-ncon"
   },
   {
+    "type": 21,
+    "name": 13991,
+    "serverFieldName": "gacha1",
+    "max": 99,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 13994,
+    "storage": 1,
+    "icon": "Goods-honr"
+  },
+  {
+    "type": 22,
+    "name": 13992,
+    "serverFieldName": "gacha2",
+    "max": 99,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 13995,
+    "storage": 0,
+    "icon": "Goods-honr"
+  },
+  {
+    "type": 23,
+    "name": 13993,
+    "serverFieldName": "gacha3",
+    "max": 99,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 13996,
+    "storage": 0,
+    "icon": "Goods-honr"
+  },
+  {
     "type": 50,
     "name": 4319,
     "serverFieldName": "fvr1",
@@ -1248,12 +1284,24 @@
     "icon": "Goods-exp"
   },
   {
+    "type": 1001,
+    "name": 4353,
+    "serverFieldName": "vexp",
+    "max": 0,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4354,
+    "storage": 0,
+    "icon": "Goods-vip"
+  },
+  {
     "type": 1003,
     "name": 4029,
     "serverFieldName": "skil",
     "max": 9999,
     "rechargeType": 2,
-    "rechargeTime": 150,
+    "rechargeTime": 300,
     "rechargeMax": 0,
     "description": 4059,
     "storage": 0,

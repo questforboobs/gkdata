@@ -522,6 +522,24 @@
     "stat3": 0
   },
   {
+    "ctid": 10014,
+    "cid": 10,
+    "name": 40067,
+    "Desc": 42067,
+    "sell": 1,
+    "gid": 2,
+    "sellPrice": 1200,
+    "atlasNumber": 1,
+    "skinName": 14,
+    "order": 2,
+    "statType1": 1,
+    "stat1": 210,
+    "statType2": 6,
+    "stat2": 10,
+    "statType3": 0,
+    "stat3": 0
+  },
+  {
     "ctid": 11001,
     "cid": 11,
     "name": 40001,
