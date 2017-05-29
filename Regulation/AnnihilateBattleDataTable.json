@@ -323,7 +323,7 @@
     "idx": 21,
     "positionX": 0,
     "positionY": 0,
-    "enemyLevelGap": -10,
+    "enemyLevelGap": 0,
     "enemyGrade": 4,
     "enemySkill": 1,
     "needSpeed": 10000,

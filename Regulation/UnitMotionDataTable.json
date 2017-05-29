@@ -39056,6 +39056,334 @@
       0,
       0
     ],
+    "key": "5060/idle",
+    "playTime": 1166
+  },
+  {
+    "fireEvent": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      0,
+      0
+    ],
+    "key": "5060/avoid",
+    "playTime": 2933
+  },
+  {
+    "fireEvent": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      0,
+      0
+    ],
+    "key": "5060/behit",
+    "playTime": 1166
+  },
+  {
+    "fireEvent": [
+      {
+        "time": 1066,
+        "firePointTypeIndex": 0,
+        "firePointBonePath": "Weapon_R_Point/_FP1_1"
+      },
+      {
+        "time": 1366,
+        "firePointTypeIndex": 0,
+        "firePointBonePath": "Weapon_L_Point/_FP1_2"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      2,
+      0,
+      0
+    ],
+    "key": "5060/attack",
+    "playTime": 3500
+  },
+  {
+    "fireEvent": [
+      {
+        "time": 1666,
+        "firePointTypeIndex": 1,
+        "firePointBonePath": "root_node/HorsePelvis/HorseSpine1/HorseSpine2/HorseRibcage/HorseSpine1 1/HorseSpine2 1/HorseRibcage001/Acc_Back_Center/Acc_Back_Point/Acc_Back_R/_FP2_1"
+      },
+      {
+        "time": 2000,
+        "firePointTypeIndex": 1,
+        "firePointBonePath": "root_node/HorsePelvis/HorseSpine1/HorseSpine2/HorseRibcage/HorseSpine1 1/HorseSpine2 1/HorseRibcage001/Acc_Back_Center/Acc_Back_Point/Acc_Back_L/_FP2_2"
+      },
+      {
+        "time": 2366,
+        "firePointTypeIndex": 1,
+        "firePointBonePath": "root_node/HorsePelvis/HorseSpine1/HorseSpine2/HorseRibcage/HorseSpine1 1/HorseSpine2 1/HorseRibcage001/Acc_Back_Center/Acc_Back_Point/Acc_Back_L/_FP2_2"
+      },
+      {
+        "time": 2666,
+        "firePointTypeIndex": 1,
+        "firePointBonePath": "root_node/HorsePelvis/HorseSpine1/HorseSpine2/HorseRibcage/HorseSpine1 1/HorseSpine2 1/HorseRibcage001/Acc_Back_Center/Acc_Back_Point/Acc_Back_L/_FP2_2"
+      },
+      {
+        "time": 3000,
+        "firePointTypeIndex": 1,
+        "firePointBonePath": "root_node/HorsePelvis/HorseSpine1/HorseSpine2/HorseRibcage/HorseSpine1 1/HorseSpine2 1/HorseRibcage001/Acc_Back_Center/Acc_Back_Point/Acc_Back_L/_FP2_2"
+      },
+      {
+        "time": 3333,
+        "firePointTypeIndex": 1,
+        "firePointBonePath": "root_node/HorsePelvis/HorseSpine1/HorseSpine2/HorseRibcage/HorseSpine1 1/HorseSpine2 1/HorseRibcage001/Acc_Back_Center/Acc_Back_Point/Acc_Back_L/_FP2_2"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      6,
+      0
+    ],
+    "key": "5060/active",
+    "playTime": 4666
+  },
+  {
+    "fireEvent": [
+      {
+        "time": 1966,
+        "firePointTypeIndex": 2,
+        "firePointBonePath": "root_node/_FP3_1"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      0,
+      1
+    ],
+    "key": "5060/passive1",
+    "playTime": 3500
+  },
+  {
+    "fireEvent": [
+      {
+        "time": 833,
+        "firePointTypeIndex": 2,
+        "firePointBonePath": "root_node/_FP3_2"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      0,
+      1
+    ],
+    "key": "5060/passive2",
+    "playTime": 2333
+  },
+  {
+    "fireEvent": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      0,
+      0
+    ],
+    "key": "5060/injury",
+    "playTime": 1500
+  },
+  {
+    "fireEvent": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      0,
+      0
+    ],
+    "key": "5060/destroy",
+    "playTime": 2000
+  },
+  {
+    "fireEvent": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      0,
+      0
+    ],
     "key": "5061/idle",
     "playTime": 1166
   },
