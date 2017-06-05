@@ -88,6 +88,28 @@
     "minCount": 1500
   },
   {
+    "groupIdx": 33,
+    "tabidx": 1,
+    "groupName": 10166,
+    "tabname": 10901,
+    "groupComment": 0,
+    "typeIndex": 0,
+    "rewardType": 4,
+    "rewardIdx": 105,
+    "minCount": 10
+  },
+  {
+    "groupIdx": 34,
+    "tabidx": 1,
+    "groupName": 10167,
+    "tabname": 10901,
+    "groupComment": 0,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 55,
+    "minCount": 30
+  },
+  {
     "groupIdx": 41,
     "tabidx": 1,
     "groupName": 10109,

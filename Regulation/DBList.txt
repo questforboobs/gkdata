@@ -1,7 +1,7 @@
 {
   "Localization.txt": [
-    "20170530052159",
-    7654744
+    "20170606021912",
+    7744044
   ],
   "DailyBonusDataTable.json": [
     "20170530000235",
@@ -40,7 +40,7 @@
     14296
   ],
   "GoodsDataTable.json": [
-    "20170530000408",
+    "20170606000617",
     23852
   ],
   "BuildingLevelDataTable.json": [
@@ -72,11 +72,11 @@
     200320
   ],
   "StatusEffectDataTable.json": [
-    "20170530000713",
+    "20170606000806",
     211372
   ],
   "MissionTable.json": [
-    "20170530000249",
+    "20170606000605",
     3800
   ],
   "MetroBankLuckDataTable.json": [
@@ -144,8 +144,8 @@
     172
   ],
   "RewardDataTable.json": [
-    "20170530000548",
-    1308120
+    "20170606000707",
+    1317080
   ],
   "GuildStruggleDataTable.json": [
     "20170523001441",
@@ -168,7 +168,7 @@
     2732
   ],
   "VipExpDataTable.json": [
-    "20170530000925",
+    "20170606000857",
     1024
   ],
   "ShopDataTable.json": [
@@ -188,8 +188,8 @@
     210092
   ],
   "ItemExchangeDataTable.json": [
-    "20170530000445",
-    80256
+    "20170606000651",
+    81536
   ],
   "DefineDataTable.json": [
     "20170530000304",
@@ -204,8 +204,8 @@
     19840
   ],
   "CommanderCostumeDataTable.json": [
-    "20170530000201",
-    33368
+    "20170606000554",
+    34688
   ],
   "LoadingTipDataTable.json": [
     "20170523001606",
@@ -224,12 +224,12 @@
     10880
   ],
   "CarnivalTypeDataTable.json": [
-    "20170530000037",
-    67884
+    "20170606000540",
+    69548
   ],
   "CarnivalDataTable.json": [
-    "20170530000024",
-    484952
+    "20170606000526",
+    491648
   ],
   "CommanderVoiceDataTable.json": [
     "20170530000220",
@@ -252,8 +252,8 @@
     344
   ],
   "ScenarioLocalization.txt": [
-    "20170530000609",
-    3105624
+    "20170606000724",
+    2985132
   ],
   "RaidChallengeDataTable.json": [
     "20170523001758",
@@ -288,11 +288,11 @@
     2136
   ],
   "GroupInfoDataTable.json": [
-    "20170523001311",
-    12076
+    "20170606000629",
+    12460
   ],
   "GroupMemberDataTable.json": [
-    "20170523001323",
-    21592
+    "20170606000640",
+    22400
   ]
 }
