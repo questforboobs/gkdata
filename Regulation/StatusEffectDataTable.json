@@ -3260,7 +3260,7 @@
     "criticalChanceBonus": 0,
     "criticalDamageBonus": 0,
     "chance": 100,
-    "shield": 3,
+    "shield": 0,
     "shldCn": 0,
     "atkPt": 0,
     "rmStCn": 0,
