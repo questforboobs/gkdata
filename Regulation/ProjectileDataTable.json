@@ -3411,7 +3411,7 @@
   },
   {
     "key": 500141,
-    "motionSetId": 5001411,
+    "motionSetId": 5032411,
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
@@ -5407,6 +5407,94 @@
     ],
     "accuracyScale": 100,
     "attackDamageScale": 150,
+    "criticalChanceScale": 100,
+    "depletionScale": 100,
+    "healingScale": 100
+  },
+  {
+    "key": 502311,
+    "motionSetId": 5023111,
+    "splashPattern": "000000000000P000000000000",
+    "shouldRenderSplash": true,
+    "clingingTime": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
+    "statusEffectDrks": [
+      0,
+      0,
+      0
+    ],
+    "accuracyScale": 100,
+    "attackDamageScale": 100,
+    "criticalChanceScale": 100,
+    "depletionScale": 100,
+    "healingScale": 100
+  },
+  {
+    "key": 502321,
+    "motionSetId": 5023211,
+    "splashPattern": "000000000000P000000000000",
+    "shouldRenderSplash": true,
+    "clingingTime": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
+    "statusEffectDrks": [
+      0,
+      0,
+      0
+    ],
+    "accuracyScale": 100,
+    "attackDamageScale": 400,
+    "criticalChanceScale": 100,
+    "depletionScale": 100,
+    "healingScale": 100
+  },
+  {
+    "key": 502331,
+    "motionSetId": 5023311,
+    "splashPattern": "000000000000P000000000000",
+    "shouldRenderSplash": true,
+    "clingingTime": 0,
+    "clingingTurn": [
+      99,
+      99,
+      0
+    ],
+    "statusEffectDrks": [
+      50233,
+      50239,
+      0
+    ],
+    "accuracyScale": 100,
+    "attackDamageScale": 0,
+    "criticalChanceScale": 100,
+    "depletionScale": 100,
+    "healingScale": 100
+  },
+  {
+    "key": 502341,
+    "motionSetId": 5023411,
+    "splashPattern": "1111111111111111111111111",
+    "shouldRenderSplash": true,
+    "clingingTime": 0,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
+    "statusEffectDrks": [
+      50234,
+      0,
+      0
+    ],
+    "accuracyScale": 100,
+    "attackDamageScale": 220,
     "criticalChanceScale": 100,
     "depletionScale": 100,
     "healingScale": 100
@@ -8955,7 +9043,7 @@
   },
   {
     "key": 599941,
-    "motionSetId": 5999411,
+    "motionSetId": 5032411,
     "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": false,
     "clingingTime": 0,
