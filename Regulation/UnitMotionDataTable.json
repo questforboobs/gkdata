@@ -22425,43 +22425,7 @@
       0
     ],
     "key": "5009/idle",
-    "playTime": 666
-  },
-  {
-    "fireEvent": [
-      {
-        "time": 400,
-        "firePointTypeIndex": 0,
-        "firePointBonePath": "root_node/Bip01/L_cannon/_FP1_2"
-      },
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "atkSwitchEvents": [],
-    "fireCounts": [
-      1,
-      0,
-      0
-    ],
-    "key": "5009/attack",
-    "playTime": 1333
+    "playTime": 1000
   },
   {
     "fireEvent": [
@@ -22493,7 +22457,7 @@
       0
     ],
     "key": "5009/avoid",
-    "playTime": 666
+    "playTime": 1000
   },
   {
     "fireEvent": [
@@ -22525,14 +22489,30 @@
       0
     ],
     "key": "5009/behit",
-    "playTime": 1233
+    "playTime": 1000
   },
   {
     "fireEvent": [
-      null,
-      null,
-      null,
-      null,
+      {
+        "time": 33,
+        "firePointTypeIndex": 0,
+        "firePointBonePath": "root_node/_FP1_1"
+      },
+      {
+        "time": 266,
+        "firePointTypeIndex": 0,
+        "firePointBonePath": "root_node/_FP1_2"
+      },
+      {
+        "time": 566,
+        "firePointTypeIndex": 0,
+        "firePointBonePath": "root_node/_FP1_2"
+      },
+      {
+        "time": 900,
+        "firePointTypeIndex": 0,
+        "firePointBonePath": "root_node/_FP1_2"
+      },
       null,
       null,
       null,
@@ -22552,19 +22532,79 @@
     ],
     "atkSwitchEvents": [],
     "fireCounts": [
-      0,
+      4,
       0,
       0
     ],
-    "key": "5009/destroy",
-    "playTime": 1766
+    "key": "5009/attack",
+    "playTime": 2000
   },
   {
     "fireEvent": [
       {
-        "time": 500,
+        "time": 33,
         "firePointTypeIndex": 1,
-        "firePointBonePath": "root_node/Bip01/L_cannon/_FP2_2"
+        "firePointBonePath": "root_node/_FP2_1"
+      },
+      {
+        "time": 366,
+        "firePointTypeIndex": 1,
+        "firePointBonePath": "root_node/_FP2_2"
+      },
+      {
+        "time": 700,
+        "firePointTypeIndex": 1,
+        "firePointBonePath": "root_node/_FP2_2"
+      },
+      {
+        "time": 1033,
+        "firePointTypeIndex": 1,
+        "firePointBonePath": "root_node/_FP2_2"
+      },
+      {
+        "time": 1366,
+        "firePointTypeIndex": 1,
+        "firePointBonePath": "root_node/_FP2_2"
+      },
+      {
+        "time": 1700,
+        "firePointTypeIndex": 1,
+        "firePointBonePath": "root_node/_FP2_2"
+      },
+      {
+        "time": 2033,
+        "firePointTypeIndex": 1,
+        "firePointBonePath": "root_node/_FP2_2"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      7,
+      0
+    ],
+    "key": "5009/active",
+    "playTime": 6000
+  },
+  {
+    "fireEvent": [
+      {
+        "time": 433,
+        "firePointTypeIndex": 2,
+        "firePointBonePath": "root_node/_FP3_1"
       },
       null,
       null,
@@ -22589,11 +22629,47 @@
     "atkSwitchEvents": [],
     "fireCounts": [
       0,
-      1,
-      0
+      0,
+      1
     ],
-    "key": "5009/passive",
-    "playTime": 2666
+    "key": "5009/passive1",
+    "playTime": 1833
+  },
+  {
+    "fireEvent": [
+      {
+        "time": 300,
+        "firePointTypeIndex": 2,
+        "firePointBonePath": "root_node/_FP3_2"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      0,
+      1
+    ],
+    "key": "5009/passive2",
+    "playTime": 2000
   },
   {
     "fireEvent": [
@@ -22625,7 +22701,39 @@
       0
     ],
     "key": "5009/injury",
-    "playTime": 666
+    "playTime": 1500
+  },
+  {
+    "fireEvent": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      0,
+      0
+    ],
+    "key": "5009/destroy",
+    "playTime": 1500
   },
   {
     "fireEvent": [
@@ -35610,6 +35718,414 @@
     ],
     "key": "5047/destroy",
     "playTime": 2000
+  },
+  {
+    "fireEvent": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      0,
+      0
+    ],
+    "key": "5048/idle",
+    "playTime": 3000
+  },
+  {
+    "fireEvent": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      0,
+      0
+    ],
+    "key": "5048/avoid",
+    "playTime": 1000
+  },
+  {
+    "fireEvent": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      0,
+      0
+    ],
+    "key": "5048/behit",
+    "playTime": 1000
+  },
+  {
+    "fireEvent": [
+      {
+        "time": 1333,
+        "firePointTypeIndex": 0,
+        "firePointBonePath": "root_node/Weapon_01/Weapon_02/_FP1_1"
+      },
+      {
+        "time": 1666,
+        "firePointTypeIndex": 0,
+        "firePointBonePath": "root_node/Weapon_01/Weapon_02/_FP1_1"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      2,
+      0,
+      0
+    ],
+    "key": "5048/attack",
+    "playTime": 3000
+  },
+  {
+    "fireEvent": [
+      {
+        "time": 700,
+        "firePointTypeIndex": 1,
+        "firePointBonePath": "root_node/_FP2_1"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      1,
+      0
+    ],
+    "key": "5048/active",
+    "playTime": 6000
+  },
+  {
+    "fireEvent": [
+      {
+        "time": 633,
+        "firePointTypeIndex": 2,
+        "firePointBonePath": "root_node/_FP3_1 1"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      0,
+      1
+    ],
+    "key": "5048/passive1",
+    "playTime": 666
+  },
+  {
+    "fireEvent": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      0,
+      0
+    ],
+    "key": "5048/passive1_return",
+    "playTime": 1000
+  },
+  {
+    "fireEvent": [
+      {
+        "time": 600,
+        "firePointTypeIndex": 2,
+        "firePointBonePath": "root_node/_FP3_2 1"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      0,
+      1
+    ],
+    "key": "5048/passive2",
+    "playTime": 833
+  },
+  {
+    "fireEvent": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      0,
+      0
+    ],
+    "key": "5048/passive2_return",
+    "playTime": 666
+  },
+  {
+    "fireEvent": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      0,
+      0
+    ],
+    "key": "5048/injury",
+    "playTime": 2000
+  },
+  {
+    "fireEvent": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      0,
+      0
+    ],
+    "key": "5048/destroy",
+    "playTime": 2500
+  },
+  {
+    "fireEvent": [
+      {
+        "time": 700,
+        "firePointTypeIndex": 1,
+        "firePointBonePath": "root_node/_FP2_1"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "atkSwitchEvents": [],
+    "fireCounts": [
+      0,
+      1,
+      0
+    ],
+    "key": "5048/Commander-30047_active_camera",
+    "playTime": 5000
   },
   {
     "fireEvent": [

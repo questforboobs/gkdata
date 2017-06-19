@@ -682,8 +682,8 @@
     "cid": 9,
     "step": 2,
     "profile": 45081,
-    "statType": 1,
-    "stat": 40
+    "statType": 2,
+    "stat": 5
   },
   {
     "cid": 9,
@@ -696,8 +696,8 @@
     "cid": 9,
     "step": 4,
     "profile": 45083,
-    "statType": 1,
-    "stat": 300
+    "statType": 2,
+    "stat": 35
   },
   {
     "cid": 9,
@@ -731,8 +731,8 @@
     "cid": 9,
     "step": 9,
     "profile": 45088,
-    "statType": 1,
-    "stat": 500
+    "statType": 2,
+    "stat": 60
   },
   {
     "cid": 9,
@@ -752,8 +752,8 @@
     "cid": 9,
     "step": 12,
     "profile": 47081,
-    "statType": 1,
-    "stat": 1000
+    "statType": 2,
+    "stat": 200
   },
   {
     "cid": 10,
