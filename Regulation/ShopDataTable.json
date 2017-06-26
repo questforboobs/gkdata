@@ -102,6 +102,23 @@
     ]
   },
   {
+    "type": 1,
+    "grade": 7,
+    "minLevel": 80,
+    "displayCount": 10,
+    "g_idx": 2,
+    "startRechargePrice": 50,
+    "numberMeasure": 2,
+    "priceAddPercent": 200,
+    "openTime": [
+      "09:00",
+      "12:00",
+      "18:00",
+      "21:00",
+      "24:00"
+    ]
+  },
+  {
     "type": 2,
     "grade": 1,
     "minLevel": 1,

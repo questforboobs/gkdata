@@ -4553,8 +4553,8 @@
     "key": "5014211/FirePhase/5014211_f_01",
     "isHeader": false,
     "patternCount": -1,
-    "duration": 1500,
-    "eventTime": 1000
+    "duration": 1000,
+    "eventTime": 300
   },
   {
     "key": "5014211/HitPhase",
@@ -4567,8 +4567,8 @@
     "key": "5014211/HitPhase/5014211_h_01",
     "isHeader": false,
     "patternCount": -1,
-    "duration": 1000,
-    "eventTime": 900
+    "duration": 100,
+    "eventTime": 0
   },
   {
     "key": "5014211/MissPhase",
@@ -4581,8 +4581,50 @@
     "key": "5014211/MissPhase/5014211_m_01",
     "isHeader": false,
     "patternCount": -1,
+    "duration": 100,
+    "eventTime": 0
+  },
+  {
+    "key": "5014221/FirePhase",
+    "isHeader": true,
+    "patternCount": 1,
+    "duration": 0,
+    "eventTime": -1
+  },
+  {
+    "key": "5014221/FirePhase/5014221_f_01",
+    "isHeader": false,
+    "patternCount": -1,
     "duration": 1000,
-    "eventTime": 900
+    "eventTime": 500
+  },
+  {
+    "key": "5014221/HitPhase",
+    "isHeader": true,
+    "patternCount": 1,
+    "duration": 0,
+    "eventTime": -1
+  },
+  {
+    "key": "5014221/HitPhase/5014221_h_01",
+    "isHeader": false,
+    "patternCount": -1,
+    "duration": 100,
+    "eventTime": 0
+  },
+  {
+    "key": "5014221/MissPhase",
+    "isHeader": true,
+    "patternCount": 1,
+    "duration": 0,
+    "eventTime": -1
+  },
+  {
+    "key": "5014221/MissPhase/5014221_m_01",
+    "isHeader": false,
+    "patternCount": -1,
+    "duration": 100,
+    "eventTime": 0
   },
   {
     "key": "5014311/FirePhase",
@@ -10900,6 +10942,188 @@
   },
   {
     "key": "5047411/MissPhase/5047411_m_01",
+    "isHeader": false,
+    "patternCount": -1,
+    "duration": 0,
+    "eventTime": 0
+  },
+  {
+    "key": "5048111/FirePhase",
+    "isHeader": true,
+    "patternCount": 1,
+    "duration": 0,
+    "eventTime": -1
+  },
+  {
+    "key": "5048111/FirePhase/5048111_f_01",
+    "isHeader": false,
+    "patternCount": -1,
+    "duration": 700,
+    "eventTime": 200
+  },
+  {
+    "key": "5048111/HitPhase",
+    "isHeader": true,
+    "patternCount": 1,
+    "duration": 0,
+    "eventTime": -1
+  },
+  {
+    "key": "5048111/HitPhase/5048111_h_01",
+    "isHeader": false,
+    "patternCount": -1,
+    "duration": 900,
+    "eventTime": 160
+  },
+  {
+    "key": "5048111/MissPhase",
+    "isHeader": true,
+    "patternCount": 1,
+    "duration": 0,
+    "eventTime": -1
+  },
+  {
+    "key": "5048111/MissPhase/5048111_m_01",
+    "isHeader": false,
+    "patternCount": -1,
+    "duration": 900,
+    "eventTime": 160
+  },
+  {
+    "key": "5048211/BeHitPhase",
+    "isHeader": true,
+    "patternCount": 1,
+    "duration": 0,
+    "eventTime": -1
+  },
+  {
+    "key": "5048211/BeHitPhase/5048211_b_01",
+    "isHeader": false,
+    "patternCount": -1,
+    "duration": 1800,
+    "eventTime": 0
+  },
+  {
+    "key": "5048211/FirePhase",
+    "isHeader": true,
+    "patternCount": 1,
+    "duration": 0,
+    "eventTime": -1
+  },
+  {
+    "key": "5048211/FirePhase/5048211_f_01",
+    "isHeader": false,
+    "patternCount": -1,
+    "duration": 3800,
+    "eventTime": 3800
+  },
+  {
+    "key": "5048211/HitPhase",
+    "isHeader": true,
+    "patternCount": 1,
+    "duration": 0,
+    "eventTime": -1
+  },
+  {
+    "key": "5048211/HitPhase/5048211_h_01",
+    "isHeader": false,
+    "patternCount": -1,
+    "duration": 1200,
+    "eventTime": 500
+  },
+  {
+    "key": "5048211/MissPhase",
+    "isHeader": true,
+    "patternCount": 1,
+    "duration": 0,
+    "eventTime": -1
+  },
+  {
+    "key": "5048211/MissPhase/5048211_m_01",
+    "isHeader": false,
+    "patternCount": -1,
+    "duration": 1200,
+    "eventTime": 500
+  },
+  {
+    "key": "5048311/FirePhase",
+    "isHeader": true,
+    "patternCount": 1,
+    "duration": 0,
+    "eventTime": -1
+  },
+  {
+    "key": "5048311/FirePhase/5048311_f_01",
+    "isHeader": false,
+    "patternCount": -1,
+    "duration": 1000,
+    "eventTime": 200
+  },
+  {
+    "key": "5048311/HitPhase",
+    "isHeader": true,
+    "patternCount": 1,
+    "duration": 0,
+    "eventTime": -1
+  },
+  {
+    "key": "5048311/HitPhase/5048311_h_01",
+    "isHeader": false,
+    "patternCount": -1,
+    "duration": 0,
+    "eventTime": 0
+  },
+  {
+    "key": "5048311/MissPhase",
+    "isHeader": true,
+    "patternCount": 1,
+    "duration": 0,
+    "eventTime": -1
+  },
+  {
+    "key": "5048311/MissPhase/5048311_m_01",
+    "isHeader": false,
+    "patternCount": -1,
+    "duration": 0,
+    "eventTime": 0
+  },
+  {
+    "key": "5048411/FirePhase",
+    "isHeader": true,
+    "patternCount": 1,
+    "duration": 0,
+    "eventTime": -1
+  },
+  {
+    "key": "5048411/FirePhase/5048411_f_01",
+    "isHeader": false,
+    "patternCount": -1,
+    "duration": 1000,
+    "eventTime": 1000
+  },
+  {
+    "key": "5048411/HitPhase",
+    "isHeader": true,
+    "patternCount": 1,
+    "duration": 0,
+    "eventTime": -1
+  },
+  {
+    "key": "5048411/HitPhase/5048411_h_01",
+    "isHeader": false,
+    "patternCount": -1,
+    "duration": 0,
+    "eventTime": 0
+  },
+  {
+    "key": "5048411/MissPhase",
+    "isHeader": true,
+    "patternCount": 1,
+    "duration": 0,
+    "eventTime": -1
+  },
+  {
+    "key": "5048411/MissPhase/5048411_m_01",
     "isHeader": false,
     "patternCount": -1,
     "duration": 0,
