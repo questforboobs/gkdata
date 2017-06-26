@@ -274,14 +274,14 @@
   {
     "key": "50142",
     "on": {
-      "duration": 3200,
+      "duration": 6700,
       "eventTime": 1000,
       "fireDelayTime": 1000,
       "hitDelayTime": 0,
       "timeSleepDuringFire": true
     },
     "off": {
-      "duration": 2500,
+      "duration": 5400,
       "eventTime": -1,
       "fireDelayTime": 0,
       "hitDelayTime": 0,
@@ -981,6 +981,23 @@
       "duration": 6000,
       "eventTime": -1,
       "fireDelayTime": 0,
+      "hitDelayTime": 0,
+      "timeSleepDuringFire": true
+    }
+  },
+  {
+    "key": "50482",
+    "on": {
+      "duration": 6500,
+      "eventTime": 700,
+      "fireDelayTime": 800,
+      "hitDelayTime": 0,
+      "timeSleepDuringFire": true
+    },
+    "off": {
+      "duration": 5500,
+      "eventTime": 300,
+      "fireDelayTime": 700,
       "hitDelayTime": 0,
       "timeSleepDuringFire": true
     }

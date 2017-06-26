@@ -1116,6 +1116,15 @@
     "storage": 1
   },
   {
+    "type": 10206,
+    "grade": 1,
+    "name": 3000171,
+    "serverFieldName": "icon_part_12_06",
+    "max": 99999,
+    "description": 3001171,
+    "storage": 1
+  },
+  {
     "type": 10703,
     "grade": 1,
     "name": 3000123,
@@ -1188,6 +1197,15 @@
     "storage": 1
   },
   {
+    "type": 11006,
+    "grade": 1,
+    "name": 3000173,
+    "serverFieldName": "icon_part_14_06",
+    "max": 99999,
+    "description": 3001173,
+    "storage": 1
+  },
+  {
     "type": 11101,
     "grade": 1,
     "name": 3000036,
@@ -1233,6 +1251,15 @@
     "storage": 1
   },
   {
+    "type": 11106,
+    "grade": 1,
+    "name": 3000174,
+    "serverFieldName": "icon_part_15_06",
+    "max": 99999,
+    "description": 3001174,
+    "storage": 1
+  },
+  {
     "type": 11201,
     "grade": 1,
     "name": 3000041,
@@ -1275,6 +1302,15 @@
     "serverFieldName": "icon_part_16_05",
     "max": 99999,
     "description": 3001045,
+    "storage": 1
+  },
+  {
+    "type": 11206,
+    "grade": 1,
+    "name": 3000175,
+    "serverFieldName": "icon_part_16_06",
+    "max": 99999,
+    "description": 3001175,
     "storage": 1
   },
   {
@@ -1446,6 +1482,24 @@
     "serverFieldName": "icon_extraterrestrial_04",
     "max": 99999,
     "description": 5020414,
+    "storage": 1
+  },
+  {
+    "type": 50001,
+    "grade": 1,
+    "name": 4359,
+    "serverFieldName": "event_icon_chip",
+    "max": 9999,
+    "description": 4360,
+    "storage": 1
+  },
+  {
+    "type": 50002,
+    "grade": 1,
+    "name": 4361,
+    "serverFieldName": "event_icon_dice",
+    "max": 9999,
+    "description": 4362,
     "storage": 1
   }
 ]
