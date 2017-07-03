@@ -4130,7 +4130,7 @@
       0
     ],
     "accuracyScale": 100,
-    "attackDamageScale": 2100,
+    "attackDamageScale": 210,
     "criticalChanceScale": 100,
     "depletionScale": 100,
     "healingScale": 100
@@ -6085,6 +6085,94 @@
     "statusEffectDrks": [
       50284,
       0,
+      0
+    ],
+    "accuracyScale": 100,
+    "attackDamageScale": 0,
+    "criticalChanceScale": 100,
+    "depletionScale": 100,
+    "healingScale": 100
+  },
+  {
+    "key": 502911,
+    "motionSetId": 5029111,
+    "splashPattern": "000000000000P000000000000",
+    "shouldRenderSplash": true,
+    "clingingTime": 0,
+    "clingingTurn": [
+      1,
+      0,
+      0
+    ],
+    "statusEffectDrks": [
+      50291,
+      0,
+      0
+    ],
+    "accuracyScale": 100,
+    "attackDamageScale": 100,
+    "criticalChanceScale": 100,
+    "depletionScale": 100,
+    "healingScale": 100
+  },
+  {
+    "key": 502921,
+    "motionSetId": 5029211,
+    "splashPattern": "001000010000P000010000100",
+    "shouldRenderSplash": false,
+    "clingingTime": 0,
+    "clingingTurn": [
+      1,
+      0,
+      0
+    ],
+    "statusEffectDrks": [
+      50292,
+      0,
+      0
+    ],
+    "accuracyScale": 100,
+    "attackDamageScale": 300,
+    "criticalChanceScale": 100,
+    "depletionScale": 100,
+    "healingScale": 100
+  },
+  {
+    "key": 502931,
+    "motionSetId": 5029311,
+    "splashPattern": "000000000011P110000000000",
+    "shouldRenderSplash": false,
+    "clingingTime": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
+    "statusEffectDrks": [
+      0,
+      0,
+      0
+    ],
+    "accuracyScale": 100,
+    "attackDamageScale": 250,
+    "criticalChanceScale": 100,
+    "depletionScale": 100,
+    "healingScale": 100
+  },
+  {
+    "key": 502941,
+    "motionSetId": 5029411,
+    "splashPattern": "000000000000P000000000000",
+    "shouldRenderSplash": true,
+    "clingingTime": 0,
+    "clingingTurn": [
+      99,
+      99,
+      0
+    ],
+    "statusEffectDrks": [
+      50294,
+      50299,
       0
     ],
     "accuracyScale": 100,
@@ -8332,7 +8420,7 @@
       0
     ],
     "accuracyScale": 100,
-    "attackDamageScale": 187,
+    "attackDamageScale": 240,
     "criticalChanceScale": 100,
     "depletionScale": 100,
     "healingScale": 120
@@ -8354,7 +8442,7 @@
       0
     ],
     "accuracyScale": 100,
-    "attackDamageScale": 187,
+    "attackDamageScale": 240,
     "criticalChanceScale": 100,
     "depletionScale": 100,
     "healingScale": 100
