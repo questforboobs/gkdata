@@ -346,6 +346,21 @@
   },
   {
     "index": 23,
+    "csid": 2301,
+    "cid": 23,
+    "order": 1,
+    "name": 32301,
+    "desc": 32302,
+    "level": 0,
+    "grade": 0,
+    "cls": 0,
+    "favor": 0,
+    "mapClear": 0,
+    "commander": 60,
+    "scenarioClear": 0
+  },
+  {
+    "index": 24,
     "csid": 2601,
     "cid": 26,
     "order": 1,
@@ -360,7 +375,7 @@
     "scenarioClear": 0
   },
   {
-    "index": 24,
+    "index": 25,
     "csid": 2602,
     "cid": 26,
     "order": 2,
@@ -375,7 +390,7 @@
     "scenarioClear": 2601
   },
   {
-    "index": 25,
+    "index": 26,
     "csid": 2603,
     "cid": 26,
     "order": 3,
@@ -390,7 +405,7 @@
     "scenarioClear": 2602
   },
   {
-    "index": 26,
+    "index": 27,
     "csid": 2604,
     "cid": 26,
     "order": 4,
@@ -405,7 +420,7 @@
     "scenarioClear": 2603
   },
   {
-    "index": 27,
+    "index": 28,
     "csid": 3201,
     "cid": 32,
     "order": 1,
@@ -420,7 +435,7 @@
     "scenarioClear": 0
   },
   {
-    "index": 28,
+    "index": 29,
     "csid": 3202,
     "cid": 32,
     "order": 2,
@@ -435,7 +450,7 @@
     "scenarioClear": 3201
   },
   {
-    "index": 29,
+    "index": 30,
     "csid": 3203,
     "cid": 32,
     "order": 3,
@@ -450,7 +465,7 @@
     "scenarioClear": 3202
   },
   {
-    "index": 30,
+    "index": 31,
     "csid": 3204,
     "cid": 32,
     "order": 4,
@@ -465,7 +480,7 @@
     "scenarioClear": 3203
   },
   {
-    "index": 31,
+    "index": 32,
     "csid": 3205,
     "cid": 32,
     "order": 5,
@@ -480,7 +495,7 @@
     "scenarioClear": 3204
   },
   {
-    "index": 32,
+    "index": 33,
     "csid": 4101,
     "cid": 41,
     "order": 1,
@@ -495,7 +510,7 @@
     "scenarioClear": 0
   },
   {
-    "index": 33,
+    "index": 34,
     "csid": 4102,
     "cid": 41,
     "order": 2,
@@ -510,7 +525,7 @@
     "scenarioClear": 4101
   },
   {
-    "index": 34,
+    "index": 35,
     "csid": 4103,
     "cid": 41,
     "order": 3,
@@ -525,7 +540,7 @@
     "scenarioClear": 4102
   },
   {
-    "index": 35,
+    "index": 36,
     "csid": 4104,
     "cid": 41,
     "order": 4,
@@ -538,5 +553,65 @@
     "mapClear": 0,
     "commander": 0,
     "scenarioClear": 4103
+  },
+  {
+    "index": 37,
+    "csid": 5901,
+    "cid": 59,
+    "order": 1,
+    "name": 35901,
+    "desc": 35902,
+    "level": 0,
+    "grade": 0,
+    "cls": 9,
+    "favor": 0,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 0
+  },
+  {
+    "index": 38,
+    "csid": 6001,
+    "cid": 60,
+    "order": 1,
+    "name": 36001,
+    "desc": 36002,
+    "level": 0,
+    "grade": 0,
+    "cls": 0,
+    "favor": 0,
+    "mapClear": 0,
+    "commander": 61,
+    "scenarioClear": 0
+  },
+  {
+    "index": 39,
+    "csid": 6101,
+    "cid": 61,
+    "order": 1,
+    "name": 36101,
+    "desc": 36102,
+    "level": 0,
+    "grade": 0,
+    "cls": 0,
+    "favor": 0,
+    "mapClear": 0,
+    "commander": 59,
+    "scenarioClear": 0
+  },
+  {
+    "index": 40,
+    "csid": 6102,
+    "cid": 61,
+    "order": 2,
+    "name": 36103,
+    "desc": 36104,
+    "level": 0,
+    "grade": 0,
+    "cls": 0,
+    "favor": 0,
+    "mapClear": 0,
+    "commander": 23,
+    "scenarioClear": 6101
   }
 ]

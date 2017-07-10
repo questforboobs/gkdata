@@ -1,7 +1,7 @@
 {
   "Localization.txt": [
-    "20170704033500",
-    7829932
+    "20170711001155",
+    7832832
   ],
   "DailyBonusDataTable.json": [
     "20170627000516",
@@ -40,7 +40,7 @@
     14296
   ],
   "GoodsDataTable.json": [
-    "20170620001103",
+    "20170711000356",
     23852
   ],
   "BuildingLevelDataTable.json": [
@@ -64,15 +64,15 @@
     5760
   ],
   "SkillDataTable.json": [
-    "20170704005330",
+    "20170711000808",
     791084
   ],
   "ProjectileDataTable.json": [
-    "20170704005404",
+    "20170711000905",
     201944
   ],
   "StatusEffectDataTable.json": [
-    "20170704005352",
+    "20170711000832",
     217560
   ],
   "MissionTable.json": [
@@ -144,8 +144,8 @@
     172
   ],
   "RewardDataTable.json": [
-    "20170704005212",
-    1488600
+    "20170711000609",
+    1512064
   ],
   "GuildStruggleDataTable.json": [
     "20170523001327",
@@ -164,15 +164,15 @@
     1368
   ],
   "VipRechargeDataTable.json": [
-    "20170620001519",
+    "20170711000933",
     2732
   ],
   "VipExpDataTable.json": [
-    "20170620001505",
+    "20170711000919",
     1024
   ],
   "ShopDataTable.json": [
-    "20170627000850",
+    "20170711000641",
     7000
   ],
   "FavorStepDataTable.json": [
@@ -192,7 +192,7 @@
     83328
   ],
   "DefineDataTable.json": [
-    "20170530040656",
+    "20170711000343",
     7724
   ],
   "DailyEventDataTable.json": [
@@ -208,8 +208,8 @@
     34176
   ],
   "LoadingTipDataTable.json": [
-    "20170523001450",
-    12248
+    "20170711000414",
+    1408
   ],
   "FavorDataTable.json": [
     "20170704005012",
@@ -224,36 +224,36 @@
     11392
   ],
   "CarnivalTypeDataTable.json": [
-    "20170704004752",
-    79916
+    "20170711000301",
+    82008
   ],
   "CarnivalDataTable.json": [
-    "20170704004741",
-    556416
+    "20170711000219",
+    569688
   ],
   "CommanderVoiceDataTable.json": [
     "20170704005000",
     22400
   ],
   "CommanderScenarioDataTable.json": [
-    "20170606001423",
-    7424
+    "20170711000327",
+    8448
   ],
   "ScenarioBattleDataTable.json": [
     "20170523001750",
     172
   ],
   "ScenarioQuarterDataTable.json": [
-    "20170606001534",
-    1880
+    "20170711000629",
+    2092
   ],
   "ScenarioBattleUnitDataTable.json": [
     "20170523001803",
     344
   ],
   "ScenarioLocalization.txt": [
-    "20170704005301",
-    3585624
+    "20170711001023",
+    3495424
   ],
   "RaidChallengeDataTable.json": [
     "20170523001659",
