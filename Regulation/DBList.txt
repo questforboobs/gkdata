@@ -1,7 +1,7 @@
 {
   "Localization.txt": [
-    "20170704033048",
-    7829932
+    "20170711000634",
+    7832832
   ],
   "DailyBonusDataTable.json": [
     "20170627000557",
@@ -40,7 +40,7 @@
     14296
   ],
   "GoodsDataTable.json": [
-    "20170620001141",
+    "20170711000209",
     23852
   ],
   "BuildingLevelDataTable.json": [
@@ -64,15 +64,15 @@
     5760
   ],
   "SkillDataTable.json": [
-    "20170704005643",
-    808832
+    "20170711000340",
+    808876
   ],
   "ProjectileDataTable.json": [
-    "20170704005724",
+    "20170711000409",
     206508
   ],
   "StatusEffectDataTable.json": [
-    "20170704005702",
+    "20170711000358",
     221568
   ],
   "MissionTable.json": [
@@ -144,8 +144,8 @@
     172
   ],
   "RewardDataTable.json": [
-    "20170704005344",
-    1463212
+    "20170711000256",
+    1485016
   ],
   "GuildStruggleDataTable.json": [
     "20170523001441",
@@ -164,15 +164,15 @@
     1368
   ],
   "VipRechargeDataTable.json": [
-    "20170620001727",
+    "20170711000429",
     2732
   ],
   "VipExpDataTable.json": [
-    "20170620001712",
+    "20170711000419",
     1024
   ],
   "ShopDataTable.json": [
-    "20170627001053",
+    "20170711000307",
     7000
   ],
   "FavorStepDataTable.json": [
@@ -192,7 +192,7 @@
     84096
   ],
   "DefineDataTable.json": [
-    "20170530000304",
+    "20170711000200",
     7724
   ],
   "DailyEventDataTable.json": [
@@ -208,8 +208,8 @@
     34944
   ],
   "LoadingTipDataTable.json": [
-    "20170523001606",
-    12248
+    "20170711000220",
+    1408
   ],
   "FavorDataTable.json": [
     "20170704005106",
@@ -224,12 +224,12 @@
     11392
   ],
   "CarnivalTypeDataTable.json": [
-    "20170704004834",
-    79916
+    "20170711000150",
+    82008
   ],
   "CarnivalDataTable.json": [
-    "20170704004815",
-    556416
+    "20170711000141",
+    569688
   ],
   "CommanderVoiceDataTable.json": [
     "20170704005051",
@@ -252,8 +252,8 @@
     344
   ],
   "ScenarioLocalization.txt": [
-    "20170704005452",
-    3585624
+    "20170711000444",
+    3495424
   ],
   "RaidChallengeDataTable.json": [
     "20170620020915",

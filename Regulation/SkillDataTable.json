@@ -11714,12 +11714,12 @@
     "firePatterns": [
       "-",
       "-",
-      "-"
+      "0000P0000"
     ],
     "projectileDrks": [
       0,
       0,
-      0
+      "502841"
     ],
     "cooldownPoint": 5,
     "accuracy": 1,
@@ -15306,7 +15306,7 @@
     "unitLife": 0,
     "remainedHealthRate": -1,
     "initSp": 0,
-    "maxSp": 8000,
+    "maxSp": 6000,
     "spCostOnEnter": -1,
     "spCostOnTurn": 1,
     "spCostOnBeHit": -1,
