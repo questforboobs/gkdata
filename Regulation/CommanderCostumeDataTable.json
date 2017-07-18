@@ -414,6 +414,24 @@
     "stat3": 0
   },
   {
+    "ctid": 6002,
+    "cid": 6,
+    "name": 40073,
+    "Desc": 42073,
+    "sell": 2,
+    "gid": 0,
+    "sellPrice": 0,
+    "atlasNumber": 1,
+    "skinName": 2,
+    "order": 3,
+    "statType1": 6,
+    "stat1": 15,
+    "statType2": 7,
+    "stat2": 50,
+    "statType3": 0,
+    "stat3": 0
+  },
+  {
     "ctid": 6013,
     "cid": 6,
     "name": 40061,
@@ -1620,6 +1638,24 @@
     "stat3": 0
   },
   {
+    "ctid": 33002,
+    "cid": 33,
+    "name": 40074,
+    "Desc": 42074,
+    "sell": 2,
+    "gid": 0,
+    "sellPrice": 0,
+    "atlasNumber": 1,
+    "skinName": 2,
+    "order": 3,
+    "statType1": 1,
+    "stat1": 260,
+    "statType2": 2,
+    "stat2": 60,
+    "statType3": 0,
+    "stat3": 0
+  },
+  {
     "ctid": 33008,
     "cid": 33,
     "name": 40028,
@@ -1762,6 +1798,24 @@
     "stat2": 0,
     "statType3": 0,
     "stat3": 0
+  },
+  {
+    "ctid": 37002,
+    "cid": 37,
+    "name": 40075,
+    "Desc": 42075,
+    "sell": 2,
+    "gid": 0,
+    "sellPrice": 0,
+    "atlasNumber": 1,
+    "skinName": 2,
+    "order": 3,
+    "statType1": 1,
+    "stat1": 175,
+    "statType2": 6,
+    "stat2": 10,
+    "statType3": 7,
+    "stat3": 50
   },
   {
     "ctid": 37013,
@@ -2124,6 +2178,24 @@
     "stat3": 0
   },
   {
+    "ctid": 50002,
+    "cid": 50,
+    "name": 40076,
+    "Desc": 42076,
+    "sell": 2,
+    "gid": 0,
+    "sellPrice": 0,
+    "atlasNumber": 1,
+    "skinName": 2,
+    "order": 3,
+    "statType1": 1,
+    "stat1": 260,
+    "statType2": 6,
+    "stat2": 10,
+    "statType3": 0,
+    "stat3": 0
+  },
+  {
     "ctid": 50014,
     "cid": 50,
     "name": 40065,
@@ -2372,6 +2444,24 @@
     "stat1": 0,
     "statType2": 0,
     "stat2": 0,
+    "statType3": 0,
+    "stat3": 0
+  },
+  {
+    "ctid": 999002,
+    "cid": 999,
+    "name": 40077,
+    "Desc": 42077,
+    "sell": 2,
+    "gid": 0,
+    "sellPrice": 0,
+    "atlasNumber": 1,
+    "skinName": 2,
+    "order": 2,
+    "statType1": 1,
+    "stat1": 260,
+    "statType2": 6,
+    "stat2": 10,
     "statType3": 0,
     "stat3": 0
   }
