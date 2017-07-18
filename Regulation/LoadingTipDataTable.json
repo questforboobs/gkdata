@@ -4,59 +4,59 @@
     "type": 100,
     "userstartlevel": 1,
     "userendlevel": 99,
-    "commanderidx": 42,
+    "commanderidx": 999,
     "backgroundimg": "loading_c004",
-    "commanderjobicon": "com_icon_support",
-    "comjobsidx": 1325,
-    "comnamesidx": 1005042,
-    "comunitnamesidx": 149
+    "commanderjobicon": "com_icon_attack",
+    "comjobsidx": 1005999,
+    "comnamesidx": 1511,
+    "comunitnamesidx": 40077
   },
   {
     "idx": 102,
     "type": 100,
     "userstartlevel": 1,
     "userendlevel": 99,
-    "commanderidx": 42,
-    "backgroundimg": "loading_c030",
+    "commanderidx": 33,
+    "backgroundimg": "loading_c018",
     "commanderjobicon": "com_icon_support",
-    "comjobsidx": 149,
-    "comnamesidx": 1511,
-    "comunitnamesidx": 1512
+    "comjobsidx": 1005033,
+    "comnamesidx": 1512,
+    "comunitnamesidx": 40074
   },
   {
     "idx": 103,
     "type": 100,
     "userstartlevel": 1,
     "userendlevel": 99,
-    "commanderidx": 42,
-    "backgroundimg": "loading_n002",
-    "commanderjobicon": "com_icon_support",
-    "comjobsidx": 1513,
-    "comnamesidx": 1514,
-    "comunitnamesidx": 1005042
+    "commanderidx": 50,
+    "backgroundimg": "loading_c030",
+    "commanderjobicon": "com_icon_attack",
+    "comjobsidx": 1005050,
+    "comnamesidx": 1513,
+    "comunitnamesidx": 40076
   },
   {
     "idx": 104,
     "type": 100,
     "userstartlevel": 1,
     "userendlevel": 99,
-    "commanderidx": 42,
-    "backgroundimg": "loading_c018",
-    "commanderjobicon": "com_icon_support",
-    "comjobsidx": 1325,
-    "comnamesidx": 149,
-    "comunitnamesidx": 1005042
+    "commanderidx": 37,
+    "backgroundimg": "loading_n002",
+    "commanderjobicon": "com_icon_attack",
+    "comjobsidx": 1005037,
+    "comnamesidx": 1514,
+    "comunitnamesidx": 40075
   },
   {
     "idx": 105,
     "type": 100,
     "userstartlevel": 1,
     "userendlevel": 99,
-    "commanderidx": 42,
+    "commanderidx": 6,
     "backgroundimg": "loading_n003",
-    "commanderjobicon": "com_icon_support",
-    "comjobsidx": 1005042,
+    "commanderjobicon": "com_icon_attack",
+    "comjobsidx": 1005006,
     "comnamesidx": 1515,
-    "comunitnamesidx": 1917
+    "comunitnamesidx": 40073
   }
 ]
