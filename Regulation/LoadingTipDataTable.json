@@ -4,59 +4,59 @@
     "type": 100,
     "userstartlevel": 1,
     "userendlevel": 99,
-    "commanderidx": 999,
+    "commanderidx": 23,
     "backgroundimg": "loading_c004",
     "commanderjobicon": "com_icon_attack",
-    "comjobsidx": 1005999,
-    "comnamesidx": 1511,
-    "comunitnamesidx": 40077
+    "comjobsidx": 1005023,
+    "comnamesidx": 1516,
+    "comunitnamesidx": 40079
   },
   {
     "idx": 102,
     "type": 100,
     "userstartlevel": 1,
     "userendlevel": 99,
-    "commanderidx": 33,
+    "commanderidx": 60,
     "backgroundimg": "loading_c018",
-    "commanderjobicon": "com_icon_support",
-    "comjobsidx": 1005033,
-    "comnamesidx": 1512,
-    "comunitnamesidx": 40074
+    "commanderjobicon": "com_icon_defense",
+    "comjobsidx": 1005060,
+    "comnamesidx": 1517,
+    "comunitnamesidx": 40081
   },
   {
     "idx": 103,
     "type": 100,
     "userstartlevel": 1,
     "userendlevel": 99,
-    "commanderidx": 50,
+    "commanderidx": 59,
     "backgroundimg": "loading_c030",
-    "commanderjobicon": "com_icon_attack",
-    "comjobsidx": 1005050,
-    "comnamesidx": 1513,
-    "comunitnamesidx": 40076
+    "commanderjobicon": "com_icon_support",
+    "comjobsidx": 1005059,
+    "comnamesidx": 1518,
+    "comunitnamesidx": 40080
   },
   {
     "idx": 104,
     "type": 100,
     "userstartlevel": 1,
     "userendlevel": 99,
-    "commanderidx": 37,
+    "commanderidx": 61,
     "backgroundimg": "loading_n002",
     "commanderjobicon": "com_icon_attack",
-    "comjobsidx": 1005037,
-    "comnamesidx": 1514,
-    "comunitnamesidx": 40075
+    "comjobsidx": 1005061,
+    "comnamesidx": 1519,
+    "comunitnamesidx": 40082
   },
   {
     "idx": 105,
     "type": 100,
     "userstartlevel": 1,
     "userendlevel": 99,
-    "commanderidx": 6,
+    "commanderidx": 10,
     "backgroundimg": "loading_n003",
     "commanderjobicon": "com_icon_attack",
-    "comjobsidx": 1005006,
-    "comnamesidx": 1515,
-    "comunitnamesidx": 40073
+    "comjobsidx": 1005010,
+    "comnamesidx": 1520,
+    "comunitnamesidx": 40078
   }
 ]

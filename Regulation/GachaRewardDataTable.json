@@ -899,7 +899,7 @@
     "index": 112,
     "gachaType": 2,
     "rewardType": 7,
-    "rewardId": 13002,
+    "rewardId": 10002,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -907,7 +907,7 @@
     "index": 113,
     "gachaType": 2,
     "rewardType": 7,
-    "rewardId": 17002,
+    "rewardId": 13002,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -915,7 +915,7 @@
     "index": 114,
     "gachaType": 2,
     "rewardType": 7,
-    "rewardId": 18002,
+    "rewardId": 17002,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -923,7 +923,7 @@
     "index": 115,
     "gachaType": 2,
     "rewardType": 7,
-    "rewardId": 19002,
+    "rewardId": 18002,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -931,7 +931,7 @@
     "index": 116,
     "gachaType": 2,
     "rewardType": 7,
-    "rewardId": 21002,
+    "rewardId": 19002,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -939,7 +939,7 @@
     "index": 117,
     "gachaType": 2,
     "rewardType": 7,
-    "rewardId": 22002,
+    "rewardId": 21002,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -947,7 +947,7 @@
     "index": 118,
     "gachaType": 2,
     "rewardType": 7,
-    "rewardId": 26002,
+    "rewardId": 22002,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -955,7 +955,7 @@
     "index": 119,
     "gachaType": 2,
     "rewardType": 7,
-    "rewardId": 33002,
+    "rewardId": 23002,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -963,7 +963,7 @@
     "index": 120,
     "gachaType": 2,
     "rewardType": 7,
-    "rewardId": 35002,
+    "rewardId": 26002,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -971,7 +971,7 @@
     "index": 121,
     "gachaType": 2,
     "rewardType": 7,
-    "rewardId": 37002,
+    "rewardId": 33002,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -979,7 +979,7 @@
     "index": 122,
     "gachaType": 2,
     "rewardType": 7,
-    "rewardId": 50002,
+    "rewardId": 35002,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -987,47 +987,47 @@
     "index": 123,
     "gachaType": 2,
     "rewardType": 7,
-    "rewardId": 999002,
+    "rewardId": 37002,
     "rewardCount": 1,
     "effectType": 1
   },
   {
     "index": 124,
-    "gachaType": 10,
-    "rewardType": 3,
-    "rewardId": 6,
+    "gachaType": 2,
+    "rewardType": 7,
+    "rewardId": 50002,
     "rewardCount": 1,
     "effectType": 1
   },
   {
     "index": 125,
-    "gachaType": 10,
-    "rewardType": 3,
-    "rewardId": 8,
+    "gachaType": 2,
+    "rewardType": 7,
+    "rewardId": 59002,
     "rewardCount": 1,
     "effectType": 1
   },
   {
     "index": 126,
-    "gachaType": 10,
-    "rewardType": 3,
-    "rewardId": 9,
+    "gachaType": 2,
+    "rewardType": 7,
+    "rewardId": 60002,
     "rewardCount": 1,
     "effectType": 1
   },
   {
     "index": 127,
-    "gachaType": 10,
-    "rewardType": 3,
-    "rewardId": 15,
+    "gachaType": 2,
+    "rewardType": 7,
+    "rewardId": 61002,
     "rewardCount": 1,
     "effectType": 1
   },
   {
     "index": 128,
-    "gachaType": 10,
-    "rewardType": 3,
-    "rewardId": 18,
+    "gachaType": 2,
+    "rewardType": 7,
+    "rewardId": 999002,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1035,7 +1035,7 @@
     "index": 129,
     "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 23,
+    "rewardId": 6,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1043,7 +1043,7 @@
     "index": 130,
     "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 28,
+    "rewardId": 8,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1051,7 +1051,7 @@
     "index": 131,
     "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 29,
+    "rewardId": 9,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1059,7 +1059,7 @@
     "index": 132,
     "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 33,
+    "rewardId": 15,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1067,7 +1067,7 @@
     "index": 133,
     "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 34,
+    "rewardId": 18,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1075,7 +1075,7 @@
     "index": 134,
     "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 35,
+    "rewardId": 23,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1083,7 +1083,7 @@
     "index": 135,
     "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 36,
+    "rewardId": 28,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1091,7 +1091,7 @@
     "index": 136,
     "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 37,
+    "rewardId": 29,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1099,7 +1099,7 @@
     "index": 137,
     "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 38,
+    "rewardId": 33,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1107,7 +1107,7 @@
     "index": 138,
     "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 43,
+    "rewardId": 34,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1115,7 +1115,7 @@
     "index": 139,
     "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 44,
+    "rewardId": 35,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1123,7 +1123,7 @@
     "index": 140,
     "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 49,
+    "rewardId": 36,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1131,7 +1131,7 @@
     "index": 141,
     "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 52,
+    "rewardId": 37,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1139,7 +1139,7 @@
     "index": 142,
     "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 53,
+    "rewardId": 38,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1147,7 +1147,7 @@
     "index": 143,
     "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 54,
+    "rewardId": 43,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1155,7 +1155,7 @@
     "index": 144,
     "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 55,
+    "rewardId": 44,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1163,7 +1163,7 @@
     "index": 145,
     "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 56,
+    "rewardId": 49,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1171,7 +1171,7 @@
     "index": 146,
     "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 59,
+    "rewardId": 52,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1179,7 +1179,7 @@
     "index": 147,
     "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 60,
+    "rewardId": 53,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1187,47 +1187,47 @@
     "index": 148,
     "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 61,
+    "rewardId": 54,
     "rewardCount": 1,
     "effectType": 1
   },
   {
     "index": 149,
-    "gachaType": 11,
+    "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 6,
+    "rewardId": 55,
     "rewardCount": 1,
     "effectType": 1
   },
   {
     "index": 150,
-    "gachaType": 11,
+    "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 18,
+    "rewardId": 56,
     "rewardCount": 1,
     "effectType": 1
   },
   {
     "index": 151,
-    "gachaType": 11,
+    "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 23,
+    "rewardId": 59,
     "rewardCount": 1,
     "effectType": 1
   },
   {
     "index": 152,
-    "gachaType": 11,
+    "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 28,
+    "rewardId": 60,
     "rewardCount": 1,
     "effectType": 1
   },
   {
     "index": 153,
-    "gachaType": 11,
+    "gachaType": 10,
     "rewardType": 3,
-    "rewardId": 35,
+    "rewardId": 61,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1235,7 +1235,7 @@
     "index": 154,
     "gachaType": 11,
     "rewardType": 3,
-    "rewardId": 37,
+    "rewardId": 6,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1243,7 +1243,7 @@
     "index": 155,
     "gachaType": 11,
     "rewardType": 3,
-    "rewardId": 43,
+    "rewardId": 18,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1251,7 +1251,7 @@
     "index": 156,
     "gachaType": 11,
     "rewardType": 3,
-    "rewardId": 49,
+    "rewardId": 23,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1259,7 +1259,7 @@
     "index": 157,
     "gachaType": 11,
     "rewardType": 3,
-    "rewardId": 52,
+    "rewardId": 28,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1267,7 +1267,7 @@
     "index": 158,
     "gachaType": 11,
     "rewardType": 3,
-    "rewardId": 54,
+    "rewardId": 35,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1275,7 +1275,7 @@
     "index": 159,
     "gachaType": 11,
     "rewardType": 3,
-    "rewardId": 55,
+    "rewardId": 37,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1283,47 +1283,47 @@
     "index": 160,
     "gachaType": 11,
     "rewardType": 3,
-    "rewardId": 61,
+    "rewardId": 43,
     "rewardCount": 1,
     "effectType": 1
   },
   {
     "index": 161,
-    "gachaType": 12,
+    "gachaType": 11,
     "rewardType": 3,
-    "rewardId": 8,
+    "rewardId": 49,
     "rewardCount": 1,
     "effectType": 1
   },
   {
     "index": 162,
-    "gachaType": 12,
+    "gachaType": 11,
     "rewardType": 3,
-    "rewardId": 9,
+    "rewardId": 52,
     "rewardCount": 1,
     "effectType": 1
   },
   {
     "index": 163,
-    "gachaType": 12,
+    "gachaType": 11,
     "rewardType": 3,
-    "rewardId": 15,
+    "rewardId": 54,
     "rewardCount": 1,
     "effectType": 1
   },
   {
     "index": 164,
-    "gachaType": 12,
+    "gachaType": 11,
     "rewardType": 3,
-    "rewardId": 29,
+    "rewardId": 55,
     "rewardCount": 1,
     "effectType": 1
   },
   {
     "index": 165,
-    "gachaType": 12,
+    "gachaType": 11,
     "rewardType": 3,
-    "rewardId": 34,
+    "rewardId": 61,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1331,7 +1331,7 @@
     "index": 166,
     "gachaType": 12,
     "rewardType": 3,
-    "rewardId": 36,
+    "rewardId": 8,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1339,7 +1339,7 @@
     "index": 167,
     "gachaType": 12,
     "rewardType": 3,
-    "rewardId": 44,
+    "rewardId": 9,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1347,7 +1347,7 @@
     "index": 168,
     "gachaType": 12,
     "rewardType": 3,
-    "rewardId": 53,
+    "rewardId": 15,
     "rewardCount": 1,
     "effectType": 1
   },
@@ -1355,12 +1355,52 @@
     "index": 169,
     "gachaType": 12,
     "rewardType": 3,
-    "rewardId": 60,
+    "rewardId": 29,
     "rewardCount": 1,
     "effectType": 1
   },
   {
     "index": 170,
+    "gachaType": 12,
+    "rewardType": 3,
+    "rewardId": 34,
+    "rewardCount": 1,
+    "effectType": 1
+  },
+  {
+    "index": 171,
+    "gachaType": 12,
+    "rewardType": 3,
+    "rewardId": 36,
+    "rewardCount": 1,
+    "effectType": 1
+  },
+  {
+    "index": 172,
+    "gachaType": 12,
+    "rewardType": 3,
+    "rewardId": 44,
+    "rewardCount": 1,
+    "effectType": 1
+  },
+  {
+    "index": 173,
+    "gachaType": 12,
+    "rewardType": 3,
+    "rewardId": 53,
+    "rewardCount": 1,
+    "effectType": 1
+  },
+  {
+    "index": 174,
+    "gachaType": 12,
+    "rewardType": 3,
+    "rewardId": 60,
+    "rewardCount": 1,
+    "effectType": 1
+  },
+  {
+    "index": 175,
     "gachaType": 13,
     "rewardType": 3,
     "rewardId": 33,
@@ -1368,7 +1408,7 @@
     "effectType": 1
   },
   {
-    "index": 171,
+    "index": 176,
     "gachaType": 13,
     "rewardType": 3,
     "rewardId": 38,
@@ -1376,7 +1416,7 @@
     "effectType": 1
   },
   {
-    "index": 172,
+    "index": 177,
     "gachaType": 13,
     "rewardType": 3,
     "rewardId": 56,
@@ -1384,7 +1424,7 @@
     "effectType": 1
   },
   {
-    "index": 173,
+    "index": 178,
     "gachaType": 13,
     "rewardType": 3,
     "rewardId": 59,
