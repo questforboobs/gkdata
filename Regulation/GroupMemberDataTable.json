@@ -364,6 +364,41 @@
     "memberIdx": 999002
   },
   {
+    "gidx": 36,
+    "idx": 1,
+    "memberType": 0,
+    "grade": 0,
+    "memberIdx": 10002
+  },
+  {
+    "gidx": 36,
+    "idx": 2,
+    "memberType": 0,
+    "grade": 0,
+    "memberIdx": 23002
+  },
+  {
+    "gidx": 36,
+    "idx": 3,
+    "memberType": 0,
+    "grade": 0,
+    "memberIdx": 59002
+  },
+  {
+    "gidx": 36,
+    "idx": 4,
+    "memberType": 0,
+    "grade": 0,
+    "memberIdx": 60002
+  },
+  {
+    "gidx": 36,
+    "idx": 5,
+    "memberType": 0,
+    "grade": 0,
+    "memberIdx": 61002
+  },
+  {
     "gidx": 41,
     "idx": 1,
     "memberType": 1,

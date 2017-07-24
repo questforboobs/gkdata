@@ -121,6 +121,17 @@
     "minCount": 3
   },
   {
+    "groupIdx": 36,
+    "tabidx": 1,
+    "groupName": 10169,
+    "tabname": 10901,
+    "groupComment": 10720,
+    "typeIndex": 2,
+    "rewardType": 103,
+    "rewardIdx": 1005,
+    "minCount": 700
+  },
+  {
     "groupIdx": 41,
     "tabidx": 1,
     "groupName": 10109,

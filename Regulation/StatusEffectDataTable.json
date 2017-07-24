@@ -4606,7 +4606,7 @@
     "speedBonus": 0,
     "accuracyBonus": 0,
     "luckBonus": 0,
-    "defenseBonus": -20,
+    "defenseBonus": -30,
     "criticalChanceBonus": 0,
     "criticalDamageBonus": 0,
     "chance": 100,

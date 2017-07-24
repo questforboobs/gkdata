@@ -1,10 +1,10 @@
 {
   "Localization.txt": [
-    "20170718031745",
-    7841024
+    "20170725032138",
+    7943000
   ],
   "DailyBonusDataTable.json": [
-    "20170627000557",
+    "20170725000742",
     10840
   ],
   "CommanderDataTable.json": [
@@ -36,7 +36,7 @@
     773932
   ],
   "UserLevelDataTable.json": [
-    "20170718000106",
+    "20170725001148",
     14808
   ],
   "GoodsDataTable.json": [
@@ -72,7 +72,7 @@
     206508
   ],
   "StatusEffectDataTable.json": [
-    "20170711000358",
+    "20170725001139",
     221568
   ],
   "MissionTable.json": [
@@ -116,7 +116,7 @@
     26028
   ],
   "PartDataTable.json": [
-    "20170627000930",
+    "20170725000905",
     26752
   ],
   "AchievementTable.json": [
@@ -124,7 +124,7 @@
     44248
   ],
   "GachaDataTable.json": [
-    "20170523001157",
+    "20170725000807",
     2176
   ],
   "GachaCostDataTable.json": [
@@ -132,8 +132,8 @@
     940
   ],
   "GachaRewardDataTable.json": [
-    "20170717235757",
-    20396
+    "20170725000815",
+    20992
   ],
   "LevelPatternDataTable.json": [
     "20170704005306",
@@ -144,8 +144,8 @@
     172
   ],
   "RewardDataTable.json": [
-    "20170717235941",
-    1505752
+    "20170725000921",
+    1524864
   ],
   "GuildStruggleDataTable.json": [
     "20170523001441",
@@ -188,12 +188,12 @@
     239020
   ],
   "ItemExchangeDataTable.json": [
-    "20170717235857",
-    85336
+    "20170725000847",
+    86616
   ],
   "DefineDataTable.json": [
-    "20170711000200",
-    7724
+    "20170725000752",
+    7768
   ],
   "DailyEventDataTable.json": [
     "20170620014602",
@@ -204,11 +204,11 @@
     19840
   ],
   "CommanderCostumeDataTable.json": [
-    "20170717235744",
-    36224
+    "20170725000731",
+    37548
   ],
   "LoadingTipDataTable.json": [
-    "20170717235909",
+    "20170725000856",
     1408
   ],
   "FavorDataTable.json": [
@@ -224,12 +224,12 @@
     11392
   ],
   "CarnivalTypeDataTable.json": [
-    "20170717235723",
-    83928
+    "20170725000713",
+    86488
   ],
   "CarnivalDataTable.json": [
-    "20170717235650",
-    581720
+    "20170725000704",
+    602328
   ],
   "CommanderVoiceDataTable.json": [
     "20170704005051",
@@ -252,8 +252,8 @@
     344
   ],
   "ScenarioLocalization.txt": [
-    "20170718000005",
-    3495468
+    "20170725001057",
+    3495424
   ],
   "RaidChallengeDataTable.json": [
     "20170620020915",
@@ -288,11 +288,11 @@
     2136
   ],
   "GroupInfoDataTable.json": [
-    "20170717235825",
-    12632
+    "20170725000823",
+    12844
   ],
   "GroupMemberDataTable.json": [
-    "20170717235838",
-    22828
+    "20170725000840",
+    23256
   ]
 }

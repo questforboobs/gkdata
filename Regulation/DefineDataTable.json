@@ -84,6 +84,10 @@
     "value": "0"
   },
   {
+    "key": "CHAT_BLOCK_USER_MAX_COUNT",
+    "value": "100"
+  },
+  {
     "key": "COMMANDER_EMPLOY_TRANSMISSION_MEDAL_PERCENT",
     "value": "70"
   },
