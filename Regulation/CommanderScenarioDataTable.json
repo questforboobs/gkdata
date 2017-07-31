@@ -703,5 +703,35 @@
     "mapClear": 0,
     "commander": 23,
     "scenarioClear": 6101
+  },
+  {
+    "index": 47,
+    "csid": 6301,
+    "cid": 63,
+    "order": 1,
+    "name": 36301,
+    "desc": 36302,
+    "level": 0,
+    "grade": 0,
+    "cls": 9,
+    "favor": 0,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 0
+  },
+  {
+    "index": 48,
+    "csid": 6302,
+    "cid": 63,
+    "order": 2,
+    "name": 36303,
+    "desc": 36304,
+    "level": 0,
+    "grade": 0,
+    "cls": 0,
+    "favor": 1,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 6301
   }
 ]
