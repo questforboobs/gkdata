@@ -219,7 +219,7 @@
     "price": 500,
     "navigatortype1": 6,
     "position1": 0,
-    "navigatortype2": 18,
+    "navigatortype2": 16,
     "position2": 0,
     "navigatortype3": 0,
     "position3": 0
@@ -442,7 +442,7 @@
     "pricetype": 1,
     "pricetypeidx": 4,
     "price": 500,
-    "navigatortype1": 19,
+    "navigatortype1": 17,
     "position1": 0,
     "navigatortype2": 0,
     "position2": 0,
@@ -457,7 +457,7 @@
     "pricetype": 1,
     "pricetypeidx": 4,
     "price": 500,
-    "navigatortype1": 17,
+    "navigatortype1": 19,
     "position1": 0,
     "navigatortype2": 0,
     "position2": 0,
@@ -609,7 +609,7 @@
     "price": 500,
     "navigatortype1": 6,
     "position1": 0,
-    "navigatortype2": 16,
+    "navigatortype2": 18,
     "position2": 0,
     "navigatortype3": 0,
     "position3": 0
@@ -654,7 +654,7 @@
     "price": 500,
     "navigatortype1": 6,
     "position1": 0,
-    "navigatortype2": 16,
+    "navigatortype2": 18,
     "position2": 0,
     "navigatortype3": 0,
     "position3": 0
@@ -684,7 +684,7 @@
     "price": 500,
     "navigatortype1": 6,
     "position1": 0,
-    "navigatortype2": 18,
+    "navigatortype2": 16,
     "position2": 0,
     "navigatortype3": 0,
     "position3": 0
@@ -894,7 +894,7 @@
     "price": 500,
     "navigatortype1": 6,
     "position1": 0,
-    "navigatortype2": 18,
+    "navigatortype2": 16,
     "position2": 0,
     "navigatortype3": 0,
     "position3": 0
@@ -909,7 +909,7 @@
     "price": 500,
     "navigatortype1": 6,
     "position1": 0,
-    "navigatortype2": 16,
+    "navigatortype2": 18,
     "position2": 0,
     "navigatortype3": 0,
     "position3": 0
@@ -1014,7 +1014,7 @@
     "price": 500,
     "navigatortype1": 6,
     "position1": 0,
-    "navigatortype2": 18,
+    "navigatortype2": 16,
     "position2": 0,
     "navigatortype3": 0,
     "position3": 0
@@ -1029,7 +1029,7 @@
     "price": 500,
     "navigatortype1": 6,
     "position1": 0,
-    "navigatortype2": 16,
+    "navigatortype2": 18,
     "position2": 0,
     "navigatortype3": 0,
     "position3": 0
