@@ -1309,6 +1309,23 @@
     }
   },
   {
+    "key": "50642",
+    "on": {
+      "duration": 7500,
+      "eventTime": 0,
+      "fireDelayTime": 0,
+      "hitDelayTime": 1200,
+      "timeSleepDuringFire": true
+    },
+    "off": {
+      "duration": 7500,
+      "eventTime": -1,
+      "fireDelayTime": 0,
+      "hitDelayTime": 0,
+      "timeSleepDuringFire": true
+    }
+  },
+  {
     "key": "59962",
     "on": {
       "duration": 7000,

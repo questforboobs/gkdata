@@ -733,5 +733,20 @@
     "mapClear": 0,
     "commander": 0,
     "scenarioClear": 6301
+  },
+  {
+    "index": 49,
+    "csid": 6401,
+    "cid": 64,
+    "order": 1,
+    "name": 36401,
+    "desc": 36402,
+    "level": 0,
+    "grade": 0,
+    "cls": 9,
+    "favor": 0,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 0
   }
 ]
