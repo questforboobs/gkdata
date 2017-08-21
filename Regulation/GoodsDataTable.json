@@ -1260,6 +1260,30 @@
     "icon": "Goods-medl"
   },
   {
+    "type": 301,
+    "name": 4363,
+    "serverFieldName": "box200",
+    "max": 999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4364,
+    "storage": 1,
+    "icon": "icon_img_commander"
+  },
+  {
+    "type": 302,
+    "name": 4365,
+    "serverFieldName": "box201",
+    "max": 999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4366,
+    "storage": 1,
+    "icon": "Goods_event_icon02"
+  },
+  {
     "type": 999,
     "name": 4025,
     "serverFieldName": "sec",
@@ -1301,7 +1325,7 @@
     "serverFieldName": "skil",
     "max": 9999,
     "rechargeType": 2,
-    "rechargeTime": 150,
+    "rechargeTime": 300,
     "rechargeMax": 0,
     "description": 4059,
     "storage": 0,

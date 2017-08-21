@@ -1413,6 +1413,15 @@
     "storage": 1
   },
   {
+    "type": 20101,
+    "grade": 1,
+    "name": 4367,
+    "serverFieldName": "event_icon09",
+    "max": 99999,
+    "description": 4368,
+    "storage": 1
+  },
+  {
     "type": 30001,
     "grade": 1,
     "name": 5010401,

@@ -757,5 +757,16 @@
     "rewardType": 5,
     "rewardIdx": 10101,
     "minCount": 200
+  },
+  {
+    "groupIdx": 301,
+    "tabidx": 5,
+    "groupName": 10170,
+    "tabname": 10905,
+    "groupComment": 10721,
+    "typeIndex": 2,
+    "rewardType": 102,
+    "rewardIdx": 988,
+    "minCount": 100
   }
 ]

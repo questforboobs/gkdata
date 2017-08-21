@@ -2000,5 +2000,19 @@
     "memberType": 1,
     "grade": 1,
     "memberIdx": 39
+  },
+  {
+    "gidx": 301,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 988
+  },
+  {
+    "gidx": 301,
+    "idx": 2,
+    "memberType": 2,
+    "grade": 1,
+    "memberIdx": 301
   }
 ]
