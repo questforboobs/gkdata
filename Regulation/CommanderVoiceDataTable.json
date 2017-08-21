@@ -1745,6 +1745,31 @@
     "voicesound": "voice_64_07"
   },
   {
+    "index": 988,
+    "type": 4,
+    "voicesound": "voice_988_01"
+  },
+  {
+    "index": 988,
+    "type": 5,
+    "voicesound": "voice_988_02"
+  },
+  {
+    "index": 988,
+    "type": 8,
+    "voicesound": "voice_988_05"
+  },
+  {
+    "index": 988,
+    "type": 9,
+    "voicesound": "voice_988_05"
+  },
+  {
+    "index": 988,
+    "type": 10,
+    "voicesound": "voice_988_07"
+  },
+  {
     "index": 996,
     "type": 4,
     "voicesound": "voice_996_01"

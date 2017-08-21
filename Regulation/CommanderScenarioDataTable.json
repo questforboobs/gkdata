@@ -361,6 +361,36 @@
   },
   {
     "index": 24,
+    "csid": 2401,
+    "cid": 24,
+    "order": 1,
+    "name": 32401,
+    "desc": 32402,
+    "level": 0,
+    "grade": 0,
+    "cls": 9,
+    "favor": 0,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 0
+  },
+  {
+    "index": 25,
+    "csid": 2402,
+    "cid": 24,
+    "order": 2,
+    "name": 32403,
+    "desc": 32404,
+    "level": 0,
+    "grade": 0,
+    "cls": 0,
+    "favor": 1,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 2401
+  },
+  {
+    "index": 26,
     "csid": 2601,
     "cid": 26,
     "order": 1,
@@ -375,7 +405,7 @@
     "scenarioClear": 0
   },
   {
-    "index": 25,
+    "index": 27,
     "csid": 2602,
     "cid": 26,
     "order": 2,
@@ -390,7 +420,7 @@
     "scenarioClear": 2601
   },
   {
-    "index": 26,
+    "index": 28,
     "csid": 2603,
     "cid": 26,
     "order": 3,
@@ -405,7 +435,7 @@
     "scenarioClear": 2602
   },
   {
-    "index": 27,
+    "index": 29,
     "csid": 2604,
     "cid": 26,
     "order": 4,
@@ -420,7 +450,7 @@
     "scenarioClear": 2603
   },
   {
-    "index": 28,
+    "index": 30,
     "csid": 2901,
     "cid": 29,
     "order": 1,
@@ -435,7 +465,7 @@
     "scenarioClear": 0
   },
   {
-    "index": 29,
+    "index": 31,
     "csid": 3201,
     "cid": 32,
     "order": 1,
@@ -450,7 +480,7 @@
     "scenarioClear": 0
   },
   {
-    "index": 30,
+    "index": 32,
     "csid": 3202,
     "cid": 32,
     "order": 2,
@@ -465,7 +495,7 @@
     "scenarioClear": 3201
   },
   {
-    "index": 31,
+    "index": 33,
     "csid": 3203,
     "cid": 32,
     "order": 3,
@@ -480,7 +510,7 @@
     "scenarioClear": 3202
   },
   {
-    "index": 32,
+    "index": 34,
     "csid": 3204,
     "cid": 32,
     "order": 4,
@@ -495,7 +525,7 @@
     "scenarioClear": 3203
   },
   {
-    "index": 33,
+    "index": 35,
     "csid": 3205,
     "cid": 32,
     "order": 5,
@@ -510,7 +540,7 @@
     "scenarioClear": 3204
   },
   {
-    "index": 34,
+    "index": 36,
     "csid": 4101,
     "cid": 41,
     "order": 1,
@@ -525,7 +555,7 @@
     "scenarioClear": 0
   },
   {
-    "index": 35,
+    "index": 37,
     "csid": 4102,
     "cid": 41,
     "order": 2,
@@ -540,7 +570,7 @@
     "scenarioClear": 4101
   },
   {
-    "index": 36,
+    "index": 38,
     "csid": 4103,
     "cid": 41,
     "order": 3,
@@ -555,7 +585,7 @@
     "scenarioClear": 4102
   },
   {
-    "index": 37,
+    "index": 39,
     "csid": 4104,
     "cid": 41,
     "order": 4,
@@ -570,7 +600,7 @@
     "scenarioClear": 4103
   },
   {
-    "index": 38,
+    "index": 40,
     "csid": 5201,
     "cid": 52,
     "order": 1,
@@ -585,7 +615,7 @@
     "scenarioClear": 0
   },
   {
-    "index": 39,
+    "index": 41,
     "csid": 5301,
     "cid": 53,
     "order": 1,
@@ -600,7 +630,7 @@
     "scenarioClear": 0
   },
   {
-    "index": 40,
+    "index": 42,
     "csid": 5401,
     "cid": 54,
     "order": 1,
@@ -615,7 +645,7 @@
     "scenarioClear": 0
   },
   {
-    "index": 41,
+    "index": 43,
     "csid": 5501,
     "cid": 55,
     "order": 1,
@@ -630,7 +660,7 @@
     "scenarioClear": 0
   },
   {
-    "index": 42,
+    "index": 44,
     "csid": 5601,
     "cid": 56,
     "order": 1,
@@ -645,7 +675,7 @@
     "scenarioClear": 0
   },
   {
-    "index": 43,
+    "index": 45,
     "csid": 5901,
     "cid": 59,
     "order": 1,
@@ -660,7 +690,7 @@
     "scenarioClear": 0
   },
   {
-    "index": 44,
+    "index": 46,
     "csid": 6001,
     "cid": 60,
     "order": 1,
@@ -675,7 +705,7 @@
     "scenarioClear": 0
   },
   {
-    "index": 45,
+    "index": 47,
     "csid": 6101,
     "cid": 61,
     "order": 1,
@@ -690,7 +720,7 @@
     "scenarioClear": 0
   },
   {
-    "index": 46,
+    "index": 48,
     "csid": 6102,
     "cid": 61,
     "order": 2,
@@ -705,7 +735,7 @@
     "scenarioClear": 6101
   },
   {
-    "index": 47,
+    "index": 49,
     "csid": 6301,
     "cid": 63,
     "order": 1,
@@ -720,7 +750,7 @@
     "scenarioClear": 0
   },
   {
-    "index": 48,
+    "index": 50,
     "csid": 6302,
     "cid": 63,
     "order": 2,
@@ -735,7 +765,7 @@
     "scenarioClear": 6301
   },
   {
-    "index": 49,
+    "index": 51,
     "csid": 6401,
     "cid": 64,
     "order": 1,

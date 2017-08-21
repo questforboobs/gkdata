@@ -433,7 +433,7 @@
   },
   {
     "iapidx": 1001,
-    "sort": 1,
+    "sort": 2,
     "cash": 1200,
     "type": 4,
     "wonPrice": 33000,
@@ -457,7 +457,7 @@
   },
   {
     "iapidx": 1002,
-    "sort": 2,
+    "sort": 3,
     "cash": 1200,
     "type": 4,
     "wonPrice": 33000,
@@ -481,7 +481,7 @@
   },
   {
     "iapidx": 1003,
-    "sort": 3,
+    "sort": 4,
     "cash": 1200,
     "type": 4,
     "wonPrice": 33000,
@@ -505,7 +505,7 @@
   },
   {
     "iapidx": 1004,
-    "sort": 4,
+    "sort": 5,
     "cash": 1200,
     "type": 4,
     "wonPrice": 33000,
@@ -524,6 +524,30 @@
     "icon": "pay-package-04",
     "explanation": 7181,
     "stringidxEvent": 7186,
+    "explanationEvent": 7181,
+    "explanationFirst": 7181
+  },
+  {
+    "iapidx": 1005,
+    "sort": 1,
+    "cash": 1200,
+    "type": 4,
+    "wonPrice": 33000,
+    "dollarPrice": 32.99,
+    "jpnPrice": 32.99,
+    "beonPrice": 32.99,
+    "espPrice": 32.99,
+    "deuPrice": 32.99,
+    "idnPrice": 32.99,
+    "thaPrice": 32.99,
+    "froPrice": 32.99,
+    "googlePlayID": "gk.package.pilot01",
+    "onestoreID": "0910077191",
+    "isSell": 2,
+    "stringidx": 7212,
+    "icon": "pay-package-05",
+    "explanation": 7181,
+    "stringidxEvent": 7212,
     "explanationEvent": 7181,
     "explanationFirst": 7181
   }
