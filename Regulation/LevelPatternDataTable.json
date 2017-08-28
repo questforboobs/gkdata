@@ -3598,5 +3598,55 @@
     "def": 7,
     "aim": 73,
     "luck": 5
+  },
+  {
+    "index": 360,
+    "key": 989,
+    "tier": 1,
+    "hp": 37,
+    "atk": 10,
+    "def": 1,
+    "aim": 11,
+    "luck": 1
+  },
+  {
+    "index": 361,
+    "key": 989,
+    "tier": 2,
+    "hp": 73,
+    "atk": 19,
+    "def": 1,
+    "aim": 22,
+    "luck": 2
+  },
+  {
+    "index": 362,
+    "key": 989,
+    "tier": 3,
+    "hp": 121,
+    "atk": 32,
+    "def": 1,
+    "aim": 36,
+    "luck": 3
+  },
+  {
+    "index": 363,
+    "key": 989,
+    "tier": 4,
+    "hp": 169,
+    "atk": 45,
+    "def": 2,
+    "aim": 50,
+    "luck": 4
+  },
+  {
+    "index": 364,
+    "key": 989,
+    "tier": 5,
+    "hp": 241,
+    "atk": 63,
+    "def": 2,
+    "aim": 71,
+    "luck": 5
   }
 ]

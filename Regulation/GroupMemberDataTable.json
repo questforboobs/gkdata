@@ -2014,5 +2014,19 @@
     "memberType": 2,
     "grade": 1,
     "memberIdx": 301
+  },
+  {
+    "gidx": 302,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 989
+  },
+  {
+    "gidx": 302,
+    "idx": 2,
+    "memberType": 2,
+    "grade": 1,
+    "memberIdx": 303
   }
 ]
