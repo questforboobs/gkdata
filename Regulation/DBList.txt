@@ -1,15 +1,15 @@
 {
   "Localization.txt": [
-    "20170822001716",
-    8178988
+    "20170829002818",
+    8270892
   ],
   "DailyBonusDataTable.json": [
-    "20170725000742",
+    "20170829001623",
     10840
   ],
   "CommanderDataTable.json": [
-    "20170822000012",
-    88876
+    "20170829001510",
+    89216
   ],
   "WorldMapDataTable.json": [
     "20170627000916",
@@ -20,8 +20,8 @@
     101848
   ],
   "UnitDataTable.json": [
-    "20170822001417",
-    2484056
+    "20170829002537",
+    2484696
   ],
   "WorldMapStageTypeDataTable.json": [
     "20170523001636",
@@ -40,8 +40,8 @@
     14808
   ],
   "GoodsDataTable.json": [
-    "20170822000226",
-    24320
+    "20170829001706",
+    24748
   ],
   "BuildingLevelDataTable.json": [
     "20170523000414",
@@ -64,16 +64,16 @@
     5760
   ],
   "SkillDataTable.json": [
-    "20170822000848",
-    826328
+    "20170829002305",
+    832172
   ],
   "ProjectileDataTable.json": [
-    "20170822000918",
-    211500
+    "20170829002401",
+    213036
   ],
   "StatusEffectDataTable.json": [
-    "20170822000903",
-    227756
+    "20170829002326",
+    229464
   ],
   "MissionTable.json": [
     "20170627000610",
@@ -92,32 +92,32 @@
     14936
   ],
   "SkillUpgradeDataTable.json": [
-    "20170822000932",
-    133676
+    "20170829002417",
+    135296
   ],
   "InteractionDataTable.json": [
-    "20170822000403",
-    605228
+    "20170829001836",
+    613504
   ],
   "RankingRewardDataTable.json": [
     "20170523001837",
     21888
   ],
   "ProjectileMotionPhaseDataTable.json": [
-    "20170822000630",
-    290392
+    "20170829002845",
+    293548
   ],
   "UnitMotionDataTable.json": [
-    "20170822001430",
-    529964
+    "20170829002855",
+    534488
   ],
   "FireActionDataTable.json": [
-    "20170822000149",
-    27180
+    "20170829002838",
+    27480
   ],
   "PartDataTable.json": [
-    "20170822000616",
-    26880
+    "20170829002016",
+    8024
   ],
   "AchievementTable.json": [
     "20170627000215",
@@ -136,16 +136,16 @@
     22400
   ],
   "LevelPatternDataTable.json": [
-    "20170822000554",
-    37632
+    "20170829001955",
+    38144
   ],
   "DropGoldPatternDataTable.json": [
     "20170523001244",
     172
   ],
   "RewardDataTable.json": [
-    "20170822000722",
-    1672664
+    "20170829002122",
+    1774892
   ],
   "GuildStruggleDataTable.json": [
     "20170523001441",
@@ -168,7 +168,7 @@
     2732
   ],
   "VipExpDataTable.json": [
-    "20170822001503",
+    "20170829002551",
     1024
   ],
   "ShopDataTable.json": [
@@ -180,16 +180,16 @@
     428
   ],
   "ClassPatternDataTable.json": [
-    "20170822000000",
-    118956
+    "20170829001454",
+    120748
   ],
   "CommanderClassDataTable.json": [
-    "20170822000035",
-    250240
+    "20170829001529",
+    253996
   ],
   "ItemExchangeDataTable.json": [
-    "20170822000519",
-    88192
+    "20170829001913",
+    58456
   ],
   "DefineDataTable.json": [
     "20170801000435",
@@ -204,36 +204,36 @@
     19840
   ],
   "CommanderCostumeDataTable.json": [
-    "20170822000052",
-    38316
+    "20170829001547",
+    38572
   ],
   "LoadingTipDataTable.json": [
     "20170801000759",
     12248
   ],
   "FavorDataTable.json": [
-    "20170822000140",
-    64684
+    "20170829001644",
+    65664
   ],
   "CommanderGiftDataTable.json": [
     "20170523000657",
     384
   ],
   "InAppProductDataTable.json": [
-    "20170822000339",
-    11948
+    "20170829001806",
+    12504
   ],
   "CarnivalTypeDataTable.json": [
-    "20170821235920",
-    98008
+    "20170829001345",
+    103596
   ],
   "CarnivalDataTable.json": [
-    "20170821235826",
-    672256
+    "20170829001248",
+    714880
   ],
   "CommanderVoiceDataTable.json": [
-    "20170822000125",
-    24620
+    "20170829001607",
+    24960
   ],
   "CommanderScenarioDataTable.json": [
     "20170822000111",
@@ -288,11 +288,11 @@
     2136
   ],
   "GroupInfoDataTable.json": [
-    "20170822000241",
-    13016
+    "20170829001731",
+    13228
   ],
   "GroupMemberDataTable.json": [
-    "20170822000256",
-    23424
+    "20170829001745",
+    23596
   ]
 }
