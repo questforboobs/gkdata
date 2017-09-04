@@ -1308,6 +1308,30 @@
     "icon": "Goods_event_icon04"
   },
   {
+    "type": 305,
+    "name": 4377,
+    "serverFieldName": "box204",
+    "max": 999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4378,
+    "storage": 1,
+    "icon": "Goods_event_icon05"
+  },
+  {
+    "type": 306,
+    "name": 4375,
+    "serverFieldName": "box205",
+    "max": 999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4376,
+    "storage": 1,
+    "icon": "Goods_event_icon06"
+  },
+  {
     "type": 999,
     "name": 4025,
     "serverFieldName": "sec",
