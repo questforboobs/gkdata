@@ -779,5 +779,27 @@
     "rewardType": 101,
     "rewardIdx": 989,
     "minCount": 1000
+  },
+  {
+    "groupIdx": 303,
+    "tabidx": 5,
+    "groupName": 10172,
+    "tabname": 10905,
+    "groupComment": 10723,
+    "typeIndex": 2,
+    "rewardType": 101,
+    "rewardIdx": 990,
+    "minCount": 1000
+  },
+  {
+    "groupIdx": 304,
+    "tabidx": 5,
+    "groupName": 10173,
+    "tabname": 10905,
+    "groupComment": 10724,
+    "typeIndex": 2,
+    "rewardType": 106,
+    "rewardIdx": 1004,
+    "minCount": 10
   }
 ]
