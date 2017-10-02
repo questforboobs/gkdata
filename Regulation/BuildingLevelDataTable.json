@@ -142,5 +142,13 @@
     "name": 1905,
     "userLevel": 35,
     "vipLevel": 0
+  },
+  {
+    "index": 18,
+    "type": 51,
+    "level": 1,
+    "name": 1920,
+    "userLevel": 1,
+    "vipLevel": 0
   }
 ]

@@ -1,0 +1,35 @@
+[
+  {
+    "eventIdx": 11,
+    "goodsIdx": 601,
+    "goodsAmount": 5,
+    "eventImg": 3499,
+    "eventLogo": "-",
+    "mainRewardType": 1,
+    "mainRewardIdx": 403,
+    "mainRewardAmount": 1,
+    "eventPointIdx": 403
+  },
+  {
+    "eventIdx": 12,
+    "goodsIdx": 601,
+    "goodsAmount": 5,
+    "eventImg": 3498,
+    "eventLogo": "-",
+    "mainRewardType": 1,
+    "mainRewardIdx": 402,
+    "mainRewardAmount": 1,
+    "eventPointIdx": 402
+  },
+  {
+    "eventIdx": 13,
+    "goodsIdx": 601,
+    "goodsAmount": 5,
+    "eventImg": 3497,
+    "eventLogo": "-",
+    "mainRewardType": 1,
+    "mainRewardIdx": 401,
+    "mainRewardAmount": 1,
+    "eventPointIdx": 401
+  }
+]

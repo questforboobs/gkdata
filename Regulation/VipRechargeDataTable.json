@@ -13,6 +13,19 @@
     "rechargeAmount": 120
   },
   {
+    "idx": 102,
+    "type": 1,
+    "typeIndex": 6,
+    "startVip": 0,
+    "startRecharge": 250,
+    "vipMeasure": 15,
+    "rechargeAddPoint": 1,
+    "startRechargePrice": 50,
+    "numberMeasure": 1,
+    "priceAddPercent": 100,
+    "rechargeAmount": 1
+  },
+  {
     "idx": 103,
     "type": 1,
     "typeIndex": 7,
@@ -76,6 +89,19 @@
     "numberMeasure": 2,
     "priceAddPercent": 200,
     "rechargeAmount": 5
+  },
+  {
+    "idx": 111,
+    "type": 1,
+    "typeIndex": 24,
+    "startVip": 0,
+    "startRecharge": 250,
+    "vipMeasure": 15,
+    "rechargeAddPoint": 1,
+    "startRechargePrice": 20,
+    "numberMeasure": 1,
+    "priceAddPercent": 100,
+    "rechargeAmount": 1
   },
   {
     "idx": 201,

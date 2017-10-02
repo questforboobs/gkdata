@@ -64,6 +64,22 @@
     "value": "25"
   },
   {
+    "key": "BATTLE_EVENT_OIL_DEFAULT",
+    "value": "10"
+  },
+  {
+    "key": "BATTLE_EVENT_RAID_DEFAULT",
+    "value": "10"
+  },
+  {
+    "key": "BATTLE_EVENT_RAID_LIST_OUT_TIME",
+    "value": "86400"
+  },
+  {
+    "key": "BATTLE_EVENT_RAID_MAX_LEVEL",
+    "value": "30"
+  },
+  {
     "key": "BATTLE_MAX_PROCESS_TIME",
     "value": "300"
   },
@@ -78,6 +94,10 @@
   {
     "key": "BATTLE_STRUGGLE_START_TIME",
     "value": "15:00"
+  },
+  {
+    "key": "BATTLEEVENT_CLOSE_DELAY",
+    "value": "86400"
   },
   {
     "key": "CASH_CONSUME_SORT",

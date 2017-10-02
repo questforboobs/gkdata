@@ -1,0 +1,26 @@
+[
+  {
+    "idx": 1,
+    "eventIdx": 13,
+    "raidIdx": 10110,
+    "endTurn": 10,
+    "battleMap": "land_boss_01",
+    "enemyMap": "land_boss_01"
+  },
+  {
+    "idx": 2,
+    "eventIdx": 12,
+    "raidIdx": 10120,
+    "endTurn": 10,
+    "battleMap": "land_boss_01",
+    "enemyMap": "land_boss_01"
+  },
+  {
+    "idx": 3,
+    "eventIdx": 11,
+    "raidIdx": 10130,
+    "endTurn": 10,
+    "battleMap": "land_boss_01",
+    "enemyMap": "land_boss_01"
+  }
+]
