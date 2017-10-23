@@ -577,15 +577,15 @@
   },
   {
     "type": 117,
-    "name": 4013,
-    "serverFieldName": "box017",
-    "max": 99,
+    "name": 4060,
+    "serverFieldName": "box999",
+    "max": 99999,
     "rechargeType": 0,
     "rechargeTime": 0,
     "rechargeMax": 0,
-    "description": 4043,
-    "storage": 0,
-    "icon": "Goods-box017"
+    "description": 4061,
+    "storage": 1,
+    "icon": "icon_img_box03"
   },
   {
     "type": 118,
@@ -1404,6 +1404,30 @@
     "icon": "Goods-evtp03"
   },
   {
+    "type": 404,
+    "name": 4405,
+    "serverFieldName": "evtp04",
+    "max": 999999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4406,
+    "storage": 1,
+    "icon": "Goods-evtp04"
+  },
+  {
+    "type": 405,
+    "name": 4409,
+    "serverFieldName": "evtp05",
+    "max": 999999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4410,
+    "storage": 1,
+    "icon": "Goods-evtp05"
+  },
+  {
     "type": 601,
     "name": 4389,
     "serverFieldName": "smon01",
@@ -1414,6 +1438,18 @@
     "description": 4390,
     "storage": 1,
     "icon": "Goods-smon01"
+  },
+  {
+    "type": 602,
+    "name": 4413,
+    "serverFieldName": "smon02",
+    "max": 999999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4414,
+    "storage": 1,
+    "icon": "Goods-smon02"
   },
   {
     "type": 999,

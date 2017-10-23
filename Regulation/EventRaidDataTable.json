@@ -1,24 +1,16 @@
 [
   {
-    "idx": 1,
-    "eventIdx": 13,
-    "raidIdx": 10110,
+    "idx": 4,
+    "eventIdx": 999,
+    "raidIdx": 19990,
     "endTurn": 10,
     "battleMap": "land_boss_01",
     "enemyMap": "land_boss_01"
   },
   {
-    "idx": 2,
-    "eventIdx": 12,
-    "raidIdx": 10120,
-    "endTurn": 10,
-    "battleMap": "land_boss_01",
-    "enemyMap": "land_boss_01"
-  },
-  {
-    "idx": 3,
-    "eventIdx": 11,
-    "raidIdx": 10130,
+    "idx": 5,
+    "eventIdx": 998,
+    "raidIdx": 19980,
     "endTurn": 10,
     "battleMap": "land_boss_01",
     "enemyMap": "land_boss_01"

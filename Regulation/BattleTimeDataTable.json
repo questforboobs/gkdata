@@ -131,31 +131,21 @@
   },
   {
     "category": 13,
-    "type": 11,
+    "type": 998,
     "typeIndex": 1,
-    "startDate": "2017-10-10",
+    "startDate": "2017-10-23",
     "startTime": "00:00:00",
-    "endDate": "2017-10-17",
+    "endDate": "2017-10-31",
     "endTime": "00:00:00",
     "weekIdx": 0
   },
   {
     "category": 13,
-    "type": 12,
+    "type": 999,
     "typeIndex": 1,
-    "startDate": "2017-10-03",
+    "startDate": "2017-10-17",
     "startTime": "00:00:00",
-    "endDate": "2017-10-10",
-    "endTime": "00:00:00",
-    "weekIdx": 0
-  },
-  {
-    "category": 13,
-    "type": 13,
-    "typeIndex": 1,
-    "startDate": "2017-09-26",
-    "startTime": "00:00:00",
-    "endDate": "2017-10-03",
+    "endDate": "2017-10-24",
     "endTime": "00:00:00",
     "weekIdx": 0
   }
