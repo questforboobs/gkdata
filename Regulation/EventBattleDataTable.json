@@ -6,20 +6,20 @@
     "eventImg": 3497,
     "eventLogo": "-",
     "mainRewardType": 1,
-    "mainRewardIdx": 404,
+    "mainRewardIdx": 407,
     "mainRewardAmount": 1,
-    "eventPointIdx": 404
+    "eventPointIdx": 407
   },
   {
     "eventIdx": 997,
-    "goodsIdx": 601,
+    "goodsIdx": 602,
     "goodsAmount": 5,
     "eventImg": 3498,
     "eventLogo": "-",
     "mainRewardType": 1,
-    "mainRewardIdx": 404,
+    "mainRewardIdx": 406,
     "mainRewardAmount": 1,
-    "eventPointIdx": 404
+    "eventPointIdx": 406
   },
   {
     "eventIdx": 998,

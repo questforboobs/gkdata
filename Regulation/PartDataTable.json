@@ -396,6 +396,15 @@
     "storage": 1
   },
   {
+    "type": 20107,
+    "grade": 1,
+    "name": 4415,
+    "serverFieldName": "event_icon27",
+    "max": 99999,
+    "description": 4416,
+    "storage": 1
+  },
+  {
     "type": 30001,
     "grade": 1,
     "name": 5010401,
