@@ -801,5 +801,16 @@
     "rewardType": 106,
     "rewardIdx": 1004,
     "minCount": 10
+  },
+  {
+    "groupIdx": 321,
+    "tabidx": 5,
+    "groupName": 10174,
+    "tabname": 10905,
+    "groupComment": 10706,
+    "typeIndex": 2,
+    "rewardType": 102,
+    "rewardIdx": 1004,
+    "minCount": 50
   }
 ]

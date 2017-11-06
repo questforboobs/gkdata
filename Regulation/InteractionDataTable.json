@@ -32263,8 +32263,8 @@
     "emotion": "e_04_pleasure",
     "emoticon": "et_04_pleasure",
     "balloon": 0,
-    "S_Idx": 121278,
-    "sound": "voice_67_i01",
+    "S_Idx": 998301,
+    "sound": "voice_983_i01",
     "favorup": 1
   },
   {
@@ -32275,8 +32275,8 @@
     "emotion": "e_06_pain",
     "emoticon": "et_06_pain",
     "balloon": 0,
-    "S_Idx": 121279,
-    "sound": "voice_67_i02",
+    "S_Idx": 998302,
+    "sound": "voice_983_i02",
     "favorup": 2
   },
   {
@@ -32287,8 +32287,8 @@
     "emotion": "e_05_sorrow",
     "emoticon": "et_05_sorrow",
     "balloon": 0,
-    "S_Idx": 121280,
-    "sound": "voice_67_i03",
+    "S_Idx": 998303,
+    "sound": "voice_983_i03",
     "favorup": 3
   },
   {
@@ -32299,8 +32299,8 @@
     "emotion": "e_01_love",
     "emoticon": "et_01_love",
     "balloon": 0,
-    "S_Idx": 121281,
-    "sound": "voice_67_i04",
+    "S_Idx": 998304,
+    "sound": "voice_983_i04",
     "favorup": 4
   },
   {
@@ -32311,8 +32311,8 @@
     "emotion": "e_09_heart",
     "emoticon": "et_09_heart",
     "balloon": 0,
-    "S_Idx": 121282,
-    "sound": "voice_67_i05",
+    "S_Idx": 998305,
+    "sound": "voice_983_i05",
     "favorup": 5
   },
   {
@@ -32323,8 +32323,8 @@
     "emotion": "e_07_embarras",
     "emoticon": "et_07_embarras",
     "balloon": 0,
-    "S_Idx": 121283,
-    "sound": "voice_67_i06",
+    "S_Idx": 998306,
+    "sound": "voice_983_i06",
     "favorup": 6
   },
   {
@@ -32335,8 +32335,8 @@
     "emotion": "e_08_shy",
     "emoticon": "et_08_shy",
     "balloon": 0,
-    "S_Idx": 121284,
-    "sound": "voice_67_i07",
+    "S_Idx": 998307,
+    "sound": "voice_983_i07",
     "favorup": 7
   },
   {
@@ -32347,8 +32347,8 @@
     "emotion": "e_03_ignore",
     "emoticon": "et_03_ignore",
     "balloon": 0,
-    "S_Idx": 121285,
-    "sound": "voice_67_i08",
+    "S_Idx": 998308,
+    "sound": "voice_983_i08",
     "favorup": 8
   },
   {
@@ -32359,8 +32359,8 @@
     "emotion": "e_02_angry",
     "emoticon": "et_02_angry",
     "balloon": 0,
-    "S_Idx": 121286,
-    "sound": "voice_67_i09",
+    "S_Idx": 998309,
+    "sound": "voice_983_i09",
     "favorup": 9
   },
   {
@@ -32371,8 +32371,8 @@
     "emotion": "e_04_pleasure",
     "emoticon": "et_04_pleasure",
     "balloon": 0,
-    "S_Idx": 125640,
-    "sound": "voice_67_i10",
+    "S_Idx": 998310,
+    "sound": "voice_983_i10",
     "favorup": 20
   },
   {
@@ -32383,8 +32383,8 @@
     "emotion": "e_05_sorrow",
     "emoticon": "et_05_sorrow",
     "balloon": 0,
-    "S_Idx": 125641,
-    "sound": "voice_67_i11",
+    "S_Idx": 998311,
+    "sound": "voice_983_i11",
     "favorup": 21
   },
   {
@@ -32395,8 +32395,8 @@
     "emotion": "e_07_embarras",
     "emoticon": "et_07_embarras",
     "balloon": 0,
-    "S_Idx": 125642,
-    "sound": "voice_67_i12",
+    "S_Idx": 998312,
+    "sound": "voice_983_i12",
     "favorup": 22
   },
   {
@@ -32407,8 +32407,8 @@
     "emotion": "e_04_pleasure",
     "emoticon": "et_04_pleasure",
     "balloon": 0,
-    "S_Idx": 125643,
-    "sound": "voice_67_i13",
+    "S_Idx": 998313,
+    "sound": "voice_983_i13",
     "favorup": 24
   },
   {
@@ -32419,8 +32419,8 @@
     "emotion": "e_05_sorrow",
     "emoticon": "et_05_sorrow",
     "balloon": 0,
-    "S_Idx": 125644,
-    "sound": "voice_67_i14",
+    "S_Idx": 998314,
+    "sound": "voice_983_i14",
     "favorup": 25
   },
   {
@@ -32431,8 +32431,8 @@
     "emotion": "e_07_embarras",
     "emoticon": "et_07_embarras",
     "balloon": 0,
-    "S_Idx": 125645,
-    "sound": "voice_67_i15",
+    "S_Idx": 998315,
+    "sound": "voice_983_i15",
     "favorup": 26
   },
   {
@@ -32443,8 +32443,8 @@
     "emotion": "e_04_pleasure",
     "emoticon": "et_04_pleasure",
     "balloon": 0,
-    "S_Idx": 125646,
-    "sound": "voice_67_i16",
+    "S_Idx": 998316,
+    "sound": "voice_983_i16",
     "favorup": 28
   },
   {
@@ -32455,8 +32455,8 @@
     "emotion": "e_05_sorrow",
     "emoticon": "et_05_sorrow",
     "balloon": 0,
-    "S_Idx": 125647,
-    "sound": "voice_67_i17",
+    "S_Idx": 998317,
+    "sound": "voice_983_i17",
     "favorup": 29
   },
   {
@@ -32467,8 +32467,8 @@
     "emotion": "e_07_embarras",
     "emoticon": "et_07_embarras",
     "balloon": 0,
-    "S_Idx": 125648,
-    "sound": "voice_67_i18",
+    "S_Idx": 998318,
+    "sound": "voice_983_i18",
     "favorup": 30
   },
   {
@@ -32479,8 +32479,8 @@
     "emotion": "e_01_love",
     "emoticon": "et_01_love",
     "balloon": 0,
-    "S_Idx": 121290,
-    "sound": "voice_67_i19",
+    "S_Idx": 998319,
+    "sound": "voice_983_i19",
     "favorup": 10
   },
   {
@@ -32491,8 +32491,8 @@
     "emotion": "e_07_embarras",
     "emoticon": "et_07_embarras",
     "balloon": 0,
-    "S_Idx": 121291,
-    "sound": "voice_67_i20",
+    "S_Idx": 998320,
+    "sound": "voice_983_i20",
     "favorup": 11
   },
   {
@@ -32503,8 +32503,8 @@
     "emotion": "e_08_shy",
     "emoticon": "et_08_shy",
     "balloon": 0,
-    "S_Idx": 121292,
-    "sound": "voice_67_i21",
+    "S_Idx": 998321,
+    "sound": "voice_983_i21",
     "favorup": 12
   },
   {
@@ -32515,8 +32515,8 @@
     "emotion": "e_03_ignore",
     "emoticon": "et_03_ignore",
     "balloon": 0,
-    "S_Idx": 121293,
-    "sound": "voice_67_i22",
+    "S_Idx": 998322,
+    "sound": "voice_983_i22",
     "favorup": 13
   },
   {
@@ -32527,8 +32527,8 @@
     "emotion": "e_04_pleasure",
     "emoticon": "et_04_pleasure",
     "balloon": 0,
-    "S_Idx": 121294,
-    "sound": "voice_67_i23",
+    "S_Idx": 998323,
+    "sound": "voice_983_i23",
     "favorup": 14
   },
   {
@@ -32539,8 +32539,8 @@
     "emotion": "e_09_heart",
     "emoticon": "et_09_heart",
     "balloon": 0,
-    "S_Idx": 121295,
-    "sound": "voice_67_i24",
+    "S_Idx": 998324,
+    "sound": "voice_983_i24",
     "favorup": 15
   },
   {
@@ -32551,8 +32551,8 @@
     "emotion": "e_01_love",
     "emoticon": "et_01_love",
     "balloon": 0,
-    "S_Idx": 129214,
-    "sound": "voice_67_i25",
+    "S_Idx": 998325,
+    "sound": "voice_983_i25",
     "favorup": 16
   },
   {
@@ -32563,8 +32563,8 @@
     "emotion": "e_01_love",
     "emoticon": "et_01_love",
     "balloon": 0,
-    "S_Idx": 129215,
-    "sound": "voice_67_i26",
+    "S_Idx": 998326,
+    "sound": "voice_983_i26",
     "favorup": 23
   },
   {
@@ -32575,8 +32575,8 @@
     "emotion": "e_01_love",
     "emoticon": "et_01_love",
     "balloon": 0,
-    "S_Idx": 129216,
-    "sound": "voice_67_i27",
+    "S_Idx": 998327,
+    "sound": "voice_983_i27",
     "favorup": 27
   },
   {
@@ -32587,8 +32587,8 @@
     "emotion": 0,
     "emoticon": 0,
     "balloon": 0,
-    "S_Idx": 121287,
-    "sound": "voice_67_i28",
+    "S_Idx": 998328,
+    "sound": "voice_983_i28",
     "favorup": 17
   },
   {
@@ -32599,8 +32599,8 @@
     "emotion": 0,
     "emoticon": 0,
     "balloon": 0,
-    "S_Idx": 121288,
-    "sound": "voice_67_i29",
+    "S_Idx": 998329,
+    "sound": "voice_983_i29",
     "favorup": 18
   },
   {
@@ -32611,8 +32611,8 @@
     "emotion": 0,
     "emoticon": 0,
     "balloon": 0,
-    "S_Idx": 121289,
-    "sound": "voice_67_i30",
+    "S_Idx": 998330,
+    "sound": "voice_983_i30",
     "favorup": 19
   },
   {
@@ -32623,8 +32623,8 @@
     "emotion": "e_04_pleasure",
     "emoticon": "et_04_pleasure",
     "balloon": 0,
-    "S_Idx": 125640,
-    "sound": "voice_67_i10",
+    "S_Idx": 998310,
+    "sound": "voice_983_i10",
     "favorup": 0
   },
   {
@@ -32635,8 +32635,8 @@
     "emotion": "e_05_sorrow",
     "emoticon": "et_05_sorrow",
     "balloon": 0,
-    "S_Idx": 125641,
-    "sound": "voice_67_i11",
+    "S_Idx": 998311,
+    "sound": "voice_983_i11",
     "favorup": 0
   },
   {
@@ -32647,8 +32647,8 @@
     "emotion": "e_07_embarras",
     "emoticon": "et_07_embarras",
     "balloon": 0,
-    "S_Idx": 125642,
-    "sound": "voice_67_i12",
+    "S_Idx": 998312,
+    "sound": "voice_983_i12",
     "favorup": 0
   },
   {
@@ -32659,8 +32659,8 @@
     "emotion": "e_04_pleasure",
     "emoticon": "et_04_pleasure",
     "balloon": 0,
-    "S_Idx": 125643,
-    "sound": "voice_67_i13",
+    "S_Idx": 998313,
+    "sound": "voice_983_i13",
     "favorup": 0
   },
   {
@@ -32671,8 +32671,8 @@
     "emotion": "e_05_sorrow",
     "emoticon": "et_05_sorrow",
     "balloon": 0,
-    "S_Idx": 125644,
-    "sound": "voice_67_i14",
+    "S_Idx": 998314,
+    "sound": "voice_983_i14",
     "favorup": 0
   },
   {
@@ -32683,8 +32683,8 @@
     "emotion": "e_07_embarras",
     "emoticon": "et_07_embarras",
     "balloon": 0,
-    "S_Idx": 125645,
-    "sound": "voice_67_i15",
+    "S_Idx": 998315,
+    "sound": "voice_983_i15",
     "favorup": 0
   },
   {
@@ -32695,8 +32695,8 @@
     "emotion": "e_04_pleasure",
     "emoticon": "et_04_pleasure",
     "balloon": 0,
-    "S_Idx": 125646,
-    "sound": "voice_67_i16",
+    "S_Idx": 998316,
+    "sound": "voice_983_i16",
     "favorup": 0
   },
   {
@@ -32707,8 +32707,8 @@
     "emotion": "e_05_sorrow",
     "emoticon": "et_05_sorrow",
     "balloon": 0,
-    "S_Idx": 125647,
-    "sound": "voice_67_i17",
+    "S_Idx": 998317,
+    "sound": "voice_983_i17",
     "favorup": 0
   },
   {
@@ -32719,8 +32719,8 @@
     "emotion": "e_07_embarras",
     "emoticon": "et_07_embarras",
     "balloon": 0,
-    "S_Idx": 125648,
-    "sound": "voice_67_i18",
+    "S_Idx": 998318,
+    "sound": "voice_983_i18",
     "favorup": 0
   },
   {
@@ -32731,8 +32731,8 @@
     "emotion": 0,
     "emoticon": 0,
     "balloon": 0,
-    "S_Idx": 121287,
-    "sound": "voice_67_i28",
+    "S_Idx": 998328,
+    "sound": "voice_983_i28",
     "favorup": 0
   },
   {
@@ -32743,8 +32743,8 @@
     "emotion": 0,
     "emoticon": 0,
     "balloon": 0,
-    "S_Idx": 121288,
-    "sound": "voice_67_i29",
+    "S_Idx": 998329,
+    "sound": "voice_983_i29",
     "favorup": 0
   },
   {
@@ -32755,8 +32755,8 @@
     "emotion": 0,
     "emoticon": 0,
     "balloon": 0,
-    "S_Idx": 121289,
-    "sound": "voice_67_i30",
+    "S_Idx": 998330,
+    "sound": "voice_983_i30",
     "favorup": 0
   },
   {
@@ -33271,8 +33271,8 @@
     "emotion": "e_04_pleasure",
     "emoticon": "et_04_pleasure",
     "balloon": 0,
-    "S_Idx": 121278,
-    "sound": "voice_67_i01",
+    "S_Idx": 998501,
+    "sound": "voice_985_i01",
     "favorup": 1
   },
   {
@@ -33283,8 +33283,8 @@
     "emotion": "e_06_pain",
     "emoticon": "et_06_pain",
     "balloon": 0,
-    "S_Idx": 121279,
-    "sound": "voice_67_i02",
+    "S_Idx": 998502,
+    "sound": "voice_985_i02",
     "favorup": 2
   },
   {
@@ -33295,8 +33295,8 @@
     "emotion": "e_05_sorrow",
     "emoticon": "et_05_sorrow",
     "balloon": 0,
-    "S_Idx": 121280,
-    "sound": "voice_67_i03",
+    "S_Idx": 998503,
+    "sound": "voice_985_i03",
     "favorup": 3
   },
   {
@@ -33307,8 +33307,8 @@
     "emotion": "e_01_love",
     "emoticon": "et_01_love",
     "balloon": 0,
-    "S_Idx": 121281,
-    "sound": "voice_67_i04",
+    "S_Idx": 998504,
+    "sound": "voice_985_i04",
     "favorup": 4
   },
   {
@@ -33319,8 +33319,8 @@
     "emotion": "e_09_heart",
     "emoticon": "et_09_heart",
     "balloon": 0,
-    "S_Idx": 121282,
-    "sound": "voice_67_i05",
+    "S_Idx": 998505,
+    "sound": "voice_985_i05",
     "favorup": 5
   },
   {
@@ -33331,8 +33331,8 @@
     "emotion": "e_07_embarras",
     "emoticon": "et_07_embarras",
     "balloon": 0,
-    "S_Idx": 121283,
-    "sound": "voice_67_i06",
+    "S_Idx": 998506,
+    "sound": "voice_985_i06",
     "favorup": 6
   },
   {
@@ -33343,8 +33343,8 @@
     "emotion": "e_08_shy",
     "emoticon": "et_08_shy",
     "balloon": 0,
-    "S_Idx": 121284,
-    "sound": "voice_67_i07",
+    "S_Idx": 998507,
+    "sound": "voice_985_i07",
     "favorup": 7
   },
   {
@@ -33355,8 +33355,8 @@
     "emotion": "e_03_ignore",
     "emoticon": "et_03_ignore",
     "balloon": 0,
-    "S_Idx": 121285,
-    "sound": "voice_67_i08",
+    "S_Idx": 998508,
+    "sound": "voice_985_i08",
     "favorup": 8
   },
   {
@@ -33367,8 +33367,8 @@
     "emotion": "e_02_angry",
     "emoticon": "et_02_angry",
     "balloon": 0,
-    "S_Idx": 121286,
-    "sound": "voice_67_i09",
+    "S_Idx": 998509,
+    "sound": "voice_985_i09",
     "favorup": 9
   },
   {
@@ -33379,8 +33379,8 @@
     "emotion": "e_04_pleasure",
     "emoticon": "et_04_pleasure",
     "balloon": 0,
-    "S_Idx": 125640,
-    "sound": "voice_67_i10",
+    "S_Idx": 998510,
+    "sound": "voice_985_i10",
     "favorup": 20
   },
   {
@@ -33391,8 +33391,8 @@
     "emotion": "e_05_sorrow",
     "emoticon": "et_05_sorrow",
     "balloon": 0,
-    "S_Idx": 125641,
-    "sound": "voice_67_i11",
+    "S_Idx": 998511,
+    "sound": "voice_985_i11",
     "favorup": 21
   },
   {
@@ -33403,8 +33403,8 @@
     "emotion": "e_07_embarras",
     "emoticon": "et_07_embarras",
     "balloon": 0,
-    "S_Idx": 125642,
-    "sound": "voice_67_i12",
+    "S_Idx": 998512,
+    "sound": "voice_985_i12",
     "favorup": 22
   },
   {
@@ -33415,8 +33415,8 @@
     "emotion": "e_04_pleasure",
     "emoticon": "et_04_pleasure",
     "balloon": 0,
-    "S_Idx": 125643,
-    "sound": "voice_67_i13",
+    "S_Idx": 998513,
+    "sound": "voice_985_i13",
     "favorup": 24
   },
   {
@@ -33427,8 +33427,8 @@
     "emotion": "e_05_sorrow",
     "emoticon": "et_05_sorrow",
     "balloon": 0,
-    "S_Idx": 125644,
-    "sound": "voice_67_i14",
+    "S_Idx": 998514,
+    "sound": "voice_985_i14",
     "favorup": 25
   },
   {
@@ -33439,8 +33439,8 @@
     "emotion": "e_07_embarras",
     "emoticon": "et_07_embarras",
     "balloon": 0,
-    "S_Idx": 125645,
-    "sound": "voice_67_i15",
+    "S_Idx": 998515,
+    "sound": "voice_985_i15",
     "favorup": 26
   },
   {
@@ -33451,8 +33451,8 @@
     "emotion": "e_04_pleasure",
     "emoticon": "et_04_pleasure",
     "balloon": 0,
-    "S_Idx": 125646,
-    "sound": "voice_67_i16",
+    "S_Idx": 998516,
+    "sound": "voice_985_i16",
     "favorup": 28
   },
   {
@@ -33463,8 +33463,8 @@
     "emotion": "e_05_sorrow",
     "emoticon": "et_05_sorrow",
     "balloon": 0,
-    "S_Idx": 125647,
-    "sound": "voice_67_i17",
+    "S_Idx": 998517,
+    "sound": "voice_985_i17",
     "favorup": 29
   },
   {
@@ -33475,8 +33475,8 @@
     "emotion": "e_07_embarras",
     "emoticon": "et_07_embarras",
     "balloon": 0,
-    "S_Idx": 125648,
-    "sound": "voice_67_i18",
+    "S_Idx": 998518,
+    "sound": "voice_985_i18",
     "favorup": 30
   },
   {
@@ -33487,8 +33487,8 @@
     "emotion": "e_01_love",
     "emoticon": "et_01_love",
     "balloon": 0,
-    "S_Idx": 121290,
-    "sound": "voice_67_i19",
+    "S_Idx": 998519,
+    "sound": "voice_985_i19",
     "favorup": 10
   },
   {
@@ -33499,8 +33499,8 @@
     "emotion": "e_07_embarras",
     "emoticon": "et_07_embarras",
     "balloon": 0,
-    "S_Idx": 121291,
-    "sound": "voice_67_i20",
+    "S_Idx": 998520,
+    "sound": "voice_985_i20",
     "favorup": 11
   },
   {
@@ -33511,8 +33511,8 @@
     "emotion": "e_08_shy",
     "emoticon": "et_08_shy",
     "balloon": 0,
-    "S_Idx": 121292,
-    "sound": "voice_67_i21",
+    "S_Idx": 998521,
+    "sound": "voice_985_i21",
     "favorup": 12
   },
   {
@@ -33523,8 +33523,8 @@
     "emotion": "e_03_ignore",
     "emoticon": "et_03_ignore",
     "balloon": 0,
-    "S_Idx": 121293,
-    "sound": "voice_67_i22",
+    "S_Idx": 998522,
+    "sound": "voice_985_i22",
     "favorup": 13
   },
   {
@@ -33535,8 +33535,8 @@
     "emotion": "e_04_pleasure",
     "emoticon": "et_04_pleasure",
     "balloon": 0,
-    "S_Idx": 121294,
-    "sound": "voice_67_i23",
+    "S_Idx": 998523,
+    "sound": "voice_985_i23",
     "favorup": 14
   },
   {
@@ -33547,8 +33547,8 @@
     "emotion": "e_09_heart",
     "emoticon": "et_09_heart",
     "balloon": 0,
-    "S_Idx": 121295,
-    "sound": "voice_67_i24",
+    "S_Idx": 998524,
+    "sound": "voice_985_i24",
     "favorup": 15
   },
   {
@@ -33559,8 +33559,8 @@
     "emotion": "e_01_love",
     "emoticon": "et_01_love",
     "balloon": 0,
-    "S_Idx": 129214,
-    "sound": "voice_67_i25",
+    "S_Idx": 998525,
+    "sound": "voice_985_i25",
     "favorup": 16
   },
   {
@@ -33571,8 +33571,8 @@
     "emotion": "e_01_love",
     "emoticon": "et_01_love",
     "balloon": 0,
-    "S_Idx": 129215,
-    "sound": "voice_67_i26",
+    "S_Idx": 998526,
+    "sound": "voice_985_i26",
     "favorup": 23
   },
   {
@@ -33583,8 +33583,8 @@
     "emotion": "e_01_love",
     "emoticon": "et_01_love",
     "balloon": 0,
-    "S_Idx": 129216,
-    "sound": "voice_67_i27",
+    "S_Idx": 998527,
+    "sound": "voice_985_i27",
     "favorup": 27
   },
   {
@@ -33595,8 +33595,8 @@
     "emotion": 0,
     "emoticon": 0,
     "balloon": 0,
-    "S_Idx": 121287,
-    "sound": "voice_67_i28",
+    "S_Idx": 998528,
+    "sound": "voice_985_i28",
     "favorup": 17
   },
   {
@@ -33607,8 +33607,8 @@
     "emotion": 0,
     "emoticon": 0,
     "balloon": 0,
-    "S_Idx": 121288,
-    "sound": "voice_67_i29",
+    "S_Idx": 998529,
+    "sound": "voice_985_i29",
     "favorup": 18
   },
   {
@@ -33619,8 +33619,8 @@
     "emotion": 0,
     "emoticon": 0,
     "balloon": 0,
-    "S_Idx": 121289,
-    "sound": "voice_67_i30",
+    "S_Idx": 998530,
+    "sound": "voice_985_i30",
     "favorup": 19
   },
   {
@@ -33631,8 +33631,8 @@
     "emotion": "e_04_pleasure",
     "emoticon": "et_04_pleasure",
     "balloon": 0,
-    "S_Idx": 125640,
-    "sound": "voice_67_i10",
+    "S_Idx": 998510,
+    "sound": "voice_985_i10",
     "favorup": 0
   },
   {
@@ -33643,8 +33643,8 @@
     "emotion": "e_05_sorrow",
     "emoticon": "et_05_sorrow",
     "balloon": 0,
-    "S_Idx": 125641,
-    "sound": "voice_67_i11",
+    "S_Idx": 998511,
+    "sound": "voice_985_i11",
     "favorup": 0
   },
   {
@@ -33655,8 +33655,8 @@
     "emotion": "e_07_embarras",
     "emoticon": "et_07_embarras",
     "balloon": 0,
-    "S_Idx": 125642,
-    "sound": "voice_67_i12",
+    "S_Idx": 998512,
+    "sound": "voice_985_i12",
     "favorup": 0
   },
   {
@@ -33667,8 +33667,8 @@
     "emotion": "e_04_pleasure",
     "emoticon": "et_04_pleasure",
     "balloon": 0,
-    "S_Idx": 125643,
-    "sound": "voice_67_i13",
+    "S_Idx": 998513,
+    "sound": "voice_985_i13",
     "favorup": 0
   },
   {
@@ -33679,8 +33679,8 @@
     "emotion": "e_05_sorrow",
     "emoticon": "et_05_sorrow",
     "balloon": 0,
-    "S_Idx": 125644,
-    "sound": "voice_67_i14",
+    "S_Idx": 998514,
+    "sound": "voice_985_i14",
     "favorup": 0
   },
   {
@@ -33691,8 +33691,8 @@
     "emotion": "e_07_embarras",
     "emoticon": "et_07_embarras",
     "balloon": 0,
-    "S_Idx": 125645,
-    "sound": "voice_67_i15",
+    "S_Idx": 998515,
+    "sound": "voice_985_i15",
     "favorup": 0
   },
   {
@@ -33703,8 +33703,8 @@
     "emotion": "e_04_pleasure",
     "emoticon": "et_04_pleasure",
     "balloon": 0,
-    "S_Idx": 125646,
-    "sound": "voice_67_i16",
+    "S_Idx": 998516,
+    "sound": "voice_985_i16",
     "favorup": 0
   },
   {
@@ -33715,8 +33715,8 @@
     "emotion": "e_05_sorrow",
     "emoticon": "et_05_sorrow",
     "balloon": 0,
-    "S_Idx": 125647,
-    "sound": "voice_67_i17",
+    "S_Idx": 998517,
+    "sound": "voice_985_i17",
     "favorup": 0
   },
   {
@@ -33727,8 +33727,8 @@
     "emotion": "e_07_embarras",
     "emoticon": "et_07_embarras",
     "balloon": 0,
-    "S_Idx": 125648,
-    "sound": "voice_67_i18",
+    "S_Idx": 998518,
+    "sound": "voice_985_i18",
     "favorup": 0
   },
   {
@@ -33739,8 +33739,8 @@
     "emotion": 0,
     "emoticon": 0,
     "balloon": 0,
-    "S_Idx": 121287,
-    "sound": "voice_67_i28",
+    "S_Idx": 998528,
+    "sound": "voice_985_i28",
     "favorup": 0
   },
   {
@@ -33751,8 +33751,8 @@
     "emotion": 0,
     "emoticon": 0,
     "balloon": 0,
-    "S_Idx": 121288,
-    "sound": "voice_67_i29",
+    "S_Idx": 998529,
+    "sound": "voice_985_i29",
     "favorup": 0
   },
   {
@@ -33763,8 +33763,8 @@
     "emotion": 0,
     "emoticon": 0,
     "balloon": 0,
-    "S_Idx": 121289,
-    "sound": "voice_67_i30",
+    "S_Idx": 998530,
+    "sound": "voice_985_i30",
     "favorup": 0
   },
   {

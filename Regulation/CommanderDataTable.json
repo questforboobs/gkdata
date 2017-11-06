@@ -1026,8 +1026,8 @@
   {
     "id": 983,
     "S_Idx": 1005983,
-    "C_Type": 2,
-    "unitId": 5999,
+    "C_Type": 1,
+    "unitId": 5983,
     "resourceId": "c_983",
     "_isAcademyExposure": "Y",
     "academyExposureRate": 5,
@@ -1058,8 +1058,8 @@
   {
     "id": 985,
     "S_Idx": 1005985,
-    "C_Type": 2,
-    "unitId": 5999,
+    "C_Type": 1,
+    "unitId": 5985,
     "resourceId": "c_985",
     "_isAcademyExposure": "Y",
     "academyExposureRate": 5,
