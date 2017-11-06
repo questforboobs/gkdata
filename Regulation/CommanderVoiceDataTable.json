@@ -1797,32 +1797,27 @@
   {
     "index": 983,
     "type": 4,
-    "voicesound": "voice_64_01"
-  },
-  {
-    "index": 983,
-    "type": 5,
-    "voicesound": "voice_64_02"
+    "voicesound": "voice_983_01"
   },
   {
     "index": 983,
     "type": 7,
-    "voicesound": "voice_64_04"
+    "voicesound": "voice_983_04"
   },
   {
     "index": 983,
     "type": 8,
-    "voicesound": "voice_64_05"
+    "voicesound": "voice_983_05"
   },
   {
     "index": 983,
     "type": 9,
-    "voicesound": "voice_64_06"
+    "voicesound": "voice_983_06"
   },
   {
     "index": 983,
     "type": 10,
-    "voicesound": "voice_64_07"
+    "voicesound": "voice_983_07"
   },
   {
     "index": 984,
@@ -1857,32 +1852,32 @@
   {
     "index": 985,
     "type": 4,
-    "voicesound": "voice_64_01"
+    "voicesound": "voice_985_01"
   },
   {
     "index": 985,
     "type": 5,
-    "voicesound": "voice_64_02"
+    "voicesound": "voice_985_02"
   },
   {
     "index": 985,
     "type": 7,
-    "voicesound": "voice_64_04"
+    "voicesound": "voice_985_04"
   },
   {
     "index": 985,
     "type": 8,
-    "voicesound": "voice_64_05"
+    "voicesound": "voice_985_05"
   },
   {
     "index": 985,
     "type": 9,
-    "voicesound": "voice_64_06"
+    "voicesound": "voice_985_06"
   },
   {
     "index": 985,
     "type": 10,
-    "voicesound": "voice_64_07"
+    "voicesound": "voice_985_07"
   },
   {
     "index": 986,
