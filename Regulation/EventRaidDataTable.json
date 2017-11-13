@@ -22,5 +22,45 @@
     "endTurn": 10,
     "battleMap": "land_boss_01",
     "enemyMap": "land_boss_01"
+  },
+  {
+    "idx": 8,
+    "eventIdx": 995,
+    "raidIdx": 19990,
+    "endTurn": 10,
+    "battleMap": "land_boss_01",
+    "enemyMap": "land_boss_01"
+  },
+  {
+    "idx": 9,
+    "eventIdx": 995,
+    "raidIdx": 19991,
+    "endTurn": 10,
+    "battleMap": "land_boss_01",
+    "enemyMap": "land_boss_01"
+  },
+  {
+    "idx": 10,
+    "eventIdx": 995,
+    "raidIdx": 19992,
+    "endTurn": 10,
+    "battleMap": "land_boss_01",
+    "enemyMap": "land_boss_01"
+  },
+  {
+    "idx": 11,
+    "eventIdx": 995,
+    "raidIdx": 19993,
+    "endTurn": 10,
+    "battleMap": "land_boss_01",
+    "enemyMap": "land_boss_01"
+  },
+  {
+    "idx": 12,
+    "eventIdx": 995,
+    "raidIdx": 19994,
+    "endTurn": 10,
+    "battleMap": "land_boss_01",
+    "enemyMap": "land_boss_01"
   }
 ]
