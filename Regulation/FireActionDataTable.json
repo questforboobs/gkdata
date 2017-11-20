@@ -1377,6 +1377,40 @@
     }
   },
   {
+    "key": "50682",
+    "on": {
+      "duration": 6000,
+      "eventTime": 0,
+      "fireDelayTime": 0,
+      "hitDelayTime": 800,
+      "timeSleepDuringFire": true
+    },
+    "off": {
+      "duration": 6000,
+      "eventTime": -1,
+      "fireDelayTime": 0,
+      "hitDelayTime": 0,
+      "timeSleepDuringFire": true
+    }
+  },
+  {
+    "key": "50683",
+    "on": {
+      "duration": 0,
+      "eventTime": -1,
+      "fireDelayTime": 0,
+      "hitDelayTime": 0,
+      "timeSleepDuringFire": true
+    },
+    "off": {
+      "duration": 800,
+      "eventTime": -1,
+      "fireDelayTime": 0,
+      "hitDelayTime": 0,
+      "timeSleepDuringFire": true
+    }
+  },
+  {
     "key": "59822",
     "on": {
       "duration": 6000,

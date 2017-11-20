@@ -191,6 +191,16 @@
   },
   {
     "category": 13,
+    "type": 994,
+    "typeIndex": 1,
+    "startDate": "2017-11-21",
+    "startTime": "00:00:00",
+    "endDate": "2017-11-28",
+    "endTime": "00:00:00",
+    "weekIdx": 0
+  },
+  {
+    "category": 13,
     "type": 995,
     "typeIndex": 1,
     "startDate": "2017-11-14",

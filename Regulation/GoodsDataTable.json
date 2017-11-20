@@ -1363,7 +1363,7 @@
     "rechargeType": 0,
     "rechargeTime": 0,
     "rechargeMax": 0,
-    "description": 4398,
+    "description": 4425,
     "storage": 1,
     "icon": "Goods_event_icon07"
   },
@@ -1464,6 +1464,18 @@
     "icon": "Goods-evtp08"
   },
   {
+    "type": 409,
+    "name": 4421,
+    "serverFieldName": "evtp09",
+    "max": 999999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4422,
+    "storage": 1,
+    "icon": "like-costume"
+  },
+  {
     "type": 601,
     "name": 4389,
     "serverFieldName": "smon01",
@@ -1498,6 +1510,18 @@
     "description": 4420,
     "storage": 1,
     "icon": "Goods-gcon"
+  },
+  {
+    "type": 604,
+    "name": 4423,
+    "serverFieldName": "smon04",
+    "max": 999999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4424,
+    "storage": 1,
+    "icon": "main_building_hq"
   },
   {
     "type": 999,
