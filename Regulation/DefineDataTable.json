@@ -56,6 +56,10 @@
     "value": "30"
   },
   {
+    "key": "BATTLEEVENT_CLOSE_DELAY",
+    "value": "86400"
+  },
+  {
     "key": "BATTLE_CLEAR_MAX_COUNT",
     "value": "10"
   },
@@ -94,10 +98,6 @@
   {
     "key": "BATTLE_STRUGGLE_START_TIME",
     "value": "15:00"
-  },
-  {
-    "key": "BATTLEEVENT_CLOSE_DELAY",
-    "value": "86400"
   },
   {
     "key": "CASH_CONSUME_SORT",
@@ -513,7 +513,7 @@
   },
   {
     "key": "VIP_GACHA_STATS_TIME",
-    "value": "03:00:00"
+    "value": "16:00:00"
   },
   {
     "key": "WARROOM_CLEAR_MAX_COUNT",
