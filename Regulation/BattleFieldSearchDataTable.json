@@ -292,5 +292,26 @@
     "minClass": 16,
     "searchTime": 12,
     "searchExp": 8400
+  },
+  {
+    "idx": 2137,
+    "worldMap": 15,
+    "minClass": 17,
+    "searchTime": 1,
+    "searchExp": 750
+  },
+  {
+    "idx": 2138,
+    "worldMap": 15,
+    "minClass": 17,
+    "searchTime": 6,
+    "searchExp": 4500
+  },
+  {
+    "idx": 2139,
+    "worldMap": 15,
+    "minClass": 17,
+    "searchTime": 12,
+    "searchExp": 9000
   }
 ]
