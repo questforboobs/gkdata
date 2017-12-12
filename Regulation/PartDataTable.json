@@ -81,6 +81,15 @@
     "storage": 1
   },
   {
+    "type": 10706,
+    "grade": 1,
+    "name": 3010706,
+    "serverFieldName": "icon_part_13_06",
+    "max": 99999,
+    "description": 3110706,
+    "storage": 1
+  },
+  {
     "type": 11001,
     "grade": 1,
     "name": 3011001,
@@ -402,6 +411,15 @@
     "serverFieldName": "event_icon27",
     "max": 99999,
     "description": 4416,
+    "storage": 1
+  },
+  {
+    "type": 20108,
+    "grade": 1,
+    "name": 4426,
+    "serverFieldName": "event_icon07",
+    "max": 99999,
+    "description": 4427,
     "storage": 1
   },
   {
