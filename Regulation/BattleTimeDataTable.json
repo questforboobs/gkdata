@@ -131,52 +131,12 @@
   },
   {
     "category": 13,
-    "type": 994,
+    "type": 993,
     "typeIndex": 1,
-    "startDate": "2017-11-21",
-    "startTime": "00:00:00",
-    "endDate": "2017-11-28",
-    "endTime": "00:00:00",
-    "weekIdx": 0
-  },
-  {
-    "category": 13,
-    "type": 995,
-    "typeIndex": 1,
-    "startDate": "2017-11-14",
-    "startTime": "00:00:00",
-    "endDate": "2017-11-21",
-    "endTime": "00:00:00",
-    "weekIdx": 0
-  },
-  {
-    "category": 13,
-    "type": 996,
-    "typeIndex": 1,
-    "startDate": "2017-11-07",
-    "startTime": "00:00:00",
-    "endDate": "2017-11-14",
-    "endTime": "00:00:00",
-    "weekIdx": 0
-  },
-  {
-    "category": 13,
-    "type": 997,
-    "typeIndex": 1,
-    "startDate": "2017-10-31",
-    "startTime": "00:00:00",
-    "endDate": "2017-11-07",
-    "endTime": "00:00:00",
-    "weekIdx": 0
-  },
-  {
-    "category": 13,
-    "type": 998,
-    "typeIndex": 1,
-    "startDate": "2017-10-23",
-    "startTime": "00:00:00",
-    "endDate": "2017-10-31",
-    "endTime": "00:00:00",
+    "startDate": "2017-12-19",
+    "startTime": "14:00:00",
+    "endDate": "2018-01-02",
+    "endTime": "14:00:00",
     "weekIdx": 0
   }
 ]

@@ -351,6 +351,24 @@
     "storage": 1
   },
   {
+    "type": 20012,
+    "grade": 1,
+    "name": 4430,
+    "serverFieldName": "event_icon31",
+    "max": 99999,
+    "description": 4431,
+    "storage": 1
+  },
+  {
+    "type": 20013,
+    "grade": 1,
+    "name": 4432,
+    "serverFieldName": "event_icon32",
+    "max": 99999,
+    "description": 4433,
+    "storage": 1
+  },
+  {
     "type": 20101,
     "grade": 1,
     "name": 4367,

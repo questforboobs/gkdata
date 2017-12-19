@@ -57,7 +57,7 @@
   },
   {
     "key": "BATTLEEVENT_CLOSE_DELAY",
-    "value": "86400"
+    "value": "0"
   },
   {
     "key": "BATTLE_CLEAR_MAX_COUNT",
