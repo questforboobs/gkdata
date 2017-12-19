@@ -1,68 +1,13 @@
 [
   {
-    "eventIdx": 994,
-    "goodsIdx": 604,
-    "goodsAmount": 5,
-    "eventImg": 3498,
-    "eventLogo": "-",
-    "mainRewardType": 1,
-    "mainRewardIdx": 409,
-    "mainRewardAmount": 1,
-    "eventPointIdx": 409
-  },
-  {
-    "eventIdx": 995,
-    "goodsIdx": 603,
-    "goodsAmount": 5,
-    "eventImg": 3499,
-    "eventLogo": "-",
-    "mainRewardType": 1,
-    "mainRewardIdx": 408,
-    "mainRewardAmount": 1,
-    "eventPointIdx": 408
-  },
-  {
-    "eventIdx": 996,
-    "goodsIdx": 602,
-    "goodsAmount": 5,
+    "eventIdx": 993,
+    "goodsIdx": 0,
+    "goodsAmount": 0,
     "eventImg": 3497,
     "eventLogo": "-",
     "mainRewardType": 1,
-    "mainRewardIdx": 407,
+    "mainRewardIdx": 410,
     "mainRewardAmount": 1,
-    "eventPointIdx": 407
-  },
-  {
-    "eventIdx": 997,
-    "goodsIdx": 602,
-    "goodsAmount": 5,
-    "eventImg": 3498,
-    "eventLogo": "-",
-    "mainRewardType": 1,
-    "mainRewardIdx": 406,
-    "mainRewardAmount": 1,
-    "eventPointIdx": 406
-  },
-  {
-    "eventIdx": 998,
-    "goodsIdx": 602,
-    "goodsAmount": 5,
-    "eventImg": 3499,
-    "eventLogo": "-",
-    "mainRewardType": 1,
-    "mainRewardIdx": 405,
-    "mainRewardAmount": 1,
-    "eventPointIdx": 405
-  },
-  {
-    "eventIdx": 999,
-    "goodsIdx": 601,
-    "goodsAmount": 5,
-    "eventImg": 3497,
-    "eventLogo": "-",
-    "mainRewardType": 1,
-    "mainRewardIdx": 404,
-    "mainRewardAmount": 1,
-    "eventPointIdx": 404
+    "eventPointIdx": 410
   }
 ]

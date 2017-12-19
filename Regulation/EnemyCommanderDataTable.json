@@ -7665,338 +7665,122 @@
   },
   {
     "index": 958,
-    "id": 19960,
+    "id": 20021,
     "wave": 1,
-    "commanderId": 985,
-    "name": 1005985,
+    "commanderId": 1,
+    "name": 1005001,
     "power": 0
   },
   {
     "index": 959,
-    "id": 19961,
-    "wave": 1,
-    "commanderId": 40101,
-    "name": 2064,
+    "id": 20021,
+    "wave": 2,
+    "commanderId": 1,
+    "name": 1005001,
     "power": 0
   },
   {
     "index": 960,
-    "id": 19962,
-    "wave": 1,
-    "commanderId": 40101,
-    "name": 2064,
+    "id": 20021,
+    "wave": 3,
+    "commanderId": 1,
+    "name": 1005001,
     "power": 0
   },
   {
     "index": 961,
-    "id": 19963,
+    "id": 20022,
     "wave": 1,
-    "commanderId": 40101,
-    "name": 2064,
+    "commanderId": 41,
+    "name": 1005041,
     "power": 0
   },
   {
     "index": 962,
-    "id": 19963,
+    "id": 20022,
     "wave": 2,
-    "commanderId": 40101,
-    "name": 2064,
+    "commanderId": 41,
+    "name": 1005041,
     "power": 0
   },
   {
     "index": 963,
-    "id": 19964,
-    "wave": 1,
-    "commanderId": 40101,
-    "name": 2064,
+    "id": 20022,
+    "wave": 3,
+    "commanderId": 41,
+    "name": 1005041,
     "power": 0
   },
   {
     "index": 964,
-    "id": 19964,
-    "wave": 2,
-    "commanderId": 40101,
-    "name": 2064,
+    "id": 20023,
+    "wave": 1,
+    "commanderId": 11,
+    "name": 1005011,
     "power": 0
   },
   {
     "index": 965,
-    "id": 19965,
-    "wave": 1,
-    "commanderId": 985,
-    "name": 1005985,
+    "id": 20023,
+    "wave": 2,
+    "commanderId": 11,
+    "name": 1005011,
     "power": 0
   },
   {
     "index": 966,
-    "id": 19965,
-    "wave": 2,
-    "commanderId": 985,
-    "name": 1005985,
+    "id": 20023,
+    "wave": 3,
+    "commanderId": 11,
+    "name": 1005011,
     "power": 0
   },
   {
     "index": 967,
-    "id": 19966,
+    "id": 20024,
     "wave": 1,
-    "commanderId": 985,
-    "name": 1005985,
+    "commanderId": 17,
+    "name": 1005017,
     "power": 0
   },
   {
     "index": 968,
-    "id": 19970,
-    "wave": 1,
-    "commanderId": 987,
-    "name": 1005987,
+    "id": 20024,
+    "wave": 2,
+    "commanderId": 17,
+    "name": 1005017,
     "power": 0
   },
   {
     "index": 969,
-    "id": 19990,
-    "wave": 1,
-    "commanderId": 3,
-    "name": 1005003,
+    "id": 20024,
+    "wave": 3,
+    "commanderId": 17,
+    "name": 1005017,
     "power": 0
   },
   {
     "index": 970,
-    "id": 19991,
+    "id": 20025,
     "wave": 1,
-    "commanderId": 21,
-    "name": 1005021,
+    "commanderId": 43,
+    "name": 1005043,
     "power": 0
   },
   {
     "index": 971,
-    "id": 19992,
-    "wave": 1,
-    "commanderId": 22,
-    "name": 1005022,
+    "id": 20025,
+    "wave": 2,
+    "commanderId": 43,
+    "name": 1005043,
     "power": 0
   },
   {
     "index": 972,
-    "id": 19993,
-    "wave": 1,
-    "commanderId": 46,
-    "name": 1005046,
-    "power": 0
-  },
-  {
-    "index": 973,
-    "id": 19994,
-    "wave": 1,
-    "commanderId": 57,
-    "name": 1005057,
-    "power": 0
-  },
-  {
-    "index": 974,
-    "id": 19995,
-    "wave": 1,
-    "commanderId": 38,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 975,
-    "id": 19996,
-    "wave": 1,
-    "commanderId": 47,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 976,
-    "id": 19997,
-    "wave": 1,
-    "commanderId": 31,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 977,
-    "id": 19998,
-    "wave": 1,
-    "commanderId": 49,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 978,
-    "id": 19999,
-    "wave": 1,
-    "commanderId": 984,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 979,
-    "id": 20000,
-    "wave": 1,
-    "commanderId": 54,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 980,
-    "id": 20010,
-    "wave": 1,
-    "commanderId": 7,
-    "name": 1005007,
-    "power": 0
-  },
-  {
-    "index": 981,
-    "id": 20011,
-    "wave": 1,
-    "commanderId": 40101,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 982,
-    "id": 20011,
-    "wave": 2,
-    "commanderId": 40101,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 983,
-    "id": 20011,
+    "id": 20025,
     "wave": 3,
-    "commanderId": 40101,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 984,
-    "id": 20012,
-    "wave": 1,
-    "commanderId": 40101,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 985,
-    "id": 20012,
-    "wave": 2,
-    "commanderId": 40101,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 986,
-    "id": 20012,
-    "wave": 3,
-    "commanderId": 40101,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 987,
-    "id": 20013,
-    "wave": 1,
-    "commanderId": 40101,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 988,
-    "id": 20013,
-    "wave": 2,
-    "commanderId": 40101,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 989,
-    "id": 20013,
-    "wave": 3,
-    "commanderId": 40101,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 990,
-    "id": 20014,
-    "wave": 1,
-    "commanderId": 40101,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 991,
-    "id": 20014,
-    "wave": 2,
-    "commanderId": 40101,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 992,
-    "id": 20014,
-    "wave": 3,
-    "commanderId": 40101,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 993,
-    "id": 20015,
-    "wave": 1,
-    "commanderId": 40101,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 994,
-    "id": 20015,
-    "wave": 2,
-    "commanderId": 40101,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 995,
-    "id": 20015,
-    "wave": 3,
-    "commanderId": 40101,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 996,
-    "id": 20016,
-    "wave": 1,
-    "commanderId": 40101,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 997,
-    "id": 20016,
-    "wave": 2,
-    "commanderId": 40101,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 998,
-    "id": 20016,
-    "wave": 3,
-    "commanderId": 40101,
-    "name": 2064,
-    "power": 0
-  },
-  {
-    "index": 999,
-    "id": 20020,
-    "wave": 1,
-    "commanderId": 12,
-    "name": 1005012,
+    "commanderId": 43,
+    "name": 1005043,
     "power": 0
   }
 ]

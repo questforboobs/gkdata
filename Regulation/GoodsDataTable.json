@@ -1476,6 +1476,18 @@
     "icon": "like-costume"
   },
   {
+    "type": 410,
+    "name": 4428,
+    "serverFieldName": "evtp10",
+    "max": 999999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4429,
+    "storage": 1,
+    "icon": "Goods-evtp10"
+  },
+  {
     "type": 601,
     "name": 4389,
     "serverFieldName": "smon01",
