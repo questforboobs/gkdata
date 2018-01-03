@@ -82,19 +82,5 @@
     "count": 10,
     "priceType": 21,
     "cost": 20
-  },
-  {
-    "index": 12,
-    "type": 14,
-    "count": 1,
-    "priceType": 2,
-    "cost": 135
-  },
-  {
-    "index": 13,
-    "type": 14,
-    "count": 10,
-    "priceType": 2,
-    "cost": 1200
   }
 ]

@@ -1,15 +1,15 @@
 {
   "Localization.txt": [
-    "20171226144919",
-    8074796
+    "20180102171837",
+    8112940
   ],
   "DailyBonusDataTable.json": [
     "20171226144036",
     10840
   ],
   "CommanderDataTable.json": [
-    "20171226143923",
-    94592
+    "20180102142504",
+    94936
   ],
   "WorldMapDataTable.json": [
     "20171212155310",
@@ -20,8 +20,8 @@
     109312
   ],
   "UnitDataTable.json": [
-    "20171226144705",
-    2688300
+    "20180102143211",
+    2688940
   ],
   "WorldMapStageTypeDataTable.json": [
     "20170523001518",
@@ -40,11 +40,11 @@
     15616
   ],
   "GoodsDataTable.json": [
-    "20171226144123",
+    "20180102142748",
     29056
   ],
   "BuildingLevelDataTable.json": [
-    "20171219144517",
+    "20180102150854",
     1836
   ],
   "CommanderLevelDataTable.json": [
@@ -64,16 +64,16 @@
     5760
   ],
   "SkillDataTable.json": [
-    "20171226144512",
-    1196716
+    "20180102143032",
+    1202476
   ],
   "ProjectileDataTable.json": [
-    "20171226144552",
-    249132
+    "20180102143116",
+    250668
   ],
   "StatusEffectDataTable.json": [
-    "20171226144529",
-    271488
+    "20180102143055",
+    273152
   ],
   "MissionTable.json": [
     "20170627000528",
@@ -92,28 +92,28 @@
     14936
   ],
   "SkillUpgradeDataTable.json": [
-    "20171226144616",
-    167980
+    "20180102143130",
+    169600
   ],
   "InteractionDataTable.json": [
-    "20171226144151",
-    731008
+    "20180102142810",
+    740056
   ],
   "RankingRewardDataTable.json": [
     "20170523001737",
     21888
   ],
   "ProjectileMotionPhaseDataTable.json": [
-    "20171212154021",
-    339756
+    "20180102142249",
+    346840
   ],
   "UnitMotionDataTable.json": [
-    "20171212154030",
-    582528
+    "20180102142258",
+    590336
   ],
   "FireActionDataTable.json": [
-    "20171212154009",
-    32088
+    "20180102142233",
+    32684
   ],
   "PartDataTable.json": [
     "20171219145351",
@@ -124,28 +124,28 @@
     44632
   ],
   "GachaDataTable.json": [
-    "20171219145202",
-    2520
+    "20180102142705",
+    2176
   ],
   "GachaCostDataTable.json": [
-    "20171219145218",
-    1112
+    "20180102142719",
+    940
   ],
   "GachaRewardDataTable.json": [
-    "20171226144108",
-    26112
+    "20180102142733",
+    22528
   ],
   "LevelPatternDataTable.json": [
-    "20171226144245",
-    52224
+    "20180102142907",
+    52696
   ],
   "DropGoldPatternDataTable.json": [
     "20170523001149",
     172
   ],
   "RewardDataTable.json": [
-    "20171226144359",
-    1356160
+    "20180102142944",
+    1247276
   ],
   "GuildStruggleDataTable.json": [
     "20170523001327",
@@ -168,7 +168,7 @@
     3244
   ],
   "VipExpDataTable.json": [
-    "20171226144750",
+    "20180102143229",
     1024
   ],
   "ShopDataTable.json": [
@@ -180,19 +180,19 @@
     428
   ],
   "ClassPatternDataTable.json": [
-    "20171226143905",
-    189784
+    "20180102142447",
+    191960
   ],
   "CommanderClassDataTable.json": [
-    "20171226143948",
-    322264
+    "20180102142520",
+    326272
   ],
   "ItemExchangeDataTable.json": [
-    "20171226144205",
-    73984
+    "20180102142831",
+    74240
   ],
   "DefineDataTable.json": [
-    "20171219144711",
+    "20180102142630",
     8108
   ],
   "DailyEventDataTable.json": [
@@ -204,16 +204,16 @@
     19840
   ],
   "CommanderCostumeDataTable.json": [
-    "20171226144005",
-    47192
+    "20180102142542",
+    47448
   ],
   "LoadingTipDataTable.json": [
     "20170801000557",
     12248
   ],
   "FavorDataTable.json": [
-    "20171226144051",
-    78336
+    "20180102142650",
+    79276
   ],
   "CommanderGiftDataTable.json": [
     "20170523000709",
@@ -224,16 +224,16 @@
     13144
   ],
   "CarnivalTypeDataTable.json": [
-    "20171226143646",
-    43692
+    "20180102171854",
+    42496
   ],
   "CarnivalDataTable.json": [
-    "20171226143719",
-    376108
+    "20180102171911",
+    358488
   ],
   "CommanderVoiceDataTable.json": [
-    "20171226144019",
-    29656
+    "20180102142610",
+    29952
   ],
   "CommanderScenarioDataTable.json": [
     "20170711000327",
