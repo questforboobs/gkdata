@@ -112,24 +112,5 @@
     "endTime": "17:00:00",
     "eventComment": 13108,
     "mainReward": "0"
-  },
-  {
-    "type": 14,
-    "name": 13109,
-    "resetType": 0,
-    "resetTime": 0,
-    "count": 0,
-    "comment": 0,
-    "img": 3007,
-    "banner": 3507,
-    "bonusCount": 0,
-    "bonusType": 0,
-    "sort": 3,
-    "startDate": "2017-12-14",
-    "startTime": "00:00:00",
-    "endDate": "2018-01-03",
-    "endTime": "00:00:00",
-    "eventComment": 13110,
-    "mainReward": "0"
   }
 ]

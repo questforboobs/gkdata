@@ -393,23 +393,23 @@
   },
   {
     "key": "NO_GET_COMMANDER_LEVEL",
-    "value": "95"
+    "value": 97
   },
   {
     "key": "NO_GET_COMMANDER_SKILL01",
-    "value": "95"
+    "value": 97
   },
   {
     "key": "NO_GET_COMMANDER_SKILL02",
-    "value": "95"
+    "value": 97
   },
   {
     "key": "NO_GET_COMMANDER_SKILL03",
-    "value": "94"
+    "value": 96
   },
   {
     "key": "NO_GET_COMMANDER_SKILL04",
-    "value": "86"
+    "value": 88
   },
   {
     "key": "NO_GET_COMMANDER_STAR",
