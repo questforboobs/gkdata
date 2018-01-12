@@ -1,13 +1,13 @@
 [
   {
-    "eventIdx": 993,
-    "goodsIdx": 0,
-    "goodsAmount": 0,
+    "eventIdx": 992,
+    "goodsIdx": 605,
+    "goodsAmount": 5,
     "eventImg": 3497,
     "eventLogo": "-",
     "mainRewardType": 1,
-    "mainRewardIdx": 410,
+    "mainRewardIdx": 411,
     "mainRewardAmount": 1,
-    "eventPointIdx": 410
+    "eventPointIdx": 411
   }
 ]

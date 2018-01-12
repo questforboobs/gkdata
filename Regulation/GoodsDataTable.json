@@ -1488,6 +1488,18 @@
     "icon": "Goods-evtp10"
   },
   {
+    "type": 411,
+    "name": 4434,
+    "serverFieldName": "evtp11",
+    "max": 999999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4435,
+    "storage": 1,
+    "icon": "Goods-evtp11"
+  },
+  {
     "type": 601,
     "name": 4389,
     "serverFieldName": "smon01",
@@ -1536,6 +1548,18 @@
     "icon": "main_building_hq"
   },
   {
+    "type": 605,
+    "name": 4436,
+    "serverFieldName": "smon05",
+    "max": 999999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4437,
+    "storage": 1,
+    "icon": "Goods-smon05"
+  },
+  {
     "type": 999,
     "name": 4025,
     "serverFieldName": "sec",
@@ -1577,7 +1601,7 @@
     "serverFieldName": "skil",
     "max": 9999,
     "rechargeType": 2,
-    "rechargeTime": 300,
+    "rechargeTime": 150,
     "rechargeMax": 0,
     "description": 4059,
     "storage": 0,
