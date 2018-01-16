@@ -41,7 +41,7 @@
   {
     "idx": 12,
     "name": 27079,
-    "sort": 1988,
+    "sort": 9987,
     "Type": 10,
     "startDate": "2016-08-30",
     "startTime": "00:00:00",
@@ -54,7 +54,7 @@
   {
     "idx": 13,
     "name": 27019,
-    "sort": 1989,
+    "sort": 9988,
     "Type": 8,
     "startDate": "2016-08-30",
     "startTime": "00:00:00",
@@ -106,7 +106,7 @@
   {
     "idx": 37,
     "name": 27086,
-    "sort": 1992,
+    "sort": 9991,
     "Type": 9,
     "startDate": "2016-08-30",
     "startTime": "00:00:00",
@@ -119,7 +119,7 @@
   {
     "idx": 69,
     "name": 27025,
-    "sort": 1993,
+    "sort": 9992,
     "Type": 9,
     "startDate": "2016-08-30",
     "startTime": "00:00:00",
@@ -132,7 +132,7 @@
   {
     "idx": 70,
     "name": 27025,
-    "sort": 1994,
+    "sort": 9993,
     "Type": 9,
     "startDate": "2016-08-30",
     "startTime": "00:00:00",
@@ -145,7 +145,7 @@
   {
     "idx": 71,
     "name": 27025,
-    "sort": 1995,
+    "sort": 9994,
     "Type": 9,
     "startDate": "2016-08-30",
     "startTime": "00:00:00",
@@ -158,7 +158,7 @@
   {
     "idx": 72,
     "name": 27025,
-    "sort": 1996,
+    "sort": 9995,
     "Type": 9,
     "startDate": "2016-08-30",
     "startTime": "00:00:00",
@@ -171,7 +171,7 @@
   {
     "idx": 73,
     "name": 27025,
-    "sort": 1997,
+    "sort": 9996,
     "Type": 9,
     "startDate": "2016-08-30",
     "startTime": "00:00:00",
@@ -184,7 +184,7 @@
   {
     "idx": 74,
     "name": 27025,
-    "sort": 1998,
+    "sort": 9997,
     "Type": 9,
     "startDate": "2016-08-30",
     "startTime": "00:00:00",
@@ -197,7 +197,7 @@
   {
     "idx": 75,
     "name": 27025,
-    "sort": 1999,
+    "sort": 9998,
     "Type": 9,
     "startDate": "2016-08-30",
     "startTime": "00:00:00",
@@ -210,7 +210,7 @@
   {
     "idx": 76,
     "name": 27025,
-    "sort": 2000,
+    "sort": 9999,
     "Type": 9,
     "startDate": "2016-08-30",
     "startTime": "00:00:00",
@@ -223,7 +223,7 @@
   {
     "idx": 164,
     "name": 27262,
-    "sort": 1990,
+    "sort": 9989,
     "Type": 14,
     "startDate": "2017-02-28",
     "startTime": "00:00:00",
@@ -236,7 +236,7 @@
   {
     "idx": 184,
     "name": 27332,
-    "sort": 1991,
+    "sort": 9990,
     "Type": 8,
     "startDate": "2017-03-14",
     "startTime": "00:00:00",
@@ -247,178 +247,9 @@
     "etc": 0
   },
   {
-    "idx": 495,
-    "name": 27646,
-    "sort": 1276,
-    "Type": 13,
-    "startDate": "2017-10-03",
-    "startTime": "00:00:00",
-    "endDate": "2017-10-11",
-    "endTime": "00:00:00",
-    "startLevel": 1,
-    "endLevel": 100,
-    "etc": 0
-  },
-  {
-    "idx": 497,
-    "name": 27658,
-    "sort": 1278,
-    "Type": 14,
-    "startDate": "2017-10-03",
-    "startTime": "00:00:00",
-    "endDate": "2017-10-11",
-    "endTime": "00:00:00",
-    "startLevel": 1,
-    "endLevel": 100,
-    "etc": 0
-  },
-  {
-    "idx": 498,
-    "name": 27661,
-    "sort": 1279,
-    "Type": 5,
-    "startDate": "2017-09-26",
-    "startTime": "00:00:00",
-    "endDate": "2017-10-18",
-    "endTime": "00:00:00",
-    "startLevel": 1,
-    "endLevel": 100,
-    "etc": 0
-  },
-  {
-    "idx": 504,
-    "name": 27664,
-    "sort": 1285,
-    "Type": 7,
-    "startDate": "2017-10-03",
-    "startTime": "00:00:00",
-    "endDate": "2017-10-11",
-    "endTime": "00:00:00",
-    "startLevel": 1,
-    "endLevel": 100,
-    "etc": 0
-  },
-  {
-    "idx": 505,
-    "name": 27668,
-    "sort": 1286,
-    "Type": 7,
-    "startDate": "2017-09-26",
-    "startTime": "00:00:00",
-    "endDate": "2017-10-18",
-    "endTime": "00:00:00",
-    "startLevel": 1,
-    "endLevel": 100,
-    "etc": 0
-  },
-  {
-    "idx": 506,
-    "name": 27067,
-    "sort": 1287,
-    "Type": 4,
-    "startDate": "2017-10-10",
-    "startTime": "00:00:00",
-    "endDate": "2017-10-17",
-    "endTime": "00:00:00",
-    "startLevel": 1,
-    "endLevel": 100,
-    "etc": 0
-  },
-  {
-    "idx": 507,
-    "name": 27030,
-    "sort": 1288,
-    "Type": 5,
-    "startDate": "2017-10-10",
-    "startTime": "00:00:00",
-    "endDate": "2017-10-17",
-    "endTime": "00:00:00",
-    "startLevel": 1,
-    "endLevel": 100,
-    "etc": 0
-  },
-  {
-    "idx": 508,
-    "name": 27260,
-    "sort": 1289,
-    "Type": 13,
-    "startDate": "2017-10-10",
-    "startTime": "00:00:00",
-    "endDate": "2017-10-17",
-    "endTime": "00:00:00",
-    "startLevel": 1,
-    "endLevel": 100,
-    "etc": 0
-  },
-  {
-    "idx": 509,
-    "name": 27261,
-    "sort": 1290,
-    "Type": 13,
-    "startDate": "2017-10-10",
-    "startTime": "00:00:00",
-    "endDate": "2017-10-17",
-    "endTime": "00:00:00",
-    "startLevel": 1,
-    "endLevel": 100,
-    "etc": 0
-  },
-  {
-    "idx": 510,
-    "name": 27670,
-    "sort": 1291,
-    "Type": 13,
-    "startDate": "2017-10-10",
-    "startTime": "00:00:00",
-    "endDate": "2017-10-18",
-    "endTime": "00:00:00",
-    "startLevel": 1,
-    "endLevel": 100,
-    "etc": 0
-  },
-  {
-    "idx": 511,
-    "name": 27679,
-    "sort": 1292,
-    "Type": 14,
-    "startDate": "2017-10-10",
-    "startTime": "00:00:00",
-    "endDate": "2017-10-18",
-    "endTime": "00:00:00",
-    "startLevel": 1,
-    "endLevel": 100,
-    "etc": 0
-  },
-  {
-    "idx": 512,
-    "name": 27082,
-    "sort": 1293,
-    "Type": 7,
-    "startDate": "2017-10-10",
-    "startTime": "00:00:00",
-    "endDate": "2017-10-17",
-    "endTime": "00:00:00",
-    "startLevel": 1,
-    "endLevel": 100,
-    "etc": 0
-  },
-  {
-    "idx": 513,
-    "name": 27666,
-    "sort": 1294,
-    "Type": 7,
-    "startDate": "2017-10-10",
-    "startTime": "00:00:00",
-    "endDate": "2017-10-18",
-    "endTime": "00:00:00",
-    "startLevel": 1,
-    "endLevel": 100,
-    "etc": 0
-  },
-  {
     "idx": 514,
     "name": 27073,
-    "sort": 1295,
+    "sort": 9980,
     "Type": 5,
     "startDate": "2017-10-17",
     "startTime": "00:00:00",
@@ -431,7 +262,7 @@
   {
     "idx": 515,
     "name": 27072,
-    "sort": 1296,
+    "sort": 9979,
     "Type": 5,
     "startDate": "2017-10-17",
     "startTime": "00:00:00",
@@ -444,7 +275,7 @@
   {
     "idx": 516,
     "name": 27095,
-    "sort": 1297,
+    "sort": 9978,
     "Type": 5,
     "startDate": "2017-10-17",
     "startTime": "00:00:00",
@@ -457,7 +288,7 @@
   {
     "idx": 517,
     "name": 27096,
-    "sort": 1298,
+    "sort": 9977,
     "Type": 5,
     "startDate": "2017-10-17",
     "startTime": "00:00:00",
@@ -470,7 +301,7 @@
   {
     "idx": 518,
     "name": 27481,
-    "sort": 1299,
+    "sort": 9976,
     "Type": 14,
     "startDate": "2017-10-17",
     "startTime": "00:00:00",
@@ -483,7 +314,7 @@
   {
     "idx": 519,
     "name": 27413,
-    "sort": 1300,
+    "sort": 9975,
     "Type": 8,
     "startDate": "2017-10-17",
     "startTime": "00:00:00",
@@ -496,7 +327,7 @@
   {
     "idx": 520,
     "name": 27069,
-    "sort": 1301,
+    "sort": 9974,
     "Type": 5,
     "startDate": "2017-10-17",
     "startTime": "00:00:00",
@@ -509,7 +340,7 @@
   {
     "idx": 521,
     "name": 27176,
-    "sort": 1302,
+    "sort": 9973,
     "Type": 14,
     "startDate": "2017-10-17",
     "startTime": "00:00:00",
@@ -522,7 +353,7 @@
   {
     "idx": 522,
     "name": 27088,
-    "sort": 1303,
+    "sort": 9972,
     "Type": 7,
     "startDate": "2017-10-17",
     "startTime": "00:00:00",
@@ -535,7 +366,7 @@
   {
     "idx": 523,
     "name": 27691,
-    "sort": 1304,
+    "sort": 9971,
     "Type": 7,
     "startDate": "2017-10-24",
     "startTime": "00:00:00",
@@ -548,7 +379,7 @@
   {
     "idx": 524,
     "name": 27067,
-    "sort": 1305,
+    "sort": 9970,
     "Type": 4,
     "startDate": "2017-10-24",
     "startTime": "00:00:00",
@@ -561,7 +392,7 @@
   {
     "idx": 525,
     "name": 27030,
-    "sort": 1306,
+    "sort": 9969,
     "Type": 5,
     "startDate": "2017-10-24",
     "startTime": "00:00:00",
@@ -574,7 +405,7 @@
   {
     "idx": 526,
     "name": 27457,
-    "sort": 1307,
+    "sort": 9968,
     "Type": 14,
     "startDate": "2017-10-24",
     "startTime": "00:00:00",
@@ -587,7 +418,7 @@
   {
     "idx": 527,
     "name": 27458,
-    "sort": 1308,
+    "sort": 9967,
     "Type": 14,
     "startDate": "2017-10-24",
     "startTime": "00:00:00",
@@ -600,7 +431,7 @@
   {
     "idx": 528,
     "name": 27376,
-    "sort": 1309,
+    "sort": 9966,
     "Type": 13,
     "startDate": "2017-10-24",
     "startTime": "00:00:00",
@@ -613,7 +444,7 @@
   {
     "idx": 529,
     "name": 27377,
-    "sort": 1310,
+    "sort": 9965,
     "Type": 13,
     "startDate": "2017-10-24",
     "startTime": "00:00:00",
@@ -626,7 +457,7 @@
   {
     "idx": 530,
     "name": 27260,
-    "sort": 1311,
+    "sort": 9964,
     "Type": 13,
     "startDate": "2017-10-24",
     "startTime": "00:00:00",
@@ -639,7 +470,7 @@
   {
     "idx": 531,
     "name": 27261,
-    "sort": 1312,
+    "sort": 9963,
     "Type": 13,
     "startDate": "2017-10-24",
     "startTime": "00:00:00",
@@ -652,7 +483,7 @@
   {
     "idx": 532,
     "name": 27114,
-    "sort": 1313,
+    "sort": 9962,
     "Type": 14,
     "startDate": "2017-10-24",
     "startTime": "00:00:00",
@@ -665,7 +496,7 @@
   {
     "idx": 533,
     "name": 27114,
-    "sort": 1314,
+    "sort": 9961,
     "Type": 14,
     "startDate": "2017-10-25",
     "startTime": "00:00:00",
@@ -678,7 +509,7 @@
   {
     "idx": 534,
     "name": 27114,
-    "sort": 1315,
+    "sort": 9960,
     "Type": 14,
     "startDate": "2017-10-26",
     "startTime": "00:00:00",
@@ -691,7 +522,7 @@
   {
     "idx": 535,
     "name": 27114,
-    "sort": 1316,
+    "sort": 9959,
     "Type": 14,
     "startDate": "2017-10-27",
     "startTime": "00:00:00",
@@ -704,7 +535,7 @@
   {
     "idx": 536,
     "name": 27114,
-    "sort": 1317,
+    "sort": 9958,
     "Type": 14,
     "startDate": "2017-10-28",
     "startTime": "00:00:00",
@@ -717,7 +548,7 @@
   {
     "idx": 537,
     "name": 27114,
-    "sort": 1318,
+    "sort": 9957,
     "Type": 14,
     "startDate": "2017-10-29",
     "startTime": "00:00:00",
@@ -730,7 +561,7 @@
   {
     "idx": 538,
     "name": 27114,
-    "sort": 1319,
+    "sort": 9956,
     "Type": 14,
     "startDate": "2017-10-30",
     "startTime": "00:00:00",
@@ -743,7 +574,7 @@
   {
     "idx": 539,
     "name": 27093,
-    "sort": 1320,
+    "sort": 9955,
     "Type": 7,
     "startDate": "2017-10-24",
     "startTime": "00:00:00",
@@ -756,7 +587,7 @@
   {
     "idx": 540,
     "name": 27705,
-    "sort": 1321,
+    "sort": 9954,
     "Type": 7,
     "startDate": "2017-10-31",
     "startTime": "00:00:00",
@@ -769,7 +600,7 @@
   {
     "idx": 541,
     "name": 27060,
-    "sort": 1322,
+    "sort": 9953,
     "Type": 5,
     "startDate": "2017-11-01",
     "startTime": "00:00:00",
@@ -782,7 +613,7 @@
   {
     "idx": 542,
     "name": 27061,
-    "sort": 1323,
+    "sort": 9952,
     "Type": 5,
     "startDate": "2017-11-02",
     "startTime": "00:00:00",
@@ -795,7 +626,7 @@
   {
     "idx": 543,
     "name": 27062,
-    "sort": 1324,
+    "sort": 9951,
     "Type": 5,
     "startDate": "2017-11-03",
     "startTime": "00:00:00",
@@ -808,7 +639,7 @@
   {
     "idx": 544,
     "name": 27063,
-    "sort": 1325,
+    "sort": 9950,
     "Type": 5,
     "startDate": "2017-11-04",
     "startTime": "00:00:00",
@@ -821,7 +652,7 @@
   {
     "idx": 545,
     "name": 27064,
-    "sort": 1326,
+    "sort": 9949,
     "Type": 5,
     "startDate": "2017-11-05",
     "startTime": "00:00:00",
@@ -834,7 +665,7 @@
   {
     "idx": 546,
     "name": 27707,
-    "sort": 1327,
+    "sort": 9948,
     "Type": 5,
     "startDate": "2017-10-31",
     "startTime": "00:00:00",
@@ -847,7 +678,7 @@
   {
     "idx": 547,
     "name": 27112,
-    "sort": 1328,
+    "sort": 9947,
     "Type": 5,
     "startDate": "2017-10-31",
     "startTime": "00:00:00",
@@ -860,7 +691,7 @@
   {
     "idx": 548,
     "name": 27070,
-    "sort": 1329,
+    "sort": 9946,
     "Type": 7,
     "startDate": "2017-10-31",
     "startTime": "00:00:00",
@@ -873,7 +704,7 @@
   {
     "idx": 549,
     "name": 27067,
-    "sort": 1330,
+    "sort": 9945,
     "Type": 4,
     "startDate": "2017-11-07",
     "startTime": "00:00:00",
@@ -886,7 +717,7 @@
   {
     "idx": 550,
     "name": 27030,
-    "sort": 1331,
+    "sort": 9944,
     "Type": 5,
     "startDate": "2017-11-07",
     "startTime": "00:00:00",
@@ -899,7 +730,7 @@
   {
     "idx": 551,
     "name": 27260,
-    "sort": 1332,
+    "sort": 9943,
     "Type": 13,
     "startDate": "2017-11-07",
     "startTime": "00:00:00",
@@ -912,7 +743,7 @@
   {
     "idx": 552,
     "name": 27261,
-    "sort": 1333,
+    "sort": 9942,
     "Type": 13,
     "startDate": "2017-11-07",
     "startTime": "00:00:00",
@@ -925,7 +756,7 @@
   {
     "idx": 553,
     "name": 27082,
-    "sort": 1334,
+    "sort": 9941,
     "Type": 7,
     "startDate": "2017-11-07",
     "startTime": "00:00:00",
@@ -938,7 +769,7 @@
   {
     "idx": 554,
     "name": 27719,
-    "sort": 1335,
+    "sort": 9940,
     "Type": 7,
     "startDate": "2017-11-07",
     "startTime": "00:00:00",
@@ -951,7 +782,7 @@
   {
     "idx": 555,
     "name": 27073,
-    "sort": 1336,
+    "sort": 9939,
     "Type": 5,
     "startDate": "2017-11-14",
     "startTime": "00:00:00",
@@ -964,7 +795,7 @@
   {
     "idx": 556,
     "name": 27072,
-    "sort": 1337,
+    "sort": 9938,
     "Type": 5,
     "startDate": "2017-11-14",
     "startTime": "00:00:00",
@@ -977,7 +808,7 @@
   {
     "idx": 557,
     "name": 27095,
-    "sort": 1338,
+    "sort": 9937,
     "Type": 5,
     "startDate": "2017-11-14",
     "startTime": "00:00:00",
@@ -990,7 +821,7 @@
   {
     "idx": 558,
     "name": 27096,
-    "sort": 1339,
+    "sort": 9936,
     "Type": 5,
     "startDate": "2017-11-14",
     "startTime": "00:00:00",
@@ -1003,7 +834,7 @@
   {
     "idx": 559,
     "name": 27481,
-    "sort": 1340,
+    "sort": 9935,
     "Type": 14,
     "startDate": "2017-11-14",
     "startTime": "00:00:00",
@@ -1016,7 +847,7 @@
   {
     "idx": 560,
     "name": 27413,
-    "sort": 1341,
+    "sort": 9934,
     "Type": 8,
     "startDate": "2017-11-14",
     "startTime": "00:00:00",
@@ -1029,7 +860,7 @@
   {
     "idx": 561,
     "name": 27069,
-    "sort": 1342,
+    "sort": 9933,
     "Type": 5,
     "startDate": "2017-11-14",
     "startTime": "00:00:00",
@@ -1042,7 +873,7 @@
   {
     "idx": 562,
     "name": 27176,
-    "sort": 1343,
+    "sort": 9932,
     "Type": 14,
     "startDate": "2017-11-14",
     "startTime": "00:00:00",
@@ -1055,7 +886,7 @@
   {
     "idx": 563,
     "name": 27725,
-    "sort": 1344,
+    "sort": 9931,
     "Type": 14,
     "startDate": "2017-11-14",
     "startTime": "00:00:00",
@@ -1068,7 +899,7 @@
   {
     "idx": 564,
     "name": 27088,
-    "sort": 1345,
+    "sort": 9930,
     "Type": 7,
     "startDate": "2017-11-14",
     "startTime": "00:00:00",
@@ -1081,7 +912,7 @@
   {
     "idx": 565,
     "name": 27067,
-    "sort": 1346,
+    "sort": 9929,
     "Type": 4,
     "startDate": "2017-11-21",
     "startTime": "00:00:00",
@@ -1094,7 +925,7 @@
   {
     "idx": 566,
     "name": 27030,
-    "sort": 1347,
+    "sort": 9928,
     "Type": 5,
     "startDate": "2017-11-21",
     "startTime": "00:00:00",
@@ -1107,7 +938,7 @@
   {
     "idx": 567,
     "name": 27457,
-    "sort": 1348,
+    "sort": 9927,
     "Type": 14,
     "startDate": "2017-11-21",
     "startTime": "00:00:00",
@@ -1120,7 +951,7 @@
   {
     "idx": 568,
     "name": 27458,
-    "sort": 1349,
+    "sort": 9926,
     "Type": 14,
     "startDate": "2017-11-21",
     "startTime": "00:00:00",
@@ -1133,7 +964,7 @@
   {
     "idx": 569,
     "name": 27376,
-    "sort": 1350,
+    "sort": 9925,
     "Type": 13,
     "startDate": "2017-11-21",
     "startTime": "00:00:00",
@@ -1146,7 +977,7 @@
   {
     "idx": 570,
     "name": 27377,
-    "sort": 1351,
+    "sort": 9924,
     "Type": 13,
     "startDate": "2017-11-21",
     "startTime": "00:00:00",
@@ -1159,7 +990,7 @@
   {
     "idx": 571,
     "name": 27260,
-    "sort": 1352,
+    "sort": 9923,
     "Type": 13,
     "startDate": "2017-11-21",
     "startTime": "00:00:00",
@@ -1172,7 +1003,7 @@
   {
     "idx": 572,
     "name": 27261,
-    "sort": 1353,
+    "sort": 9922,
     "Type": 13,
     "startDate": "2017-11-21",
     "startTime": "00:00:00",
@@ -1185,7 +1016,7 @@
   {
     "idx": 573,
     "name": 27114,
-    "sort": 1354,
+    "sort": 9921,
     "Type": 14,
     "startDate": "2017-11-21",
     "startTime": "00:00:00",
@@ -1198,7 +1029,7 @@
   {
     "idx": 574,
     "name": 27114,
-    "sort": 1355,
+    "sort": 9920,
     "Type": 14,
     "startDate": "2017-11-22",
     "startTime": "00:00:00",
@@ -1211,7 +1042,7 @@
   {
     "idx": 575,
     "name": 27114,
-    "sort": 1356,
+    "sort": 9919,
     "Type": 14,
     "startDate": "2017-11-23",
     "startTime": "00:00:00",
@@ -1224,7 +1055,7 @@
   {
     "idx": 576,
     "name": 27114,
-    "sort": 1357,
+    "sort": 9918,
     "Type": 14,
     "startDate": "2017-11-24",
     "startTime": "00:00:00",
@@ -1237,7 +1068,7 @@
   {
     "idx": 577,
     "name": 27114,
-    "sort": 1358,
+    "sort": 9917,
     "Type": 14,
     "startDate": "2017-11-25",
     "startTime": "00:00:00",
@@ -1250,7 +1081,7 @@
   {
     "idx": 578,
     "name": 27114,
-    "sort": 1359,
+    "sort": 9916,
     "Type": 14,
     "startDate": "2017-11-26",
     "startTime": "00:00:00",
@@ -1263,7 +1094,7 @@
   {
     "idx": 579,
     "name": 27114,
-    "sort": 1360,
+    "sort": 9915,
     "Type": 14,
     "startDate": "2017-11-27",
     "startTime": "00:00:00",
@@ -1276,7 +1107,7 @@
   {
     "idx": 580,
     "name": 27093,
-    "sort": 1361,
+    "sort": 9914,
     "Type": 7,
     "startDate": "2017-11-21",
     "startTime": "00:00:00",
@@ -1289,7 +1120,7 @@
   {
     "idx": 581,
     "name": 27067,
-    "sort": 1362,
+    "sort": 9913,
     "Type": 4,
     "startDate": "2017-11-29",
     "startTime": "00:00:00",
@@ -1302,7 +1133,7 @@
   {
     "idx": 582,
     "name": 27060,
-    "sort": 1363,
+    "sort": 9912,
     "Type": 5,
     "startDate": "2017-12-01",
     "startTime": "00:00:00",
@@ -1315,7 +1146,7 @@
   {
     "idx": 583,
     "name": 27061,
-    "sort": 1364,
+    "sort": 9911,
     "Type": 5,
     "startDate": "2017-12-02",
     "startTime": "00:00:00",
@@ -1328,7 +1159,7 @@
   {
     "idx": 584,
     "name": 27062,
-    "sort": 1365,
+    "sort": 9910,
     "Type": 5,
     "startDate": "2017-12-03",
     "startTime": "00:00:00",
@@ -1341,7 +1172,7 @@
   {
     "idx": 585,
     "name": 27063,
-    "sort": 1366,
+    "sort": 9909,
     "Type": 5,
     "startDate": "2017-12-04",
     "startTime": "00:00:00",
@@ -1354,7 +1185,7 @@
   {
     "idx": 586,
     "name": 27064,
-    "sort": 1367,
+    "sort": 9908,
     "Type": 5,
     "startDate": "2017-12-05",
     "startTime": "00:00:00",
@@ -1367,7 +1198,7 @@
   {
     "idx": 587,
     "name": 27112,
-    "sort": 1368,
+    "sort": 9907,
     "Type": 5,
     "startDate": "2017-12-01",
     "startTime": "00:00:00",
@@ -1380,7 +1211,7 @@
   {
     "idx": 588,
     "name": 27069,
-    "sort": 1369,
+    "sort": 9906,
     "Type": 5,
     "startDate": "2017-11-29",
     "startTime": "00:00:00",
@@ -1393,7 +1224,7 @@
   {
     "idx": 589,
     "name": 27070,
-    "sort": 1370,
+    "sort": 9905,
     "Type": 7,
     "startDate": "2017-11-28",
     "startTime": "00:00:00",
@@ -1406,7 +1237,7 @@
   {
     "idx": 590,
     "name": 27347,
-    "sort": 1371,
+    "sort": 9904,
     "Type": 7,
     "startDate": "2017-11-28",
     "startTime": "00:00:00",
@@ -1419,7 +1250,7 @@
   {
     "idx": 591,
     "name": 27067,
-    "sort": 1372,
+    "sort": 9903,
     "Type": 4,
     "startDate": "2017-12-06",
     "startTime": "00:00:00",
@@ -1432,7 +1263,7 @@
   {
     "idx": 592,
     "name": 27030,
-    "sort": 1373,
+    "sort": 9902,
     "Type": 5,
     "startDate": "2017-12-06",
     "startTime": "00:00:00",
@@ -1445,7 +1276,7 @@
   {
     "idx": 593,
     "name": 27260,
-    "sort": 1374,
+    "sort": 9901,
     "Type": 13,
     "startDate": "2017-12-06",
     "startTime": "00:00:00",
@@ -1458,7 +1289,7 @@
   {
     "idx": 594,
     "name": 27261,
-    "sort": 1375,
+    "sort": 9900,
     "Type": 13,
     "startDate": "2017-12-06",
     "startTime": "00:00:00",
@@ -1471,7 +1302,7 @@
   {
     "idx": 595,
     "name": 27082,
-    "sort": 1376,
+    "sort": 9899,
     "Type": 7,
     "startDate": "2017-12-05",
     "startTime": "00:00:00",
@@ -1484,7 +1315,7 @@
   {
     "idx": 596,
     "name": 27747,
-    "sort": 1377,
+    "sort": 9898,
     "Type": 7,
     "startDate": "2017-12-05",
     "startTime": "00:00:00",
@@ -1497,7 +1328,7 @@
   {
     "idx": 597,
     "name": 27749,
-    "sort": 1378,
+    "sort": 9897,
     "Type": 7,
     "startDate": "2017-12-05",
     "startTime": "00:00:00",
@@ -1510,7 +1341,7 @@
   {
     "idx": 598,
     "name": 27751,
-    "sort": 1379,
+    "sort": 9896,
     "Type": 7,
     "startDate": "2017-12-05",
     "startTime": "00:00:00",
@@ -1523,7 +1354,7 @@
   {
     "idx": 599,
     "name": 27073,
-    "sort": 1380,
+    "sort": 9895,
     "Type": 5,
     "startDate": "2017-12-13",
     "startTime": "00:00:00",
@@ -1536,7 +1367,7 @@
   {
     "idx": 600,
     "name": 27072,
-    "sort": 1381,
+    "sort": 9894,
     "Type": 5,
     "startDate": "2017-12-13",
     "startTime": "00:00:00",
@@ -1549,7 +1380,7 @@
   {
     "idx": 601,
     "name": 27095,
-    "sort": 1382,
+    "sort": 9893,
     "Type": 5,
     "startDate": "2017-12-13",
     "startTime": "00:00:00",
@@ -1562,7 +1393,7 @@
   {
     "idx": 602,
     "name": 27096,
-    "sort": 1383,
+    "sort": 9892,
     "Type": 5,
     "startDate": "2017-12-13",
     "startTime": "00:00:00",
@@ -1575,7 +1406,7 @@
   {
     "idx": 603,
     "name": 27481,
-    "sort": 1384,
+    "sort": 9891,
     "Type": 14,
     "startDate": "2017-12-13",
     "startTime": "00:00:00",
@@ -1588,7 +1419,7 @@
   {
     "idx": 604,
     "name": 27413,
-    "sort": 1385,
+    "sort": 9890,
     "Type": 8,
     "startDate": "2017-12-13",
     "startTime": "00:00:00",
@@ -1601,7 +1432,7 @@
   {
     "idx": 605,
     "name": 27069,
-    "sort": 1386,
+    "sort": 9889,
     "Type": 5,
     "startDate": "2017-12-13",
     "startTime": "00:00:00",
@@ -1614,7 +1445,7 @@
   {
     "idx": 606,
     "name": 27176,
-    "sort": 1387,
+    "sort": 9888,
     "Type": 14,
     "startDate": "2017-12-13",
     "startTime": "00:00:00",
@@ -1627,7 +1458,7 @@
   {
     "idx": 607,
     "name": 27753,
-    "sort": 1388,
+    "sort": 9887,
     "Type": 13,
     "startDate": "2017-12-13",
     "startTime": "00:00:00",
@@ -1640,7 +1471,7 @@
   {
     "idx": 608,
     "name": 27264,
-    "sort": 1389,
+    "sort": 9886,
     "Type": 7,
     "startDate": "2017-12-12",
     "startTime": "00:00:00",
@@ -1653,7 +1484,7 @@
   {
     "idx": 609,
     "name": 27088,
-    "sort": 1390,
+    "sort": 9885,
     "Type": 7,
     "startDate": "2017-12-12",
     "startTime": "00:00:00",
@@ -1666,7 +1497,7 @@
   {
     "idx": 610,
     "name": 27760,
-    "sort": 1391,
+    "sort": 9884,
     "Type": 7,
     "startDate": "2017-12-12",
     "startTime": "00:00:00",
@@ -1679,7 +1510,7 @@
   {
     "idx": 611,
     "name": 27067,
-    "sort": 1392,
+    "sort": 9883,
     "Type": 4,
     "startDate": "2017-12-20",
     "startTime": "00:00:00",
@@ -1692,7 +1523,7 @@
   {
     "idx": 612,
     "name": 27030,
-    "sort": 1393,
+    "sort": 9882,
     "Type": 5,
     "startDate": "2017-12-20",
     "startTime": "00:00:00",
@@ -1705,7 +1536,7 @@
   {
     "idx": 613,
     "name": 27457,
-    "sort": 1394,
+    "sort": 9881,
     "Type": 14,
     "startDate": "2017-12-20",
     "startTime": "00:00:00",
@@ -1718,7 +1549,7 @@
   {
     "idx": 614,
     "name": 27458,
-    "sort": 1395,
+    "sort": 9880,
     "Type": 14,
     "startDate": "2017-12-20",
     "startTime": "00:00:00",
@@ -1731,7 +1562,7 @@
   {
     "idx": 615,
     "name": 28907,
-    "sort": 1396,
+    "sort": 9879,
     "Type": 7,
     "startDate": "2017-12-19",
     "startTime": "14:00:00",
@@ -1744,7 +1575,7 @@
   {
     "idx": 616,
     "name": 27067,
-    "sort": 1397,
+    "sort": 9878,
     "Type": 4,
     "startDate": "2017-12-27",
     "startTime": "00:00:00",
@@ -1757,7 +1588,7 @@
   {
     "idx": 617,
     "name": 27114,
-    "sort": 1398,
+    "sort": 9877,
     "Type": 14,
     "startDate": "2017-12-27",
     "startTime": "00:00:00",
@@ -1770,7 +1601,7 @@
   {
     "idx": 618,
     "name": 27114,
-    "sort": 1399,
+    "sort": 9876,
     "Type": 14,
     "startDate": "2017-12-28",
     "startTime": "00:00:00",
@@ -1783,7 +1614,7 @@
   {
     "idx": 619,
     "name": 27114,
-    "sort": 1400,
+    "sort": 9875,
     "Type": 14,
     "startDate": "2017-12-29",
     "startTime": "00:00:00",
@@ -1796,7 +1627,7 @@
   {
     "idx": 620,
     "name": 27114,
-    "sort": 1401,
+    "sort": 9874,
     "Type": 14,
     "startDate": "2017-12-30",
     "startTime": "00:00:00",
@@ -1809,7 +1640,7 @@
   {
     "idx": 621,
     "name": 27114,
-    "sort": 1402,
+    "sort": 9873,
     "Type": 14,
     "startDate": "2017-12-31",
     "startTime": "00:00:00",
@@ -1822,7 +1653,7 @@
   {
     "idx": 622,
     "name": 27114,
-    "sort": 1403,
+    "sort": 9872,
     "Type": 14,
     "startDate": "2018-01-01",
     "startTime": "00:00:00",
@@ -1835,7 +1666,7 @@
   {
     "idx": 623,
     "name": 27114,
-    "sort": 1404,
+    "sort": 9871,
     "Type": 14,
     "startDate": "2018-01-02",
     "startTime": "00:00:00",
@@ -1848,7 +1679,7 @@
   {
     "idx": 624,
     "name": 27060,
-    "sort": 1405,
+    "sort": 9870,
     "Type": 5,
     "startDate": "2018-01-01",
     "startTime": "00:00:00",
@@ -1861,7 +1692,7 @@
   {
     "idx": 625,
     "name": 27061,
-    "sort": 1406,
+    "sort": 9869,
     "Type": 5,
     "startDate": "2018-01-02",
     "startTime": "00:00:00",
@@ -1874,7 +1705,7 @@
   {
     "idx": 626,
     "name": 27062,
-    "sort": 1407,
+    "sort": 9868,
     "Type": 5,
     "startDate": "2018-01-03",
     "startTime": "00:00:00",
@@ -1887,7 +1718,7 @@
   {
     "idx": 627,
     "name": 27063,
-    "sort": 1408,
+    "sort": 9867,
     "Type": 5,
     "startDate": "2018-01-04",
     "startTime": "00:00:00",
@@ -1900,7 +1731,7 @@
   {
     "idx": 628,
     "name": 27064,
-    "sort": 1409,
+    "sort": 9866,
     "Type": 5,
     "startDate": "2018-01-05",
     "startTime": "00:00:00",
@@ -1913,7 +1744,7 @@
   {
     "idx": 629,
     "name": 27112,
-    "sort": 1410,
+    "sort": 9865,
     "Type": 5,
     "startDate": "2017-12-26",
     "startTime": "14:00:00",
@@ -1926,7 +1757,7 @@
   {
     "idx": 630,
     "name": 27029,
-    "sort": 1411,
+    "sort": 9864,
     "Type": 5,
     "startDate": "2017-12-26",
     "startTime": "14:00:00",
@@ -1939,7 +1770,7 @@
   {
     "idx": 631,
     "name": 28903,
-    "sort": 1412,
+    "sort": 9863,
     "Type": 7,
     "startDate": "2017-12-26",
     "startTime": "14:00:00",
@@ -1952,7 +1783,7 @@
   {
     "idx": 632,
     "name": 27776,
-    "sort": 1413,
+    "sort": 9862,
     "Type": 7,
     "startDate": "2017-12-26",
     "startTime": "14:00:00",
@@ -1965,7 +1796,7 @@
   {
     "idx": 633,
     "name": 28905,
-    "sort": 1414,
+    "sort": 9861,
     "Type": 7,
     "startDate": "2017-12-26",
     "startTime": "14:00:00",
@@ -1978,7 +1809,7 @@
   {
     "idx": 634,
     "name": 27029,
-    "sort": 1416,
+    "sort": 9860,
     "Type": 5,
     "startDate": "2018-01-03",
     "startTime": "00:00:00",
@@ -1991,7 +1822,7 @@
   {
     "idx": 635,
     "name": 28911,
-    "sort": 1418,
+    "sort": 9859,
     "Type": 7,
     "startDate": "2018-01-02",
     "startTime": "14:00:00",
@@ -2004,7 +1835,7 @@
   {
     "idx": 636,
     "name": 27778,
-    "sort": 1417,
+    "sort": 9858,
     "Type": 7,
     "startDate": "2018-01-02",
     "startTime": "14:00:00",
@@ -2017,7 +1848,7 @@
   {
     "idx": 637,
     "name": 27780,
-    "sort": 1415,
+    "sort": 9857,
     "Type": 7,
     "startDate": "2018-01-02",
     "startTime": "14:00:00",
@@ -2030,7 +1861,7 @@
   {
     "idx": 638,
     "name": 28913,
-    "sort": 106,
+    "sort": 9855,
     "Type": 7,
     "startDate": "2018-01-09",
     "startTime": "14:00:00",
@@ -2043,7 +1874,7 @@
   {
     "idx": 639,
     "name": 27067,
-    "sort": 100,
+    "sort": 9850,
     "Type": 4,
     "startDate": "2018-01-10",
     "startTime": "00:00:00",
@@ -2056,7 +1887,7 @@
   {
     "idx": 640,
     "name": 27030,
-    "sort": 101,
+    "sort": 9851,
     "Type": 5,
     "startDate": "2018-01-10",
     "startTime": "00:00:00",
@@ -2069,7 +1900,7 @@
   {
     "idx": 641,
     "name": 27260,
-    "sort": 105,
+    "sort": 9854,
     "Type": 14,
     "startDate": "2018-01-10",
     "startTime": "00:00:00",
@@ -2082,7 +1913,7 @@
   {
     "idx": 642,
     "name": 27261,
-    "sort": 104,
+    "sort": 9853,
     "Type": 14,
     "startDate": "2018-01-10",
     "startTime": "00:00:00",
@@ -2095,7 +1926,7 @@
   {
     "idx": 643,
     "name": 28905,
-    "sort": 107,
+    "sort": 9856,
     "Type": 7,
     "startDate": "2018-01-09",
     "startTime": "14:00:00",
@@ -2108,7 +1939,7 @@
   {
     "idx": 644,
     "name": 27776,
-    "sort": 103,
+    "sort": 9852,
     "Type": 7,
     "startDate": "2018-01-09",
     "startTime": "14:00:00",
@@ -2119,30 +1950,108 @@
     "etc": 0
   },
   {
-    "idx": 1102,
-    "name": 27621,
-    "sort": 2001,
-    "Type": 19,
-    "startDate": "2017-10-03",
+    "idx": 645,
+    "name": 27073,
+    "sort": 9844,
+    "Type": 5,
+    "startDate": "2018-01-17",
     "startTime": "00:00:00",
-    "endDate": "2017-10-11",
+    "endDate": "2018-01-24",
     "endTime": "00:00:00",
     "startLevel": 1,
     "endLevel": 100,
-    "etc": 12
+    "etc": 0
   },
   {
-    "idx": 1103,
-    "name": 27622,
-    "sort": 2002,
-    "Type": 19,
-    "startDate": "2017-10-10",
+    "idx": 646,
+    "name": 27072,
+    "sort": 9845,
+    "Type": 5,
+    "startDate": "2018-01-17",
     "startTime": "00:00:00",
-    "endDate": "2017-10-18",
+    "endDate": "2018-01-24",
     "endTime": "00:00:00",
     "startLevel": 1,
     "endLevel": 100,
-    "etc": 11
+    "etc": 0
+  },
+  {
+    "idx": 647,
+    "name": 27096,
+    "sort": 9846,
+    "Type": 5,
+    "startDate": "2018-01-17",
+    "startTime": "00:00:00",
+    "endDate": "2018-01-24",
+    "endTime": "00:00:00",
+    "startLevel": 1,
+    "endLevel": 100,
+    "etc": 0
+  },
+  {
+    "idx": 648,
+    "name": 27054,
+    "sort": 9843,
+    "Type": 14,
+    "startDate": "2018-01-17",
+    "startTime": "00:00:00",
+    "endDate": "2018-01-24",
+    "endTime": "00:00:00",
+    "startLevel": 1,
+    "endLevel": 100,
+    "etc": 0
+  },
+  {
+    "idx": 649,
+    "name": 27413,
+    "sort": 9848,
+    "Type": 8,
+    "startDate": "2018-01-17",
+    "startTime": "00:00:00",
+    "endDate": "2018-01-24",
+    "endTime": "00:00:00",
+    "startLevel": 1,
+    "endLevel": 100,
+    "etc": 0
+  },
+  {
+    "idx": 650,
+    "name": 27235,
+    "sort": 9847,
+    "Type": 14,
+    "startDate": "2018-01-17",
+    "startTime": "00:00:00",
+    "endDate": "2018-01-24",
+    "endTime": "00:00:00",
+    "startLevel": 1,
+    "endLevel": 100,
+    "etc": 0
+  },
+  {
+    "idx": 651,
+    "name": 27778,
+    "sort": 9849,
+    "Type": 7,
+    "startDate": "2018-01-16",
+    "startTime": "14:00:00",
+    "endDate": "2018-01-23",
+    "endTime": "14:00:00",
+    "startLevel": 1,
+    "endLevel": 100,
+    "etc": 0
+  },
+  {
+    "idx": 652,
+    "name": 27520,
+    "sort": 9842,
+    "Type": 7,
+    "startDate": "2018-01-16",
+    "startTime": "14:00:00",
+    "endDate": "2018-01-23",
+    "endTime": "14:00:00",
+    "startLevel": 1,
+    "endLevel": 100,
+    "etc": 0
   },
   {
     "idx": 1104,

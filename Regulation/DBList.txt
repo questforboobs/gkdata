@@ -1,7 +1,7 @@
 {
   "Localization.txt": [
-    "20180109141646",
-    8124460
+    "20180116144117",
+    8130264
   ],
   "DailyBonusDataTable.json": [
     "20171226141110",
@@ -40,7 +40,7 @@
     15616
   ],
   "GoodsDataTable.json": [
-    "20180109141156",
+    "20180116140514",
     29528
   ],
   "BuildingLevelDataTable.json": [
@@ -144,8 +144,8 @@
     172
   ],
   "RewardDataTable.json": [
-    "20180109141303",
-    1228672
+    "20180116140601",
+    1232044
   ],
   "GuildStruggleDataTable.json": [
     "20170523001441",
@@ -164,11 +164,11 @@
     1368
   ],
   "VipRechargeDataTable.json": [
-    "20171219143606",
+    "20180116140701",
     3244
   ],
   "VipExpDataTable.json": [
-    "20180109141853",
+    "20180116140430",
     1024
   ],
   "ShopDataTable.json": [
@@ -224,12 +224,12 @@
     13144
   ],
   "CarnivalTypeDataTable.json": [
-    "20180109145921",
-    41900
+    "20180116140227",
+    40236
   ],
   "CarnivalDataTable.json": [
-    "20180109140616",
-    344620
+    "20180116140349",
+    343296
   ],
   "CommanderVoiceDataTable.json": [
     "20180102140423",
