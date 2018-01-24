@@ -10274,6 +10274,116 @@
     "healingScale": 100
   },
   {
+    "key": 507611,
+    "motionSetId": 5076111,
+    "splashPattern": "000000000000P000000000000",
+    "shouldRenderSplash": false,
+    "clingingTime": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
+    "statusEffectDrks": [
+      0,
+      0,
+      0
+    ],
+    "accuracyScale": 100,
+    "attackDamageScale": 100,
+    "criticalChanceScale": 100,
+    "depletionScale": 100,
+    "healingScale": 100
+  },
+  {
+    "key": 507621,
+    "motionSetId": 5076211,
+    "splashPattern": "000000000000P000000000000",
+    "shouldRenderSplash": false,
+    "clingingTime": 0,
+    "clingingTurn": [
+      2,
+      2,
+      0
+    ],
+    "statusEffectDrks": [
+      50762,
+      50768,
+      0
+    ],
+    "accuracyScale": 100,
+    "attackDamageScale": 400,
+    "criticalChanceScale": 100,
+    "depletionScale": 100,
+    "healingScale": 100
+  },
+  {
+    "key": 507631,
+    "motionSetId": 5076311,
+    "splashPattern": "000000000000P000000000000",
+    "shouldRenderSplash": false,
+    "clingingTime": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
+    "statusEffectDrks": [
+      0,
+      0,
+      0
+    ],
+    "accuracyScale": 100,
+    "attackDamageScale": 250,
+    "criticalChanceScale": 100,
+    "depletionScale": 100,
+    "healingScale": 100
+  },
+  {
+    "key": 507632,
+    "motionSetId": 5076321,
+    "splashPattern": "000000000000P000000000000",
+    "shouldRenderSplash": false,
+    "clingingTime": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
+    "statusEffectDrks": [
+      0,
+      0,
+      0
+    ],
+    "accuracyScale": 100,
+    "attackDamageScale": 250,
+    "criticalChanceScale": 100,
+    "depletionScale": 100,
+    "healingScale": 100
+  },
+  {
+    "key": 507641,
+    "motionSetId": 5076411,
+    "splashPattern": "000000000000P000000000000",
+    "shouldRenderSplash": false,
+    "clingingTime": 0,
+    "clingingTurn": [
+      99,
+      99,
+      0
+    ],
+    "statusEffectDrks": [
+      50764,
+      50769,
+      0
+    ],
+    "accuracyScale": 100,
+    "attackDamageScale": 0,
+    "criticalChanceScale": 100,
+    "depletionScale": 100,
+    "healingScale": 100
+  },
+  {
     "key": 598211,
     "motionSetId": 5982111,
     "splashPattern": "000000000000P000000000000",

@@ -679,6 +679,209 @@
     "memberIdx": 46
   },
   {
+    "gidx": 55,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 63
+  },
+  {
+    "gidx": 55,
+    "idx": 2,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 64
+  },
+  {
+    "gidx": 55,
+    "idx": 3,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 67
+  },
+  {
+    "gidx": 55,
+    "idx": 4,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 68
+  },
+  {
+    "gidx": 55,
+    "idx": 5,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 72
+  },
+  {
+    "gidx": 55,
+    "idx": 6,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 999
+  },
+  {
+    "gidx": 56,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 28
+  },
+  {
+    "gidx": 56,
+    "idx": 2,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 40
+  },
+  {
+    "gidx": 56,
+    "idx": 3,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 62
+  },
+  {
+    "gidx": 56,
+    "idx": 4,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 65
+  },
+  {
+    "gidx": 56,
+    "idx": 5,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 70
+  },
+  {
+    "gidx": 56,
+    "idx": 6,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 984
+  },
+  {
+    "gidx": 57,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 5
+  },
+  {
+    "gidx": 57,
+    "idx": 2,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 6
+  },
+  {
+    "gidx": 57,
+    "idx": 3,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 7
+  },
+  {
+    "gidx": 57,
+    "idx": 4,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 35
+  },
+  {
+    "gidx": 57,
+    "idx": 5,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 57
+  },
+  {
+    "gidx": 57,
+    "idx": 6,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 985
+  },
+  {
+    "gidx": 58,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 10
+  },
+  {
+    "gidx": 58,
+    "idx": 2,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 12
+  },
+  {
+    "gidx": 58,
+    "idx": 3,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 14
+  },
+  {
+    "gidx": 58,
+    "idx": 4,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 16
+  },
+  {
+    "gidx": 58,
+    "idx": 5,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 17
+  },
+  {
+    "gidx": 58,
+    "idx": 6,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 27
+  },
+  {
+    "gidx": 59,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 23
+  },
+  {
+    "gidx": 59,
+    "idx": 2,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 24
+  },
+  {
+    "gidx": 59,
+    "idx": 3,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 51
+  },
+  {
+    "gidx": 59,
+    "idx": 4,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 54
+  },
+  {
+    "gidx": 59,
+    "idx": 5,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 55
+  },
+  {
     "gidx": 61,
     "idx": 1,
     "memberType": 1,
@@ -756,6 +959,62 @@
     "memberIdx": 53
   },
   {
+    "gidx": 64,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 29
+  },
+  {
+    "gidx": 64,
+    "idx": 2,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 76
+  },
+  {
+    "gidx": 64,
+    "idx": 3,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 983
+  },
+  {
+    "gidx": 64,
+    "idx": 4,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 987
+  },
+  {
+    "gidx": 65,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 2
+  },
+  {
+    "gidx": 65,
+    "idx": 2,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 9
+  },
+  {
+    "gidx": 65,
+    "idx": 3,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 21
+  },
+  {
+    "gidx": 65,
+    "idx": 4,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 60
+  },
+  {
     "gidx": 71,
     "idx": 1,
     "memberType": 1,
@@ -796,6 +1055,34 @@
     "memberType": 1,
     "grade": 5,
     "memberIdx": 59
+  },
+  {
+    "gidx": 72,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 3
+  },
+  {
+    "gidx": 72,
+    "idx": 2,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 48
+  },
+  {
+    "gidx": 72,
+    "idx": 3,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 58
+  },
+  {
+    "gidx": 72,
+    "idx": 4,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 986
   },
   {
     "gidx": 81,
@@ -1076,6 +1363,76 @@
     "memberType": 1,
     "grade": 5,
     "memberIdx": 39
+  },
+  {
+    "gidx": 89,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 17
+  },
+  {
+    "gidx": 89,
+    "idx": 2,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 27
+  },
+  {
+    "gidx": 89,
+    "idx": 3,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 68
+  },
+  {
+    "gidx": 89,
+    "idx": 4,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 985
+  },
+  {
+    "gidx": 90,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 23
+  },
+  {
+    "gidx": 90,
+    "idx": 2,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 35
+  },
+  {
+    "gidx": 90,
+    "idx": 3,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 51
+  },
+  {
+    "gidx": 90,
+    "idx": 4,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 59
+  },
+  {
+    "gidx": 90,
+    "idx": 5,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 60
+  },
+  {
+    "gidx": 90,
+    "idx": 6,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 61
   },
   {
     "gidx": 101,
@@ -2000,6 +2357,167 @@
     "memberType": 1,
     "grade": 1,
     "memberIdx": 39
+  },
+  {
+    "gidx": 151,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 29
+  },
+  {
+    "gidx": 151,
+    "idx": 2,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 30
+  },
+  {
+    "gidx": 151,
+    "idx": 3,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 58
+  },
+  {
+    "gidx": 151,
+    "idx": 4,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 76
+  },
+  {
+    "gidx": 151,
+    "idx": 5,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 985
+  },
+  {
+    "gidx": 152,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 3
+  },
+  {
+    "gidx": 152,
+    "idx": 2,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 9
+  },
+  {
+    "gidx": 152,
+    "idx": 3,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 36
+  },
+  {
+    "gidx": 152,
+    "idx": 4,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 76
+  },
+  {
+    "gidx": 153,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 15
+  },
+  {
+    "gidx": 153,
+    "idx": 2,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 64
+  },
+  {
+    "gidx": 153,
+    "idx": 3,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 65
+  },
+  {
+    "gidx": 153,
+    "idx": 4,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 66
+  },
+  {
+    "gidx": 153,
+    "idx": 5,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 982
+  },
+  {
+    "gidx": 153,
+    "idx": 6,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 987
+  },
+  {
+    "gidx": 154,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 9
+  },
+  {
+    "gidx": 154,
+    "idx": 2,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 31
+  },
+  {
+    "gidx": 154,
+    "idx": 3,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 43
+  },
+  {
+    "gidx": 154,
+    "idx": 4,
+    "memberType": 1,
+    "grade": 14,
+    "memberIdx": 72
+  },
+  {
+    "gidx": 155,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 58
+  },
+  {
+    "gidx": 155,
+    "idx": 2,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 59
+  },
+  {
+    "gidx": 155,
+    "idx": 3,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 62
+  },
+  {
+    "gidx": 155,
+    "idx": 4,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 68
   },
   {
     "gidx": 301,
