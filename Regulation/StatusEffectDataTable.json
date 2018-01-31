@@ -27,7 +27,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 2,
@@ -57,7 +62,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3,
@@ -87,7 +97,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 4,
@@ -117,7 +132,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 5,
@@ -147,7 +167,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 6,
@@ -177,7 +202,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 7,
@@ -207,7 +237,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 8,
@@ -237,7 +272,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 9,
@@ -267,7 +307,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10,
@@ -297,7 +342,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 11,
@@ -327,7 +377,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 12,
@@ -357,7 +412,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 13,
@@ -387,7 +447,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 14,
@@ -417,7 +482,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 15,
@@ -447,7 +517,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 16,
@@ -477,7 +552,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 17,
@@ -507,7 +587,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 18,
@@ -537,7 +622,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 19,
@@ -567,7 +657,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 20,
@@ -597,7 +692,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 21,
@@ -627,7 +727,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 22,
@@ -657,7 +762,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 23,
@@ -687,7 +797,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 24,
@@ -717,7 +832,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 25,
@@ -747,7 +867,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 26,
@@ -777,7 +902,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 27,
@@ -807,7 +937,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 28,
@@ -837,7 +972,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 29,
@@ -867,7 +1007,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 30,
@@ -897,7 +1042,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 31,
@@ -927,7 +1077,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 32,
@@ -957,7 +1112,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 33,
@@ -987,7 +1147,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 34,
@@ -1017,7 +1182,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 35,
@@ -1047,7 +1217,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 36,
@@ -1077,7 +1252,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 37,
@@ -1107,7 +1287,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 38,
@@ -1137,7 +1322,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 100,
@@ -1167,7 +1357,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 101,
@@ -1197,7 +1392,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 410,
@@ -1227,7 +1427,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 415,
@@ -1257,7 +1462,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 420,
@@ -1287,7 +1497,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 700,
@@ -1317,7 +1532,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 801,
@@ -1347,7 +1567,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 815,
@@ -1377,7 +1602,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 820,
@@ -1407,7 +1637,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 901,
@@ -1437,7 +1672,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 915,
@@ -1467,7 +1707,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 920,
@@ -1497,7 +1742,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 1020,
@@ -1527,7 +1777,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 1201,
@@ -1557,7 +1812,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 1601,
@@ -1587,7 +1847,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 1615,
@@ -1617,7 +1882,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 1620,
@@ -1647,7 +1917,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 1701,
@@ -1677,7 +1952,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 1710,
@@ -1707,7 +1987,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 1715,
@@ -1737,7 +2022,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 1801,
@@ -1767,7 +2057,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 1815,
@@ -1797,7 +2092,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 1820,
@@ -1827,7 +2127,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 1901,
@@ -1857,7 +2162,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 1915,
@@ -1887,7 +2197,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 2001,
@@ -1917,7 +2232,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 2015,
@@ -1947,7 +2267,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 2020,
@@ -1977,7 +2302,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 2115,
@@ -2007,7 +2337,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 2401,
@@ -2037,7 +2372,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 6002,
@@ -2067,7 +2407,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 8015,
@@ -2097,7 +2442,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10000,
@@ -2127,7 +2477,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10001,
@@ -2157,7 +2512,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10002,
@@ -2187,7 +2547,12 @@
     "rmStGp": 1,
     "rmStTn": 3,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10003,
@@ -2217,7 +2582,12 @@
     "rmStGp": 1,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10004,
@@ -2247,7 +2617,12 @@
     "rmStGp": 2,
     "rmStTn": 3,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10005,
@@ -2277,7 +2652,12 @@
     "rmStGp": 2,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10006,
@@ -2307,7 +2687,12 @@
     "rmStGp": 4,
     "rmStTn": 3,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10007,
@@ -2337,7 +2722,12 @@
     "rmStGp": 4,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10008,
@@ -2367,7 +2757,12 @@
     "rmStGp": 8,
     "rmStTn": 3,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10009,
@@ -2397,7 +2792,12 @@
     "rmStGp": 8,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10010,
@@ -2427,7 +2827,12 @@
     "rmStGp": 32768,
     "rmStTn": 3,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10011,
@@ -2457,7 +2862,12 @@
     "rmStGp": 32768,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10012,
@@ -2487,7 +2897,12 @@
     "rmStGp": 32783,
     "rmStTn": 3,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10013,
@@ -2517,7 +2932,12 @@
     "rmStGp": 32783,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10014,
@@ -2547,7 +2967,12 @@
     "rmStGp": 16,
     "rmStTn": 3,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10015,
@@ -2577,7 +3002,12 @@
     "rmStGp": 16,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10016,
@@ -2607,7 +3037,12 @@
     "rmStGp": 32,
     "rmStTn": 3,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10017,
@@ -2637,7 +3072,12 @@
     "rmStGp": 32,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10018,
@@ -2667,7 +3107,12 @@
     "rmStGp": 64,
     "rmStTn": 3,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10019,
@@ -2697,7 +3142,12 @@
     "rmStGp": 64,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10020,
@@ -2727,7 +3177,12 @@
     "rmStGp": 256,
     "rmStTn": 3,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10021,
@@ -2757,7 +3212,12 @@
     "rmStGp": 256,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10022,
@@ -2787,7 +3247,12 @@
     "rmStGp": 368,
     "rmStTn": 3,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10023,
@@ -2817,7 +3282,12 @@
     "rmStGp": 368,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10024,
@@ -2847,7 +3317,12 @@
     "rmStGp": 128,
     "rmStTn": 1,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10025,
@@ -2877,7 +3352,12 @@
     "rmStGp": 128,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10026,
@@ -2907,7 +3387,12 @@
     "rmStGp": 512,
     "rmStTn": 1,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10027,
@@ -2937,7 +3422,12 @@
     "rmStGp": 512,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10028,
@@ -2967,7 +3457,12 @@
     "rmStGp": 1024,
     "rmStTn": 1,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10029,
@@ -2997,7 +3492,12 @@
     "rmStGp": 1024,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10030,
@@ -3027,7 +3527,12 @@
     "rmStGp": 10240,
     "rmStTn": 1,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10031,
@@ -3057,7 +3562,12 @@
     "rmStGp": 10240,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10032,
@@ -3087,7 +3597,12 @@
     "rmStGp": 4069,
     "rmStTn": 5,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10033,
@@ -3117,7 +3632,12 @@
     "rmStGp": 4069,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10034,
@@ -3147,7 +3667,12 @@
     "rmStGp": 16384,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50013,
@@ -3177,7 +3702,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50014,
@@ -3207,7 +3737,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50022,
@@ -3237,7 +3772,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50024,
@@ -3267,7 +3807,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50032,
@@ -3297,7 +3842,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50034,
@@ -3327,7 +3877,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50042,
@@ -3357,7 +3912,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50043,
@@ -3387,7 +3947,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50044,
@@ -3417,7 +3982,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50062,
@@ -3447,7 +4017,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50063,
@@ -3477,7 +4052,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50073,
@@ -3507,7 +4087,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50074,
@@ -3537,7 +4122,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50082,
@@ -3567,7 +4157,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50083,
@@ -3597,7 +4192,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50092,
@@ -3627,7 +4227,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50093,
@@ -3657,7 +4262,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50094,
@@ -3687,7 +4297,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50104,
@@ -3717,7 +4332,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50112,
@@ -3747,7 +4367,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50113,
@@ -3777,7 +4402,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50114,
@@ -3807,7 +4437,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50123,
@@ -3837,7 +4472,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50124,
@@ -3867,7 +4507,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50132,
@@ -3897,7 +4542,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50133,
@@ -3927,7 +4577,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50134,
@@ -3957,7 +4612,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50139,
@@ -3987,7 +4647,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50142,
@@ -4017,7 +4682,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50144,
@@ -4047,7 +4717,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50154,
@@ -4077,7 +4752,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50162,
@@ -4107,7 +4787,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50163,
@@ -4137,7 +4822,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50164,
@@ -4167,7 +4857,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50174,
@@ -4197,7 +4892,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50183,
@@ -4227,7 +4927,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50192,
@@ -4257,7 +4962,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50194,
@@ -4287,7 +4997,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50199,
@@ -4317,7 +5032,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50202,
@@ -4347,7 +5067,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50204,
@@ -4377,7 +5102,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50205,
@@ -4407,7 +5137,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50209,
@@ -4437,7 +5172,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50211,
@@ -4467,7 +5207,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50212,
@@ -4497,7 +5242,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50213,
@@ -4527,7 +5277,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50214,
@@ -4557,7 +5312,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50222,
@@ -4587,7 +5347,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50223,
@@ -4617,7 +5382,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50224,
@@ -4647,7 +5417,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50233,
@@ -4677,7 +5452,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50234,
@@ -4707,7 +5487,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50239,
@@ -4737,7 +5522,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50244,
@@ -4767,7 +5557,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50248,
@@ -4797,7 +5592,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50249,
@@ -4827,7 +5627,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50263,
@@ -4857,7 +5662,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50264,
@@ -4887,7 +5697,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50273,
@@ -4917,7 +5732,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50274,
@@ -4947,7 +5767,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50282,
@@ -4977,7 +5802,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50283,
@@ -5007,7 +5837,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50284,
@@ -5037,7 +5872,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50291,
@@ -5067,7 +5907,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50292,
@@ -5097,7 +5942,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50294,
@@ -5127,7 +5977,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50299,
@@ -5157,7 +6012,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50302,
@@ -5187,7 +6047,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50304,
@@ -5217,7 +6082,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50313,
@@ -5247,7 +6117,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50314,
@@ -5277,7 +6152,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50323,
@@ -5307,7 +6187,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50324,
@@ -5337,7 +6222,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50333,
@@ -5367,7 +6257,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50334,
@@ -5397,7 +6292,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50342,
@@ -5427,7 +6327,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50343,
@@ -5457,7 +6362,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50354,
@@ -5487,7 +6397,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50363,
@@ -5517,7 +6432,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50373,
@@ -5547,7 +6467,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50374,
@@ -5577,7 +6502,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50375,
@@ -5607,7 +6537,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50381,
@@ -5637,7 +6572,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50382,
@@ -5667,7 +6607,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50383,
@@ -5697,7 +6642,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50384,
@@ -5727,7 +6677,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50393,
@@ -5757,7 +6712,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50394,
@@ -5787,7 +6747,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50402,
@@ -5817,7 +6782,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50403,
@@ -5847,7 +6817,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50404,
@@ -5877,7 +6852,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50412,
@@ -5907,7 +6887,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50413,
@@ -5937,7 +6922,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50414,
@@ -5967,7 +6957,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50422,
@@ -5997,7 +6992,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50423,
@@ -6027,7 +7027,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50424,
@@ -6057,7 +7062,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50433,
@@ -6087,7 +7097,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50434,
@@ -6117,7 +7132,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50442,
@@ -6147,7 +7167,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50443,
@@ -6177,7 +7202,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50444,
@@ -6207,7 +7237,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50449,
@@ -6237,7 +7272,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50453,
@@ -6267,7 +7307,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50454,
@@ -6297,7 +7342,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50461,
@@ -6327,7 +7377,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50462,
@@ -6357,7 +7412,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50463,
@@ -6387,7 +7447,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50464,
@@ -6417,7 +7482,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50468,
@@ -6447,7 +7517,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50469,
@@ -6477,7 +7552,12 @@
     "rmStGp": 1,
     "rmStTn": 99,
     "rmStStl": 1,
-    "rmStStlTn": 2
+    "rmStStlTn": 2,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50473,
@@ -6507,7 +7587,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50474,
@@ -6537,7 +7622,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50481,
@@ -6567,7 +7657,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50482,
@@ -6597,7 +7692,12 @@
     "rmStGp": 48,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50483,
@@ -6627,7 +7727,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50484,
@@ -6657,7 +7762,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50489,
@@ -6687,7 +7797,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50492,
@@ -6717,7 +7832,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50493,
@@ -6747,7 +7867,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50494,
@@ -6777,7 +7902,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50501,
@@ -6807,7 +7937,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50502,
@@ -6837,7 +7972,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50503,
@@ -6867,7 +8007,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50504,
@@ -6897,7 +8042,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50512,
@@ -6927,7 +8077,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50514,
@@ -6957,7 +8112,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50522,
@@ -6987,7 +8147,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50523,
@@ -7017,7 +8182,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50524,
@@ -7047,7 +8217,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50529,
@@ -7077,7 +8252,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50532,
@@ -7107,7 +8287,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50533,
@@ -7137,7 +8322,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50534,
@@ -7167,7 +8357,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50538,
@@ -7197,7 +8392,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50539,
@@ -7227,7 +8427,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50544,
@@ -7257,7 +8462,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50553,
@@ -7287,7 +8497,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50562,
@@ -7317,7 +8532,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50563,
@@ -7347,7 +8567,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50564,
@@ -7377,7 +8602,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50572,
@@ -7407,7 +8637,12 @@
     "rmStGp": 2,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50573,
@@ -7437,7 +8672,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50574,
@@ -7467,7 +8707,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50579,
@@ -7497,7 +8742,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50582,
@@ -7527,7 +8777,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50583,
@@ -7557,7 +8812,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50584,
@@ -7587,7 +8847,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50588,
@@ -7617,7 +8882,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50589,
@@ -7647,7 +8917,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50593,
@@ -7677,7 +8952,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50594,
@@ -7707,7 +8987,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50598,
@@ -7737,7 +9022,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50599,
@@ -7767,7 +9057,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50602,
@@ -7797,7 +9092,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50603,
@@ -7827,7 +9127,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50604,
@@ -7857,7 +9162,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50608,
@@ -7887,7 +9197,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50609,
@@ -7917,7 +9232,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50613,
@@ -7947,7 +9267,12 @@
     "rmStGp": 2,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50623,
@@ -7977,7 +9302,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50624,
@@ -8007,7 +9337,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50629,
@@ -8037,7 +9372,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50632,
@@ -8067,7 +9407,12 @@
     "rmStGp": 16384,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50633,
@@ -8097,7 +9442,12 @@
     "rmStGp": 2,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50634,
@@ -8127,7 +9477,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50639,
@@ -8157,7 +9512,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50642,
@@ -8187,7 +9547,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50643,
@@ -8217,7 +9582,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50644,
@@ -8247,7 +9617,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50649,
@@ -8277,7 +9652,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50652,
@@ -8307,7 +9687,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50653,
@@ -8337,7 +9722,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50654,
@@ -8367,7 +9757,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50658,
@@ -8397,7 +9792,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50659,
@@ -8427,7 +9827,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50661,
@@ -8457,7 +9862,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50662,
@@ -8487,7 +9897,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50663,
@@ -8517,7 +9932,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50664,
@@ -8547,7 +9967,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50669,
@@ -8577,7 +10002,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50672,
@@ -8607,7 +10037,12 @@
     "rmStGp": 16384,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50673,
@@ -8637,7 +10072,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50674,
@@ -8667,7 +10107,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50679,
@@ -8697,7 +10142,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50682,
@@ -8727,7 +10177,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50683,
@@ -8757,7 +10212,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50684,
@@ -8787,7 +10247,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50689,
@@ -8817,7 +10282,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50702,
@@ -8847,7 +10317,12 @@
     "rmStGp": 1,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50703,
@@ -8877,7 +10352,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50704,
@@ -8907,7 +10387,187 @@
     "rmStGp": 1,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
+  },
+  {
+    "key": 50711,
+    "pfbName": "Fx_Buffs_Silent",
+    "group": 512,
+    "thumbnail": "-",
+    "spVal": 0,
+    "dotDamage": 0,
+    "unbeatableVal": 0,
+    "silenceVal": 1,
+    "stunVal": 0,
+    "aggroVal": "0",
+    "attackDamageBonus": 0,
+    "recvHealBonus": 0,
+    "maxHealthBonus": 0,
+    "speedBonus": 0,
+    "accuracyBonus": 0,
+    "luckBonus": 0,
+    "defenseBonus": 0,
+    "criticalChanceBonus": 0,
+    "criticalDamageBonus": 0,
+    "chance": 20,
+    "shield": 0,
+    "shldCn": 0,
+    "atkPt": 0,
+    "rmStCn": 0,
+    "rmStGp": 0,
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
+  },
+  {
+    "key": 50712,
+    "pfbName": "Fx_Buffs_Silent",
+    "group": 512,
+    "thumbnail": "-",
+    "spVal": 0,
+    "dotDamage": 0,
+    "unbeatableVal": 0,
+    "silenceVal": 1,
+    "stunVal": 0,
+    "aggroVal": "0",
+    "attackDamageBonus": 0,
+    "recvHealBonus": 0,
+    "maxHealthBonus": 0,
+    "speedBonus": 0,
+    "accuracyBonus": 0,
+    "luckBonus": 0,
+    "defenseBonus": 0,
+    "criticalChanceBonus": 0,
+    "criticalDamageBonus": 0,
+    "chance": 100,
+    "shield": 0,
+    "shldCn": 0,
+    "atkPt": 0,
+    "rmStCn": 0,
+    "rmStGp": 0,
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
+  },
+  {
+    "key": 50713,
+    "pfbName": "-",
+    "group": 2,
+    "thumbnail": "buff-skii-02",
+    "spVal": 0,
+    "dotDamage": 0,
+    "unbeatableVal": 0,
+    "silenceVal": 0,
+    "stunVal": 0,
+    "aggroVal": 0,
+    "attackDamageBonus": 0,
+    "recvHealBonus": 0,
+    "maxHealthBonus": 0,
+    "speedBonus": 0,
+    "accuracyBonus": 0,
+    "luckBonus": 0,
+    "defenseBonus": 1,
+    "criticalChanceBonus": 0,
+    "criticalDamageBonus": 0,
+    "chance": 100,
+    "shield": 0,
+    "shldCn": 0,
+    "atkPt": 0,
+    "rmStCn": 0,
+    "rmStGp": 0,
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
+  },
+  {
+    "key": 50714,
+    "pfbName": "-",
+    "group": 2,
+    "thumbnail": "buff-skii-02",
+    "spVal": 0,
+    "dotDamage": 0,
+    "unbeatableVal": 0,
+    "silenceVal": 0,
+    "stunVal": 0,
+    "aggroVal": 0,
+    "attackDamageBonus": 0,
+    "recvHealBonus": 0,
+    "maxHealthBonus": 0,
+    "speedBonus": 0,
+    "accuracyBonus": 0,
+    "luckBonus": 0,
+    "defenseBonus": 1,
+    "criticalChanceBonus": 0,
+    "criticalDamageBonus": 0,
+    "chance": 100,
+    "shield": 0,
+    "shldCn": 0,
+    "atkPt": 0,
+    "rmStCn": 0,
+    "rmStGp": 0,
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
+  },
+  {
+    "key": 50719,
+    "pfbName": "Fx_unit5071_Shield",
+    "group": 4096,
+    "thumbnail": "-",
+    "spVal": 0,
+    "dotDamage": 0,
+    "unbeatableVal": 0,
+    "silenceVal": 0,
+    "stunVal": 0,
+    "aggroVal": 0,
+    "attackDamageBonus": 0,
+    "recvHealBonus": 0,
+    "maxHealthBonus": 0,
+    "speedBonus": 0,
+    "accuracyBonus": 0,
+    "luckBonus": 0,
+    "defenseBonus": 0,
+    "criticalChanceBonus": 0,
+    "criticalDamageBonus": 0,
+    "chance": 100,
+    "shield": 0,
+    "shldCn": 6,
+    "atkPt": 0,
+    "rmStCn": 0,
+    "rmStGp": 0,
+    "rmStTn": 0,
+    "rmStStl": 0,
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50722,
@@ -8937,7 +10597,12 @@
     "rmStGp": 2,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50723,
@@ -8967,7 +10632,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50724,
@@ -8997,7 +10667,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50762,
@@ -9027,7 +10702,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50764,
@@ -9057,7 +10737,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50768,
@@ -9087,7 +10772,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 50769,
@@ -9117,7 +10807,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59821,
@@ -9147,7 +10842,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59822,
@@ -9177,7 +10877,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59823,
@@ -9207,7 +10912,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59824,
@@ -9237,7 +10947,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59829,
@@ -9267,7 +10982,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59831,
@@ -9297,7 +11017,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59832,
@@ -9327,7 +11052,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59833,
@@ -9357,7 +11087,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59834,
@@ -9387,7 +11122,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59838,
@@ -9417,7 +11157,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59839,
@@ -9447,7 +11192,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59841,
@@ -9477,7 +11227,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59842,
@@ -9507,7 +11262,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59843,
@@ -9537,7 +11297,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59844,
@@ -9567,7 +11332,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59849,
@@ -9597,7 +11367,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59854,
@@ -9627,7 +11402,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59862,
@@ -9657,7 +11437,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59863,
@@ -9687,7 +11472,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59864,
@@ -9717,7 +11507,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59872,
@@ -9747,7 +11542,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59873,
@@ -9777,7 +11577,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59874,
@@ -9807,7 +11612,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59879,
@@ -9837,7 +11647,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59883,
@@ -9867,7 +11682,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59884,
@@ -9897,7 +11717,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59889,
@@ -9927,7 +11752,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59893,
@@ -9957,7 +11787,12 @@
     "rmStGp": 2,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59894,
@@ -9987,7 +11822,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59899,
@@ -10017,7 +11857,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59902,
@@ -10047,7 +11892,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59903,
@@ -10077,7 +11927,12 @@
     "rmStGp": 15,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59904,
@@ -10107,7 +11962,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59909,
@@ -10137,7 +11997,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59964,
@@ -10167,7 +12032,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59972,
@@ -10197,7 +12067,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59973,
@@ -10227,7 +12102,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59974,
@@ -10257,7 +12137,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59982,
@@ -10287,7 +12172,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59983,
@@ -10317,7 +12207,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 59984,
@@ -10347,7 +12242,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 61916,
@@ -10377,7 +12277,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 61917,
@@ -10407,7 +12312,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 61918,
@@ -10437,7 +12347,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 61921,
@@ -10467,7 +12382,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 61922,
@@ -10497,7 +12417,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 61923,
@@ -10527,7 +12452,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 62016,
@@ -10557,7 +12487,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 62017,
@@ -10587,7 +12522,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 62018,
@@ -10617,7 +12557,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 62021,
@@ -10647,7 +12592,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 62022,
@@ -10677,7 +12627,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 62023,
@@ -10707,7 +12662,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 63417,
@@ -10737,7 +12697,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 63419,
@@ -10767,7 +12732,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 63424,
@@ -10797,7 +12767,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 63426,
@@ -10827,7 +12802,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 63517,
@@ -10857,7 +12837,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 63519,
@@ -10887,7 +12872,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 63524,
@@ -10917,7 +12907,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 63526,
@@ -10947,7 +12942,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 63531,
@@ -10977,7 +12977,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 63533,
@@ -11007,7 +13012,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 64412,
@@ -11037,7 +13047,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 64414,
@@ -11067,7 +13082,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 64421,
@@ -11097,7 +13117,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 64425,
@@ -11127,7 +13152,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 64512,
@@ -11157,7 +13187,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 64514,
@@ -11187,7 +13222,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 64521,
@@ -11217,7 +13257,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 64525,
@@ -11247,7 +13292,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 64532,
@@ -11277,7 +13327,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 65917,
@@ -11307,7 +13362,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 65919,
@@ -11337,7 +13397,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 65925,
@@ -11367,7 +13432,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 65927,
@@ -11397,7 +13467,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 65929,
@@ -11427,7 +13502,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 66017,
@@ -11457,7 +13537,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 66019,
@@ -11487,7 +13572,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 66025,
@@ -11517,7 +13607,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 66027,
@@ -11547,7 +13642,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 66029,
@@ -11577,7 +13677,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 66034,
@@ -11607,7 +13712,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 66036,
@@ -11637,7 +13747,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 66117,
@@ -11667,7 +13782,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 66118,
@@ -11697,7 +13817,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 66119,
@@ -11727,7 +13852,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 66217,
@@ -11757,7 +13887,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 66218,
@@ -11787,7 +13922,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 66219,
@@ -11817,7 +13957,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 66317,
@@ -11847,7 +13992,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 66318,
@@ -11877,7 +14027,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 66319,
@@ -11907,7 +14062,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 67612,
@@ -11937,7 +14097,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 67613,
@@ -11967,7 +14132,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 67615,
@@ -11997,7 +14167,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 67616,
@@ -12027,7 +14202,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 67712,
@@ -12057,7 +14237,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 67713,
@@ -12087,7 +14272,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 67715,
@@ -12117,7 +14307,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 67716,
@@ -12147,7 +14342,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 67812,
@@ -12177,7 +14377,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 67813,
@@ -12207,7 +14412,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 67815,
@@ -12237,7 +14447,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 67816,
@@ -12267,7 +14482,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 68833,
@@ -12297,7 +14517,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 68917,
@@ -12327,7 +14552,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 68919,
@@ -12357,7 +14587,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 69017,
@@ -12387,7 +14622,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 69019,
@@ -12417,7 +14657,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 69912,
@@ -12447,7 +14692,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 70012,
@@ -12477,7 +14727,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 77411,
@@ -12507,7 +14762,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 77413,
@@ -12537,7 +14797,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 77415,
@@ -12567,7 +14832,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 77511,
@@ -12597,7 +14867,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 77513,
@@ -12627,7 +14902,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 77515,
@@ -12657,7 +14937,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 82911,
@@ -12687,7 +14972,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 82913,
@@ -12717,7 +15007,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 83011,
@@ -12747,7 +15042,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 83013,
@@ -12777,7 +15077,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 83912,
@@ -12807,7 +15112,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 84012,
@@ -12837,7 +15147,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 84115,
@@ -12867,7 +15182,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 84117,
@@ -12897,7 +15217,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 84119,
@@ -12927,7 +15252,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 84215,
@@ -12957,7 +15287,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 84217,
@@ -12987,7 +15322,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 84219,
@@ -13017,7 +15357,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 84315,
@@ -13047,7 +15392,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 84317,
@@ -13077,7 +15427,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 84319,
@@ -13107,7 +15462,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 89411,
@@ -13137,7 +15497,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 89413,
@@ -13167,7 +15532,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 89415,
@@ -13197,7 +15567,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 89511,
@@ -13227,7 +15602,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 89513,
@@ -13257,7 +15637,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 89515,
@@ -13287,7 +15672,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 360062,
@@ -13317,7 +15707,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 360063,
@@ -13347,7 +15742,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 360064,
@@ -13377,7 +15777,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 360069,
@@ -13407,7 +15812,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3001111,
@@ -13437,7 +15847,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3001112,
@@ -13467,7 +15882,12 @@
     "rmStGp": 1,
     "rmStTn": 99,
     "rmStStl": 1,
-    "rmStStlTn": 99
+    "rmStStlTn": 99,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3001211,
@@ -13497,7 +15917,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3003121,
@@ -13527,7 +15952,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3003211,
@@ -13557,7 +15987,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3003311,
@@ -13587,7 +16022,12 @@
     "rmStGp": 49295,
     "rmStTn": 99,
     "rmStStl": 1,
-    "rmStStlTn": 99
+    "rmStStlTn": 99,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3100221,
@@ -13617,7 +16057,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3102111,
@@ -13647,7 +16092,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3102311,
@@ -13677,7 +16127,12 @@
     "rmStGp": 49295,
     "rmStTn": 99,
     "rmStStl": 0,
-    "rmStStlTn": 99
+    "rmStStlTn": 99,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3103121,
@@ -13707,7 +16162,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3103211,
@@ -13737,7 +16197,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3500231,
@@ -13767,7 +16232,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3500239,
@@ -13797,7 +16267,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3600241,
@@ -13827,7 +16302,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3600249,
@@ -13857,7 +16337,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3600321,
@@ -13887,7 +16372,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3600331,
@@ -13917,7 +16407,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3600341,
@@ -13947,7 +16442,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3600521,
@@ -13977,7 +16477,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3600531,
@@ -14007,7 +16512,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3600541,
@@ -14037,7 +16547,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 3600741,
@@ -14067,7 +16582,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 8000072,
@@ -14097,7 +16617,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 8001031,
@@ -14127,7 +16652,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 8001071,
@@ -14157,7 +16687,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 8001111,
@@ -14187,7 +16722,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10000021,
@@ -14217,7 +16757,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10000051,
@@ -14247,7 +16792,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10000081,
@@ -14277,7 +16827,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10600051,
@@ -14307,7 +16862,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10600061,
@@ -14337,7 +16897,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10600071,
@@ -14367,7 +16932,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10600151,
@@ -14397,7 +16967,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10600161,
@@ -14427,7 +17002,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10600171,
@@ -14457,7 +17037,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10600252,
@@ -14487,7 +17072,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10600261,
@@ -14517,7 +17107,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10600271,
@@ -14547,7 +17142,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10600371,
@@ -14577,7 +17177,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10600471,
@@ -14607,7 +17212,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 10600571,
@@ -14637,7 +17247,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 15500131,
@@ -14667,7 +17282,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 15500141,
@@ -14697,7 +17317,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 15500221,
@@ -14727,7 +17352,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 15500231,
@@ -14757,7 +17387,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 15500241,
@@ -14787,7 +17422,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 15500331,
@@ -14817,7 +17457,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 15500341,
@@ -14847,7 +17492,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 15500411,
@@ -14877,7 +17527,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 15500421,
@@ -14907,7 +17562,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 15500422,
@@ -14937,7 +17597,12 @@
     "rmStGp": 1,
     "rmStTn": 99,
     "rmStStl": 1,
-    "rmStStlTn": 2
+    "rmStStlTn": 2,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 15500431,
@@ -14967,7 +17632,12 @@
     "rmStGp": 0,
     "rmStTn": 0,
     "rmStStl": 0,
-    "rmStStlTn": 0
+    "rmStStlTn": 0,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   },
   {
     "key": 15500441,
@@ -14997,6 +17667,11 @@
     "rmStGp": 1,
     "rmStTn": 99,
     "rmStStl": 1,
-    "rmStStlTn": 2
+    "rmStStlTn": 2,
+    "dotHealing": 0,
+    "fixEsn": 0,
+    "pvStGp": 0,
+    "pvRate": 0,
+    "damageCutRate": 0
   }
 ]

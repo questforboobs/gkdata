@@ -1915,6 +1915,31 @@
     "voicesound": "voice_70_07"
   },
   {
+    "index": 71,
+    "type": 4,
+    "voicesound": "voice_71_01"
+  },
+  {
+    "index": 71,
+    "type": 7,
+    "voicesound": "voice_71_04"
+  },
+  {
+    "index": 71,
+    "type": 8,
+    "voicesound": "voice_71_05"
+  },
+  {
+    "index": 71,
+    "type": 9,
+    "voicesound": "voice_71_06"
+  },
+  {
+    "index": 71,
+    "type": 10,
+    "voicesound": "voice_71_07"
+  },
+  {
     "index": 72,
     "type": 4,
     "voicesound": "voice_72_01"

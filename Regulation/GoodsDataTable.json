@@ -1601,7 +1601,7 @@
     "serverFieldName": "skil",
     "max": 9999,
     "rechargeType": 2,
-    "rechargeTime": 300,
+    "rechargeTime": 150,
     "rechargeMax": 0,
     "description": 4059,
     "storage": 0,
