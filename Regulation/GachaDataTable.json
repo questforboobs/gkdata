@@ -1,6 +1,7 @@
 [
   {
     "type": 1,
+    "ui": "0",
     "name": 13002,
     "resetType": 1,
     "resetTime": 600,
@@ -20,6 +21,7 @@
   },
   {
     "type": 2,
+    "ui": "0",
     "name": 13001,
     "resetType": 0,
     "resetTime": 259200,
@@ -39,6 +41,7 @@
   },
   {
     "type": 10,
+    "ui": 1,
     "name": 13101,
     "resetType": 0,
     "resetTime": 0,
@@ -58,6 +61,7 @@
   },
   {
     "type": 11,
+    "ui": 1,
     "name": 13103,
     "resetType": 0,
     "resetTime": 0,
@@ -77,6 +81,7 @@
   },
   {
     "type": 12,
+    "ui": 1,
     "name": 13104,
     "resetType": 0,
     "resetTime": 0,
@@ -96,6 +101,7 @@
   },
   {
     "type": 13,
+    "ui": 1,
     "name": 13105,
     "resetType": 0,
     "resetTime": 0,
@@ -115,6 +121,7 @@
   },
   {
     "type": 15,
+    "ui": 0,
     "name": 13109,
     "resetType": 0,
     "resetTime": 0,

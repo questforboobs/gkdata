@@ -518,5 +518,9 @@
   {
     "key": "WARROOM_CLEAR_MAX_COUNT",
     "value": "5"
+  },
+  {
+    "key": "RETURNUSER_DATE",
+    "value": 10
   }
 ]
