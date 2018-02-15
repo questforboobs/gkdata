@@ -1500,6 +1500,42 @@
     "icon": "Goods-evtp11"
   },
   {
+    "type": 412,
+    "name": 4438,
+    "serverFieldName": "evtp12",
+    "max": 999999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4439,
+    "storage": 1,
+    "icon": "Goods-smon06"
+  },
+  {
+    "type": 413,
+    "name": 4442,
+    "serverFieldName": "evtp13",
+    "max": 999999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4443,
+    "storage": 1,
+    "icon": "Goods-evtp13"
+  },
+  {
+    "type": 414,
+    "name": 4440,
+    "serverFieldName": "evtp14",
+    "max": 999999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4441,
+    "storage": 1,
+    "icon": "Goods-evtp12"
+  },
+  {
     "type": 601,
     "name": 4389,
     "serverFieldName": "smon01",
@@ -1601,7 +1637,7 @@
     "serverFieldName": "skil",
     "max": 9999,
     "rechargeType": 2,
-    "rechargeTime": 150,
+    "rechargeTime": 300,
     "rechargeMax": 0,
     "description": 4059,
     "storage": 0,
