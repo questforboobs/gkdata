@@ -111,6 +111,26 @@
   },
   {
     "index": 11,
+    "idx": 1,
+    "skilllevel": 11,
+    "value": 34,
+    "level": 34,
+    "cost": 194500,
+    "name": 111002,
+    "description": 112002
+  },
+  {
+    "index": 12,
+    "idx": 1,
+    "skilllevel": 12,
+    "value": 38,
+    "level": 44,
+    "cost": 303600,
+    "name": 111002,
+    "description": 112002
+  },
+  {
+    "index": 13,
     "idx": 2,
     "skilllevel": 0,
     "value": 0,
@@ -120,7 +140,7 @@
     "description": 112003
   },
   {
-    "index": 12,
+    "index": 14,
     "idx": 2,
     "skilllevel": 1,
     "value": 3,
@@ -130,7 +150,7 @@
     "description": 112003
   },
   {
-    "index": 13,
+    "index": 15,
     "idx": 2,
     "skilllevel": 2,
     "value": 4,
@@ -140,7 +160,7 @@
     "description": 112003
   },
   {
-    "index": 14,
+    "index": 16,
     "idx": 2,
     "skilllevel": 3,
     "value": 5,
@@ -150,7 +170,7 @@
     "description": 112003
   },
   {
-    "index": 15,
+    "index": 17,
     "idx": 2,
     "skilllevel": 4,
     "value": 6,
@@ -160,7 +180,7 @@
     "description": 112003
   },
   {
-    "index": 16,
+    "index": 18,
     "idx": 2,
     "skilllevel": 5,
     "value": 7,
@@ -170,7 +190,7 @@
     "description": 112003
   },
   {
-    "index": 17,
+    "index": 19,
     "idx": 2,
     "skilllevel": 6,
     "value": 8,
@@ -180,7 +200,7 @@
     "description": 112003
   },
   {
-    "index": 18,
+    "index": 20,
     "idx": 2,
     "skilllevel": 7,
     "value": 9,
@@ -190,7 +210,7 @@
     "description": 112003
   },
   {
-    "index": 19,
+    "index": 21,
     "idx": 2,
     "skilllevel": 8,
     "value": 10,
@@ -200,7 +220,7 @@
     "description": 112003
   },
   {
-    "index": 20,
+    "index": 22,
     "idx": 2,
     "skilllevel": 9,
     "value": 12,
@@ -210,7 +230,7 @@
     "description": 112003
   },
   {
-    "index": 21,
+    "index": 23,
     "idx": 2,
     "skilllevel": 10,
     "value": 15,
@@ -220,7 +240,37 @@
     "description": 112003
   },
   {
-    "index": 22,
+    "index": 24,
+    "idx": 2,
+    "skilllevel": 11,
+    "value": 18,
+    "level": 29,
+    "cost": 149100,
+    "name": 111003,
+    "description": 112003
+  },
+  {
+    "index": 25,
+    "idx": 2,
+    "skilllevel": 12,
+    "value": 21,
+    "level": 39,
+    "cost": 246000,
+    "name": 111003,
+    "description": 112003
+  },
+  {
+    "index": 26,
+    "idx": 2,
+    "skilllevel": 13,
+    "value": 24,
+    "level": 49,
+    "cost": 367400,
+    "name": 111003,
+    "description": 112003
+  },
+  {
+    "index": 27,
     "idx": 3,
     "skilllevel": 0,
     "value": 0,
@@ -230,7 +280,7 @@
     "description": 112001
   },
   {
-    "index": 23,
+    "index": 28,
     "idx": 3,
     "skilllevel": 1,
     "value": 2,
@@ -240,7 +290,7 @@
     "description": 112001
   },
   {
-    "index": 24,
+    "index": 29,
     "idx": 3,
     "skilllevel": 2,
     "value": 4,
@@ -250,7 +300,7 @@
     "description": 112001
   },
   {
-    "index": 25,
+    "index": 30,
     "idx": 3,
     "skilllevel": 3,
     "value": 6,
@@ -260,7 +310,7 @@
     "description": 112001
   },
   {
-    "index": 26,
+    "index": 31,
     "idx": 3,
     "skilllevel": 4,
     "value": 8,
@@ -270,7 +320,7 @@
     "description": 112001
   },
   {
-    "index": 27,
+    "index": 32,
     "idx": 3,
     "skilllevel": 5,
     "value": 10,
@@ -280,7 +330,7 @@
     "description": 112001
   },
   {
-    "index": 28,
+    "index": 33,
     "idx": 3,
     "skilllevel": 6,
     "value": 12,
@@ -290,7 +340,7 @@
     "description": 112001
   },
   {
-    "index": 29,
+    "index": 34,
     "idx": 3,
     "skilllevel": 7,
     "value": 14,
@@ -300,7 +350,7 @@
     "description": 112001
   },
   {
-    "index": 30,
+    "index": 35,
     "idx": 3,
     "skilllevel": 8,
     "value": 16,
@@ -310,7 +360,7 @@
     "description": 112001
   },
   {
-    "index": 31,
+    "index": 36,
     "idx": 3,
     "skilllevel": 9,
     "value": 18,
@@ -320,7 +370,7 @@
     "description": 112001
   },
   {
-    "index": 32,
+    "index": 37,
     "idx": 3,
     "skilllevel": 10,
     "value": 20,
@@ -330,7 +380,57 @@
     "description": 112001
   },
   {
-    "index": 33,
+    "index": 38,
+    "idx": 3,
+    "skilllevel": 11,
+    "value": 22,
+    "level": 30,
+    "cost": 154200,
+    "name": 111001,
+    "description": 112001
+  },
+  {
+    "index": 39,
+    "idx": 3,
+    "skilllevel": 12,
+    "value": 24,
+    "level": 35,
+    "cost": 200200,
+    "name": 111001,
+    "description": 112001
+  },
+  {
+    "index": 40,
+    "idx": 3,
+    "skilllevel": 13,
+    "value": 26,
+    "level": 40,
+    "cost": 252300,
+    "name": 111001,
+    "description": 112001
+  },
+  {
+    "index": 41,
+    "idx": 3,
+    "skilllevel": 14,
+    "value": 28,
+    "level": 45,
+    "cost": 310500,
+    "name": 111001,
+    "description": 112001
+  },
+  {
+    "index": 42,
+    "idx": 3,
+    "skilllevel": 15,
+    "value": 30,
+    "level": 50,
+    "cost": 374900,
+    "name": 111001,
+    "description": 112001
+  },
+  {
+    "index": 43,
     "idx": 8,
     "skilllevel": 0,
     "value": 0,
@@ -340,7 +440,7 @@
     "description": 112004
   },
   {
-    "index": 34,
+    "index": 44,
     "idx": 8,
     "skilllevel": 1,
     "value": 1,
@@ -350,7 +450,7 @@
     "description": 112004
   },
   {
-    "index": 35,
+    "index": 45,
     "idx": 8,
     "skilllevel": 2,
     "value": 2,
@@ -360,7 +460,7 @@
     "description": 112004
   },
   {
-    "index": 36,
+    "index": 46,
     "idx": 8,
     "skilllevel": 3,
     "value": 3,
@@ -370,7 +470,7 @@
     "description": 112004
   },
   {
-    "index": 37,
+    "index": 47,
     "idx": 8,
     "skilllevel": 4,
     "value": 4,
@@ -380,7 +480,7 @@
     "description": 112004
   },
   {
-    "index": 38,
+    "index": 48,
     "idx": 8,
     "skilllevel": 5,
     "value": 5,
@@ -390,7 +490,57 @@
     "description": 112004
   },
   {
-    "index": 39,
+    "index": 49,
+    "idx": 8,
+    "skilllevel": 6,
+    "value": 7,
+    "level": 27,
+    "cost": 138900,
+    "name": 111004,
+    "description": 112004
+  },
+  {
+    "index": 50,
+    "idx": 8,
+    "skilllevel": 7,
+    "value": 9,
+    "level": 32,
+    "cost": 183100,
+    "name": 111004,
+    "description": 112004
+  },
+  {
+    "index": 51,
+    "idx": 8,
+    "skilllevel": 8,
+    "value": 11,
+    "level": 37,
+    "cost": 233400,
+    "name": 111004,
+    "description": 112004
+  },
+  {
+    "index": 52,
+    "idx": 8,
+    "skilllevel": 9,
+    "value": 13,
+    "level": 42,
+    "cost": 289800,
+    "name": 111004,
+    "description": 112004
+  },
+  {
+    "index": 53,
+    "idx": 8,
+    "skilllevel": 10,
+    "value": 15,
+    "level": 47,
+    "cost": 352400,
+    "name": 111004,
+    "description": 112004
+  },
+  {
+    "index": 54,
     "idx": 9,
     "skilllevel": 0,
     "value": 0,
@@ -400,7 +550,7 @@
     "description": 112006
   },
   {
-    "index": 40,
+    "index": 55,
     "idx": 9,
     "skilllevel": 1,
     "value": 1,
@@ -410,7 +560,7 @@
     "description": 112006
   },
   {
-    "index": 41,
+    "index": 56,
     "idx": 9,
     "skilllevel": 2,
     "value": 2,
@@ -420,7 +570,7 @@
     "description": 112006
   },
   {
-    "index": 42,
+    "index": 57,
     "idx": 9,
     "skilllevel": 3,
     "value": 3,
@@ -430,7 +580,7 @@
     "description": 112006
   },
   {
-    "index": 43,
+    "index": 58,
     "idx": 9,
     "skilllevel": 4,
     "value": 4,
@@ -440,7 +590,7 @@
     "description": 112006
   },
   {
-    "index": 44,
+    "index": 59,
     "idx": 9,
     "skilllevel": 5,
     "value": 5,
@@ -450,7 +600,7 @@
     "description": 112006
   },
   {
-    "index": 45,
+    "index": 60,
     "idx": 9,
     "skilllevel": 6,
     "value": 6,
@@ -460,7 +610,7 @@
     "description": 112006
   },
   {
-    "index": 46,
+    "index": 61,
     "idx": 9,
     "skilllevel": 7,
     "value": 7,
@@ -470,7 +620,7 @@
     "description": 112006
   },
   {
-    "index": 47,
+    "index": 62,
     "idx": 9,
     "skilllevel": 8,
     "value": 8,
@@ -480,7 +630,7 @@
     "description": 112006
   },
   {
-    "index": 48,
+    "index": 63,
     "idx": 9,
     "skilllevel": 9,
     "value": 9,
@@ -490,7 +640,7 @@
     "description": 112006
   },
   {
-    "index": 49,
+    "index": 64,
     "idx": 9,
     "skilllevel": 10,
     "value": 10,
@@ -500,7 +650,107 @@
     "description": 112006
   },
   {
-    "index": 50,
+    "index": 65,
+    "idx": 9,
+    "skilllevel": 11,
+    "value": 12,
+    "level": 26,
+    "cost": 133800,
+    "name": 111006,
+    "description": 112006
+  },
+  {
+    "index": 66,
+    "idx": 9,
+    "skilllevel": 12,
+    "value": 14,
+    "level": 27,
+    "cost": 138900,
+    "name": 111006,
+    "description": 112006
+  },
+  {
+    "index": 67,
+    "idx": 9,
+    "skilllevel": 13,
+    "value": 16,
+    "level": 31,
+    "cost": 177400,
+    "name": 111006,
+    "description": 112006
+  },
+  {
+    "index": 68,
+    "idx": 9,
+    "skilllevel": 14,
+    "value": 18,
+    "level": 32,
+    "cost": 183100,
+    "name": 111006,
+    "description": 112006
+  },
+  {
+    "index": 69,
+    "idx": 9,
+    "skilllevel": 15,
+    "value": 20,
+    "level": 36,
+    "cost": 227100,
+    "name": 111006,
+    "description": 112006
+  },
+  {
+    "index": 70,
+    "idx": 9,
+    "skilllevel": 16,
+    "value": 22,
+    "level": 37,
+    "cost": 233400,
+    "name": 111006,
+    "description": 112006
+  },
+  {
+    "index": 71,
+    "idx": 9,
+    "skilllevel": 17,
+    "value": 24,
+    "level": 41,
+    "cost": 282900,
+    "name": 111006,
+    "description": 112006
+  },
+  {
+    "index": 72,
+    "idx": 9,
+    "skilllevel": 18,
+    "value": 26,
+    "level": 42,
+    "cost": 289800,
+    "name": 111006,
+    "description": 112006
+  },
+  {
+    "index": 73,
+    "idx": 9,
+    "skilllevel": 19,
+    "value": 28,
+    "level": 46,
+    "cost": 344900,
+    "name": 111006,
+    "description": 112006
+  },
+  {
+    "index": 74,
+    "idx": 9,
+    "skilllevel": 20,
+    "value": 30,
+    "level": 47,
+    "cost": 352400,
+    "name": 111006,
+    "description": 112006
+  },
+  {
+    "index": 75,
     "idx": 10,
     "skilllevel": 0,
     "value": 0,
@@ -510,7 +760,7 @@
     "description": 112005
   },
   {
-    "index": 51,
+    "index": 76,
     "idx": 10,
     "skilllevel": 1,
     "value": 2,
@@ -520,7 +770,7 @@
     "description": 112005
   },
   {
-    "index": 52,
+    "index": 77,
     "idx": 10,
     "skilllevel": 2,
     "value": 4,
@@ -530,7 +780,7 @@
     "description": 112005
   },
   {
-    "index": 53,
+    "index": 78,
     "idx": 10,
     "skilllevel": 3,
     "value": 6,
@@ -540,7 +790,7 @@
     "description": 112005
   },
   {
-    "index": 54,
+    "index": 79,
     "idx": 10,
     "skilllevel": 4,
     "value": 8,
@@ -550,12 +800,62 @@
     "description": 112005
   },
   {
-    "index": 55,
+    "index": 80,
     "idx": 10,
     "skilllevel": 5,
     "value": 10,
     "level": 20,
     "cost": 80000,
+    "name": 111005,
+    "description": 112005
+  },
+  {
+    "index": 81,
+    "idx": 10,
+    "skilllevel": 6,
+    "value": 12,
+    "level": 28,
+    "cost": 144000,
+    "name": 111005,
+    "description": 112005
+  },
+  {
+    "index": 82,
+    "idx": 10,
+    "skilllevel": 7,
+    "value": 14,
+    "level": 33,
+    "cost": 188800,
+    "name": 111005,
+    "description": 112005
+  },
+  {
+    "index": 83,
+    "idx": 10,
+    "skilllevel": 8,
+    "value": 16,
+    "level": 38,
+    "cost": 239700,
+    "name": 111005,
+    "description": 112005
+  },
+  {
+    "index": 84,
+    "idx": 10,
+    "skilllevel": 9,
+    "value": 18,
+    "level": 43,
+    "cost": 296700,
+    "name": 111005,
+    "description": 112005
+  },
+  {
+    "index": 85,
+    "idx": 10,
+    "skilllevel": 10,
+    "value": 20,
+    "level": 48,
+    "cost": 359900,
     "name": 111005,
     "description": 112005
   }

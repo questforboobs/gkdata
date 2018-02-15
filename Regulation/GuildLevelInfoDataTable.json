@@ -123,5 +123,130 @@
     "level": 25,
     "maxcount": 40,
     "cost": 171400
+  },
+  {
+    "level": 26,
+    "maxcount": 40,
+    "cost": 178300
+  },
+  {
+    "level": 27,
+    "maxcount": 40,
+    "cost": 208100
+  },
+  {
+    "level": 28,
+    "maxcount": 40,
+    "cost": 216800
+  },
+  {
+    "level": 29,
+    "maxcount": 40,
+    "cost": 225500
+  },
+  {
+    "level": 30,
+    "maxcount": 40,
+    "cost": 234200
+  },
+  {
+    "level": 31,
+    "maxcount": 40,
+    "cost": 242900
+  },
+  {
+    "level": 32,
+    "maxcount": 40,
+    "cost": 277800
+  },
+  {
+    "level": 33,
+    "maxcount": 40,
+    "cost": 287400
+  },
+  {
+    "level": 34,
+    "maxcount": 40,
+    "cost": 297000
+  },
+  {
+    "level": 35,
+    "maxcount": 40,
+    "cost": 306600
+  },
+  {
+    "level": 36,
+    "maxcount": 40,
+    "cost": 316200
+  },
+  {
+    "level": 37,
+    "maxcount": 40,
+    "cost": 356300
+  },
+  {
+    "level": 38,
+    "maxcount": 40,
+    "cost": 366800
+  },
+  {
+    "level": 39,
+    "maxcount": 40,
+    "cost": 377300
+  },
+  {
+    "level": 40,
+    "maxcount": 45,
+    "cost": 387800
+  },
+  {
+    "level": 41,
+    "maxcount": 45,
+    "cost": 398300
+  },
+  {
+    "level": 42,
+    "maxcount": 45,
+    "cost": 443700
+  },
+  {
+    "level": 43,
+    "maxcount": 45,
+    "cost": 455100
+  },
+  {
+    "level": 44,
+    "maxcount": 45,
+    "cost": 466500
+  },
+  {
+    "level": 45,
+    "maxcount": 45,
+    "cost": 477900
+  },
+  {
+    "level": 46,
+    "maxcount": 45,
+    "cost": 489300
+  },
+  {
+    "level": 47,
+    "maxcount": 45,
+    "cost": 540100
+  },
+  {
+    "level": 48,
+    "maxcount": 45,
+    "cost": 552400
+  },
+  {
+    "level": 49,
+    "maxcount": 45,
+    "cost": 564700
+  },
+  {
+    "level": 50,
+    "maxcount": 45,
+    "cost": 577000
   }
 ]

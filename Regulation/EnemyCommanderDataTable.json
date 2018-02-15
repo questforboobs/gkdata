@@ -7958,5 +7958,149 @@
     "commanderId": 62,
     "name": 2064,
     "power": 0
+  },
+  {
+    "index": 995,
+    "id": 20041,
+    "wave": 1,
+    "commanderId": 40101,
+    "name": 2064,
+    "power": 0
+  },
+  {
+    "index": 996,
+    "id": 20041,
+    "wave": 2,
+    "commanderId": 40101,
+    "name": 2064,
+    "power": 0
+  },
+  {
+    "index": 997,
+    "id": 20041,
+    "wave": 3,
+    "commanderId": 40101,
+    "name": 2064,
+    "power": 0
+  },
+  {
+    "index": 998,
+    "id": 20042,
+    "wave": 1,
+    "commanderId": 40101,
+    "name": 2064,
+    "power": 0
+  },
+  {
+    "index": 999,
+    "id": 20042,
+    "wave": 2,
+    "commanderId": 40101,
+    "name": 2064,
+    "power": 0
+  },
+  {
+    "index": 1000,
+    "id": 20042,
+    "wave": 3,
+    "commanderId": 40101,
+    "name": 2064,
+    "power": 0
+  },
+  {
+    "index": 1001,
+    "id": 20043,
+    "wave": 1,
+    "commanderId": 605,
+    "name": 1005605,
+    "power": 0
+  },
+  {
+    "index": 1002,
+    "id": 20043,
+    "wave": 2,
+    "commanderId": 605,
+    "name": 1005605,
+    "power": 0
+  },
+  {
+    "index": 1003,
+    "id": 20043,
+    "wave": 3,
+    "commanderId": 605,
+    "name": 1005605,
+    "power": 0
+  },
+  {
+    "index": 1004,
+    "id": 20044,
+    "wave": 1,
+    "commanderId": 40101,
+    "name": 2064,
+    "power": 0
+  },
+  {
+    "index": 1005,
+    "id": 20044,
+    "wave": 2,
+    "commanderId": 40101,
+    "name": 2064,
+    "power": 0
+  },
+  {
+    "index": 1006,
+    "id": 20044,
+    "wave": 3,
+    "commanderId": 40101,
+    "name": 2064,
+    "power": 0
+  },
+  {
+    "index": 1007,
+    "id": 20045,
+    "wave": 1,
+    "commanderId": 40101,
+    "name": 2064,
+    "power": 0
+  },
+  {
+    "index": 1008,
+    "id": 20045,
+    "wave": 2,
+    "commanderId": 40101,
+    "name": 2064,
+    "power": 0
+  },
+  {
+    "index": 1009,
+    "id": 20045,
+    "wave": 3,
+    "commanderId": 40101,
+    "name": 2064,
+    "power": 0
+  },
+  {
+    "index": 1010,
+    "id": 20046,
+    "wave": 1,
+    "commanderId": 626,
+    "name": 1005626,
+    "power": 0
+  },
+  {
+    "index": 1011,
+    "id": 20046,
+    "wave": 2,
+    "commanderId": 626,
+    "name": 1005626,
+    "power": 0
+  },
+  {
+    "index": 1012,
+    "id": 20046,
+    "wave": 3,
+    "commanderId": 626,
+    "name": 1005626,
+    "power": 0
   }
 ]

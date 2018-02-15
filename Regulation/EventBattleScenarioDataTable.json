@@ -88,5 +88,55 @@
     "title": 11100088,
     "mapClear": 5,
     "sort": 9
+  },
+  {
+    "eventIdx": 991,
+    "playTurn": 1,
+    "eventType": 1,
+    "timing": 1,
+    "scenarioIdx": 1018011,
+    "title": 11100121,
+    "mapClear": 1,
+    "sort": 1
+  },
+  {
+    "eventIdx": 991,
+    "playTurn": 2,
+    "eventType": 3,
+    "timing": 1,
+    "scenarioIdx": 1018031,
+    "title": 11100122,
+    "mapClear": 3,
+    "sort": 2
+  },
+  {
+    "eventIdx": 991,
+    "playTurn": 3,
+    "eventType": 3,
+    "timing": 4,
+    "scenarioIdx": 1018034,
+    "title": 11100123,
+    "mapClear": 3,
+    "sort": 3
+  },
+  {
+    "eventIdx": 991,
+    "playTurn": 4,
+    "eventType": 6,
+    "timing": 1,
+    "scenarioIdx": 1018061,
+    "title": 11100124,
+    "mapClear": 6,
+    "sort": 4
+  },
+  {
+    "eventIdx": 991,
+    "playTurn": 5,
+    "eventType": 6,
+    "timing": 4,
+    "scenarioIdx": 1018064,
+    "title": 11100125,
+    "mapClear": 6,
+    "sort": 5
   }
 ]
