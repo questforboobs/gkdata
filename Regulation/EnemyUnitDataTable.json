@@ -75733,5 +75733,1586 @@
       61
     ],
     "unitScale": 100
+  },
+  {
+    "index": 4455,
+    "id": 20047,
+    "wave": 1,
+    "unitId": 1000304,
+    "unitLevel": 20,
+    "unitPosition": 1,
+    "unitGrade": 2,
+    "unitClass": 18,
+    "skillLevel": [
+      20,
+      20,
+      19,
+      11
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4456,
+    "id": 20047,
+    "wave": 1,
+    "unitId": 1000304,
+    "unitLevel": 20,
+    "unitPosition": 3,
+    "unitGrade": 2,
+    "unitClass": 18,
+    "skillLevel": [
+      20,
+      20,
+      19,
+      11
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4457,
+    "id": 20047,
+    "wave": 1,
+    "unitId": 1000340,
+    "unitLevel": 20,
+    "unitPosition": 7,
+    "unitGrade": 2,
+    "unitClass": 18,
+    "skillLevel": [
+      20,
+      20,
+      19,
+      11
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4458,
+    "id": 20047,
+    "wave": 1,
+    "unitId": 1000343,
+    "unitLevel": 20,
+    "unitPosition": 9,
+    "unitGrade": 2,
+    "unitClass": 18,
+    "skillLevel": [
+      20,
+      20,
+      19,
+      11
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4459,
+    "id": 20047,
+    "wave": 2,
+    "unitId": 1000205,
+    "unitLevel": 20,
+    "unitPosition": 1,
+    "unitGrade": 2,
+    "unitClass": 18,
+    "skillLevel": [
+      20,
+      20,
+      19,
+      11
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4460,
+    "id": 20047,
+    "wave": 2,
+    "unitId": 1000205,
+    "unitLevel": 20,
+    "unitPosition": 3,
+    "unitGrade": 2,
+    "unitClass": 18,
+    "skillLevel": [
+      20,
+      20,
+      19,
+      11
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4461,
+    "id": 20047,
+    "wave": 2,
+    "unitId": 1000346,
+    "unitLevel": 20,
+    "unitPosition": 7,
+    "unitGrade": 2,
+    "unitClass": 18,
+    "skillLevel": [
+      20,
+      20,
+      19,
+      11
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4462,
+    "id": 20047,
+    "wave": 2,
+    "unitId": 1000349,
+    "unitLevel": 20,
+    "unitPosition": 9,
+    "unitGrade": 2,
+    "unitClass": 18,
+    "skillLevel": [
+      20,
+      20,
+      19,
+      11
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4463,
+    "id": 20047,
+    "wave": 3,
+    "unitId": 1000206,
+    "unitLevel": 20,
+    "unitPosition": 1,
+    "unitGrade": 2,
+    "unitClass": 18,
+    "skillLevel": [
+      20,
+      20,
+      19,
+      11
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4464,
+    "id": 20047,
+    "wave": 3,
+    "unitId": 1000206,
+    "unitLevel": 20,
+    "unitPosition": 3,
+    "unitGrade": 2,
+    "unitClass": 18,
+    "skillLevel": [
+      20,
+      20,
+      19,
+      11
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4465,
+    "id": 20047,
+    "wave": 3,
+    "unitId": 1000325,
+    "unitLevel": 20,
+    "unitPosition": 7,
+    "unitGrade": 2,
+    "unitClass": 18,
+    "skillLevel": [
+      20,
+      20,
+      19,
+      11
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4466,
+    "id": 20047,
+    "wave": 3,
+    "unitId": 1000327,
+    "unitLevel": 20,
+    "unitPosition": 9,
+    "unitGrade": 2,
+    "unitClass": 18,
+    "skillLevel": [
+      20,
+      20,
+      19,
+      11
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4467,
+    "id": 20048,
+    "wave": 1,
+    "unitId": 1000205,
+    "unitLevel": 35,
+    "unitPosition": 1,
+    "unitGrade": 2,
+    "unitClass": 18,
+    "skillLevel": [
+      35,
+      35,
+      34,
+      26
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4468,
+    "id": 20048,
+    "wave": 1,
+    "unitId": 1000205,
+    "unitLevel": 35,
+    "unitPosition": 3,
+    "unitGrade": 2,
+    "unitClass": 18,
+    "skillLevel": [
+      35,
+      35,
+      34,
+      26
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4469,
+    "id": 20048,
+    "wave": 1,
+    "unitId": 1000326,
+    "unitLevel": 35,
+    "unitPosition": 4,
+    "unitGrade": 2,
+    "unitClass": 18,
+    "skillLevel": [
+      35,
+      35,
+      34,
+      26
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4470,
+    "id": 20048,
+    "wave": 1,
+    "unitId": 1000324,
+    "unitLevel": 35,
+    "unitPosition": 6,
+    "unitGrade": 2,
+    "unitClass": 18,
+    "skillLevel": [
+      35,
+      35,
+      34,
+      26
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4471,
+    "id": 20048,
+    "wave": 2,
+    "unitId": 1000340,
+    "unitLevel": 35,
+    "unitPosition": 4,
+    "unitGrade": 2,
+    "unitClass": 18,
+    "skillLevel": [
+      35,
+      35,
+      34,
+      26
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4472,
+    "id": 20048,
+    "wave": 2,
+    "unitId": 1000349,
+    "unitLevel": 35,
+    "unitPosition": 6,
+    "unitGrade": 2,
+    "unitClass": 18,
+    "skillLevel": [
+      35,
+      35,
+      34,
+      26
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4473,
+    "id": 20048,
+    "wave": 2,
+    "unitId": 1000346,
+    "unitLevel": 35,
+    "unitPosition": 7,
+    "unitGrade": 2,
+    "unitClass": 18,
+    "skillLevel": [
+      35,
+      35,
+      34,
+      26
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4474,
+    "id": 20048,
+    "wave": 2,
+    "unitId": 1000343,
+    "unitLevel": 35,
+    "unitPosition": 9,
+    "unitGrade": 2,
+    "unitClass": 18,
+    "skillLevel": [
+      35,
+      35,
+      34,
+      26
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4475,
+    "id": 20048,
+    "wave": 3,
+    "unitId": 1000206,
+    "unitLevel": 35,
+    "unitPosition": 2,
+    "unitGrade": 3,
+    "unitClass": 18,
+    "skillLevel": [
+      35,
+      35,
+      34,
+      26
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4476,
+    "id": 20048,
+    "wave": 3,
+    "unitId": 1000346,
+    "unitLevel": 35,
+    "unitPosition": 5,
+    "unitGrade": 3,
+    "unitClass": 18,
+    "skillLevel": [
+      35,
+      35,
+      34,
+      26
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4477,
+    "id": 20048,
+    "wave": 3,
+    "unitId": 1000349,
+    "unitLevel": 35,
+    "unitPosition": 7,
+    "unitGrade": 3,
+    "unitClass": 18,
+    "skillLevel": [
+      35,
+      35,
+      34,
+      26
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4478,
+    "id": 20048,
+    "wave": 3,
+    "unitId": 1000340,
+    "unitLevel": 35,
+    "unitPosition": 8,
+    "unitGrade": 3,
+    "unitClass": 18,
+    "skillLevel": [
+      35,
+      35,
+      34,
+      26
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4479,
+    "id": 20048,
+    "wave": 3,
+    "unitId": 1000343,
+    "unitLevel": 35,
+    "unitPosition": 9,
+    "unitGrade": 3,
+    "unitClass": 18,
+    "skillLevel": [
+      35,
+      35,
+      34,
+      26
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4480,
+    "id": 20049,
+    "wave": 1,
+    "unitId": 1000215,
+    "unitLevel": 50,
+    "unitPosition": 1,
+    "unitGrade": 3,
+    "unitClass": 18,
+    "skillLevel": [
+      50,
+      50,
+      49,
+      41
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4481,
+    "id": 20049,
+    "wave": 1,
+    "unitId": 1000215,
+    "unitLevel": 50,
+    "unitPosition": 3,
+    "unitGrade": 3,
+    "unitClass": 18,
+    "skillLevel": [
+      50,
+      50,
+      49,
+      41
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4482,
+    "id": 20049,
+    "wave": 1,
+    "unitId": 1000354,
+    "unitLevel": 55,
+    "unitPosition": 5,
+    "unitGrade": 3,
+    "unitClass": 18,
+    "skillLevel": [
+      55,
+      55,
+      54,
+      46
+    ],
+    "unitScale": 150
+  },
+  {
+    "index": 4483,
+    "id": 20049,
+    "wave": 1,
+    "unitId": 1000347,
+    "unitLevel": 50,
+    "unitPosition": 7,
+    "unitGrade": 3,
+    "unitClass": 18,
+    "skillLevel": [
+      50,
+      50,
+      49,
+      41
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4484,
+    "id": 20049,
+    "wave": 1,
+    "unitId": 1000347,
+    "unitLevel": 50,
+    "unitPosition": 9,
+    "unitGrade": 3,
+    "unitClass": 18,
+    "skillLevel": [
+      50,
+      50,
+      49,
+      41
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4485,
+    "id": 20049,
+    "wave": 2,
+    "unitId": 1000305,
+    "unitLevel": 50,
+    "unitPosition": 2,
+    "unitGrade": 3,
+    "unitClass": 18,
+    "skillLevel": [
+      50,
+      50,
+      49,
+      41
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4486,
+    "id": 20049,
+    "wave": 2,
+    "unitId": 1000347,
+    "unitLevel": 50,
+    "unitPosition": 4,
+    "unitGrade": 3,
+    "unitClass": 18,
+    "skillLevel": [
+      50,
+      50,
+      49,
+      41
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4487,
+    "id": 20049,
+    "wave": 2,
+    "unitId": 1000354,
+    "unitLevel": 55,
+    "unitPosition": 5,
+    "unitGrade": 3,
+    "unitClass": 18,
+    "skillLevel": [
+      55,
+      55,
+      54,
+      46
+    ],
+    "unitScale": 150
+  },
+  {
+    "index": 4488,
+    "id": 20049,
+    "wave": 2,
+    "unitId": 1000324,
+    "unitLevel": 50,
+    "unitPosition": 6,
+    "unitGrade": 3,
+    "unitClass": 18,
+    "skillLevel": [
+      50,
+      50,
+      49,
+      41
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4489,
+    "id": 20049,
+    "wave": 2,
+    "unitId": 1000325,
+    "unitLevel": 50,
+    "unitPosition": 8,
+    "unitGrade": 3,
+    "unitClass": 18,
+    "skillLevel": [
+      50,
+      50,
+      49,
+      41
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4490,
+    "id": 20049,
+    "wave": 3,
+    "unitId": 1000216,
+    "unitLevel": 50,
+    "unitPosition": 1,
+    "unitGrade": 3,
+    "unitClass": 18,
+    "skillLevel": [
+      50,
+      50,
+      49,
+      41
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4491,
+    "id": 20049,
+    "wave": 3,
+    "unitId": 1000216,
+    "unitLevel": 50,
+    "unitPosition": 2,
+    "unitGrade": 3,
+    "unitClass": 18,
+    "skillLevel": [
+      50,
+      50,
+      49,
+      41
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4492,
+    "id": 20049,
+    "wave": 3,
+    "unitId": 1000326,
+    "unitLevel": 50,
+    "unitPosition": 3,
+    "unitGrade": 3,
+    "unitClass": 18,
+    "skillLevel": [
+      50,
+      50,
+      49,
+      41
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4493,
+    "id": 20049,
+    "wave": 3,
+    "unitId": 1000354,
+    "unitLevel": 55,
+    "unitPosition": 5,
+    "unitGrade": 3,
+    "unitClass": 18,
+    "skillLevel": [
+      55,
+      55,
+      54,
+      46
+    ],
+    "unitScale": 150
+  },
+  {
+    "index": 4494,
+    "id": 20049,
+    "wave": 3,
+    "unitId": 1000327,
+    "unitLevel": 50,
+    "unitPosition": 8,
+    "unitGrade": 3,
+    "unitClass": 18,
+    "skillLevel": [
+      50,
+      50,
+      49,
+      41
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4495,
+    "id": 20050,
+    "wave": 1,
+    "unitId": 1000215,
+    "unitLevel": 65,
+    "unitPosition": 2,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      65,
+      65,
+      64,
+      56
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4496,
+    "id": 20050,
+    "wave": 1,
+    "unitId": 1000311,
+    "unitLevel": 65,
+    "unitPosition": 5,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      65,
+      65,
+      64,
+      56
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4497,
+    "id": 20050,
+    "wave": 1,
+    "unitId": 1000314,
+    "unitLevel": 65,
+    "unitPosition": 7,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      65,
+      65,
+      64,
+      56
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4498,
+    "id": 20050,
+    "wave": 1,
+    "unitId": 1000317,
+    "unitLevel": 65,
+    "unitPosition": 8,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      65,
+      65,
+      64,
+      56
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4499,
+    "id": 20050,
+    "wave": 1,
+    "unitId": 1000314,
+    "unitLevel": 65,
+    "unitPosition": 9,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      65,
+      65,
+      64,
+      56
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4500,
+    "id": 20050,
+    "wave": 2,
+    "unitId": 1000215,
+    "unitLevel": 65,
+    "unitPosition": 2,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      65,
+      65,
+      64,
+      56
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4501,
+    "id": 20050,
+    "wave": 2,
+    "unitId": 1000332,
+    "unitLevel": 65,
+    "unitPosition": 4,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      65,
+      65,
+      64,
+      56
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4502,
+    "id": 20050,
+    "wave": 2,
+    "unitId": 1000333,
+    "unitLevel": 65,
+    "unitPosition": 6,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      65,
+      65,
+      64,
+      56
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4503,
+    "id": 20050,
+    "wave": 2,
+    "unitId": 1000341,
+    "unitLevel": 65,
+    "unitPosition": 7,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      65,
+      65,
+      64,
+      56
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4504,
+    "id": 20050,
+    "wave": 2,
+    "unitId": 1000344,
+    "unitLevel": 65,
+    "unitPosition": 9,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      65,
+      65,
+      64,
+      56
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4505,
+    "id": 20050,
+    "wave": 3,
+    "unitId": 1000216,
+    "unitLevel": 65,
+    "unitPosition": 1,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      65,
+      65,
+      64,
+      56
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4506,
+    "id": 20050,
+    "wave": 3,
+    "unitId": 1000216,
+    "unitLevel": 65,
+    "unitPosition": 2,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      65,
+      65,
+      64,
+      56
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4507,
+    "id": 20050,
+    "wave": 3,
+    "unitId": 1000334,
+    "unitLevel": 65,
+    "unitPosition": 4,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      65,
+      65,
+      64,
+      56
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4508,
+    "id": 20050,
+    "wave": 3,
+    "unitId": 1000335,
+    "unitLevel": 65,
+    "unitPosition": 6,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      65,
+      65,
+      64,
+      56
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4509,
+    "id": 20050,
+    "wave": 3,
+    "unitId": 1000348,
+    "unitLevel": 65,
+    "unitPosition": 7,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      65,
+      65,
+      64,
+      56
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4510,
+    "id": 20050,
+    "wave": 3,
+    "unitId": 1000350,
+    "unitLevel": 65,
+    "unitPosition": 8,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      65,
+      65,
+      64,
+      56
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4511,
+    "id": 20051,
+    "wave": 1,
+    "unitId": 1000225,
+    "unitLevel": 75,
+    "unitPosition": 2,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      75,
+      75,
+      74,
+      66
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4512,
+    "id": 20051,
+    "wave": 1,
+    "unitId": 1000226,
+    "unitLevel": 75,
+    "unitPosition": 3,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      75,
+      75,
+      74,
+      66
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4513,
+    "id": 20051,
+    "wave": 1,
+    "unitId": 1000328,
+    "unitLevel": 75,
+    "unitPosition": 4,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      75,
+      75,
+      74,
+      66
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4514,
+    "id": 20051,
+    "wave": 1,
+    "unitId": 1000329,
+    "unitLevel": 75,
+    "unitPosition": 6,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      75,
+      75,
+      74,
+      66
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4515,
+    "id": 20051,
+    "wave": 1,
+    "unitId": 1000338,
+    "unitLevel": 75,
+    "unitPosition": 8,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      75,
+      75,
+      74,
+      66
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4516,
+    "id": 20051,
+    "wave": 1,
+    "unitId": 1000339,
+    "unitLevel": 75,
+    "unitPosition": 9,
+    "unitGrade": 4,
+    "unitClass": 18,
+    "skillLevel": [
+      75,
+      75,
+      74,
+      66
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4517,
+    "id": 20051,
+    "wave": 2,
+    "unitId": 1000309,
+    "unitLevel": 75,
+    "unitPosition": 1,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      75,
+      75,
+      74,
+      66
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4518,
+    "id": 20051,
+    "wave": 2,
+    "unitId": 1000312,
+    "unitLevel": 75,
+    "unitPosition": 2,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      75,
+      75,
+      74,
+      66
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4519,
+    "id": 20051,
+    "wave": 2,
+    "unitId": 1000348,
+    "unitLevel": 75,
+    "unitPosition": 5,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      75,
+      75,
+      74,
+      66
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4520,
+    "id": 20051,
+    "wave": 2,
+    "unitId": 1000345,
+    "unitLevel": 75,
+    "unitPosition": 6,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      75,
+      75,
+      74,
+      66
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4521,
+    "id": 20051,
+    "wave": 2,
+    "unitId": 1000342,
+    "unitLevel": 75,
+    "unitPosition": 8,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      75,
+      75,
+      74,
+      66
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4522,
+    "id": 20051,
+    "wave": 2,
+    "unitId": 1000351,
+    "unitLevel": 75,
+    "unitPosition": 9,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      75,
+      75,
+      74,
+      66
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4523,
+    "id": 20051,
+    "wave": 3,
+    "unitId": 1000306,
+    "unitLevel": 75,
+    "unitPosition": 2,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      75,
+      75,
+      74,
+      66
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4524,
+    "id": 20051,
+    "wave": 3,
+    "unitId": 1000306,
+    "unitLevel": 75,
+    "unitPosition": 3,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      75,
+      75,
+      74,
+      66
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4525,
+    "id": 20051,
+    "wave": 3,
+    "unitId": 1000351,
+    "unitLevel": 75,
+    "unitPosition": 4,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      75,
+      75,
+      74,
+      66
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4526,
+    "id": 20051,
+    "wave": 3,
+    "unitId": 1000348,
+    "unitLevel": 75,
+    "unitPosition": 5,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      75,
+      75,
+      74,
+      66
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4527,
+    "id": 20051,
+    "wave": 3,
+    "unitId": 1000345,
+    "unitLevel": 75,
+    "unitPosition": 7,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      75,
+      75,
+      74,
+      66
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4528,
+    "id": 20051,
+    "wave": 3,
+    "unitId": 1000342,
+    "unitLevel": 75,
+    "unitPosition": 8,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      75,
+      75,
+      74,
+      66
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4529,
+    "id": 20052,
+    "wave": 1,
+    "unitId": 1000355,
+    "unitLevel": 95,
+    "unitPosition": 1,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      95,
+      95,
+      94,
+      86
+    ],
+    "unitScale": 150
+  },
+  {
+    "index": 4530,
+    "id": 20052,
+    "wave": 1,
+    "unitId": 1000306,
+    "unitLevel": 90,
+    "unitPosition": 3,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      90,
+      90,
+      89,
+      81
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4531,
+    "id": 20052,
+    "wave": 1,
+    "unitId": 1000338,
+    "unitLevel": 90,
+    "unitPosition": 4,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      90,
+      90,
+      89,
+      81
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4532,
+    "id": 20052,
+    "wave": 1,
+    "unitId": 1000339,
+    "unitLevel": 90,
+    "unitPosition": 6,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      90,
+      90,
+      89,
+      81
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4533,
+    "id": 20052,
+    "wave": 1,
+    "unitId": 1000333,
+    "unitLevel": 90,
+    "unitPosition": 7,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      90,
+      90,
+      89,
+      81
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4534,
+    "id": 20052,
+    "wave": 1,
+    "unitId": 1000332,
+    "unitLevel": 90,
+    "unitPosition": 9,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      90,
+      90,
+      89,
+      81
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4535,
+    "id": 20052,
+    "wave": 2,
+    "unitId": 1000318,
+    "unitLevel": 90,
+    "unitPosition": 1,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      90,
+      90,
+      89,
+      81
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4536,
+    "id": 20052,
+    "wave": 2,
+    "unitId": 1000306,
+    "unitLevel": 90,
+    "unitPosition": 2,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      90,
+      90,
+      89,
+      81
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4537,
+    "id": 20052,
+    "wave": 2,
+    "unitId": 1000318,
+    "unitLevel": 90,
+    "unitPosition": 3,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      90,
+      90,
+      89,
+      81
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4538,
+    "id": 20052,
+    "wave": 2,
+    "unitId": 1000355,
+    "unitLevel": 95,
+    "unitPosition": 5,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      95,
+      95,
+      94,
+      86
+    ],
+    "unitScale": 150
+  },
+  {
+    "index": 4539,
+    "id": 20052,
+    "wave": 2,
+    "unitId": 1000330,
+    "unitLevel": 90,
+    "unitPosition": 7,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      90,
+      90,
+      89,
+      81
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4540,
+    "id": 20052,
+    "wave": 2,
+    "unitId": 1000331,
+    "unitLevel": 90,
+    "unitPosition": 9,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      90,
+      90,
+      89,
+      81
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4541,
+    "id": 20052,
+    "wave": 3,
+    "unitId": 1000306,
+    "unitLevel": 90,
+    "unitPosition": 1,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      90,
+      90,
+      89,
+      81
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4542,
+    "id": 20052,
+    "wave": 3,
+    "unitId": 1000355,
+    "unitLevel": 95,
+    "unitPosition": 2,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      95,
+      95,
+      94,
+      86
+    ],
+    "unitScale": 150
+  },
+  {
+    "index": 4543,
+    "id": 20052,
+    "wave": 3,
+    "unitId": 1000342,
+    "unitLevel": 90,
+    "unitPosition": 3,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      90,
+      90,
+      89,
+      81
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4544,
+    "id": 20052,
+    "wave": 3,
+    "unitId": 1000345,
+    "unitLevel": 90,
+    "unitPosition": 5,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      90,
+      90,
+      89,
+      81
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4545,
+    "id": 20052,
+    "wave": 3,
+    "unitId": 1000348,
+    "unitLevel": 90,
+    "unitPosition": 7,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      90,
+      90,
+      89,
+      81
+    ],
+    "unitScale": 100
+  },
+  {
+    "index": 4546,
+    "id": 20052,
+    "wave": 3,
+    "unitId": 1000323,
+    "unitLevel": 95,
+    "unitPosition": 8,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      95,
+      95,
+      94,
+      86
+    ],
+    "unitScale": 150
+  },
+  {
+    "index": 4547,
+    "id": 20052,
+    "wave": 3,
+    "unitId": 1000351,
+    "unitLevel": 90,
+    "unitPosition": 9,
+    "unitGrade": 5,
+    "unitClass": 18,
+    "skillLevel": [
+      90,
+      90,
+      89,
+      81
+    ],
+    "unitScale": 100
   }
 ]
