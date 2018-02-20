@@ -1152,6 +1152,38 @@
     "explanation": 1015605
   },
   {
+    "id": 614,
+    "S_Idx": 1005614,
+    "C_Type": 1,
+    "unitId": 5614,
+    "resourceId": "c_614",
+    "_isAcademyExposure": "Y",
+    "academyExposureRate": 5,
+    "grade": 3,
+    "recruitHonor": 100,
+    "recruitGold": 2000,
+    "overlapReward": 35,
+    "medalExplanation": 1025614,
+    "favormax": 30,
+    "explanation": 1015614
+  },
+  {
+    "id": 616,
+    "S_Idx": 1005616,
+    "C_Type": 1,
+    "unitId": 5616,
+    "resourceId": "c_616",
+    "_isAcademyExposure": "Y",
+    "academyExposureRate": 5,
+    "grade": 3,
+    "recruitHonor": 100,
+    "recruitGold": 2000,
+    "overlapReward": 35,
+    "medalExplanation": 1025616,
+    "favormax": 30,
+    "explanation": 1015616
+  },
+  {
     "id": 626,
     "S_Idx": 1005626,
     "C_Type": 1,
