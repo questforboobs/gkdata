@@ -131,6 +131,16 @@
   },
   {
     "category": 13,
+    "type": 990,
+    "typeIndex": 1,
+    "startDate": "2018-02-12",
+    "startTime": "14:00:00",
+    "endDate": "2018-03-06",
+    "endTime": "14:00:00",
+    "weekIdx": 0
+  },
+  {
+    "category": 13,
     "type": 991,
     "typeIndex": 1,
     "startDate": "2018-02-05",

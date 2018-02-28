@@ -1,93 +1,23 @@
 [
   {
-    "eventIdx": 993,
+    "eventIdx": 990,
     "playTurn": 1,
     "eventType": 1,
     "timing": 1,
-    "scenarioIdx": 1017011,
-    "title": 11100077,
+    "scenarioIdx": 1019011,
+    "title": 11100130,
     "mapClear": 1,
     "sort": 1
   },
   {
-    "eventIdx": 993,
+    "eventIdx": 990,
     "playTurn": 2,
-    "eventType": 1,
+    "eventType": 6,
     "timing": 4,
-    "scenarioIdx": 1017014,
-    "title": 11100078,
-    "mapClear": 1,
+    "scenarioIdx": 1019064,
+    "title": 11100131,
+    "mapClear": 6,
     "sort": 2
-  },
-  {
-    "eventIdx": 993,
-    "playTurn": 3,
-    "eventType": 2,
-    "timing": 1,
-    "scenarioIdx": 1017021,
-    "title": 11100080,
-    "mapClear": 2,
-    "sort": 3
-  },
-  {
-    "eventIdx": 993,
-    "playTurn": 4,
-    "eventType": 2,
-    "timing": 4,
-    "scenarioIdx": 1017024,
-    "title": 11100081,
-    "mapClear": 2,
-    "sort": 4
-  },
-  {
-    "eventIdx": 993,
-    "playTurn": 5,
-    "eventType": 3,
-    "timing": 1,
-    "scenarioIdx": 1017031,
-    "title": 11100083,
-    "mapClear": 3,
-    "sort": 5
-  },
-  {
-    "eventIdx": 993,
-    "playTurn": 6,
-    "eventType": 3,
-    "timing": 4,
-    "scenarioIdx": 1017034,
-    "title": 11100084,
-    "mapClear": 3,
-    "sort": 6
-  },
-  {
-    "eventIdx": 993,
-    "playTurn": 7,
-    "eventType": 4,
-    "timing": 1,
-    "scenarioIdx": 1017041,
-    "title": 11100086,
-    "mapClear": 4,
-    "sort": 7
-  },
-  {
-    "eventIdx": 993,
-    "playTurn": 8,
-    "eventType": 4,
-    "timing": 4,
-    "scenarioIdx": 1017044,
-    "title": 11100087,
-    "mapClear": 4,
-    "sort": 8
-  },
-  {
-    "eventIdx": 993,
-    "playTurn": 9,
-    "eventType": 5,
-    "timing": 4,
-    "scenarioIdx": 1017054,
-    "title": 11100088,
-    "mapClear": 5,
-    "sort": 9
   },
   {
     "eventIdx": 991,
