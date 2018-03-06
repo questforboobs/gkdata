@@ -5560,7 +5560,7 @@
       0
     ],
     "accuracyScale": 100,
-    "attackDamageScale": 100,
+    "attackDamageScale": 120,
     "criticalChanceScale": 100,
     "depletionScale": 100,
     "healingScale": 100
@@ -5572,17 +5572,17 @@
     "shouldRenderSplash": true,
     "clingingTime": 0,
     "clingingTurn": [
-      2,
-      0,
+      3,
+      3,
       0
     ],
     "statusEffectDrks": [
       50222,
-      0,
+      50229,
       0
     ],
     "accuracyScale": 100,
-    "attackDamageScale": 200,
+    "attackDamageScale": 250,
     "criticalChanceScale": 100,
     "depletionScale": 100,
     "healingScale": 100
@@ -5616,7 +5616,7 @@
     "shouldRenderSplash": true,
     "clingingTime": 0,
     "clingingTurn": [
-      2,
+      3,
       0,
       0
     ],
@@ -5626,7 +5626,7 @@
       0
     ],
     "accuracyScale": 100,
-    "attackDamageScale": 150,
+    "attackDamageScale": 200,
     "criticalChanceScale": 100,
     "depletionScale": 100,
     "healingScale": 100
@@ -8948,7 +8948,7 @@
       0
     ],
     "accuracyScale": 100,
-    "attackDamageScale": 330,
+    "attackDamageScale": 350,
     "criticalChanceScale": 100,
     "depletionScale": 100,
     "healingScale": 100
@@ -8970,7 +8970,7 @@
       0
     ],
     "accuracyScale": 100,
-    "attackDamageScale": 330,
+    "attackDamageScale": 350,
     "criticalChanceScale": 100,
     "depletionScale": 100,
     "healingScale": 100
@@ -8983,7 +8983,7 @@
     "clingingTime": 0,
     "clingingTurn": [
       99,
-      3,
+      5,
       0
     ],
     "statusEffectDrks": [
@@ -9005,12 +9005,12 @@
     "clingingTime": 0,
     "clingingTurn": [
       0,
-      0,
+      3,
       0
     ],
     "statusEffectDrks": [
       50574,
-      0,
+      50578,
       0
     ],
     "accuracyScale": 100,
@@ -9044,7 +9044,7 @@
   {
     "key": 505821,
     "motionSetId": 5058211,
-    "splashPattern": "000000000000P000000000000",
+    "splashPattern": "1111111111111111111111111",
     "shouldRenderSplash": true,
     "clingingTime": 0,
     "clingingTurn": [
@@ -9092,13 +9092,13 @@
     "shouldRenderSplash": false,
     "clingingTime": 0,
     "clingingTurn": [
-      2,
+      3,
       0,
       0
     ],
     "statusEffectDrks": [
       50584,
-      0,
+      50587,
       0
     ],
     "accuracyScale": 100,
@@ -10815,6 +10815,94 @@
     "statusEffectDrks": [
       56264,
       0,
+      0
+    ],
+    "accuracyScale": 100,
+    "attackDamageScale": 0,
+    "criticalChanceScale": 100,
+    "depletionScale": 100,
+    "healingScale": 100
+  },
+  {
+    "key": 597811,
+    "motionSetId": 5978111,
+    "splashPattern": "000000000000P000000000000",
+    "shouldRenderSplash": true,
+    "clingingTime": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
+    "statusEffectDrks": [
+      0,
+      0,
+      0
+    ],
+    "accuracyScale": 100,
+    "attackDamageScale": 100,
+    "criticalChanceScale": 100,
+    "depletionScale": 100,
+    "healingScale": 100
+  },
+  {
+    "key": 597821,
+    "motionSetId": 5978211,
+    "splashPattern": "1111111111111111111111111",
+    "shouldRenderSplash": true,
+    "clingingTime": 0,
+    "clingingTurn": [
+      4,
+      0,
+      0
+    ],
+    "statusEffectDrks": [
+      59782,
+      0,
+      0
+    ],
+    "accuracyScale": 100,
+    "attackDamageScale": 120,
+    "criticalChanceScale": 100,
+    "depletionScale": 100,
+    "healingScale": 100
+  },
+  {
+    "key": 597831,
+    "motionSetId": 5978311,
+    "splashPattern": "000000000000P000000000000",
+    "shouldRenderSplash": true,
+    "clingingTime": 0,
+    "clingingTurn": [
+      2,
+      0,
+      0
+    ],
+    "statusEffectDrks": [
+      59783,
+      59788,
+      0
+    ],
+    "accuracyScale": 100,
+    "attackDamageScale": 300,
+    "criticalChanceScale": 100,
+    "depletionScale": 100,
+    "healingScale": 100
+  },
+  {
+    "key": 597841,
+    "motionSetId": 5978411,
+    "splashPattern": "1111111111111111111111111",
+    "shouldRenderSplash": true,
+    "clingingTime": 0,
+    "clingingTurn": [
+      6,
+      6,
+      0
+    ],
+    "statusEffectDrks": [
+      59784,
+      59789,
       0
     ],
     "accuracyScale": 100,
