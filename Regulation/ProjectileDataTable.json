@@ -10824,6 +10824,94 @@
     "healingScale": 100
   },
   {
+    "key": 597611,
+    "motionSetId": 5976111,
+    "splashPattern": "001000010000P000010000100",
+    "shouldRenderSplash": false,
+    "clingingTime": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
+    "statusEffectDrks": [
+      0,
+      0,
+      0
+    ],
+    "accuracyScale": 100,
+    "attackDamageScale": 100,
+    "criticalChanceScale": 100,
+    "depletionScale": 100,
+    "healingScale": 100
+  },
+  {
+    "key": 597621,
+    "motionSetId": 5976211,
+    "splashPattern": "000000000000P000000000000",
+    "shouldRenderSplash": false,
+    "clingingTime": 0,
+    "clingingTurn": [
+      2,
+      2,
+      2
+    ],
+    "statusEffectDrks": [
+      59762,
+      59768,
+      59769
+    ],
+    "accuracyScale": 100,
+    "attackDamageScale": 0,
+    "criticalChanceScale": 100,
+    "depletionScale": 100,
+    "healingScale": 100
+  },
+  {
+    "key": 597631,
+    "motionSetId": 5976311,
+    "splashPattern": "1111111111111111111111111",
+    "shouldRenderSplash": false,
+    "clingingTime": 0,
+    "clingingTurn": [
+      0,
+      0,
+      0
+    ],
+    "statusEffectDrks": [
+      0,
+      0,
+      0
+    ],
+    "accuracyScale": 100,
+    "attackDamageScale": 300,
+    "criticalChanceScale": 100,
+    "depletionScale": 100,
+    "healingScale": 100
+  },
+  {
+    "key": 597641,
+    "motionSetId": 5976411,
+    "splashPattern": "000000000000P000000000000",
+    "shouldRenderSplash": false,
+    "clingingTime": 0,
+    "clingingTurn": [
+      3,
+      0,
+      0
+    ],
+    "statusEffectDrks": [
+      59764,
+      0,
+      0
+    ],
+    "accuracyScale": 100,
+    "attackDamageScale": 70,
+    "criticalChanceScale": 100,
+    "depletionScale": 100,
+    "healingScale": 100
+  },
+  {
     "key": 597811,
     "motionSetId": 5978111,
     "splashPattern": "000000000000P000000000000",

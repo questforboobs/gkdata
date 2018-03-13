@@ -1155,6 +1155,21 @@
     "position3": 0
   },
   {
+    "idx": 181,
+    "type": 2,
+    "typeidx": 71,
+    "display": 2,
+    "pricetype": 1,
+    "pricetypeidx": 4,
+    "price": 500,
+    "navigatortype1": 6,
+    "position1": 0,
+    "navigatortype2": 0,
+    "position2": 0,
+    "navigatortype3": 0,
+    "position3": 0
+  },
+  {
     "idx": 179,
     "type": 2,
     "typeidx": 72,
@@ -1173,21 +1188,6 @@
     "idx": 180,
     "type": 2,
     "typeidx": 76,
-    "display": 2,
-    "pricetype": 1,
-    "pricetypeidx": 4,
-    "price": 500,
-    "navigatortype1": 6,
-    "position1": 0,
-    "navigatortype2": 0,
-    "position2": 0,
-    "navigatortype3": 0,
-    "position3": 0
-  },
-  {
-    "idx": 181,
-    "type": 2,
-    "typeidx": 71,
     "display": 2,
     "pricetype": 1,
     "pricetypeidx": 4,
@@ -1245,9 +1245,9 @@
     "position3": 0
   },
   {
-    "idx": 186,
+    "idx": 183,
     "type": 2,
-    "typeidx": 978,
+    "typeidx": 626,
     "display": 2,
     "pricetype": 1,
     "pricetypeidx": 4,
@@ -1260,9 +1260,24 @@
     "position3": 0
   },
   {
-    "idx": 183,
+    "idx": 187,
     "type": 2,
-    "typeidx": 626,
+    "typeidx": 976,
+    "display": 2,
+    "pricetype": 1,
+    "pricetypeidx": 4,
+    "price": 500,
+    "navigatortype1": 6,
+    "position1": 0,
+    "navigatortype2": 0,
+    "position2": 0,
+    "navigatortype3": 0,
+    "position3": 0
+  },
+  {
+    "idx": 186,
+    "type": 2,
+    "typeidx": 978,
     "display": 2,
     "pricetype": 1,
     "pricetypeidx": 4,
