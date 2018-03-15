@@ -1,0 +1,23 @@
+[
+  {
+    "gidx": 6,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 1,
+    "memberIdx": 1
+  },
+  {
+    "gidx": 6,
+    "idx": 2,
+    "memberType": 1,
+    "grade": 1,
+    "memberIdx": 2
+  },
+  {
+    "gidx": 6,
+    "idx": 3,
+    "memberType": 1,
+    "grade": 1,
+    "memberIdx": 5
+  }
+]

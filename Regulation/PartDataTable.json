@@ -1,0 +1,398 @@
+[
+  {
+    "type": 10001,
+    "grade": 1,
+    "name": 10001019,
+    "serverFieldName": "item_gold01",
+    "max": 999999,
+    "description": 10001020,
+    "storage": 1
+  },
+  {
+    "type": 10101,
+    "grade": 1,
+    "name": 3000001,
+    "serverFieldName": "icon_part_11_01",
+    "max": 999999,
+    "description": 3001001,
+    "storage": 1
+  },
+  {
+    "type": 10102,
+    "grade": 1,
+    "name": 3000002,
+    "serverFieldName": "icon_part_11_02",
+    "max": 999999,
+    "description": 3001002,
+    "storage": 1
+  },
+  {
+    "type": 10202,
+    "grade": 1,
+    "name": 3000007,
+    "serverFieldName": "icon_part_12_02",
+    "max": 999999,
+    "description": 3001007,
+    "storage": 1
+  },
+  {
+    "type": 10203,
+    "grade": 1,
+    "name": 3000008,
+    "serverFieldName": "icon_part_12_03",
+    "max": 999999,
+    "description": 3001008,
+    "storage": 1
+  },
+  {
+    "type": 10204,
+    "grade": 1,
+    "name": 3000009,
+    "serverFieldName": "icon_part_12_04",
+    "max": 999999,
+    "description": 3001009,
+    "storage": 1
+  },
+  {
+    "type": 10205,
+    "grade": 1,
+    "name": 3000010,
+    "serverFieldName": "icon_part_12_05",
+    "max": 999999,
+    "description": 3001010,
+    "storage": 1
+  },
+  {
+    "type": 10703,
+    "grade": 1,
+    "name": 3000123,
+    "serverFieldName": "icon_part_13_03",
+    "max": 999999,
+    "description": 3001123,
+    "storage": 1
+  },
+  {
+    "type": 10704,
+    "grade": 1,
+    "name": 3000124,
+    "serverFieldName": "icon_part_13_04",
+    "max": 999999,
+    "description": 3001124,
+    "storage": 1
+  },
+  {
+    "type": 10705,
+    "grade": 1,
+    "name": 3000125,
+    "serverFieldName": "icon_part_13_05",
+    "max": 999999,
+    "description": 3001125,
+    "storage": 1
+  },
+  {
+    "type": 11001,
+    "grade": 1,
+    "name": 3000031,
+    "serverFieldName": "icon_part_14_01",
+    "max": 999999,
+    "description": 3001031,
+    "storage": 1
+  },
+  {
+    "type": 11002,
+    "grade": 1,
+    "name": 3000032,
+    "serverFieldName": "icon_part_14_02",
+    "max": 999999,
+    "description": 3001032,
+    "storage": 1
+  },
+  {
+    "type": 11003,
+    "grade": 1,
+    "name": 3000033,
+    "serverFieldName": "icon_part_14_03",
+    "max": 999999,
+    "description": 3001033,
+    "storage": 1
+  },
+  {
+    "type": 11004,
+    "grade": 1,
+    "name": 3000034,
+    "serverFieldName": "icon_part_14_04",
+    "max": 999999,
+    "description": 3001034,
+    "storage": 1
+  },
+  {
+    "type": 11005,
+    "grade": 1,
+    "name": 3000035,
+    "serverFieldName": "icon_part_14_05",
+    "max": 999999,
+    "description": 3001035,
+    "storage": 1
+  },
+  {
+    "type": 11101,
+    "grade": 1,
+    "name": 3000036,
+    "serverFieldName": "icon_part_15_01",
+    "max": 999999,
+    "description": 3001036,
+    "storage": 1
+  },
+  {
+    "type": 11102,
+    "grade": 1,
+    "name": 3000037,
+    "serverFieldName": "icon_part_15_02",
+    "max": 999999,
+    "description": 3001037,
+    "storage": 1
+  },
+  {
+    "type": 11103,
+    "grade": 1,
+    "name": 3000038,
+    "serverFieldName": "icon_part_15_03",
+    "max": 999999,
+    "description": 3001038,
+    "storage": 1
+  },
+  {
+    "type": 11104,
+    "grade": 1,
+    "name": 3000039,
+    "serverFieldName": "icon_part_15_04",
+    "max": 999999,
+    "description": 3001039,
+    "storage": 1
+  },
+  {
+    "type": 11105,
+    "grade": 1,
+    "name": 3000040,
+    "serverFieldName": "icon_part_15_05",
+    "max": 999999,
+    "description": 3001040,
+    "storage": 1
+  },
+  {
+    "type": 11201,
+    "grade": 1,
+    "name": 3000041,
+    "serverFieldName": "icon_part_16_01",
+    "max": 999999,
+    "description": 3001041,
+    "storage": 1
+  },
+  {
+    "type": 11202,
+    "grade": 1,
+    "name": 3000042,
+    "serverFieldName": "icon_part_16_02",
+    "max": 999999,
+    "description": 3001042,
+    "storage": 1
+  },
+  {
+    "type": 11203,
+    "grade": 1,
+    "name": 3000043,
+    "serverFieldName": "icon_part_16_03",
+    "max": 999999,
+    "description": 3001043,
+    "storage": 1
+  },
+  {
+    "type": 11204,
+    "grade": 1,
+    "name": 3000044,
+    "serverFieldName": "icon_part_16_04",
+    "max": 999999,
+    "description": 3001044,
+    "storage": 1
+  },
+  {
+    "type": 11205,
+    "grade": 1,
+    "name": 3000045,
+    "serverFieldName": "icon_part_16_05",
+    "max": 999999,
+    "description": 3001045,
+    "storage": 1
+  },
+  {
+    "type": 20001,
+    "grade": 1,
+    "name": 4335,
+    "serverFieldName": "event_icon02",
+    "max": 999999,
+    "description": 4337,
+    "storage": 1
+  },
+  {
+    "type": 20002,
+    "grade": 1,
+    "name": 4336,
+    "serverFieldName": "event_icon01",
+    "max": 999999,
+    "description": 4338,
+    "storage": 1
+  },
+  {
+    "type": 20003,
+    "grade": 1,
+    "name": 4339,
+    "serverFieldName": "event_icon03",
+    "max": 999999,
+    "description": 4340,
+    "storage": 1
+  },
+  {
+    "type": 20004,
+    "grade": 1,
+    "name": 4341,
+    "serverFieldName": "event_icon10",
+    "max": 999999,
+    "description": 4342,
+    "storage": 1
+  },
+  {
+    "type": 20005,
+    "grade": 1,
+    "name": 4343,
+    "serverFieldName": "event_icon13",
+    "max": 999999,
+    "description": 4345,
+    "storage": 1
+  },
+  {
+    "type": 20006,
+    "grade": 1,
+    "name": 4344,
+    "serverFieldName": "event_icon14",
+    "max": 999999,
+    "description": 4346,
+    "storage": 1
+  },
+  {
+    "type": 20007,
+    "grade": 1,
+    "name": 4347,
+    "serverFieldName": "event_icon05",
+    "max": 999999,
+    "description": 4348,
+    "storage": 1
+  },
+  {
+    "type": 20008,
+    "grade": 1,
+    "name": 4349,
+    "serverFieldName": "event_icon17",
+    "max": 999999,
+    "description": 4350,
+    "storage": 1
+  },
+  {
+    "type": 20009,
+    "grade": 1,
+    "name": 4351,
+    "serverFieldName": "event_icon06",
+    "max": 999999,
+    "description": 4352,
+    "storage": 1
+  },
+  {
+    "type": 20010,
+    "grade": 1,
+    "name": 4355,
+    "serverFieldName": "event_icon08",
+    "max": 999999,
+    "description": 4356,
+    "storage": 1
+  },
+  {
+    "type": 20011,
+    "grade": 1,
+    "name": 4357,
+    "serverFieldName": "event_icon19",
+    "max": 999999,
+    "description": 4358,
+    "storage": 1
+  },
+  {
+    "type": 30001,
+    "grade": 1,
+    "name": 5010401,
+    "serverFieldName": "icon_innocent_01",
+    "max": 999999,
+    "description": 5010411,
+    "storage": 1
+  },
+  {
+    "type": 30002,
+    "grade": 1,
+    "name": 5010402,
+    "serverFieldName": "icon_innocent_02",
+    "max": 999999,
+    "description": 5010412,
+    "storage": 1
+  },
+  {
+    "type": 30003,
+    "grade": 1,
+    "name": 5010403,
+    "serverFieldName": "icon_innocent_03",
+    "max": 999999,
+    "description": 5010413,
+    "storage": 1
+  },
+  {
+    "type": 30004,
+    "grade": 1,
+    "name": 5010404,
+    "serverFieldName": "icon_innocent_04",
+    "max": 999999,
+    "description": 5010414,
+    "storage": 1
+  },
+  {
+    "type": 40001,
+    "grade": 1,
+    "name": 5020401,
+    "serverFieldName": "icon_extraterrestrial_01",
+    "max": 999999,
+    "description": 5020411,
+    "storage": 1
+  },
+  {
+    "type": 40002,
+    "grade": 1,
+    "name": 5020402,
+    "serverFieldName": "icon_extraterrestrial_02",
+    "max": 999999,
+    "description": 5020412,
+    "storage": 1
+  },
+  {
+    "type": 40003,
+    "grade": 1,
+    "name": 5020403,
+    "serverFieldName": "icon_extraterrestrial_03",
+    "max": 999999,
+    "description": 5020413,
+    "storage": 1
+  },
+  {
+    "type": 40004,
+    "grade": 1,
+    "name": 5020404,
+    "serverFieldName": "icon_extraterrestrial_04",
+    "max": 999999,
+    "description": 5020414,
+    "storage": 1
+  }
+]

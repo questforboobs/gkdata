@@ -1,0 +1,334 @@
+{
+  "Localization.txt": [
+    "20180315111837",
+    2618156
+  ],
+  "DailyBonusDataTable.json": [
+    "20180228110734",
+    10752
+  ],
+  "CommanderDataTable.json": [
+    "20180315110601",
+    116268
+  ],
+  "WorldMapDataTable.json": [
+    "20180222152247",
+    2944
+  ],
+  "WorldMapStageDataTable.json": [
+    "20180125094804",
+    109272
+  ],
+  "UnitDataTable.json": [
+    "20180315111913",
+    2463576
+  ],
+  "WorldMapStageTypeDataTable.json": [
+    "20170908190237",
+    1280
+  ],
+  "EnemyCommanderDataTable.json": [
+    "20180315110859",
+    117676
+  ],
+  "EnemyUnitDataTable.json": [
+    "20180315110919",
+    962136
+  ],
+  "UserLevelDataTable.json": [
+    "20180125095619",
+    13312
+  ],
+  "GoodsDataTable.json": [
+    "20180228111308",
+    30080
+  ],
+  "BuildingLevelDataTable.json": [
+    "20171026132032",
+    1836
+  ],
+  "CommanderLevelDataTable.json": [
+    "20170908184648",
+    5080
+  ],
+  "CommanderRankDataTable.json": [
+    "20170927103826",
+    472
+  ],
+  "CommanderTrainingTicketDataTable.json": [
+    "20170908184726",
+    172
+  ],
+  "SweepDataTable.json": [
+    "20171116115506",
+    5760
+  ],
+  "SkillDataTable.json": [
+    "20180315111607",
+    1809408
+  ],
+  "ProjectileDataTable.json": [
+    "20180315111737",
+    366552
+  ],
+  "StatusEffectDataTable.json": [
+    "20180315111710",
+    438744
+  ],
+  "MissionTable.json": [
+    "20171207111523",
+    2816
+  ],
+  "MetroBankLuckDataTable.json": [
+    "20170908190256",
+    1408
+  ],
+  "SkillCostDataTable.json": [
+    "20180315111644",
+    24364
+  ],
+  "RaidDataTable.json": [
+    "20180111111519",
+    14936
+  ],
+  "SkillUpgradeDataTable.json": [
+    "20180315111757",
+    295296
+  ],
+  "InteractionDataTable.json": [
+    "20180315111216",
+    442412
+  ],
+  "RankingRewardDataTable.json": [
+    "20171130171236",
+    21888
+  ],
+  "ProjectileMotionPhaseDataTable.json": [
+    "20180228111600",
+    283308
+  ],
+  "UnitMotionDataTable.json": [
+    "20180228112602",
+    481068
+  ],
+  "FireActionDataTable.json": [
+    "20180228111321",
+    25984
+  ],
+  "PartDataTable.json": [
+    "20171221111653",
+    7168
+  ],
+  "AchievementTable.json": [
+    "20180125094014",
+    43480
+  ],
+  "GachaDataTable.json": [
+    "20170525130247",
+    2176
+  ],
+  "GachaCostDataTable.json": [
+    "20170525130256",
+    940
+  ],
+  "GachaRewardDataTable.json": [
+    "20170529172518",
+    14848
+  ],
+  "LevelPatternDataTable.json": [
+    "20180315111308",
+    101888
+  ],
+  "DropGoldPatternDataTable.json": [
+    "20170908185406",
+    172
+  ],
+  "RewardDataTable.json": [
+    "20180315111425",
+    1504472
+  ],
+  "GuildStruggleDataTable.json": [
+    "20170908185522",
+    3160
+  ],
+  "GuildSkillDataTable.json": [
+    "20170908185513",
+    7808
+  ],
+  "GuildOccupyDataTable.json": [
+    "20170908185505",
+    6232
+  ],
+  "GuildLevelInfoDataTable.json": [
+    "20171011110523",
+    1368
+  ],
+  "VipRechargeDataTable.json": [
+    "20171130114624",
+    1068
+  ],
+  "VipExpDataTable.json": [
+    "20180315111944",
+    640
+  ],
+  "ShopDataTable.json": [
+    "20180125095021",
+    6956
+  ],
+  "FavorStepDataTable.json": [
+    "20180125094549",
+    300
+  ],
+  "ClassPatternDataTable.json": [
+    "20180315110542",
+    212652
+  ],
+  "CommanderClassDataTable.json": [
+    "20180315110626",
+    429144
+  ],
+  "ItemExchangeDataTable.json": [
+    "20180315111235",
+    55724
+  ],
+  "DefineDataTable.json": [
+    "20180222112151",
+    8364
+  ],
+  "DailyEventDataTable.json": [
+    "20170912103455",
+    684
+  ],
+  "AnnihilateBattleDataTable.json": [
+    "20171122110723",
+    19840
+  ],
+  "CommanderCostumeDataTable.json": [
+    "20180315110721",
+    32428
+  ],
+  "LoadingTipDataTable.json": [
+    "20180315111329",
+    12248
+  ],
+  "FavorDataTable.json": [
+    "20180315111100",
+    78424
+  ],
+  "CommanderGiftDataTable.json": [
+    "20171011105616",
+    384
+  ],
+  "InAppProductDataTable.json": [
+    "20180315111151",
+    10584
+  ],
+  "CarnivalTypeDataTable.json": [
+    "20180315110508",
+    46636
+  ],
+  "CarnivalDataTable.json": [
+    "20180315110333",
+    547584
+  ],
+  "CommanderVoiceDataTable.json": [
+    "20180315110801",
+    55896
+  ],
+  "CommanderScenarioDataTable.json": [
+    "20180315110737",
+    88364
+  ],
+  "ScenarioBattleDataTable.json": [
+    "20170908190426",
+    172
+  ],
+  "ScenarioQuarterDataTable.json": [
+    "20180315111456",
+    16684
+  ],
+  "ScenarioBattleUnitDataTable.json": [
+    "20170908190434",
+    344
+  ],
+  "SC_Localization_01.txt": [
+    "20180315111527",
+    7176748
+  ],
+  "RaidChallengeDataTable.json": [
+    "20180111111556",
+    728
+  ],
+  "WaveBattleDataTable.json": [
+    "20170908190741",
+    3756
+  ],
+  "EquipItemDataTable.json": [
+    "20170908185311",
+    30124
+  ],
+  "EquipItemUpgradeDataTable.json": [
+    "20170908185331",
+    178904
+  ],
+  "EquipItemDisassembleDataTable.json": [
+    "20170908185319",
+    148224
+  ],
+  "BattleFieldSearchDataTable.json": [
+    "20180125094109",
+    3456
+  ],
+  "RandomBoxRewardDataTable.json": [
+    "20180118175419",
+    67500
+  ],
+  "ThumbnailDataTable.json": [
+    "20170908190635",
+    2688
+  ],
+  "CooperateBattleDataTable.json": [
+    "20170908184738",
+    2136
+  ],
+  "GroupInfoDataTable.json": [
+    "20170908185414",
+    216
+  ],
+  "GroupMemberDataTable.json": [
+    "20170908185439",
+    256
+  ],
+  "EventBattleDataTable.json": [
+    "20180315110937",
+    4312
+  ],
+  "EventBattleFieldDataTable.json": [
+    "20180315110953",
+    43692
+  ],
+  "EventBattleScenarioDataTable.json": [
+    "20180315111012",
+    7212
+  ],
+  "EventRaidDataTable.json": [
+    "20180228111118",
+    940
+  ],
+  "VipUpgradeTicketDataTable.json": [
+    "20171011111814",
+    216
+  ],
+  "EventScenarioLocalization.txt": [
+    "20180315111037",
+    541184
+  ],
+  "EventRaidGoodsDataTable.json": [
+    "20180228111140",
+    42028
+  ],
+  "SkillDamagePatternDataTable.json": [
+    "20180208112401",
+    812
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "index": 0,
+    "key": 1,
+    "commanderId": "30001",
+    "commanderPos": 4,
+    "parts": [
+      "30013",
+      "30012",
+      0,
+      0,
+      0
+    ],
+    "partsPos": [
+      "3",
+      "5",
+      0,
+      0,
+      0
+    ],
+    "battlemap": "land_boss_01",
+    "enemymap": "land_boss_01"
+  },
+  {
+    "index": 1,
+    "key": 2,
+    "commanderId": "30002",
+    "commanderPos": 4,
+    "parts": [
+      "30022",
+      "30023",
+      0,
+      0,
+      0
+    ],
+    "partsPos": [
+      "1",
+      "7",
+      0,
+      0,
+      0
+    ],
+    "battlemap": "land_boss_01",
+    "enemymap": "land_boss_01"
+  },
+  {
+    "index": 2,
+    "key": 3,
+    "commanderId": "30003",
+    "commanderPos": 4,
+    "parts": [
+      "30032",
+      "30033",
+      0,
+      0,
+      0
+    ],
+    "partsPos": [
+      "0",
+      "8",
+      0,
+      0,
+      0
+    ],
+    "battlemap": "land_boss_01",
+    "enemymap": "land_boss_02"
+  }
+]

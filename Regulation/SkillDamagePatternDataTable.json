@@ -1,0 +1,56 @@
+[
+  {
+    "key": 1,
+    "motionSetId": 100,
+    "splashPattern": 0,
+    "hpDamageScale": 100
+  },
+  {
+    "key": 2,
+    "motionSetId": 100,
+    "splashPattern": 50,
+    "hpDamageScale": 100
+  },
+  {
+    "key": 2,
+    "motionSetId": 49,
+    "splashPattern": 30,
+    "hpDamageScale": 130
+  },
+  {
+    "key": 2,
+    "motionSetId": 29,
+    "splashPattern": 10,
+    "hpDamageScale": 150
+  },
+  {
+    "key": 2,
+    "motionSetId": 9,
+    "splashPattern": 0,
+    "hpDamageScale": 300
+  },
+  {
+    "key": 3,
+    "motionSetId": 100,
+    "splashPattern": 50,
+    "hpDamageScale": 130
+  },
+  {
+    "key": 3,
+    "motionSetId": 49,
+    "splashPattern": 30,
+    "hpDamageScale": 130
+  },
+  {
+    "key": 3,
+    "motionSetId": 29,
+    "splashPattern": 10,
+    "hpDamageScale": 110
+  },
+  {
+    "key": 3,
+    "motionSetId": 9,
+    "splashPattern": 0,
+    "hpDamageScale": 100
+  }
+]

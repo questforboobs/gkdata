@@ -1,0 +1,3737 @@
+[
+  {
+    "level": 1,
+    "typeLimitLevel": [
+      2,
+      2,
+      3,
+      11
+    ],
+    "typeCost": [
+      100,
+      100,
+      300,
+      750
+    ]
+  },
+  {
+    "level": 2,
+    "typeLimitLevel": [
+      3,
+      3,
+      4,
+      12
+    ],
+    "typeCost": [
+      125,
+      125,
+      350,
+      900
+    ]
+  },
+  {
+    "level": 3,
+    "typeLimitLevel": [
+      4,
+      4,
+      5,
+      13
+    ],
+    "typeCost": [
+      150,
+      150,
+      400,
+      1150
+    ]
+  },
+  {
+    "level": 4,
+    "typeLimitLevel": [
+      5,
+      5,
+      6,
+      14
+    ],
+    "typeCost": [
+      175,
+      175,
+      450,
+      1250
+    ]
+  },
+  {
+    "level": 5,
+    "typeLimitLevel": [
+      6,
+      6,
+      7,
+      15
+    ],
+    "typeCost": [
+      200,
+      200,
+      500,
+      1450
+    ]
+  },
+  {
+    "level": 6,
+    "typeLimitLevel": [
+      7,
+      7,
+      8,
+      16
+    ],
+    "typeCost": [
+      225,
+      225,
+      550,
+      1600
+    ]
+  },
+  {
+    "level": 7,
+    "typeLimitLevel": [
+      8,
+      8,
+      9,
+      17
+    ],
+    "typeCost": [
+      250,
+      250,
+      700,
+      1800
+    ]
+  },
+  {
+    "level": 8,
+    "typeLimitLevel": [
+      9,
+      9,
+      10,
+      18
+    ],
+    "typeCost": [
+      275,
+      275,
+      800,
+      1900
+    ]
+  },
+  {
+    "level": 9,
+    "typeLimitLevel": [
+      10,
+      10,
+      11,
+      19
+    ],
+    "typeCost": [
+      300,
+      300,
+      1000,
+      2100
+    ]
+  },
+  {
+    "level": 10,
+    "typeLimitLevel": [
+      11,
+      11,
+      12,
+      20
+    ],
+    "typeCost": [
+      375,
+      375,
+      1100,
+      2200
+    ]
+  },
+  {
+    "level": 11,
+    "typeLimitLevel": [
+      12,
+      12,
+      13,
+      21
+    ],
+    "typeCost": [
+      450,
+      450,
+      1250,
+      2400
+    ]
+  },
+  {
+    "level": 12,
+    "typeLimitLevel": [
+      13,
+      13,
+      14,
+      22
+    ],
+    "typeCost": [
+      550,
+      550,
+      1350,
+      2500
+    ]
+  },
+  {
+    "level": 13,
+    "typeLimitLevel": [
+      14,
+      14,
+      15,
+      23
+    ],
+    "typeCost": [
+      600,
+      600,
+      1550,
+      2750
+    ]
+  },
+  {
+    "level": 14,
+    "typeLimitLevel": [
+      15,
+      15,
+      16,
+      24
+    ],
+    "typeCost": [
+      700,
+      700,
+      1600,
+      2850
+    ]
+  },
+  {
+    "level": 15,
+    "typeLimitLevel": [
+      16,
+      16,
+      17,
+      25
+    ],
+    "typeCost": [
+      750,
+      750,
+      1800,
+      3050
+    ]
+  },
+  {
+    "level": 16,
+    "typeLimitLevel": [
+      17,
+      17,
+      18,
+      26
+    ],
+    "typeCost": [
+      850,
+      850,
+      1900,
+      3350
+    ]
+  },
+  {
+    "level": 17,
+    "typeLimitLevel": [
+      18,
+      18,
+      19,
+      27
+    ],
+    "typeCost": [
+      900,
+      900,
+      2050,
+      3800
+    ]
+  },
+  {
+    "level": 18,
+    "typeLimitLevel": [
+      19,
+      19,
+      20,
+      28
+    ],
+    "typeCost": [
+      1000,
+      1000,
+      2150,
+      4100
+    ]
+  },
+  {
+    "level": 19,
+    "typeLimitLevel": [
+      20,
+      20,
+      21,
+      29
+    ],
+    "typeCost": [
+      1050,
+      1050,
+      2350,
+      4500
+    ]
+  },
+  {
+    "level": 20,
+    "typeLimitLevel": [
+      21,
+      21,
+      22,
+      30
+    ],
+    "typeCost": [
+      1150,
+      1150,
+      2450,
+      4850
+    ]
+  },
+  {
+    "level": 21,
+    "typeLimitLevel": [
+      22,
+      22,
+      23,
+      31
+    ],
+    "typeCost": [
+      1200,
+      1200,
+      2600,
+      5500
+    ]
+  },
+  {
+    "level": 22,
+    "typeLimitLevel": [
+      23,
+      23,
+      24,
+      32
+    ],
+    "typeCost": [
+      1300,
+      1300,
+      2900,
+      5500
+    ]
+  },
+  {
+    "level": 23,
+    "typeLimitLevel": [
+      24,
+      24,
+      25,
+      33
+    ],
+    "typeCost": [
+      1350,
+      1350,
+      3250,
+      6000
+    ]
+  },
+  {
+    "level": 24,
+    "typeLimitLevel": [
+      25,
+      25,
+      26,
+      34
+    ],
+    "typeCost": [
+      1450,
+      1450,
+      3500,
+      6500
+    ]
+  },
+  {
+    "level": 25,
+    "typeLimitLevel": [
+      26,
+      26,
+      27,
+      35
+    ],
+    "typeCost": [
+      1600,
+      1600,
+      3850,
+      6500
+    ]
+  },
+  {
+    "level": 26,
+    "typeLimitLevel": [
+      27,
+      27,
+      28,
+      36
+    ],
+    "typeCost": [
+      1800,
+      1800,
+      4150,
+      7000
+    ]
+  },
+  {
+    "level": 27,
+    "typeLimitLevel": [
+      28,
+      28,
+      29,
+      37
+    ],
+    "typeCost": [
+      1950,
+      1950,
+      4500,
+      7500
+    ]
+  },
+  {
+    "level": 28,
+    "typeLimitLevel": [
+      29,
+      29,
+      30,
+      38
+    ],
+    "typeCost": [
+      2150,
+      2150,
+      4750,
+      8000
+    ]
+  },
+  {
+    "level": 29,
+    "typeLimitLevel": [
+      30,
+      30,
+      31,
+      39
+    ],
+    "typeCost": [
+      2300,
+      2300,
+      5000,
+      8000
+    ]
+  },
+  {
+    "level": 30,
+    "typeLimitLevel": [
+      31,
+      31,
+      32,
+      40
+    ],
+    "typeCost": [
+      2500,
+      2500,
+      5500,
+      8500
+    ]
+  },
+  {
+    "level": 31,
+    "typeLimitLevel": [
+      32,
+      32,
+      33,
+      41
+    ],
+    "typeCost": [
+      2650,
+      2650,
+      6000,
+      9000
+    ]
+  },
+  {
+    "level": 32,
+    "typeLimitLevel": [
+      33,
+      33,
+      34,
+      42
+    ],
+    "typeCost": [
+      2850,
+      2850,
+      6000,
+      9000
+    ]
+  },
+  {
+    "level": 33,
+    "typeLimitLevel": [
+      34,
+      34,
+      35,
+      43
+    ],
+    "typeCost": [
+      3000,
+      3000,
+      6500,
+      9500
+    ]
+  },
+  {
+    "level": 34,
+    "typeLimitLevel": [
+      35,
+      35,
+      36,
+      44
+    ],
+    "typeCost": [
+      3200,
+      3200,
+      6500,
+      10000
+    ]
+  },
+  {
+    "level": 35,
+    "typeLimitLevel": [
+      36,
+      36,
+      37,
+      45
+    ],
+    "typeCost": [
+      3350,
+      3350,
+      7000,
+      10500
+    ]
+  },
+  {
+    "level": 36,
+    "typeLimitLevel": [
+      37,
+      37,
+      38,
+      46
+    ],
+    "typeCost": [
+      3550,
+      3550,
+      7500,
+      10500
+    ]
+  },
+  {
+    "level": 37,
+    "typeLimitLevel": [
+      38,
+      38,
+      39,
+      47
+    ],
+    "typeCost": [
+      3700,
+      3700,
+      7500,
+      11500
+    ]
+  },
+  {
+    "level": 38,
+    "typeLimitLevel": [
+      39,
+      39,
+      40,
+      48
+    ],
+    "typeCost": [
+      3900,
+      3900,
+      8000,
+      11500
+    ]
+  },
+  {
+    "level": 39,
+    "typeLimitLevel": [
+      40,
+      40,
+      41,
+      49
+    ],
+    "typeCost": [
+      4050,
+      4050,
+      8500,
+      11500
+    ]
+  },
+  {
+    "level": 40,
+    "typeLimitLevel": [
+      41,
+      41,
+      42,
+      50
+    ],
+    "typeCost": [
+      4250,
+      4250,
+      8500,
+      12500
+    ]
+  },
+  {
+    "level": 41,
+    "typeLimitLevel": [
+      42,
+      42,
+      43,
+      51
+    ],
+    "typeCost": [
+      4400,
+      4400,
+      9000,
+      12500
+    ]
+  },
+  {
+    "level": 42,
+    "typeLimitLevel": [
+      43,
+      43,
+      44,
+      52
+    ],
+    "typeCost": [
+      4600,
+      4600,
+      9000,
+      12500
+    ]
+  },
+  {
+    "level": 43,
+    "typeLimitLevel": [
+      44,
+      44,
+      45,
+      53
+    ],
+    "typeCost": [
+      4750,
+      4750,
+      10000,
+      13500
+    ]
+  },
+  {
+    "level": 44,
+    "typeLimitLevel": [
+      45,
+      45,
+      46,
+      54
+    ],
+    "typeCost": [
+      4950,
+      4950,
+      10000,
+      13500
+    ]
+  },
+  {
+    "level": 45,
+    "typeLimitLevel": [
+      46,
+      46,
+      47,
+      55
+    ],
+    "typeCost": [
+      5000,
+      5000,
+      10000,
+      13500
+    ]
+  },
+  {
+    "level": 46,
+    "typeLimitLevel": [
+      47,
+      47,
+      48,
+      56
+    ],
+    "typeCost": [
+      5500,
+      5500,
+      11000,
+      14500
+    ]
+  },
+  {
+    "level": 47,
+    "typeLimitLevel": [
+      48,
+      48,
+      49,
+      57
+    ],
+    "typeCost": [
+      5500,
+      5500,
+      11000,
+      14500
+    ]
+  },
+  {
+    "level": 48,
+    "typeLimitLevel": [
+      49,
+      49,
+      50,
+      58
+    ],
+    "typeCost": [
+      5500,
+      5500,
+      11000,
+      14500
+    ]
+  },
+  {
+    "level": 49,
+    "typeLimitLevel": [
+      50,
+      50,
+      51,
+      59
+    ],
+    "typeCost": [
+      6000,
+      6000,
+      11500,
+      16000
+    ]
+  },
+  {
+    "level": 50,
+    "typeLimitLevel": [
+      51,
+      51,
+      52,
+      60
+    ],
+    "typeCost": [
+      6000,
+      6000,
+      11500,
+      16000
+    ]
+  },
+  {
+    "level": 51,
+    "typeLimitLevel": [
+      52,
+      52,
+      53,
+      61
+    ],
+    "typeCost": [
+      6000,
+      6000,
+      11500,
+      16000
+    ]
+  },
+  {
+    "level": 52,
+    "typeLimitLevel": [
+      53,
+      53,
+      54,
+      62
+    ],
+    "typeCost": [
+      6500,
+      6500,
+      12500,
+      17000
+    ]
+  },
+  {
+    "level": 53,
+    "typeLimitLevel": [
+      54,
+      54,
+      55,
+      63
+    ],
+    "typeCost": [
+      6500,
+      6500,
+      12500,
+      17000
+    ]
+  },
+  {
+    "level": 54,
+    "typeLimitLevel": [
+      55,
+      55,
+      56,
+      64
+    ],
+    "typeCost": [
+      6500,
+      6500,
+      12500,
+      18000
+    ]
+  },
+  {
+    "level": 55,
+    "typeLimitLevel": [
+      56,
+      56,
+      57,
+      65
+    ],
+    "typeCost": [
+      7000,
+      7000,
+      13500,
+      18000
+    ]
+  },
+  {
+    "level": 56,
+    "typeLimitLevel": [
+      57,
+      57,
+      58,
+      66
+    ],
+    "typeCost": [
+      7000,
+      7000,
+      13500,
+      18000
+    ]
+  },
+  {
+    "level": 57,
+    "typeLimitLevel": [
+      58,
+      58,
+      59,
+      67
+    ],
+    "typeCost": [
+      7000,
+      7000,
+      13500,
+      19000
+    ]
+  },
+  {
+    "level": 58,
+    "typeLimitLevel": [
+      59,
+      59,
+      60,
+      68
+    ],
+    "typeCost": [
+      7500,
+      7500,
+      14500,
+      20000
+    ]
+  },
+  {
+    "level": 59,
+    "typeLimitLevel": [
+      60,
+      60,
+      61,
+      69
+    ],
+    "typeCost": [
+      7500,
+      7500,
+      14500,
+      20000
+    ]
+  },
+  {
+    "level": 60,
+    "typeLimitLevel": [
+      61,
+      61,
+      62,
+      70
+    ],
+    "typeCost": [
+      7500,
+      7500,
+      15500,
+      21000
+    ]
+  },
+  {
+    "level": 61,
+    "typeLimitLevel": [
+      62,
+      62,
+      63,
+      71
+    ],
+    "typeCost": [
+      8000,
+      8000,
+      15500,
+      27000
+    ]
+  },
+  {
+    "level": 62,
+    "typeLimitLevel": [
+      63,
+      63,
+      64,
+      72
+    ],
+    "typeCost": [
+      8000,
+      8000,
+      15500,
+      36000
+    ]
+  },
+  {
+    "level": 63,
+    "typeLimitLevel": [
+      64,
+      64,
+      65,
+      73
+    ],
+    "typeCost": [
+      8500,
+      8500,
+      16000,
+      44000
+    ]
+  },
+  {
+    "level": 64,
+    "typeLimitLevel": [
+      65,
+      65,
+      66,
+      74
+    ],
+    "typeCost": [
+      8500,
+      8500,
+      17000,
+      52500
+    ]
+  },
+  {
+    "level": 65,
+    "typeLimitLevel": [
+      66,
+      66,
+      67,
+      75
+    ],
+    "typeCost": [
+      8500,
+      8500,
+      17000,
+      60500
+    ]
+  },
+  {
+    "level": 66,
+    "typeLimitLevel": [
+      67,
+      67,
+      68,
+      76
+    ],
+    "typeCost": [
+      9000,
+      9000,
+      18000,
+      69000
+    ]
+  },
+  {
+    "level": 67,
+    "typeLimitLevel": [
+      68,
+      68,
+      69,
+      77
+    ],
+    "typeCost": [
+      9500,
+      9500,
+      18000,
+      77500
+    ]
+  },
+  {
+    "level": 68,
+    "typeLimitLevel": [
+      69,
+      69,
+      70,
+      78
+    ],
+    "typeCost": [
+      9500,
+      9500,
+      19000,
+      86000
+    ]
+  },
+  {
+    "level": 69,
+    "typeLimitLevel": [
+      70,
+      70,
+      71,
+      79
+    ],
+    "typeCost": [
+      10000,
+      10000,
+      24500,
+      94000
+    ]
+  },
+  {
+    "level": 70,
+    "typeLimitLevel": [
+      71,
+      71,
+      72,
+      80
+    ],
+    "typeCost": [
+      13000,
+      13000,
+      32500,
+      103500
+    ]
+  },
+  {
+    "level": 71,
+    "typeLimitLevel": [
+      72,
+      72,
+      73,
+      81
+    ],
+    "typeCost": [
+      17000,
+      17000,
+      40000,
+      113000
+    ]
+  },
+  {
+    "level": 72,
+    "typeLimitLevel": [
+      73,
+      73,
+      74,
+      82
+    ],
+    "typeCost": [
+      21000,
+      21000,
+      47500,
+      123000
+    ]
+  },
+  {
+    "level": 73,
+    "typeLimitLevel": [
+      74,
+      74,
+      75,
+      83
+    ],
+    "typeCost": [
+      25000,
+      25000,
+      55000,
+      135000
+    ]
+  },
+  {
+    "level": 74,
+    "typeLimitLevel": [
+      75,
+      75,
+      76,
+      84
+    ],
+    "typeCost": [
+      29000,
+      29000,
+      62500,
+      147500
+    ]
+  },
+  {
+    "level": 75,
+    "typeLimitLevel": [
+      76,
+      76,
+      77,
+      85
+    ],
+    "typeCost": [
+      33000,
+      33000,
+      70500,
+      161000
+    ]
+  },
+  {
+    "level": 76,
+    "typeLimitLevel": [
+      77,
+      77,
+      78,
+      86
+    ],
+    "typeCost": [
+      37000,
+      37000,
+      78000,
+      175500
+    ]
+  },
+  {
+    "level": 77,
+    "typeLimitLevel": [
+      78,
+      78,
+      79,
+      87
+    ],
+    "typeCost": [
+      41000,
+      41000,
+      85500,
+      192500
+    ]
+  },
+  {
+    "level": 78,
+    "typeLimitLevel": [
+      79,
+      79,
+      80,
+      88
+    ],
+    "typeCost": [
+      45000,
+      45000,
+      94000,
+      210000
+    ]
+  },
+  {
+    "level": 79,
+    "typeLimitLevel": [
+      80,
+      80,
+      81,
+      89
+    ],
+    "typeCost": [
+      49500,
+      49500,
+      102500,
+      230000
+    ]
+  },
+  {
+    "level": 80,
+    "typeLimitLevel": [
+      81,
+      81,
+      82,
+      90
+    ],
+    "typeCost": [
+      54000,
+      54000,
+      112000,
+      251000
+    ]
+  },
+  {
+    "level": 81,
+    "typeLimitLevel": [
+      82,
+      82,
+      83,
+      91
+    ],
+    "typeCost": [
+      59000,
+      59000,
+      122500,
+      274000
+    ]
+  },
+  {
+    "level": 82,
+    "typeLimitLevel": [
+      83,
+      83,
+      84,
+      92
+    ],
+    "typeCost": [
+      64500,
+      64500,
+      134000,
+      298500
+    ]
+  },
+  {
+    "level": 83,
+    "typeLimitLevel": [
+      84,
+      84,
+      85,
+      93
+    ],
+    "typeCost": [
+      70500,
+      70500,
+      146500,
+      326000
+    ]
+  },
+  {
+    "level": 84,
+    "typeLimitLevel": [
+      85,
+      85,
+      86,
+      94
+    ],
+    "typeCost": [
+      77000,
+      77000,
+      159500,
+      356500
+    ]
+  },
+  {
+    "level": 85,
+    "typeLimitLevel": [
+      86,
+      86,
+      87,
+      95
+    ],
+    "typeCost": [
+      84000,
+      84000,
+      175000,
+      389000
+    ]
+  },
+  {
+    "level": 86,
+    "typeLimitLevel": [
+      87,
+      87,
+      88,
+      96
+    ],
+    "typeCost": [
+      92000,
+      92000,
+      191000,
+      424000
+    ]
+  },
+  {
+    "level": 87,
+    "typeLimitLevel": [
+      88,
+      88,
+      89,
+      97
+    ],
+    "typeCost": [
+      100500,
+      100500,
+      209000,
+      463000
+    ]
+  },
+  {
+    "level": 88,
+    "typeLimitLevel": [
+      89,
+      89,
+      90,
+      98
+    ],
+    "typeCost": [
+      110000,
+      110000,
+      228000,
+      505000
+    ]
+  },
+  {
+    "level": 89,
+    "typeLimitLevel": [
+      90,
+      90,
+      91,
+      99
+    ],
+    "typeCost": [
+      120000,
+      120000,
+      249000,
+      550000
+    ]
+  },
+  {
+    "level": 90,
+    "typeLimitLevel": [
+      91,
+      91,
+      92,
+      100
+    ],
+    "typeCost": [
+      131000,
+      131000,
+      271500,
+      600000
+    ]
+  },
+  {
+    "level": 91,
+    "typeLimitLevel": [
+      92,
+      92,
+      93,
+      101
+    ],
+    "typeCost": [
+      143000,
+      143000,
+      296500,
+      0
+    ]
+  },
+  {
+    "level": 92,
+    "typeLimitLevel": [
+      93,
+      93,
+      94,
+      102
+    ],
+    "typeCost": [
+      156000,
+      156000,
+      324000,
+      0
+    ]
+  },
+  {
+    "level": 93,
+    "typeLimitLevel": [
+      94,
+      94,
+      95,
+      103
+    ],
+    "typeCost": [
+      170500,
+      170500,
+      353500,
+      0
+    ]
+  },
+  {
+    "level": 94,
+    "typeLimitLevel": [
+      95,
+      95,
+      96,
+      104
+    ],
+    "typeCost": [
+      186000,
+      186000,
+      385500,
+      0
+    ]
+  },
+  {
+    "level": 95,
+    "typeLimitLevel": [
+      96,
+      96,
+      97,
+      105
+    ],
+    "typeCost": [
+      203000,
+      203000,
+      421000,
+      0
+    ]
+  },
+  {
+    "level": 96,
+    "typeLimitLevel": [
+      97,
+      97,
+      98,
+      106
+    ],
+    "typeCost": [
+      221500,
+      221500,
+      459000,
+      0
+    ]
+  },
+  {
+    "level": 97,
+    "typeLimitLevel": [
+      98,
+      98,
+      99,
+      107
+    ],
+    "typeCost": [
+      241500,
+      241500,
+      500500,
+      0
+    ]
+  },
+  {
+    "level": 98,
+    "typeLimitLevel": [
+      99,
+      99,
+      100,
+      108
+    ],
+    "typeCost": [
+      263500,
+      263500,
+      546500,
+      0
+    ]
+  },
+  {
+    "level": 99,
+    "typeLimitLevel": [
+      100,
+      100,
+      101,
+      109
+    ],
+    "typeCost": [
+      287500,
+      287500,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 100,
+    "typeLimitLevel": [
+      101,
+      101,
+      102,
+      110
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 101,
+    "typeLimitLevel": [
+      102,
+      102,
+      103,
+      111
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 102,
+    "typeLimitLevel": [
+      103,
+      103,
+      104,
+      112
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 103,
+    "typeLimitLevel": [
+      104,
+      104,
+      105,
+      113
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 104,
+    "typeLimitLevel": [
+      105,
+      105,
+      106,
+      114
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 105,
+    "typeLimitLevel": [
+      106,
+      106,
+      107,
+      115
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 106,
+    "typeLimitLevel": [
+      107,
+      107,
+      108,
+      116
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 107,
+    "typeLimitLevel": [
+      108,
+      108,
+      109,
+      117
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 108,
+    "typeLimitLevel": [
+      109,
+      109,
+      110,
+      118
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 109,
+    "typeLimitLevel": [
+      110,
+      110,
+      111,
+      119
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 110,
+    "typeLimitLevel": [
+      111,
+      111,
+      112,
+      120
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 111,
+    "typeLimitLevel": [
+      112,
+      112,
+      113,
+      121
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 112,
+    "typeLimitLevel": [
+      113,
+      113,
+      114,
+      122
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 113,
+    "typeLimitLevel": [
+      114,
+      114,
+      115,
+      123
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 114,
+    "typeLimitLevel": [
+      115,
+      115,
+      116,
+      124
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 115,
+    "typeLimitLevel": [
+      116,
+      116,
+      117,
+      125
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 116,
+    "typeLimitLevel": [
+      117,
+      117,
+      118,
+      126
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 117,
+    "typeLimitLevel": [
+      118,
+      118,
+      119,
+      127
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 118,
+    "typeLimitLevel": [
+      119,
+      119,
+      120,
+      128
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 119,
+    "typeLimitLevel": [
+      120,
+      120,
+      121,
+      129
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 120,
+    "typeLimitLevel": [
+      121,
+      121,
+      122,
+      130
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 121,
+    "typeLimitLevel": [
+      122,
+      122,
+      123,
+      131
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 122,
+    "typeLimitLevel": [
+      123,
+      123,
+      124,
+      132
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 123,
+    "typeLimitLevel": [
+      124,
+      124,
+      125,
+      133
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 124,
+    "typeLimitLevel": [
+      125,
+      125,
+      126,
+      134
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 125,
+    "typeLimitLevel": [
+      126,
+      126,
+      127,
+      135
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 126,
+    "typeLimitLevel": [
+      127,
+      127,
+      128,
+      136
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 127,
+    "typeLimitLevel": [
+      128,
+      128,
+      129,
+      137
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 128,
+    "typeLimitLevel": [
+      129,
+      129,
+      130,
+      138
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 129,
+    "typeLimitLevel": [
+      130,
+      130,
+      131,
+      139
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 130,
+    "typeLimitLevel": [
+      131,
+      131,
+      132,
+      140
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 131,
+    "typeLimitLevel": [
+      132,
+      132,
+      133,
+      141
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 132,
+    "typeLimitLevel": [
+      133,
+      133,
+      134,
+      142
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 133,
+    "typeLimitLevel": [
+      134,
+      134,
+      135,
+      143
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 134,
+    "typeLimitLevel": [
+      135,
+      135,
+      136,
+      144
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 135,
+    "typeLimitLevel": [
+      136,
+      136,
+      137,
+      145
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 136,
+    "typeLimitLevel": [
+      137,
+      137,
+      138,
+      146
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 137,
+    "typeLimitLevel": [
+      138,
+      138,
+      139,
+      147
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 138,
+    "typeLimitLevel": [
+      139,
+      139,
+      140,
+      148
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 139,
+    "typeLimitLevel": [
+      140,
+      140,
+      141,
+      149
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 140,
+    "typeLimitLevel": [
+      141,
+      141,
+      142,
+      150
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 141,
+    "typeLimitLevel": [
+      142,
+      142,
+      143,
+      151
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 142,
+    "typeLimitLevel": [
+      143,
+      143,
+      144,
+      152
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 143,
+    "typeLimitLevel": [
+      144,
+      144,
+      145,
+      153
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 144,
+    "typeLimitLevel": [
+      145,
+      145,
+      146,
+      154
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 145,
+    "typeLimitLevel": [
+      146,
+      146,
+      147,
+      155
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 146,
+    "typeLimitLevel": [
+      147,
+      147,
+      148,
+      156
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 147,
+    "typeLimitLevel": [
+      148,
+      148,
+      149,
+      157
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 148,
+    "typeLimitLevel": [
+      149,
+      149,
+      150,
+      158
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 149,
+    "typeLimitLevel": [
+      150,
+      150,
+      151,
+      159
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 150,
+    "typeLimitLevel": [
+      151,
+      151,
+      152,
+      160
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 151,
+    "typeLimitLevel": [
+      152,
+      152,
+      153,
+      161
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 152,
+    "typeLimitLevel": [
+      153,
+      153,
+      154,
+      162
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 153,
+    "typeLimitLevel": [
+      154,
+      154,
+      155,
+      163
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 154,
+    "typeLimitLevel": [
+      155,
+      155,
+      156,
+      164
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 155,
+    "typeLimitLevel": [
+      156,
+      156,
+      157,
+      165
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 156,
+    "typeLimitLevel": [
+      157,
+      157,
+      158,
+      166
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 157,
+    "typeLimitLevel": [
+      158,
+      158,
+      159,
+      167
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 158,
+    "typeLimitLevel": [
+      159,
+      159,
+      160,
+      168
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 159,
+    "typeLimitLevel": [
+      160,
+      160,
+      161,
+      169
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 160,
+    "typeLimitLevel": [
+      161,
+      161,
+      162,
+      170
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 161,
+    "typeLimitLevel": [
+      162,
+      162,
+      163,
+      171
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 162,
+    "typeLimitLevel": [
+      163,
+      163,
+      164,
+      172
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 163,
+    "typeLimitLevel": [
+      164,
+      164,
+      165,
+      173
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 164,
+    "typeLimitLevel": [
+      165,
+      165,
+      166,
+      174
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 165,
+    "typeLimitLevel": [
+      166,
+      166,
+      167,
+      175
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 166,
+    "typeLimitLevel": [
+      167,
+      167,
+      168,
+      176
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 167,
+    "typeLimitLevel": [
+      168,
+      168,
+      169,
+      177
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 168,
+    "typeLimitLevel": [
+      169,
+      169,
+      170,
+      178
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 169,
+    "typeLimitLevel": [
+      170,
+      170,
+      171,
+      179
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 170,
+    "typeLimitLevel": [
+      171,
+      171,
+      172,
+      180
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 171,
+    "typeLimitLevel": [
+      172,
+      172,
+      173,
+      181
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 172,
+    "typeLimitLevel": [
+      173,
+      173,
+      174,
+      182
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 173,
+    "typeLimitLevel": [
+      174,
+      174,
+      175,
+      183
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 174,
+    "typeLimitLevel": [
+      175,
+      175,
+      176,
+      184
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 175,
+    "typeLimitLevel": [
+      176,
+      176,
+      177,
+      185
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 176,
+    "typeLimitLevel": [
+      177,
+      177,
+      178,
+      186
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 177,
+    "typeLimitLevel": [
+      178,
+      178,
+      179,
+      187
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 178,
+    "typeLimitLevel": [
+      179,
+      179,
+      180,
+      188
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 179,
+    "typeLimitLevel": [
+      180,
+      180,
+      181,
+      189
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 180,
+    "typeLimitLevel": [
+      181,
+      181,
+      182,
+      190
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 181,
+    "typeLimitLevel": [
+      182,
+      182,
+      183,
+      191
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 182,
+    "typeLimitLevel": [
+      183,
+      183,
+      184,
+      192
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 183,
+    "typeLimitLevel": [
+      184,
+      184,
+      185,
+      193
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 184,
+    "typeLimitLevel": [
+      185,
+      185,
+      186,
+      194
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 185,
+    "typeLimitLevel": [
+      186,
+      186,
+      187,
+      195
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 186,
+    "typeLimitLevel": [
+      187,
+      187,
+      188,
+      196
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 187,
+    "typeLimitLevel": [
+      188,
+      188,
+      189,
+      197
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 188,
+    "typeLimitLevel": [
+      189,
+      189,
+      190,
+      198
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 189,
+    "typeLimitLevel": [
+      190,
+      190,
+      191,
+      199
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 190,
+    "typeLimitLevel": [
+      191,
+      191,
+      192,
+      200
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 191,
+    "typeLimitLevel": [
+      192,
+      192,
+      193,
+      201
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 192,
+    "typeLimitLevel": [
+      193,
+      193,
+      194,
+      202
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 193,
+    "typeLimitLevel": [
+      194,
+      194,
+      195,
+      203
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 194,
+    "typeLimitLevel": [
+      195,
+      195,
+      196,
+      204
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 195,
+    "typeLimitLevel": [
+      196,
+      196,
+      197,
+      205
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 196,
+    "typeLimitLevel": [
+      197,
+      197,
+      198,
+      206
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 197,
+    "typeLimitLevel": [
+      198,
+      198,
+      199,
+      207
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 198,
+    "typeLimitLevel": [
+      199,
+      199,
+      200,
+      208
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 199,
+    "typeLimitLevel": [
+      200,
+      200,
+      201,
+      209
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 200,
+    "typeLimitLevel": [
+      201,
+      201,
+      202,
+      210
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 201,
+    "typeLimitLevel": [
+      202,
+      202,
+      203,
+      211
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 202,
+    "typeLimitLevel": [
+      203,
+      203,
+      204,
+      212
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 203,
+    "typeLimitLevel": [
+      204,
+      204,
+      205,
+      213
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 204,
+    "typeLimitLevel": [
+      205,
+      205,
+      206,
+      214
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 205,
+    "typeLimitLevel": [
+      206,
+      206,
+      207,
+      215
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 206,
+    "typeLimitLevel": [
+      207,
+      207,
+      208,
+      216
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 207,
+    "typeLimitLevel": [
+      208,
+      208,
+      209,
+      217
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 208,
+    "typeLimitLevel": [
+      209,
+      209,
+      210,
+      218
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 209,
+    "typeLimitLevel": [
+      210,
+      210,
+      211,
+      219
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 210,
+    "typeLimitLevel": [
+      211,
+      211,
+      212,
+      220
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 211,
+    "typeLimitLevel": [
+      212,
+      212,
+      213,
+      221
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 212,
+    "typeLimitLevel": [
+      213,
+      213,
+      214,
+      222
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 213,
+    "typeLimitLevel": [
+      214,
+      214,
+      215,
+      223
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 214,
+    "typeLimitLevel": [
+      215,
+      215,
+      216,
+      224
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 215,
+    "typeLimitLevel": [
+      216,
+      216,
+      217,
+      225
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 216,
+    "typeLimitLevel": [
+      217,
+      217,
+      218,
+      226
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 217,
+    "typeLimitLevel": [
+      218,
+      218,
+      219,
+      227
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 218,
+    "typeLimitLevel": [
+      219,
+      219,
+      220,
+      228
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 219,
+    "typeLimitLevel": [
+      220,
+      220,
+      221,
+      229
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 220,
+    "typeLimitLevel": [
+      221,
+      221,
+      222,
+      230
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 221,
+    "typeLimitLevel": [
+      222,
+      222,
+      223,
+      231
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 222,
+    "typeLimitLevel": [
+      223,
+      223,
+      224,
+      232
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 223,
+    "typeLimitLevel": [
+      224,
+      224,
+      225,
+      233
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 224,
+    "typeLimitLevel": [
+      225,
+      225,
+      226,
+      234
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 225,
+    "typeLimitLevel": [
+      226,
+      226,
+      227,
+      235
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 226,
+    "typeLimitLevel": [
+      227,
+      227,
+      228,
+      236
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 227,
+    "typeLimitLevel": [
+      228,
+      228,
+      229,
+      237
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 228,
+    "typeLimitLevel": [
+      229,
+      229,
+      230,
+      238
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 229,
+    "typeLimitLevel": [
+      230,
+      230,
+      231,
+      239
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 230,
+    "typeLimitLevel": [
+      231,
+      231,
+      232,
+      240
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 231,
+    "typeLimitLevel": [
+      232,
+      232,
+      233,
+      241
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 232,
+    "typeLimitLevel": [
+      233,
+      233,
+      234,
+      242
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 233,
+    "typeLimitLevel": [
+      234,
+      234,
+      235,
+      243
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 234,
+    "typeLimitLevel": [
+      235,
+      235,
+      236,
+      244
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 235,
+    "typeLimitLevel": [
+      236,
+      236,
+      237,
+      245
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 236,
+    "typeLimitLevel": [
+      237,
+      237,
+      238,
+      246
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 237,
+    "typeLimitLevel": [
+      238,
+      238,
+      239,
+      247
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 238,
+    "typeLimitLevel": [
+      239,
+      239,
+      240,
+      248
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 239,
+    "typeLimitLevel": [
+      240,
+      240,
+      241,
+      249
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 240,
+    "typeLimitLevel": [
+      241,
+      241,
+      242,
+      250
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 241,
+    "typeLimitLevel": [
+      242,
+      242,
+      243,
+      0
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 242,
+    "typeLimitLevel": [
+      243,
+      243,
+      244,
+      0
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 243,
+    "typeLimitLevel": [
+      244,
+      244,
+      245,
+      0
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 244,
+    "typeLimitLevel": [
+      245,
+      245,
+      246,
+      0
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 245,
+    "typeLimitLevel": [
+      246,
+      246,
+      247,
+      0
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 246,
+    "typeLimitLevel": [
+      247,
+      247,
+      248,
+      0
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 247,
+    "typeLimitLevel": [
+      248,
+      248,
+      249,
+      0
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 248,
+    "typeLimitLevel": [
+      249,
+      249,
+      250,
+      0
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 249,
+    "typeLimitLevel": [
+      250,
+      250,
+      0,
+      0
+    ],
+    "typeCost": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]

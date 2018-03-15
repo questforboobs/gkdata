@@ -1,0 +1,9722 @@
+[
+  {
+    "index": 0,
+    "key": 99,
+    "tier": 1,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 1,
+    "key": 99,
+    "tier": 2,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 2,
+    "key": 99,
+    "tier": 3,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 3,
+    "key": 99,
+    "tier": 4,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 4,
+    "key": 99,
+    "tier": 5,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 5,
+    "key": 99,
+    "tier": 6,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 6,
+    "key": 198,
+    "tier": 1,
+    "hp": 29,
+    "atk": 10,
+    "def": 1,
+    "aim": 11,
+    "luck": 0
+  },
+  {
+    "index": 7,
+    "key": 198,
+    "tier": 2,
+    "hp": 29,
+    "atk": 10,
+    "def": 1,
+    "aim": 11,
+    "luck": 0
+  },
+  {
+    "index": 8,
+    "key": 198,
+    "tier": 3,
+    "hp": 58,
+    "atk": 20,
+    "def": 1,
+    "aim": 22,
+    "luck": 0
+  },
+  {
+    "index": 9,
+    "key": 198,
+    "tier": 4,
+    "hp": 96,
+    "atk": 48,
+    "def": 2,
+    "aim": 37,
+    "luck": 0
+  },
+  {
+    "index": 10,
+    "key": 198,
+    "tier": 5,
+    "hp": 135,
+    "atk": 103,
+    "def": 3,
+    "aim": 52,
+    "luck": 0
+  },
+  {
+    "index": 11,
+    "key": 198,
+    "tier": 6,
+    "hp": 192,
+    "atk": 220,
+    "def": 3,
+    "aim": 73,
+    "luck": 0
+  },
+  {
+    "index": 12,
+    "key": 199,
+    "tier": 1,
+    "hp": 20,
+    "atk": 3,
+    "def": 1,
+    "aim": 8,
+    "luck": 0
+  },
+  {
+    "index": 13,
+    "key": 199,
+    "tier": 2,
+    "hp": 20,
+    "atk": 3,
+    "def": 1,
+    "aim": 8,
+    "luck": 0
+  },
+  {
+    "index": 14,
+    "key": 199,
+    "tier": 3,
+    "hp": 58,
+    "atk": 9,
+    "def": 3,
+    "aim": 22,
+    "luck": 0
+  },
+  {
+    "index": 15,
+    "key": 199,
+    "tier": 4,
+    "hp": 106,
+    "atk": 25,
+    "def": 4,
+    "aim": 41,
+    "luck": 0
+  },
+  {
+    "index": 16,
+    "key": 199,
+    "tier": 5,
+    "hp": 135,
+    "atk": 48,
+    "def": 5,
+    "aim": 52,
+    "luck": 0
+  },
+  {
+    "index": 17,
+    "key": 199,
+    "tier": 6,
+    "hp": 192,
+    "atk": 105,
+    "def": 7,
+    "aim": 73,
+    "luck": 0
+  },
+  {
+    "index": 18,
+    "key": 200,
+    "tier": 1,
+    "hp": 27,
+    "atk": 9,
+    "def": 1,
+    "aim": 10,
+    "luck": 0
+  },
+  {
+    "index": 19,
+    "key": 200,
+    "tier": 2,
+    "hp": 27,
+    "atk": 9,
+    "def": 1,
+    "aim": 10,
+    "luck": 0
+  },
+  {
+    "index": 20,
+    "key": 200,
+    "tier": 3,
+    "hp": 54,
+    "atk": 18,
+    "def": 1,
+    "aim": 19,
+    "luck": 0
+  },
+  {
+    "index": 21,
+    "key": 200,
+    "tier": 4,
+    "hp": 89,
+    "atk": 42,
+    "def": 2,
+    "aim": 31,
+    "luck": 0
+  },
+  {
+    "index": 22,
+    "key": 200,
+    "tier": 5,
+    "hp": 125,
+    "atk": 89,
+    "def": 3,
+    "aim": 43,
+    "luck": 0
+  },
+  {
+    "index": 23,
+    "key": 200,
+    "tier": 6,
+    "hp": 179,
+    "atk": 192,
+    "def": 3,
+    "aim": 61,
+    "luck": 0
+  },
+  {
+    "index": 24,
+    "key": 201,
+    "tier": 1,
+    "hp": 5339,
+    "atk": 111,
+    "def": 1,
+    "aim": 103,
+    "luck": 0
+  },
+  {
+    "index": 25,
+    "key": 201,
+    "tier": 2,
+    "hp": 7119,
+    "atk": 148,
+    "def": 2,
+    "aim": 138,
+    "luck": 0
+  },
+  {
+    "index": 26,
+    "key": 201,
+    "tier": 3,
+    "hp": 9492,
+    "atk": 198,
+    "def": 3,
+    "aim": 184,
+    "luck": 0
+  },
+  {
+    "index": 27,
+    "key": 201,
+    "tier": 4,
+    "hp": 8859,
+    "atk": 185,
+    "def": 4,
+    "aim": 246,
+    "luck": 0
+  },
+  {
+    "index": 28,
+    "key": 201,
+    "tier": 5,
+    "hp": 16875,
+    "atk": 354,
+    "def": 6,
+    "aim": 329,
+    "luck": 0
+  },
+  {
+    "index": 29,
+    "key": 201,
+    "tier": 6,
+    "hp": 16875,
+    "atk": 354,
+    "def": 6,
+    "aim": 329,
+    "luck": 0
+  },
+  {
+    "index": 30,
+    "key": 202,
+    "tier": 1,
+    "hp": 2372,
+    "atk": 139,
+    "def": 0,
+    "aim": 103,
+    "luck": 0
+  },
+  {
+    "index": 31,
+    "key": 202,
+    "tier": 2,
+    "hp": 3163,
+    "atk": 186,
+    "def": 1,
+    "aim": 138,
+    "luck": 0
+  },
+  {
+    "index": 32,
+    "key": 202,
+    "tier": 3,
+    "hp": 4218,
+    "atk": 249,
+    "def": 2,
+    "aim": 184,
+    "luck": 0
+  },
+  {
+    "index": 33,
+    "key": 202,
+    "tier": 4,
+    "hp": 5625,
+    "atk": 333,
+    "def": 3,
+    "aim": 246,
+    "luck": 0
+  },
+  {
+    "index": 34,
+    "key": 202,
+    "tier": 5,
+    "hp": 7500,
+    "atk": 445,
+    "def": 5,
+    "aim": 329,
+    "luck": 0
+  },
+  {
+    "index": 35,
+    "key": 202,
+    "tier": 6,
+    "hp": 7500,
+    "atk": 445,
+    "def": 5,
+    "aim": 329,
+    "luck": 0
+  },
+  {
+    "index": 36,
+    "key": 203,
+    "tier": 1,
+    "hp": 3474,
+    "atk": 61,
+    "def": 1,
+    "aim": 85,
+    "luck": 0
+  },
+  {
+    "index": 37,
+    "key": 203,
+    "tier": 2,
+    "hp": 4633,
+    "atk": 82,
+    "def": 2,
+    "aim": 114,
+    "luck": 0
+  },
+  {
+    "index": 38,
+    "key": 203,
+    "tier": 3,
+    "hp": 6178,
+    "atk": 110,
+    "def": 3,
+    "aim": 153,
+    "luck": 0
+  },
+  {
+    "index": 39,
+    "key": 203,
+    "tier": 4,
+    "hp": 5766,
+    "atk": 103,
+    "def": 5,
+    "aim": 205,
+    "luck": 0
+  },
+  {
+    "index": 40,
+    "key": 203,
+    "tier": 5,
+    "hp": 10984,
+    "atk": 197,
+    "def": 7,
+    "aim": 274,
+    "luck": 0
+  },
+  {
+    "index": 41,
+    "key": 203,
+    "tier": 6,
+    "hp": 10984,
+    "atk": 197,
+    "def": 7,
+    "aim": 274,
+    "luck": 0
+  },
+  {
+    "index": 42,
+    "key": 204,
+    "tier": 1,
+    "hp": 1803,
+    "atk": 108,
+    "def": 0,
+    "aim": 111,
+    "luck": 9
+  },
+  {
+    "index": 43,
+    "key": 204,
+    "tier": 2,
+    "hp": 2404,
+    "atk": 144,
+    "def": 1,
+    "aim": 148,
+    "luck": 13
+  },
+  {
+    "index": 44,
+    "key": 204,
+    "tier": 3,
+    "hp": 3206,
+    "atk": 193,
+    "def": 2,
+    "aim": 198,
+    "luck": 18
+  },
+  {
+    "index": 45,
+    "key": 204,
+    "tier": 4,
+    "hp": 4275,
+    "atk": 258,
+    "def": 3,
+    "aim": 264,
+    "luck": 25
+  },
+  {
+    "index": 46,
+    "key": 204,
+    "tier": 5,
+    "hp": 5700,
+    "atk": 344,
+    "def": 5,
+    "aim": 352,
+    "luck": 34
+  },
+  {
+    "index": 47,
+    "key": 204,
+    "tier": 6,
+    "hp": 5700,
+    "atk": 344,
+    "def": 5,
+    "aim": 352,
+    "luck": 34
+  },
+  {
+    "index": 48,
+    "key": 252,
+    "tier": 1,
+    "hp": 34,
+    "atk": 10,
+    "def": 1,
+    "aim": 11,
+    "luck": 1
+  },
+  {
+    "index": 49,
+    "key": 252,
+    "tier": 2,
+    "hp": 34,
+    "atk": 10,
+    "def": 1,
+    "aim": 11,
+    "luck": 1
+  },
+  {
+    "index": 50,
+    "key": 252,
+    "tier": 3,
+    "hp": 68,
+    "atk": 19,
+    "def": 1,
+    "aim": 22,
+    "luck": 2
+  },
+  {
+    "index": 51,
+    "key": 252,
+    "tier": 4,
+    "hp": 112,
+    "atk": 32,
+    "def": 1,
+    "aim": 37,
+    "luck": 3
+  },
+  {
+    "index": 52,
+    "key": 252,
+    "tier": 5,
+    "hp": 157,
+    "atk": 45,
+    "def": 2,
+    "aim": 52,
+    "luck": 4
+  },
+  {
+    "index": 53,
+    "key": 252,
+    "tier": 6,
+    "hp": 224,
+    "atk": 63,
+    "def": 2,
+    "aim": 73,
+    "luck": 5
+  },
+  {
+    "index": 54,
+    "key": 253,
+    "tier": 1,
+    "hp": 23,
+    "atk": 4,
+    "def": 1,
+    "aim": 8,
+    "luck": 1
+  },
+  {
+    "index": 55,
+    "key": 253,
+    "tier": 2,
+    "hp": 23,
+    "atk": 4,
+    "def": 1,
+    "aim": 8,
+    "luck": 1
+  },
+  {
+    "index": 56,
+    "key": 253,
+    "tier": 3,
+    "hp": 68,
+    "atk": 11,
+    "def": 3,
+    "aim": 22,
+    "luck": 2
+  },
+  {
+    "index": 57,
+    "key": 253,
+    "tier": 4,
+    "hp": 124,
+    "atk": 20,
+    "def": 4,
+    "aim": 40,
+    "luck": 3
+  },
+  {
+    "index": 58,
+    "key": 253,
+    "tier": 5,
+    "hp": 157,
+    "atk": 25,
+    "def": 5,
+    "aim": 50,
+    "luck": 4
+  },
+  {
+    "index": 59,
+    "key": 253,
+    "tier": 6,
+    "hp": 224,
+    "atk": 35,
+    "def": 7,
+    "aim": 71,
+    "luck": 5
+  },
+  {
+    "index": 60,
+    "key": 254,
+    "tier": 1,
+    "hp": 23,
+    "atk": 5,
+    "def": 1,
+    "aim": 7,
+    "luck": 1
+  },
+  {
+    "index": 61,
+    "key": 254,
+    "tier": 2,
+    "hp": 23,
+    "atk": 5,
+    "def": 1,
+    "aim": 7,
+    "luck": 1
+  },
+  {
+    "index": 62,
+    "key": 254,
+    "tier": 3,
+    "hp": 68,
+    "atk": 15,
+    "def": 2,
+    "aim": 19,
+    "luck": 2
+  },
+  {
+    "index": 63,
+    "key": 254,
+    "tier": 4,
+    "hp": 112,
+    "atk": 25,
+    "def": 2,
+    "aim": 31,
+    "luck": 3
+  },
+  {
+    "index": 64,
+    "key": 254,
+    "tier": 5,
+    "hp": 168,
+    "atk": 38,
+    "def": 3,
+    "aim": 46,
+    "luck": 4
+  },
+  {
+    "index": 65,
+    "key": 254,
+    "tier": 6,
+    "hp": 224,
+    "atk": 50,
+    "def": 4,
+    "aim": 61,
+    "luck": 5
+  },
+  {
+    "index": 66,
+    "key": 255,
+    "tier": 1,
+    "hp": 37,
+    "atk": 9,
+    "def": 1,
+    "aim": 10,
+    "luck": 1
+  },
+  {
+    "index": 67,
+    "key": 255,
+    "tier": 2,
+    "hp": 37,
+    "atk": 9,
+    "def": 1,
+    "aim": 10,
+    "luck": 1
+  },
+  {
+    "index": 68,
+    "key": 255,
+    "tier": 3,
+    "hp": 73,
+    "atk": 17,
+    "def": 1,
+    "aim": 20,
+    "luck": 2
+  },
+  {
+    "index": 69,
+    "key": 255,
+    "tier": 4,
+    "hp": 121,
+    "atk": 28,
+    "def": 1,
+    "aim": 32,
+    "luck": 3
+  },
+  {
+    "index": 70,
+    "key": 255,
+    "tier": 5,
+    "hp": 169,
+    "atk": 39,
+    "def": 2,
+    "aim": 45,
+    "luck": 4
+  },
+  {
+    "index": 71,
+    "key": 255,
+    "tier": 6,
+    "hp": 241,
+    "atk": 55,
+    "def": 2,
+    "aim": 64,
+    "luck": 5
+  },
+  {
+    "index": 72,
+    "key": 1001,
+    "tier": 1,
+    "hp": 100,
+    "atk": 14,
+    "def": 10,
+    "aim": 84,
+    "luck": 6
+  },
+  {
+    "index": 73,
+    "key": 1001,
+    "tier": 2,
+    "hp": 100,
+    "atk": 14,
+    "def": 10,
+    "aim": 84,
+    "luck": 6
+  },
+  {
+    "index": 74,
+    "key": 1001,
+    "tier": 3,
+    "hp": 135,
+    "atk": 22,
+    "def": 15,
+    "aim": 114,
+    "luck": 9
+  },
+  {
+    "index": 75,
+    "key": 1001,
+    "tier": 4,
+    "hp": 253,
+    "atk": 38,
+    "def": 27,
+    "aim": 222,
+    "luck": 13
+  },
+  {
+    "index": 76,
+    "key": 1001,
+    "tier": 5,
+    "hp": 463,
+    "atk": 73,
+    "def": 59,
+    "aim": 392,
+    "luck": 26
+  },
+  {
+    "index": 77,
+    "key": 1001,
+    "tier": 6,
+    "hp": 963,
+    "atk": 156,
+    "def": 104,
+    "aim": 786,
+    "luck": 51
+  },
+  {
+    "index": 78,
+    "key": 1002,
+    "tier": 1,
+    "hp": 120,
+    "atk": 20,
+    "def": 7,
+    "aim": 68,
+    "luck": 6
+  },
+  {
+    "index": 79,
+    "key": 1002,
+    "tier": 2,
+    "hp": 120,
+    "atk": 20,
+    "def": 7,
+    "aim": 68,
+    "luck": 6
+  },
+  {
+    "index": 80,
+    "key": 1002,
+    "tier": 3,
+    "hp": 135,
+    "atk": 25,
+    "def": 15,
+    "aim": 114,
+    "luck": 9
+  },
+  {
+    "index": 81,
+    "key": 1002,
+    "tier": 4,
+    "hp": 237,
+    "atk": 52,
+    "def": 23,
+    "aim": 208,
+    "luck": 17
+  },
+  {
+    "index": 82,
+    "key": 1002,
+    "tier": 5,
+    "hp": 427,
+    "atk": 89,
+    "def": 51,
+    "aim": 336,
+    "luck": 30
+  },
+  {
+    "index": 83,
+    "key": 1002,
+    "tier": 6,
+    "hp": 814,
+    "atk": 252,
+    "def": 69,
+    "aim": 702,
+    "luck": 60
+  },
+  {
+    "index": 84,
+    "key": 1003,
+    "tier": 1,
+    "hp": 85,
+    "atk": 33,
+    "def": 6,
+    "aim": 70,
+    "luck": 6
+  },
+  {
+    "index": 85,
+    "key": 1003,
+    "tier": 2,
+    "hp": 85,
+    "atk": 33,
+    "def": 6,
+    "aim": 70,
+    "luck": 6
+  },
+  {
+    "index": 86,
+    "key": 1003,
+    "tier": 3,
+    "hp": 116,
+    "atk": 42,
+    "def": 6,
+    "aim": 98,
+    "luck": 8
+  },
+  {
+    "index": 87,
+    "key": 1003,
+    "tier": 4,
+    "hp": 210,
+    "atk": 75,
+    "def": 11,
+    "aim": 171,
+    "luck": 14
+  },
+  {
+    "index": 88,
+    "key": 1003,
+    "tier": 5,
+    "hp": 378,
+    "atk": 134,
+    "def": 22,
+    "aim": 312,
+    "luck": 26
+  },
+  {
+    "index": 89,
+    "key": 1003,
+    "tier": 6,
+    "hp": 770,
+    "atk": 265,
+    "def": 44,
+    "aim": 636,
+    "luck": 54
+  },
+  {
+    "index": 90,
+    "key": 1004,
+    "tier": 1,
+    "hp": 85,
+    "atk": 33,
+    "def": 6,
+    "aim": 70,
+    "luck": 6
+  },
+  {
+    "index": 91,
+    "key": 1004,
+    "tier": 2,
+    "hp": 85,
+    "atk": 33,
+    "def": 6,
+    "aim": 70,
+    "luck": 6
+  },
+  {
+    "index": 92,
+    "key": 1004,
+    "tier": 3,
+    "hp": 116,
+    "atk": 42,
+    "def": 6,
+    "aim": 98,
+    "luck": 8
+  },
+  {
+    "index": 93,
+    "key": 1004,
+    "tier": 4,
+    "hp": 210,
+    "atk": 75,
+    "def": 11,
+    "aim": 171,
+    "luck": 14
+  },
+  {
+    "index": 94,
+    "key": 1004,
+    "tier": 5,
+    "hp": 378,
+    "atk": 134,
+    "def": 22,
+    "aim": 312,
+    "luck": 26
+  },
+  {
+    "index": 95,
+    "key": 1004,
+    "tier": 6,
+    "hp": 770,
+    "atk": 265,
+    "def": 44,
+    "aim": 636,
+    "luck": 54
+  },
+  {
+    "index": 96,
+    "key": 1005,
+    "tier": 1,
+    "hp": 85,
+    "atk": 33,
+    "def": 6,
+    "aim": 70,
+    "luck": 6
+  },
+  {
+    "index": 97,
+    "key": 1005,
+    "tier": 2,
+    "hp": 85,
+    "atk": 33,
+    "def": 6,
+    "aim": 70,
+    "luck": 6
+  },
+  {
+    "index": 98,
+    "key": 1005,
+    "tier": 3,
+    "hp": 116,
+    "atk": 42,
+    "def": 6,
+    "aim": 98,
+    "luck": 8
+  },
+  {
+    "index": 99,
+    "key": 1005,
+    "tier": 4,
+    "hp": 210,
+    "atk": 75,
+    "def": 11,
+    "aim": 171,
+    "luck": 14
+  },
+  {
+    "index": 100,
+    "key": 1005,
+    "tier": 5,
+    "hp": 378,
+    "atk": 134,
+    "def": 22,
+    "aim": 312,
+    "luck": 26
+  },
+  {
+    "index": 101,
+    "key": 1005,
+    "tier": 6,
+    "hp": 770,
+    "atk": 265,
+    "def": 44,
+    "aim": 636,
+    "luck": 54
+  },
+  {
+    "index": 102,
+    "key": 1006,
+    "tier": 1,
+    "hp": 200,
+    "atk": 28,
+    "def": 20,
+    "aim": 168,
+    "luck": 12
+  },
+  {
+    "index": 103,
+    "key": 1006,
+    "tier": 2,
+    "hp": 300,
+    "atk": 42,
+    "def": 30,
+    "aim": 252,
+    "luck": 18
+  },
+  {
+    "index": 104,
+    "key": 1006,
+    "tier": 3,
+    "hp": 435,
+    "atk": 60,
+    "def": 43,
+    "aim": 365,
+    "luck": 26
+  },
+  {
+    "index": 105,
+    "key": 1006,
+    "tier": 4,
+    "hp": 500,
+    "atk": 69,
+    "def": 49,
+    "aim": 419,
+    "luck": 29
+  },
+  {
+    "index": 106,
+    "key": 1006,
+    "tier": 5,
+    "hp": 575,
+    "atk": 79,
+    "def": 56,
+    "aim": 481,
+    "luck": 33
+  },
+  {
+    "index": 107,
+    "key": 1006,
+    "tier": 6,
+    "hp": 661,
+    "atk": 90,
+    "def": 64,
+    "aim": 553,
+    "luck": 37
+  },
+  {
+    "index": 108,
+    "key": 1007,
+    "tier": 1,
+    "hp": 240,
+    "atk": 40,
+    "def": 14,
+    "aim": 136,
+    "luck": 12
+  },
+  {
+    "index": 109,
+    "key": 1007,
+    "tier": 2,
+    "hp": 360,
+    "atk": 60,
+    "def": 21,
+    "aim": 204,
+    "luck": 18
+  },
+  {
+    "index": 110,
+    "key": 1007,
+    "tier": 3,
+    "hp": 522,
+    "atk": 87,
+    "def": 30,
+    "aim": 295,
+    "luck": 26
+  },
+  {
+    "index": 111,
+    "key": 1007,
+    "tier": 4,
+    "hp": 600,
+    "atk": 100,
+    "def": 34,
+    "aim": 339,
+    "luck": 29
+  },
+  {
+    "index": 112,
+    "key": 1007,
+    "tier": 5,
+    "hp": 690,
+    "atk": 115,
+    "def": 39,
+    "aim": 389,
+    "luck": 33
+  },
+  {
+    "index": 113,
+    "key": 1007,
+    "tier": 6,
+    "hp": 793,
+    "atk": 132,
+    "def": 44,
+    "aim": 447,
+    "luck": 37
+  },
+  {
+    "index": 114,
+    "key": 1008,
+    "tier": 1,
+    "hp": 170,
+    "atk": 66,
+    "def": 12,
+    "aim": 140,
+    "luck": 12
+  },
+  {
+    "index": 115,
+    "key": 1008,
+    "tier": 2,
+    "hp": 255,
+    "atk": 99,
+    "def": 18,
+    "aim": 210,
+    "luck": 18
+  },
+  {
+    "index": 116,
+    "key": 1008,
+    "tier": 3,
+    "hp": 369,
+    "atk": 143,
+    "def": 26,
+    "aim": 304,
+    "luck": 26
+  },
+  {
+    "index": 117,
+    "key": 1008,
+    "tier": 4,
+    "hp": 424,
+    "atk": 164,
+    "def": 29,
+    "aim": 349,
+    "luck": 29
+  },
+  {
+    "index": 118,
+    "key": 1008,
+    "tier": 5,
+    "hp": 487,
+    "atk": 188,
+    "def": 33,
+    "aim": 401,
+    "luck": 33
+  },
+  {
+    "index": 119,
+    "key": 1008,
+    "tier": 6,
+    "hp": 560,
+    "atk": 216,
+    "def": 37,
+    "aim": 461,
+    "luck": 37
+  },
+  {
+    "index": 120,
+    "key": 1011,
+    "tier": 1,
+    "hp": 11950,
+    "atk": 800,
+    "def": 100,
+    "aim": 760,
+    "luck": 0
+  },
+  {
+    "index": 121,
+    "key": 1011,
+    "tier": 2,
+    "hp": 7800,
+    "atk": 520,
+    "def": 70,
+    "aim": 500,
+    "luck": 0
+  },
+  {
+    "index": 122,
+    "key": 1011,
+    "tier": 3,
+    "hp": 5400,
+    "atk": 360,
+    "def": 50,
+    "aim": 350,
+    "luck": 0
+  },
+  {
+    "index": 123,
+    "key": 1011,
+    "tier": 4,
+    "hp": 3000,
+    "atk": 200,
+    "def": 40,
+    "aim": 190,
+    "luck": 0
+  },
+  {
+    "index": 124,
+    "key": 1011,
+    "tier": 5,
+    "hp": 1200,
+    "atk": 80,
+    "def": 30,
+    "aim": 80,
+    "luck": 0
+  },
+  {
+    "index": 125,
+    "key": 1011,
+    "tier": 6,
+    "hp": 1200,
+    "atk": 80,
+    "def": 30,
+    "aim": 80,
+    "luck": 0
+  },
+  {
+    "index": 126,
+    "key": 1012,
+    "tier": 1,
+    "hp": 16400,
+    "atk": 530,
+    "def": 160,
+    "aim": 860,
+    "luck": 0
+  },
+  {
+    "index": 127,
+    "key": 1012,
+    "tier": 2,
+    "hp": 10700,
+    "atk": 350,
+    "def": 130,
+    "aim": 560,
+    "luck": 0
+  },
+  {
+    "index": 128,
+    "key": 1012,
+    "tier": 3,
+    "hp": 7400,
+    "atk": 240,
+    "def": 80,
+    "aim": 390,
+    "luck": 0
+  },
+  {
+    "index": 129,
+    "key": 1012,
+    "tier": 4,
+    "hp": 4100,
+    "atk": 140,
+    "def": 50,
+    "aim": 220,
+    "luck": 0
+  },
+  {
+    "index": 130,
+    "key": 1012,
+    "tier": 5,
+    "hp": 1650,
+    "atk": 80,
+    "def": 30,
+    "aim": 90,
+    "luck": 0
+  },
+  {
+    "index": 131,
+    "key": 1012,
+    "tier": 6,
+    "hp": 1650,
+    "atk": 80,
+    "def": 30,
+    "aim": 90,
+    "luck": 0
+  },
+  {
+    "index": 132,
+    "key": 1013,
+    "tier": 1,
+    "hp": 8500,
+    "atk": 150,
+    "def": 3,
+    "aim": 80,
+    "luck": 69
+  },
+  {
+    "index": 133,
+    "key": 1013,
+    "tier": 2,
+    "hp": 8500,
+    "atk": 150,
+    "def": 3,
+    "aim": 80,
+    "luck": 69
+  },
+  {
+    "index": 134,
+    "key": 1013,
+    "tier": 3,
+    "hp": 8500,
+    "atk": 150,
+    "def": 3,
+    "aim": 80,
+    "luck": 69
+  },
+  {
+    "index": 135,
+    "key": 1013,
+    "tier": 4,
+    "hp": 8500,
+    "atk": 150,
+    "def": 3,
+    "aim": 80,
+    "luck": 69
+  },
+  {
+    "index": 136,
+    "key": 1013,
+    "tier": 5,
+    "hp": 8500,
+    "atk": 150,
+    "def": 3,
+    "aim": 80,
+    "luck": 69
+  },
+  {
+    "index": 137,
+    "key": 1013,
+    "tier": 6,
+    "hp": 8500,
+    "atk": 150,
+    "def": 3,
+    "aim": 80,
+    "luck": 69
+  },
+  {
+    "index": 138,
+    "key": 1014,
+    "tier": 1,
+    "hp": 5000,
+    "atk": 240,
+    "def": 2,
+    "aim": 70,
+    "luck": 85
+  },
+  {
+    "index": 139,
+    "key": 1014,
+    "tier": 2,
+    "hp": 5000,
+    "atk": 240,
+    "def": 2,
+    "aim": 70,
+    "luck": 85
+  },
+  {
+    "index": 140,
+    "key": 1014,
+    "tier": 3,
+    "hp": 5000,
+    "atk": 240,
+    "def": 2,
+    "aim": 70,
+    "luck": 85
+  },
+  {
+    "index": 141,
+    "key": 1014,
+    "tier": 4,
+    "hp": 5000,
+    "atk": 240,
+    "def": 2,
+    "aim": 70,
+    "luck": 85
+  },
+  {
+    "index": 142,
+    "key": 1014,
+    "tier": 5,
+    "hp": 5000,
+    "atk": 240,
+    "def": 2,
+    "aim": 70,
+    "luck": 85
+  },
+  {
+    "index": 143,
+    "key": 1014,
+    "tier": 6,
+    "hp": 5000,
+    "atk": 240,
+    "def": 2,
+    "aim": 70,
+    "luck": 85
+  },
+  {
+    "index": 144,
+    "key": 1201,
+    "tier": 1,
+    "hp": 280,
+    "atk": 88,
+    "def": 8,
+    "aim": 104,
+    "luck": 20
+  },
+  {
+    "index": 145,
+    "key": 1201,
+    "tier": 2,
+    "hp": 120,
+    "atk": 40,
+    "def": 8,
+    "aim": 48,
+    "luck": 12
+  },
+  {
+    "index": 146,
+    "key": 1201,
+    "tier": 3,
+    "hp": 280,
+    "atk": 88,
+    "def": 8,
+    "aim": 104,
+    "luck": 20
+  },
+  {
+    "index": 147,
+    "key": 1201,
+    "tier": 4,
+    "hp": 440,
+    "atk": 136,
+    "def": 12,
+    "aim": 164,
+    "luck": 28
+  },
+  {
+    "index": 148,
+    "key": 1201,
+    "tier": 5,
+    "hp": 600,
+    "atk": 184,
+    "def": 16,
+    "aim": 224,
+    "luck": 40
+  },
+  {
+    "index": 149,
+    "key": 1201,
+    "tier": 6,
+    "hp": 796,
+    "atk": 244,
+    "def": 16,
+    "aim": 296,
+    "luck": 44
+  },
+  {
+    "index": 150,
+    "key": 1202,
+    "tier": 1,
+    "hp": 440,
+    "atk": 136,
+    "def": 16,
+    "aim": 152,
+    "luck": 28
+  },
+  {
+    "index": 151,
+    "key": 1202,
+    "tier": 2,
+    "hp": 120,
+    "atk": 40,
+    "def": 12,
+    "aim": 44,
+    "luck": 12
+  },
+  {
+    "index": 152,
+    "key": 1202,
+    "tier": 3,
+    "hp": 280,
+    "atk": 88,
+    "def": 12,
+    "aim": 100,
+    "luck": 20
+  },
+  {
+    "index": 153,
+    "key": 1202,
+    "tier": 4,
+    "hp": 440,
+    "atk": 136,
+    "def": 16,
+    "aim": 152,
+    "luck": 28
+  },
+  {
+    "index": 154,
+    "key": 1202,
+    "tier": 5,
+    "hp": 600,
+    "atk": 184,
+    "def": 20,
+    "aim": 208,
+    "luck": 40
+  },
+  {
+    "index": 155,
+    "key": 1202,
+    "tier": 6,
+    "hp": 796,
+    "atk": 244,
+    "def": 24,
+    "aim": 276,
+    "luck": 44
+  },
+  {
+    "index": 156,
+    "key": 1203,
+    "tier": 1,
+    "hp": 524,
+    "atk": 80,
+    "def": 36,
+    "aim": 144,
+    "luck": 28
+  },
+  {
+    "index": 157,
+    "key": 1203,
+    "tier": 2,
+    "hp": 144,
+    "atk": 24,
+    "def": 8,
+    "aim": 40,
+    "luck": 12
+  },
+  {
+    "index": 158,
+    "key": 1203,
+    "tier": 3,
+    "hp": 332,
+    "atk": 52,
+    "def": 24,
+    "aim": 92,
+    "luck": 20
+  },
+  {
+    "index": 159,
+    "key": 1203,
+    "tier": 4,
+    "hp": 524,
+    "atk": 80,
+    "def": 36,
+    "aim": 144,
+    "luck": 28
+  },
+  {
+    "index": 160,
+    "key": 1203,
+    "tier": 5,
+    "hp": 712,
+    "atk": 108,
+    "def": 48,
+    "aim": 192,
+    "luck": 40
+  },
+  {
+    "index": 161,
+    "key": 1203,
+    "tier": 6,
+    "hp": 948,
+    "atk": 144,
+    "def": 52,
+    "aim": 256,
+    "luck": 44
+  },
+  {
+    "index": 162,
+    "key": 1204,
+    "tier": 1,
+    "hp": 472,
+    "atk": 136,
+    "def": 8,
+    "aim": 124,
+    "luck": 28
+  },
+  {
+    "index": 163,
+    "key": 1204,
+    "tier": 2,
+    "hp": 132,
+    "atk": 40,
+    "def": 4,
+    "aim": 36,
+    "luck": 12
+  },
+  {
+    "index": 164,
+    "key": 1204,
+    "tier": 3,
+    "hp": 300,
+    "atk": 88,
+    "def": 4,
+    "aim": 80,
+    "luck": 20
+  },
+  {
+    "index": 165,
+    "key": 1204,
+    "tier": 4,
+    "hp": 472,
+    "atk": 136,
+    "def": 8,
+    "aim": 124,
+    "luck": 28
+  },
+  {
+    "index": 166,
+    "key": 1204,
+    "tier": 5,
+    "hp": 644,
+    "atk": 184,
+    "def": 8,
+    "aim": 168,
+    "luck": 36
+  },
+  {
+    "index": 167,
+    "key": 1204,
+    "tier": 6,
+    "hp": 856,
+    "atk": 244,
+    "def": 8,
+    "aim": 220,
+    "luck": 40
+  },
+  {
+    "index": 168,
+    "key": 1205,
+    "tier": 1,
+    "hp": 400,
+    "atk": 56,
+    "def": 40,
+    "aim": 336,
+    "luck": 24
+  },
+  {
+    "index": 169,
+    "key": 1205,
+    "tier": 2,
+    "hp": 640,
+    "atk": 101,
+    "def": 68,
+    "aim": 437,
+    "luck": 31
+  },
+  {
+    "index": 170,
+    "key": 1205,
+    "tier": 3,
+    "hp": 1088,
+    "atk": 192,
+    "def": 116,
+    "aim": 568,
+    "luck": 41
+  },
+  {
+    "index": 171,
+    "key": 1205,
+    "tier": 4,
+    "hp": 1958,
+    "atk": 383,
+    "def": 208,
+    "aim": 710,
+    "luck": 51
+  },
+  {
+    "index": 172,
+    "key": 1205,
+    "tier": 5,
+    "hp": 3721,
+    "atk": 804,
+    "def": 395,
+    "aim": 887,
+    "luck": 63
+  },
+  {
+    "index": 173,
+    "key": 1205,
+    "tier": 6,
+    "hp": 7442,
+    "atk": 1770,
+    "def": 791,
+    "aim": 1065,
+    "luck": 76
+  },
+  {
+    "index": 174,
+    "key": 1206,
+    "tier": 1,
+    "hp": 480,
+    "atk": 80,
+    "def": 28,
+    "aim": 272,
+    "luck": 24
+  },
+  {
+    "index": 175,
+    "key": 1206,
+    "tier": 2,
+    "hp": 768,
+    "atk": 144,
+    "def": 48,
+    "aim": 354,
+    "luck": 31
+  },
+  {
+    "index": 176,
+    "key": 1206,
+    "tier": 3,
+    "hp": 1306,
+    "atk": 274,
+    "def": 81,
+    "aim": 460,
+    "luck": 41
+  },
+  {
+    "index": 177,
+    "key": 1206,
+    "tier": 4,
+    "hp": 2350,
+    "atk": 547,
+    "def": 146,
+    "aim": 575,
+    "luck": 51
+  },
+  {
+    "index": 178,
+    "key": 1206,
+    "tier": 5,
+    "hp": 4465,
+    "atk": 1149,
+    "def": 277,
+    "aim": 718,
+    "luck": 63
+  },
+  {
+    "index": 179,
+    "key": 1206,
+    "tier": 6,
+    "hp": 8930,
+    "atk": 2528,
+    "def": 553,
+    "aim": 862,
+    "luck": 76
+  },
+  {
+    "index": 180,
+    "key": 1207,
+    "tier": 1,
+    "hp": 340,
+    "atk": 132,
+    "def": 24,
+    "aim": 280,
+    "luck": 24
+  },
+  {
+    "index": 181,
+    "key": 1207,
+    "tier": 2,
+    "hp": 544,
+    "atk": 238,
+    "def": 41,
+    "aim": 364,
+    "luck": 31
+  },
+  {
+    "index": 182,
+    "key": 1207,
+    "tier": 3,
+    "hp": 925,
+    "atk": 451,
+    "def": 69,
+    "aim": 473,
+    "luck": 41
+  },
+  {
+    "index": 183,
+    "key": 1207,
+    "tier": 4,
+    "hp": 1665,
+    "atk": 903,
+    "def": 125,
+    "aim": 592,
+    "luck": 51
+  },
+  {
+    "index": 184,
+    "key": 1207,
+    "tier": 5,
+    "hp": 3163,
+    "atk": 1896,
+    "def": 237,
+    "aim": 739,
+    "luck": 63
+  },
+  {
+    "index": 185,
+    "key": 1207,
+    "tier": 6,
+    "hp": 6326,
+    "atk": 4171,
+    "def": 474,
+    "aim": 887,
+    "luck": 76
+  },
+  {
+    "index": 186,
+    "key": 5001,
+    "tier": 1,
+    "hp": 33,
+    "atk": 9,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 187,
+    "key": 5001,
+    "tier": 2,
+    "hp": 33,
+    "atk": 9,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 188,
+    "key": 5001,
+    "tier": 3,
+    "hp": 75,
+    "atk": 21,
+    "def": 3,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 189,
+    "key": 5001,
+    "tier": 4,
+    "hp": 118,
+    "atk": 32,
+    "def": 4,
+    "aim": 35,
+    "luck": 7
+  },
+  {
+    "index": 190,
+    "key": 5001,
+    "tier": 5,
+    "hp": 161,
+    "atk": 44,
+    "def": 5,
+    "aim": 48,
+    "luck": 10
+  },
+  {
+    "index": 191,
+    "key": 5001,
+    "tier": 6,
+    "hp": 214,
+    "atk": 58,
+    "def": 6,
+    "aim": 63,
+    "luck": 11
+  },
+  {
+    "index": 192,
+    "key": 5002,
+    "tier": 1,
+    "hp": 36,
+    "atk": 6,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 193,
+    "key": 5002,
+    "tier": 2,
+    "hp": 36,
+    "atk": 6,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 194,
+    "key": 5002,
+    "tier": 3,
+    "hp": 83,
+    "atk": 13,
+    "def": 6,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 195,
+    "key": 5002,
+    "tier": 4,
+    "hp": 131,
+    "atk": 20,
+    "def": 9,
+    "aim": 36,
+    "luck": 7
+  },
+  {
+    "index": 196,
+    "key": 5002,
+    "tier": 5,
+    "hp": 178,
+    "atk": 27,
+    "def": 12,
+    "aim": 48,
+    "luck": 10
+  },
+  {
+    "index": 197,
+    "key": 5002,
+    "tier": 6,
+    "hp": 237,
+    "atk": 36,
+    "def": 13,
+    "aim": 64,
+    "luck": 11
+  },
+  {
+    "index": 198,
+    "key": 5003,
+    "tier": 1,
+    "hp": 36,
+    "atk": 9,
+    "def": 3,
+    "aim": 12,
+    "luck": 3
+  },
+  {
+    "index": 199,
+    "key": 5003,
+    "tier": 2,
+    "hp": 36,
+    "atk": 9,
+    "def": 3,
+    "aim": 12,
+    "luck": 3
+  },
+  {
+    "index": 200,
+    "key": 5003,
+    "tier": 3,
+    "hp": 82,
+    "atk": 21,
+    "def": 5,
+    "aim": 28,
+    "luck": 6
+  },
+  {
+    "index": 201,
+    "key": 5003,
+    "tier": 4,
+    "hp": 129,
+    "atk": 33,
+    "def": 7,
+    "aim": 44,
+    "luck": 8
+  },
+  {
+    "index": 202,
+    "key": 5003,
+    "tier": 5,
+    "hp": 176,
+    "atk": 45,
+    "def": 9,
+    "aim": 60,
+    "luck": 12
+  },
+  {
+    "index": 203,
+    "key": 5003,
+    "tier": 6,
+    "hp": 234,
+    "atk": 60,
+    "def": 10,
+    "aim": 79,
+    "luck": 13
+  },
+  {
+    "index": 204,
+    "key": 5004,
+    "tier": 1,
+    "hp": 33,
+    "atk": 5,
+    "def": 2,
+    "aim": 8,
+    "luck": 2
+  },
+  {
+    "index": 205,
+    "key": 5004,
+    "tier": 2,
+    "hp": 33,
+    "atk": 5,
+    "def": 2,
+    "aim": 8,
+    "luck": 2
+  },
+  {
+    "index": 206,
+    "key": 5004,
+    "tier": 3,
+    "hp": 81,
+    "atk": 11,
+    "def": 5,
+    "aim": 20,
+    "luck": 4
+  },
+  {
+    "index": 207,
+    "key": 5004,
+    "tier": 4,
+    "hp": 145,
+    "atk": 20,
+    "def": 8,
+    "aim": 36,
+    "luck": 6
+  },
+  {
+    "index": 208,
+    "key": 5004,
+    "tier": 5,
+    "hp": 210,
+    "atk": 29,
+    "def": 12,
+    "aim": 52,
+    "luck": 10
+  },
+  {
+    "index": 209,
+    "key": 5004,
+    "tier": 6,
+    "hp": 322,
+    "atk": 44,
+    "def": 15,
+    "aim": 79,
+    "luck": 14
+  },
+  {
+    "index": 210,
+    "key": 5005,
+    "tier": 1,
+    "hp": 33,
+    "atk": 9,
+    "def": 2,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 211,
+    "key": 5005,
+    "tier": 2,
+    "hp": 33,
+    "atk": 9,
+    "def": 2,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 212,
+    "key": 5005,
+    "tier": 3,
+    "hp": 75,
+    "atk": 21,
+    "def": 2,
+    "aim": 24,
+    "luck": 5
+  },
+  {
+    "index": 213,
+    "key": 5005,
+    "tier": 4,
+    "hp": 118,
+    "atk": 33,
+    "def": 3,
+    "aim": 38,
+    "luck": 7
+  },
+  {
+    "index": 214,
+    "key": 5005,
+    "tier": 5,
+    "hp": 161,
+    "atk": 45,
+    "def": 4,
+    "aim": 51,
+    "luck": 10
+  },
+  {
+    "index": 215,
+    "key": 5005,
+    "tier": 6,
+    "hp": 214,
+    "atk": 60,
+    "def": 4,
+    "aim": 68,
+    "luck": 11
+  },
+  {
+    "index": 216,
+    "key": 5006,
+    "tier": 1,
+    "hp": 33,
+    "atk": 10,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 217,
+    "key": 5006,
+    "tier": 2,
+    "hp": 33,
+    "atk": 10,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 218,
+    "key": 5006,
+    "tier": 3,
+    "hp": 77,
+    "atk": 22,
+    "def": 4,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 219,
+    "key": 5006,
+    "tier": 4,
+    "hp": 121,
+    "atk": 34,
+    "def": 6,
+    "aim": 36,
+    "luck": 7
+  },
+  {
+    "index": 220,
+    "key": 5006,
+    "tier": 5,
+    "hp": 165,
+    "atk": 46,
+    "def": 7,
+    "aim": 48,
+    "luck": 10
+  },
+  {
+    "index": 221,
+    "key": 5006,
+    "tier": 6,
+    "hp": 219,
+    "atk": 61,
+    "def": 8,
+    "aim": 64,
+    "luck": 11
+  },
+  {
+    "index": 222,
+    "key": 5007,
+    "tier": 1,
+    "hp": 33,
+    "atk": 10,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 223,
+    "key": 5007,
+    "tier": 2,
+    "hp": 33,
+    "atk": 10,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 224,
+    "key": 5007,
+    "tier": 3,
+    "hp": 77,
+    "atk": 22,
+    "def": 3,
+    "aim": 25,
+    "luck": 5
+  },
+  {
+    "index": 225,
+    "key": 5007,
+    "tier": 4,
+    "hp": 121,
+    "atk": 34,
+    "def": 4,
+    "aim": 38,
+    "luck": 8
+  },
+  {
+    "index": 226,
+    "key": 5007,
+    "tier": 5,
+    "hp": 165,
+    "atk": 46,
+    "def": 5,
+    "aim": 52,
+    "luck": 11
+  },
+  {
+    "index": 227,
+    "key": 5007,
+    "tier": 6,
+    "hp": 219,
+    "atk": 61,
+    "def": 6,
+    "aim": 69,
+    "luck": 12
+  },
+  {
+    "index": 228,
+    "key": 5008,
+    "tier": 1,
+    "hp": 35,
+    "atk": 7,
+    "def": 2,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 229,
+    "key": 5008,
+    "tier": 2,
+    "hp": 35,
+    "atk": 7,
+    "def": 2,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 230,
+    "key": 5008,
+    "tier": 3,
+    "hp": 84,
+    "atk": 17,
+    "def": 5,
+    "aim": 26,
+    "luck": 5
+  },
+  {
+    "index": 231,
+    "key": 5008,
+    "tier": 4,
+    "hp": 139,
+    "atk": 28,
+    "def": 9,
+    "aim": 43,
+    "luck": 8
+  },
+  {
+    "index": 232,
+    "key": 5008,
+    "tier": 5,
+    "hp": 195,
+    "atk": 40,
+    "def": 13,
+    "aim": 60,
+    "luck": 12
+  },
+  {
+    "index": 233,
+    "key": 5008,
+    "tier": 6,
+    "hp": 278,
+    "atk": 56,
+    "def": 15,
+    "aim": 85,
+    "luck": 15
+  },
+  {
+    "index": 234,
+    "key": 5010,
+    "tier": 1,
+    "hp": 30,
+    "atk": 10,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 235,
+    "key": 5010,
+    "tier": 2,
+    "hp": 30,
+    "atk": 10,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 236,
+    "key": 5010,
+    "tier": 3,
+    "hp": 70,
+    "atk": 23,
+    "def": 3,
+    "aim": 25,
+    "luck": 5
+  },
+  {
+    "index": 237,
+    "key": 5010,
+    "tier": 4,
+    "hp": 110,
+    "atk": 36,
+    "def": 4,
+    "aim": 38,
+    "luck": 7
+  },
+  {
+    "index": 238,
+    "key": 5010,
+    "tier": 5,
+    "hp": 150,
+    "atk": 48,
+    "def": 5,
+    "aim": 52,
+    "luck": 10
+  },
+  {
+    "index": 239,
+    "key": 5010,
+    "tier": 6,
+    "hp": 199,
+    "atk": 64,
+    "def": 6,
+    "aim": 69,
+    "luck": 11
+  },
+  {
+    "index": 240,
+    "key": 5011,
+    "tier": 1,
+    "hp": 26,
+    "atk": 8,
+    "def": 2,
+    "aim": 9,
+    "luck": 2
+  },
+  {
+    "index": 241,
+    "key": 5011,
+    "tier": 2,
+    "hp": 26,
+    "atk": 8,
+    "def": 2,
+    "aim": 9,
+    "luck": 2
+  },
+  {
+    "index": 242,
+    "key": 5011,
+    "tier": 3,
+    "hp": 65,
+    "atk": 18,
+    "def": 3,
+    "aim": 21,
+    "luck": 4
+  },
+  {
+    "index": 243,
+    "key": 5011,
+    "tier": 4,
+    "hp": 116,
+    "atk": 33,
+    "def": 4,
+    "aim": 37,
+    "luck": 6
+  },
+  {
+    "index": 244,
+    "key": 5011,
+    "tier": 5,
+    "hp": 168,
+    "atk": 47,
+    "def": 5,
+    "aim": 53,
+    "luck": 9
+  },
+  {
+    "index": 245,
+    "key": 5011,
+    "tier": 6,
+    "hp": 257,
+    "atk": 72,
+    "def": 7,
+    "aim": 81,
+    "luck": 13
+  },
+  {
+    "index": 246,
+    "key": 5012,
+    "tier": 1,
+    "hp": 36,
+    "atk": 10,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 247,
+    "key": 5012,
+    "tier": 2,
+    "hp": 36,
+    "atk": 10,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 248,
+    "key": 5012,
+    "tier": 3,
+    "hp": 83,
+    "atk": 23,
+    "def": 4,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 249,
+    "key": 5012,
+    "tier": 4,
+    "hp": 131,
+    "atk": 36,
+    "def": 6,
+    "aim": 36,
+    "luck": 7
+  },
+  {
+    "index": 250,
+    "key": 5012,
+    "tier": 5,
+    "hp": 178,
+    "atk": 48,
+    "def": 7,
+    "aim": 48,
+    "luck": 9
+  },
+  {
+    "index": 251,
+    "key": 5012,
+    "tier": 6,
+    "hp": 237,
+    "atk": 64,
+    "def": 8,
+    "aim": 64,
+    "luck": 10
+  },
+  {
+    "index": 252,
+    "key": 5013,
+    "tier": 1,
+    "hp": 26,
+    "atk": 8,
+    "def": 2,
+    "aim": 7,
+    "luck": 2
+  },
+  {
+    "index": 253,
+    "key": 5013,
+    "tier": 2,
+    "hp": 26,
+    "atk": 8,
+    "def": 2,
+    "aim": 7,
+    "luck": 2
+  },
+  {
+    "index": 254,
+    "key": 5013,
+    "tier": 3,
+    "hp": 65,
+    "atk": 20,
+    "def": 3,
+    "aim": 18,
+    "luck": 4
+  },
+  {
+    "index": 255,
+    "key": 5013,
+    "tier": 4,
+    "hp": 116,
+    "atk": 36,
+    "def": 4,
+    "aim": 32,
+    "luck": 6
+  },
+  {
+    "index": 256,
+    "key": 5013,
+    "tier": 5,
+    "hp": 168,
+    "atk": 52,
+    "def": 5,
+    "aim": 46,
+    "luck": 9
+  },
+  {
+    "index": 257,
+    "key": 5013,
+    "tier": 6,
+    "hp": 257,
+    "atk": 79,
+    "def": 7,
+    "aim": 70,
+    "luck": 13
+  },
+  {
+    "index": 258,
+    "key": 5014,
+    "tier": 1,
+    "hp": 33,
+    "atk": 9,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 259,
+    "key": 5014,
+    "tier": 2,
+    "hp": 33,
+    "atk": 9,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 260,
+    "key": 5014,
+    "tier": 3,
+    "hp": 77,
+    "atk": 21,
+    "def": 4,
+    "aim": 25,
+    "luck": 5
+  },
+  {
+    "index": 261,
+    "key": 5014,
+    "tier": 4,
+    "hp": 121,
+    "atk": 33,
+    "def": 6,
+    "aim": 38,
+    "luck": 8
+  },
+  {
+    "index": 262,
+    "key": 5014,
+    "tier": 5,
+    "hp": 165,
+    "atk": 45,
+    "def": 7,
+    "aim": 52,
+    "luck": 11
+  },
+  {
+    "index": 263,
+    "key": 5014,
+    "tier": 6,
+    "hp": 219,
+    "atk": 59,
+    "def": 8,
+    "aim": 69,
+    "luck": 12
+  },
+  {
+    "index": 264,
+    "key": 5015,
+    "tier": 1,
+    "hp": 38,
+    "atk": 7,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 265,
+    "key": 5015,
+    "tier": 2,
+    "hp": 38,
+    "atk": 7,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 266,
+    "key": 5015,
+    "tier": 3,
+    "hp": 91,
+    "atk": 17,
+    "def": 5,
+    "aim": 23,
+    "luck": 6
+  },
+  {
+    "index": 267,
+    "key": 5015,
+    "tier": 4,
+    "hp": 152,
+    "atk": 28,
+    "def": 9,
+    "aim": 37,
+    "luck": 8
+  },
+  {
+    "index": 268,
+    "key": 5015,
+    "tier": 5,
+    "hp": 213,
+    "atk": 40,
+    "def": 13,
+    "aim": 52,
+    "luck": 13
+  },
+  {
+    "index": 269,
+    "key": 5015,
+    "tier": 6,
+    "hp": 303,
+    "atk": 56,
+    "def": 15,
+    "aim": 74,
+    "luck": 16
+  },
+  {
+    "index": 270,
+    "key": 5016,
+    "tier": 1,
+    "hp": 30,
+    "atk": 10,
+    "def": 2,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 271,
+    "key": 5016,
+    "tier": 2,
+    "hp": 30,
+    "atk": 10,
+    "def": 2,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 272,
+    "key": 5016,
+    "tier": 3,
+    "hp": 70,
+    "atk": 22,
+    "def": 2,
+    "aim": 25,
+    "luck": 6
+  },
+  {
+    "index": 273,
+    "key": 5016,
+    "tier": 4,
+    "hp": 110,
+    "atk": 34,
+    "def": 3,
+    "aim": 38,
+    "luck": 8
+  },
+  {
+    "index": 274,
+    "key": 5016,
+    "tier": 5,
+    "hp": 150,
+    "atk": 46,
+    "def": 4,
+    "aim": 52,
+    "luck": 12
+  },
+  {
+    "index": 275,
+    "key": 5016,
+    "tier": 6,
+    "hp": 199,
+    "atk": 61,
+    "def": 4,
+    "aim": 69,
+    "luck": 13
+  },
+  {
+    "index": 276,
+    "key": 5017,
+    "tier": 1,
+    "hp": 33,
+    "atk": 10,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 277,
+    "key": 5017,
+    "tier": 2,
+    "hp": 33,
+    "atk": 10,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 278,
+    "key": 5017,
+    "tier": 3,
+    "hp": 77,
+    "atk": 22,
+    "def": 3,
+    "aim": 25,
+    "luck": 5
+  },
+  {
+    "index": 279,
+    "key": 5017,
+    "tier": 4,
+    "hp": 121,
+    "atk": 34,
+    "def": 4,
+    "aim": 38,
+    "luck": 7
+  },
+  {
+    "index": 280,
+    "key": 5017,
+    "tier": 5,
+    "hp": 165,
+    "atk": 46,
+    "def": 5,
+    "aim": 52,
+    "luck": 10
+  },
+  {
+    "index": 281,
+    "key": 5017,
+    "tier": 6,
+    "hp": 219,
+    "atk": 61,
+    "def": 6,
+    "aim": 69,
+    "luck": 11
+  },
+  {
+    "index": 282,
+    "key": 5018,
+    "tier": 1,
+    "hp": 30,
+    "atk": 10,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 283,
+    "key": 5018,
+    "tier": 2,
+    "hp": 30,
+    "atk": 10,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 284,
+    "key": 5018,
+    "tier": 3,
+    "hp": 70,
+    "atk": 22,
+    "def": 3,
+    "aim": 25,
+    "luck": 5
+  },
+  {
+    "index": 285,
+    "key": 5018,
+    "tier": 4,
+    "hp": 110,
+    "atk": 34,
+    "def": 4,
+    "aim": 38,
+    "luck": 7
+  },
+  {
+    "index": 286,
+    "key": 5018,
+    "tier": 5,
+    "hp": 150,
+    "atk": 46,
+    "def": 5,
+    "aim": 52,
+    "luck": 10
+  },
+  {
+    "index": 287,
+    "key": 5018,
+    "tier": 6,
+    "hp": 199,
+    "atk": 61,
+    "def": 6,
+    "aim": 69,
+    "luck": 11
+  },
+  {
+    "index": 288,
+    "key": 5019,
+    "tier": 1,
+    "hp": 30,
+    "atk": 10,
+    "def": 2,
+    "aim": 12,
+    "luck": 3
+  },
+  {
+    "index": 289,
+    "key": 5019,
+    "tier": 2,
+    "hp": 30,
+    "atk": 10,
+    "def": 2,
+    "aim": 12,
+    "luck": 3
+  },
+  {
+    "index": 290,
+    "key": 5019,
+    "tier": 3,
+    "hp": 70,
+    "atk": 22,
+    "def": 2,
+    "aim": 26,
+    "luck": 5
+  },
+  {
+    "index": 291,
+    "key": 5019,
+    "tier": 4,
+    "hp": 110,
+    "atk": 34,
+    "def": 3,
+    "aim": 41,
+    "luck": 7
+  },
+  {
+    "index": 292,
+    "key": 5019,
+    "tier": 5,
+    "hp": 150,
+    "atk": 46,
+    "def": 4,
+    "aim": 56,
+    "luck": 10
+  },
+  {
+    "index": 293,
+    "key": 5019,
+    "tier": 6,
+    "hp": 199,
+    "atk": 61,
+    "def": 4,
+    "aim": 74,
+    "luck": 11
+  },
+  {
+    "index": 294,
+    "key": 5020,
+    "tier": 1,
+    "hp": 39,
+    "atk": 8,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 295,
+    "key": 5020,
+    "tier": 2,
+    "hp": 39,
+    "atk": 8,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 296,
+    "key": 5020,
+    "tier": 3,
+    "hp": 91,
+    "atk": 17,
+    "def": 6,
+    "aim": 21,
+    "luck": 5
+  },
+  {
+    "index": 297,
+    "key": 5020,
+    "tier": 4,
+    "hp": 143,
+    "atk": 27,
+    "def": 9,
+    "aim": 33,
+    "luck": 7
+  },
+  {
+    "index": 298,
+    "key": 5020,
+    "tier": 5,
+    "hp": 195,
+    "atk": 36,
+    "def": 12,
+    "aim": 45,
+    "luck": 9
+  },
+  {
+    "index": 299,
+    "key": 5020,
+    "tier": 6,
+    "hp": 260,
+    "atk": 48,
+    "def": 13,
+    "aim": 60,
+    "luck": 10
+  },
+  {
+    "index": 300,
+    "key": 5021,
+    "tier": 1,
+    "hp": 36,
+    "atk": 6,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 301,
+    "key": 5021,
+    "tier": 2,
+    "hp": 36,
+    "atk": 6,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 302,
+    "key": 5021,
+    "tier": 3,
+    "hp": 83,
+    "atk": 13,
+    "def": 6,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 303,
+    "key": 5021,
+    "tier": 4,
+    "hp": 131,
+    "atk": 20,
+    "def": 8,
+    "aim": 36,
+    "luck": 8
+  },
+  {
+    "index": 304,
+    "key": 5021,
+    "tier": 5,
+    "hp": 178,
+    "atk": 27,
+    "def": 11,
+    "aim": 48,
+    "luck": 11
+  },
+  {
+    "index": 305,
+    "key": 5021,
+    "tier": 6,
+    "hp": 237,
+    "atk": 36,
+    "def": 12,
+    "aim": 64,
+    "luck": 12
+  },
+  {
+    "index": 306,
+    "key": 5022,
+    "tier": 1,
+    "hp": 33,
+    "atk": 10,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 307,
+    "key": 5022,
+    "tier": 2,
+    "hp": 33,
+    "atk": 10,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 308,
+    "key": 5022,
+    "tier": 3,
+    "hp": 77,
+    "atk": 22,
+    "def": 3,
+    "aim": 25,
+    "luck": 5
+  },
+  {
+    "index": 309,
+    "key": 5022,
+    "tier": 4,
+    "hp": 121,
+    "atk": 34,
+    "def": 4,
+    "aim": 38,
+    "luck": 7
+  },
+  {
+    "index": 310,
+    "key": 5022,
+    "tier": 5,
+    "hp": 165,
+    "atk": 46,
+    "def": 5,
+    "aim": 52,
+    "luck": 10
+  },
+  {
+    "index": 311,
+    "key": 5022,
+    "tier": 6,
+    "hp": 219,
+    "atk": 61,
+    "def": 6,
+    "aim": 69,
+    "luck": 11
+  },
+  {
+    "index": 312,
+    "key": 5023,
+    "tier": 1,
+    "hp": 33,
+    "atk": 11,
+    "def": 4,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 313,
+    "key": 5023,
+    "tier": 2,
+    "hp": 33,
+    "atk": 11,
+    "def": 4,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 314,
+    "key": 5023,
+    "tier": 3,
+    "hp": 79,
+    "atk": 26,
+    "def": 5,
+    "aim": 25,
+    "luck": 6
+  },
+  {
+    "index": 315,
+    "key": 5023,
+    "tier": 4,
+    "hp": 131,
+    "atk": 43,
+    "def": 6,
+    "aim": 41,
+    "luck": 8
+  },
+  {
+    "index": 316,
+    "key": 5023,
+    "tier": 5,
+    "hp": 184,
+    "atk": 61,
+    "def": 8,
+    "aim": 57,
+    "luck": 13
+  },
+  {
+    "index": 317,
+    "key": 5023,
+    "tier": 6,
+    "hp": 262,
+    "atk": 86,
+    "def": 10,
+    "aim": 81,
+    "luck": 16
+  },
+  {
+    "index": 318,
+    "key": 5024,
+    "tier": 1,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 319,
+    "key": 5024,
+    "tier": 2,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 320,
+    "key": 5024,
+    "tier": 3,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 321,
+    "key": 5024,
+    "tier": 4,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 322,
+    "key": 5024,
+    "tier": 5,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 323,
+    "key": 5024,
+    "tier": 6,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 324,
+    "key": 5026,
+    "tier": 1,
+    "hp": 37,
+    "atk": 9,
+    "def": 4,
+    "aim": 12,
+    "luck": 3
+  },
+  {
+    "index": 325,
+    "key": 5026,
+    "tier": 2,
+    "hp": 37,
+    "atk": 9,
+    "def": 4,
+    "aim": 12,
+    "luck": 3
+  },
+  {
+    "index": 326,
+    "key": 5026,
+    "tier": 3,
+    "hp": 86,
+    "atk": 20,
+    "def": 7,
+    "aim": 27,
+    "luck": 6
+  },
+  {
+    "index": 327,
+    "key": 5026,
+    "tier": 4,
+    "hp": 135,
+    "atk": 31,
+    "def": 9,
+    "aim": 42,
+    "luck": 8
+  },
+  {
+    "index": 328,
+    "key": 5026,
+    "tier": 5,
+    "hp": 184,
+    "atk": 42,
+    "def": 12,
+    "aim": 57,
+    "luck": 12
+  },
+  {
+    "index": 329,
+    "key": 5026,
+    "tier": 6,
+    "hp": 245,
+    "atk": 55,
+    "def": 13,
+    "aim": 75,
+    "luck": 13
+  },
+  {
+    "index": 330,
+    "key": 5027,
+    "tier": 1,
+    "hp": 36,
+    "atk": 10,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 331,
+    "key": 5027,
+    "tier": 2,
+    "hp": 36,
+    "atk": 10,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 332,
+    "key": 5027,
+    "tier": 3,
+    "hp": 83,
+    "atk": 22,
+    "def": 2,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 333,
+    "key": 5027,
+    "tier": 4,
+    "hp": 131,
+    "atk": 34,
+    "def": 3,
+    "aim": 36,
+    "luck": 7
+  },
+  {
+    "index": 334,
+    "key": 5027,
+    "tier": 5,
+    "hp": 178,
+    "atk": 46,
+    "def": 4,
+    "aim": 48,
+    "luck": 9
+  },
+  {
+    "index": 335,
+    "key": 5027,
+    "tier": 6,
+    "hp": 237,
+    "atk": 61,
+    "def": 4,
+    "aim": 64,
+    "luck": 10
+  },
+  {
+    "index": 336,
+    "key": 5028,
+    "tier": 1,
+    "hp": 34,
+    "atk": 10,
+    "def": 4,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 337,
+    "key": 5028,
+    "tier": 2,
+    "hp": 34,
+    "atk": 10,
+    "def": 4,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 338,
+    "key": 5028,
+    "tier": 3,
+    "hp": 80,
+    "atk": 23,
+    "def": 6,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 339,
+    "key": 5028,
+    "tier": 4,
+    "hp": 133,
+    "atk": 37,
+    "def": 8,
+    "aim": 38,
+    "luck": 7
+  },
+  {
+    "index": 340,
+    "key": 5028,
+    "tier": 5,
+    "hp": 187,
+    "atk": 52,
+    "def": 9,
+    "aim": 54,
+    "luck": 11
+  },
+  {
+    "index": 341,
+    "key": 5028,
+    "tier": 6,
+    "hp": 266,
+    "atk": 74,
+    "def": 12,
+    "aim": 76,
+    "luck": 13
+  },
+  {
+    "index": 342,
+    "key": 5029,
+    "tier": 1,
+    "hp": 38,
+    "atk": 8,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 343,
+    "key": 5029,
+    "tier": 2,
+    "hp": 38,
+    "atk": 8,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 344,
+    "key": 5029,
+    "tier": 3,
+    "hp": 91,
+    "atk": 19,
+    "def": 5,
+    "aim": 24,
+    "luck": 5
+  },
+  {
+    "index": 345,
+    "key": 5029,
+    "tier": 4,
+    "hp": 152,
+    "atk": 31,
+    "def": 9,
+    "aim": 40,
+    "luck": 7
+  },
+  {
+    "index": 346,
+    "key": 5029,
+    "tier": 5,
+    "hp": 213,
+    "atk": 44,
+    "def": 13,
+    "aim": 56,
+    "luck": 11
+  },
+  {
+    "index": 347,
+    "key": 5029,
+    "tier": 6,
+    "hp": 303,
+    "atk": 62,
+    "def": 15,
+    "aim": 80,
+    "luck": 13
+  },
+  {
+    "index": 348,
+    "key": 5030,
+    "tier": 1,
+    "hp": 30,
+    "atk": 10,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 349,
+    "key": 5030,
+    "tier": 2,
+    "hp": 30,
+    "atk": 10,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 350,
+    "key": 5030,
+    "tier": 3,
+    "hp": 70,
+    "atk": 23,
+    "def": 2,
+    "aim": 23,
+    "luck": 6
+  },
+  {
+    "index": 351,
+    "key": 5030,
+    "tier": 4,
+    "hp": 110,
+    "atk": 36,
+    "def": 3,
+    "aim": 36,
+    "luck": 8
+  },
+  {
+    "index": 352,
+    "key": 5030,
+    "tier": 5,
+    "hp": 150,
+    "atk": 48,
+    "def": 4,
+    "aim": 48,
+    "luck": 12
+  },
+  {
+    "index": 353,
+    "key": 5030,
+    "tier": 6,
+    "hp": 199,
+    "atk": 64,
+    "def": 4,
+    "aim": 64,
+    "luck": 13
+  },
+  {
+    "index": 354,
+    "key": 5031,
+    "tier": 1,
+    "hp": 38,
+    "atk": 8,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 355,
+    "key": 5031,
+    "tier": 2,
+    "hp": 38,
+    "atk": 8,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 356,
+    "key": 5031,
+    "tier": 3,
+    "hp": 91,
+    "atk": 19,
+    "def": 6,
+    "aim": 24,
+    "luck": 5
+  },
+  {
+    "index": 357,
+    "key": 5031,
+    "tier": 4,
+    "hp": 152,
+    "atk": 31,
+    "def": 9,
+    "aim": 40,
+    "luck": 7
+  },
+  {
+    "index": 358,
+    "key": 5031,
+    "tier": 5,
+    "hp": 213,
+    "atk": 44,
+    "def": 14,
+    "aim": 56,
+    "luck": 12
+  },
+  {
+    "index": 359,
+    "key": 5031,
+    "tier": 6,
+    "hp": 303,
+    "atk": 62,
+    "def": 16,
+    "aim": 80,
+    "luck": 14
+  },
+  {
+    "index": 360,
+    "key": 5032,
+    "tier": 1,
+    "hp": 26,
+    "atk": 8,
+    "def": 2,
+    "aim": 9,
+    "luck": 2
+  },
+  {
+    "index": 361,
+    "key": 5032,
+    "tier": 2,
+    "hp": 26,
+    "atk": 8,
+    "def": 2,
+    "aim": 9,
+    "luck": 2
+  },
+  {
+    "index": 362,
+    "key": 5032,
+    "tier": 3,
+    "hp": 65,
+    "atk": 19,
+    "def": 3,
+    "aim": 21,
+    "luck": 4
+  },
+  {
+    "index": 363,
+    "key": 5032,
+    "tier": 4,
+    "hp": 116,
+    "atk": 34,
+    "def": 4,
+    "aim": 37,
+    "luck": 6
+  },
+  {
+    "index": 364,
+    "key": 5032,
+    "tier": 5,
+    "hp": 168,
+    "atk": 49,
+    "def": 5,
+    "aim": 53,
+    "luck": 9
+  },
+  {
+    "index": 365,
+    "key": 5032,
+    "tier": 6,
+    "hp": 257,
+    "atk": 75,
+    "def": 7,
+    "aim": 81,
+    "luck": 13
+  },
+  {
+    "index": 366,
+    "key": 5033,
+    "tier": 1,
+    "hp": 37,
+    "atk": 9,
+    "def": 3,
+    "aim": 12,
+    "luck": 3
+  },
+  {
+    "index": 367,
+    "key": 5033,
+    "tier": 2,
+    "hp": 37,
+    "atk": 9,
+    "def": 3,
+    "aim": 12,
+    "luck": 3
+  },
+  {
+    "index": 368,
+    "key": 5033,
+    "tier": 3,
+    "hp": 86,
+    "atk": 20,
+    "def": 5,
+    "aim": 28,
+    "luck": 6
+  },
+  {
+    "index": 369,
+    "key": 5033,
+    "tier": 4,
+    "hp": 135,
+    "atk": 31,
+    "def": 7,
+    "aim": 44,
+    "luck": 9
+  },
+  {
+    "index": 370,
+    "key": 5033,
+    "tier": 5,
+    "hp": 184,
+    "atk": 42,
+    "def": 9,
+    "aim": 60,
+    "luck": 12
+  },
+  {
+    "index": 371,
+    "key": 5033,
+    "tier": 6,
+    "hp": 245,
+    "atk": 55,
+    "def": 10,
+    "aim": 79,
+    "luck": 14
+  },
+  {
+    "index": 372,
+    "key": 5034,
+    "tier": 1,
+    "hp": 36,
+    "atk": 7,
+    "def": 2,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 373,
+    "key": 5034,
+    "tier": 2,
+    "hp": 36,
+    "atk": 7,
+    "def": 2,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 374,
+    "key": 5034,
+    "tier": 3,
+    "hp": 83,
+    "atk": 15,
+    "def": 6,
+    "aim": 25,
+    "luck": 5
+  },
+  {
+    "index": 375,
+    "key": 5034,
+    "tier": 4,
+    "hp": 131,
+    "atk": 24,
+    "def": 8,
+    "aim": 38,
+    "luck": 7
+  },
+  {
+    "index": 376,
+    "key": 5034,
+    "tier": 5,
+    "hp": 178,
+    "atk": 32,
+    "def": 11,
+    "aim": 52,
+    "luck": 9
+  },
+  {
+    "index": 377,
+    "key": 5034,
+    "tier": 6,
+    "hp": 237,
+    "atk": 42,
+    "def": 12,
+    "aim": 69,
+    "luck": 10
+  },
+  {
+    "index": 378,
+    "key": 5035,
+    "tier": 1,
+    "hp": 30,
+    "atk": 9,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 379,
+    "key": 5035,
+    "tier": 2,
+    "hp": 30,
+    "atk": 9,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 380,
+    "key": 5035,
+    "tier": 3,
+    "hp": 70,
+    "atk": 21,
+    "def": 3,
+    "aim": 25,
+    "luck": 5
+  },
+  {
+    "index": 381,
+    "key": 5035,
+    "tier": 4,
+    "hp": 110,
+    "atk": 33,
+    "def": 4,
+    "aim": 38,
+    "luck": 8
+  },
+  {
+    "index": 382,
+    "key": 5035,
+    "tier": 5,
+    "hp": 150,
+    "atk": 45,
+    "def": 5,
+    "aim": 52,
+    "luck": 11
+  },
+  {
+    "index": 383,
+    "key": 5035,
+    "tier": 6,
+    "hp": 199,
+    "atk": 59,
+    "def": 6,
+    "aim": 69,
+    "luck": 12
+  },
+  {
+    "index": 384,
+    "key": 5036,
+    "tier": 1,
+    "hp": 36,
+    "atk": 6,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 385,
+    "key": 5036,
+    "tier": 2,
+    "hp": 36,
+    "atk": 6,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 386,
+    "key": 5036,
+    "tier": 3,
+    "hp": 83,
+    "atk": 13,
+    "def": 6,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 387,
+    "key": 5036,
+    "tier": 4,
+    "hp": 131,
+    "atk": 20,
+    "def": 9,
+    "aim": 36,
+    "luck": 7
+  },
+  {
+    "index": 388,
+    "key": 5036,
+    "tier": 5,
+    "hp": 178,
+    "atk": 27,
+    "def": 12,
+    "aim": 48,
+    "luck": 10
+  },
+  {
+    "index": 389,
+    "key": 5036,
+    "tier": 6,
+    "hp": 237,
+    "atk": 36,
+    "def": 13,
+    "aim": 64,
+    "luck": 11
+  },
+  {
+    "index": 390,
+    "key": 5037,
+    "tier": 1,
+    "hp": 33,
+    "atk": 9,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 391,
+    "key": 5037,
+    "tier": 2,
+    "hp": 33,
+    "atk": 9,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 392,
+    "key": 5037,
+    "tier": 3,
+    "hp": 77,
+    "atk": 21,
+    "def": 3,
+    "aim": 25,
+    "luck": 5
+  },
+  {
+    "index": 393,
+    "key": 5037,
+    "tier": 4,
+    "hp": 121,
+    "atk": 33,
+    "def": 4,
+    "aim": 38,
+    "luck": 8
+  },
+  {
+    "index": 394,
+    "key": 5037,
+    "tier": 5,
+    "hp": 165,
+    "atk": 45,
+    "def": 5,
+    "aim": 52,
+    "luck": 11
+  },
+  {
+    "index": 395,
+    "key": 5037,
+    "tier": 6,
+    "hp": 219,
+    "atk": 59,
+    "def": 6,
+    "aim": 69,
+    "luck": 12
+  },
+  {
+    "index": 396,
+    "key": 5038,
+    "tier": 1,
+    "hp": 37,
+    "atk": 9,
+    "def": 3,
+    "aim": 12,
+    "luck": 3
+  },
+  {
+    "index": 397,
+    "key": 5038,
+    "tier": 2,
+    "hp": 37,
+    "atk": 9,
+    "def": 3,
+    "aim": 12,
+    "luck": 3
+  },
+  {
+    "index": 398,
+    "key": 5038,
+    "tier": 3,
+    "hp": 86,
+    "atk": 20,
+    "def": 5,
+    "aim": 28,
+    "luck": 6
+  },
+  {
+    "index": 399,
+    "key": 5038,
+    "tier": 4,
+    "hp": 135,
+    "atk": 31,
+    "def": 7,
+    "aim": 44,
+    "luck": 9
+  },
+  {
+    "index": 400,
+    "key": 5038,
+    "tier": 5,
+    "hp": 184,
+    "atk": 42,
+    "def": 9,
+    "aim": 60,
+    "luck": 12
+  },
+  {
+    "index": 401,
+    "key": 5038,
+    "tier": 6,
+    "hp": 245,
+    "atk": 55,
+    "def": 10,
+    "aim": 79,
+    "luck": 14
+  },
+  {
+    "index": 402,
+    "key": 5039,
+    "tier": 1,
+    "hp": 30,
+    "atk": 6,
+    "def": 2,
+    "aim": 9,
+    "luck": 2
+  },
+  {
+    "index": 403,
+    "key": 5039,
+    "tier": 2,
+    "hp": 30,
+    "atk": 6,
+    "def": 2,
+    "aim": 9,
+    "luck": 2
+  },
+  {
+    "index": 404,
+    "key": 5039,
+    "tier": 3,
+    "hp": 74,
+    "atk": 13,
+    "def": 5,
+    "aim": 22,
+    "luck": 4
+  },
+  {
+    "index": 405,
+    "key": 5039,
+    "tier": 4,
+    "hp": 133,
+    "atk": 24,
+    "def": 8,
+    "aim": 39,
+    "luck": 6
+  },
+  {
+    "index": 406,
+    "key": 5039,
+    "tier": 5,
+    "hp": 192,
+    "atk": 34,
+    "def": 12,
+    "aim": 56,
+    "luck": 10
+  },
+  {
+    "index": 407,
+    "key": 5039,
+    "tier": 6,
+    "hp": 294,
+    "atk": 52,
+    "def": 15,
+    "aim": 85,
+    "luck": 14
+  },
+  {
+    "index": 408,
+    "key": 5040,
+    "tier": 1,
+    "hp": 33,
+    "atk": 9,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 409,
+    "key": 5040,
+    "tier": 2,
+    "hp": 33,
+    "atk": 9,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 410,
+    "key": 5040,
+    "tier": 3,
+    "hp": 78,
+    "atk": 22,
+    "def": 4,
+    "aim": 25,
+    "luck": 5
+  },
+  {
+    "index": 411,
+    "key": 5040,
+    "tier": 4,
+    "hp": 129,
+    "atk": 36,
+    "def": 5,
+    "aim": 41,
+    "luck": 8
+  },
+  {
+    "index": 412,
+    "key": 5040,
+    "tier": 5,
+    "hp": 180,
+    "atk": 50,
+    "def": 6,
+    "aim": 57,
+    "luck": 12
+  },
+  {
+    "index": 413,
+    "key": 5040,
+    "tier": 6,
+    "hp": 257,
+    "atk": 71,
+    "def": 8,
+    "aim": 81,
+    "luck": 15
+  },
+  {
+    "index": 414,
+    "key": 5041,
+    "tier": 1,
+    "hp": 26,
+    "atk": 8,
+    "def": 2,
+    "aim": 8,
+    "luck": 2
+  },
+  {
+    "index": 415,
+    "key": 5041,
+    "tier": 2,
+    "hp": 26,
+    "atk": 8,
+    "def": 2,
+    "aim": 8,
+    "luck": 2
+  },
+  {
+    "index": 416,
+    "key": 5041,
+    "tier": 3,
+    "hp": 65,
+    "atk": 19,
+    "def": 3,
+    "aim": 19,
+    "luck": 4
+  },
+  {
+    "index": 417,
+    "key": 5041,
+    "tier": 4,
+    "hp": 116,
+    "atk": 34,
+    "def": 4,
+    "aim": 34,
+    "luck": 6
+  },
+  {
+    "index": 418,
+    "key": 5041,
+    "tier": 5,
+    "hp": 168,
+    "atk": 49,
+    "def": 5,
+    "aim": 49,
+    "luck": 9
+  },
+  {
+    "index": 419,
+    "key": 5041,
+    "tier": 6,
+    "hp": 257,
+    "atk": 75,
+    "def": 7,
+    "aim": 75,
+    "luck": 13
+  },
+  {
+    "index": 420,
+    "key": 5042,
+    "tier": 1,
+    "hp": 31,
+    "atk": 7,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 421,
+    "key": 5042,
+    "tier": 2,
+    "hp": 31,
+    "atk": 7,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 422,
+    "key": 5042,
+    "tier": 3,
+    "hp": 75,
+    "atk": 17,
+    "def": 5,
+    "aim": 25,
+    "luck": 5
+  },
+  {
+    "index": 423,
+    "key": 5042,
+    "tier": 4,
+    "hp": 124,
+    "atk": 28,
+    "def": 8,
+    "aim": 42,
+    "luck": 8
+  },
+  {
+    "index": 424,
+    "key": 5042,
+    "tier": 5,
+    "hp": 173,
+    "atk": 40,
+    "def": 10,
+    "aim": 59,
+    "luck": 12
+  },
+  {
+    "index": 425,
+    "key": 5042,
+    "tier": 6,
+    "hp": 247,
+    "atk": 56,
+    "def": 12,
+    "aim": 83,
+    "luck": 15
+  },
+  {
+    "index": 426,
+    "key": 5043,
+    "tier": 1,
+    "hp": 29,
+    "atk": 9,
+    "def": 2,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 427,
+    "key": 5043,
+    "tier": 2,
+    "hp": 29,
+    "atk": 9,
+    "def": 2,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 428,
+    "key": 5043,
+    "tier": 3,
+    "hp": 68,
+    "atk": 22,
+    "def": 3,
+    "aim": 25,
+    "luck": 5
+  },
+  {
+    "index": 429,
+    "key": 5043,
+    "tier": 4,
+    "hp": 113,
+    "atk": 36,
+    "def": 3,
+    "aim": 41,
+    "luck": 8
+  },
+  {
+    "index": 430,
+    "key": 5043,
+    "tier": 5,
+    "hp": 158,
+    "atk": 50,
+    "def": 4,
+    "aim": 57,
+    "luck": 12
+  },
+  {
+    "index": 431,
+    "key": 5043,
+    "tier": 6,
+    "hp": 225,
+    "atk": 71,
+    "def": 5,
+    "aim": 81,
+    "luck": 15
+  },
+  {
+    "index": 432,
+    "key": 5044,
+    "tier": 1,
+    "hp": 36,
+    "atk": 7,
+    "def": 2,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 433,
+    "key": 5044,
+    "tier": 2,
+    "hp": 36,
+    "atk": 7,
+    "def": 2,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 434,
+    "key": 5044,
+    "tier": 3,
+    "hp": 85,
+    "atk": 17,
+    "def": 5,
+    "aim": 26,
+    "luck": 5
+  },
+  {
+    "index": 435,
+    "key": 5044,
+    "tier": 4,
+    "hp": 141,
+    "atk": 28,
+    "def": 9,
+    "aim": 43,
+    "luck": 8
+  },
+  {
+    "index": 436,
+    "key": 5044,
+    "tier": 5,
+    "hp": 197,
+    "atk": 40,
+    "def": 13,
+    "aim": 60,
+    "luck": 12
+  },
+  {
+    "index": 437,
+    "key": 5044,
+    "tier": 6,
+    "hp": 281,
+    "atk": 56,
+    "def": 15,
+    "aim": 85,
+    "luck": 15
+  },
+  {
+    "index": 438,
+    "key": 5045,
+    "tier": 1,
+    "hp": 33,
+    "atk": 9,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 439,
+    "key": 5045,
+    "tier": 2,
+    "hp": 33,
+    "atk": 9,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 440,
+    "key": 5045,
+    "tier": 3,
+    "hp": 80,
+    "atk": 20,
+    "def": 5,
+    "aim": 24,
+    "luck": 6
+  },
+  {
+    "index": 441,
+    "key": 5045,
+    "tier": 4,
+    "hp": 132,
+    "atk": 33,
+    "def": 8,
+    "aim": 39,
+    "luck": 8
+  },
+  {
+    "index": 442,
+    "key": 5045,
+    "tier": 5,
+    "hp": 185,
+    "atk": 46,
+    "def": 10,
+    "aim": 54,
+    "luck": 13
+  },
+  {
+    "index": 443,
+    "key": 5045,
+    "tier": 6,
+    "hp": 264,
+    "atk": 65,
+    "def": 12,
+    "aim": 77,
+    "luck": 16
+  },
+  {
+    "index": 444,
+    "key": 5046,
+    "tier": 1,
+    "hp": 29,
+    "atk": 9,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 445,
+    "key": 5046,
+    "tier": 2,
+    "hp": 29,
+    "atk": 9,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 446,
+    "key": 5046,
+    "tier": 3,
+    "hp": 68,
+    "atk": 22,
+    "def": 3,
+    "aim": 23,
+    "luck": 6
+  },
+  {
+    "index": 447,
+    "key": 5046,
+    "tier": 4,
+    "hp": 113,
+    "atk": 36,
+    "def": 3,
+    "aim": 38,
+    "luck": 8
+  },
+  {
+    "index": 448,
+    "key": 5046,
+    "tier": 5,
+    "hp": 158,
+    "atk": 50,
+    "def": 4,
+    "aim": 54,
+    "luck": 13
+  },
+  {
+    "index": 449,
+    "key": 5046,
+    "tier": 6,
+    "hp": 225,
+    "atk": 71,
+    "def": 5,
+    "aim": 76,
+    "luck": 16
+  },
+  {
+    "index": 450,
+    "key": 5047,
+    "tier": 1,
+    "hp": 36,
+    "atk": 6,
+    "def": 2,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 451,
+    "key": 5047,
+    "tier": 2,
+    "hp": 36,
+    "atk": 6,
+    "def": 2,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 452,
+    "key": 5047,
+    "tier": 3,
+    "hp": 83,
+    "atk": 13,
+    "def": 6,
+    "aim": 25,
+    "luck": 5
+  },
+  {
+    "index": 453,
+    "key": 5047,
+    "tier": 4,
+    "hp": 131,
+    "atk": 20,
+    "def": 9,
+    "aim": 38,
+    "luck": 8
+  },
+  {
+    "index": 454,
+    "key": 5047,
+    "tier": 5,
+    "hp": 178,
+    "atk": 27,
+    "def": 12,
+    "aim": 52,
+    "luck": 11
+  },
+  {
+    "index": 455,
+    "key": 5047,
+    "tier": 6,
+    "hp": 237,
+    "atk": 36,
+    "def": 13,
+    "aim": 69,
+    "luck": 12
+  },
+  {
+    "index": 456,
+    "key": 5048,
+    "tier": 1,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 457,
+    "key": 5048,
+    "tier": 2,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 458,
+    "key": 5048,
+    "tier": 3,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 459,
+    "key": 5048,
+    "tier": 4,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 460,
+    "key": 5048,
+    "tier": 5,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 461,
+    "key": 5048,
+    "tier": 6,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 462,
+    "key": 5049,
+    "tier": 1,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 463,
+    "key": 5049,
+    "tier": 2,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 464,
+    "key": 5049,
+    "tier": 3,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 465,
+    "key": 5049,
+    "tier": 4,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 466,
+    "key": 5049,
+    "tier": 5,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 467,
+    "key": 5049,
+    "tier": 6,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 468,
+    "key": 5050,
+    "tier": 1,
+    "hp": 30,
+    "atk": 10,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 469,
+    "key": 5050,
+    "tier": 2,
+    "hp": 30,
+    "atk": 10,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 470,
+    "key": 5050,
+    "tier": 3,
+    "hp": 70,
+    "atk": 23,
+    "def": 2,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 471,
+    "key": 5050,
+    "tier": 4,
+    "hp": 110,
+    "atk": 36,
+    "def": 3,
+    "aim": 36,
+    "luck": 7
+  },
+  {
+    "index": 472,
+    "key": 5050,
+    "tier": 5,
+    "hp": 150,
+    "atk": 48,
+    "def": 4,
+    "aim": 48,
+    "luck": 9
+  },
+  {
+    "index": 473,
+    "key": 5050,
+    "tier": 6,
+    "hp": 199,
+    "atk": 64,
+    "def": 4,
+    "aim": 64,
+    "luck": 10
+  },
+  {
+    "index": 474,
+    "key": 5051,
+    "tier": 1,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 475,
+    "key": 5051,
+    "tier": 2,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 476,
+    "key": 5051,
+    "tier": 3,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 477,
+    "key": 5051,
+    "tier": 4,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 478,
+    "key": 5051,
+    "tier": 5,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 479,
+    "key": 5051,
+    "tier": 6,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 480,
+    "key": 5052,
+    "tier": 1,
+    "hp": 33,
+    "atk": 8,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 481,
+    "key": 5052,
+    "tier": 2,
+    "hp": 33,
+    "atk": 8,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 482,
+    "key": 5052,
+    "tier": 3,
+    "hp": 81,
+    "atk": 20,
+    "def": 5,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 483,
+    "key": 5052,
+    "tier": 4,
+    "hp": 145,
+    "atk": 36,
+    "def": 6,
+    "aim": 41,
+    "luck": 7
+  },
+  {
+    "index": 484,
+    "key": 5052,
+    "tier": 5,
+    "hp": 210,
+    "atk": 52,
+    "def": 8,
+    "aim": 59,
+    "luck": 12
+  },
+  {
+    "index": 485,
+    "key": 5052,
+    "tier": 6,
+    "hp": 322,
+    "atk": 79,
+    "def": 11,
+    "aim": 90,
+    "luck": 17
+  },
+  {
+    "index": 486,
+    "key": 5053,
+    "tier": 1,
+    "hp": 37,
+    "atk": 7,
+    "def": 2,
+    "aim": 10,
+    "luck": 2
+  },
+  {
+    "index": 487,
+    "key": 5053,
+    "tier": 2,
+    "hp": 37,
+    "atk": 7,
+    "def": 2,
+    "aim": 10,
+    "luck": 2
+  },
+  {
+    "index": 488,
+    "key": 5053,
+    "tier": 3,
+    "hp": 92,
+    "atk": 16,
+    "def": 6,
+    "aim": 24,
+    "luck": 4
+  },
+  {
+    "index": 489,
+    "key": 5053,
+    "tier": 4,
+    "hp": 166,
+    "atk": 28,
+    "def": 9,
+    "aim": 43,
+    "luck": 6
+  },
+  {
+    "index": 490,
+    "key": 5053,
+    "tier": 5,
+    "hp": 239,
+    "atk": 41,
+    "def": 15,
+    "aim": 62,
+    "luck": 10
+  },
+  {
+    "index": 491,
+    "key": 5053,
+    "tier": 6,
+    "hp": 367,
+    "atk": 62,
+    "def": 18,
+    "aim": 95,
+    "luck": 14
+  },
+  {
+    "index": 492,
+    "key": 5054,
+    "tier": 1,
+    "hp": 30,
+    "atk": 8,
+    "def": 4,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 493,
+    "key": 5054,
+    "tier": 2,
+    "hp": 30,
+    "atk": 8,
+    "def": 4,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 494,
+    "key": 5054,
+    "tier": 3,
+    "hp": 74,
+    "atk": 20,
+    "def": 6,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 495,
+    "key": 5054,
+    "tier": 4,
+    "hp": 134,
+    "atk": 36,
+    "def": 7,
+    "aim": 41,
+    "luck": 7
+  },
+  {
+    "index": 496,
+    "key": 5054,
+    "tier": 5,
+    "hp": 193,
+    "atk": 52,
+    "def": 10,
+    "aim": 59,
+    "luck": 12
+  },
+  {
+    "index": 497,
+    "key": 5054,
+    "tier": 6,
+    "hp": 296,
+    "atk": 79,
+    "def": 13,
+    "aim": 90,
+    "luck": 17
+  },
+  {
+    "index": 498,
+    "key": 5055,
+    "tier": 1,
+    "hp": 28,
+    "atk": 9,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 499,
+    "key": 5055,
+    "tier": 2,
+    "hp": 28,
+    "atk": 9,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 500,
+    "key": 5055,
+    "tier": 3,
+    "hp": 69,
+    "atk": 21,
+    "def": 4,
+    "aim": 21,
+    "luck": 5
+  },
+  {
+    "index": 501,
+    "key": 5055,
+    "tier": 4,
+    "hp": 124,
+    "atk": 37,
+    "def": 5,
+    "aim": 38,
+    "luck": 7
+  },
+  {
+    "index": 502,
+    "key": 5055,
+    "tier": 5,
+    "hp": 179,
+    "atk": 54,
+    "def": 7,
+    "aim": 55,
+    "luck": 11
+  },
+  {
+    "index": 503,
+    "key": 5055,
+    "tier": 6,
+    "hp": 274,
+    "atk": 82,
+    "def": 9,
+    "aim": 84,
+    "luck": 16
+  },
+  {
+    "index": 504,
+    "key": 5056,
+    "tier": 1,
+    "hp": 28,
+    "atk": 7,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 505,
+    "key": 5056,
+    "tier": 2,
+    "hp": 28,
+    "atk": 7,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 506,
+    "key": 5056,
+    "tier": 3,
+    "hp": 69,
+    "atk": 17,
+    "def": 4,
+    "aim": 21,
+    "luck": 5
+  },
+  {
+    "index": 507,
+    "key": 5056,
+    "tier": 4,
+    "hp": 124,
+    "atk": 30,
+    "def": 6,
+    "aim": 38,
+    "luck": 7
+  },
+  {
+    "index": 508,
+    "key": 5056,
+    "tier": 5,
+    "hp": 179,
+    "atk": 43,
+    "def": 9,
+    "aim": 55,
+    "luck": 11
+  },
+  {
+    "index": 509,
+    "key": 5056,
+    "tier": 6,
+    "hp": 274,
+    "atk": 65,
+    "def": 12,
+    "aim": 84,
+    "luck": 16
+  },
+  {
+    "index": 510,
+    "key": 5057,
+    "tier": 1,
+    "hp": 34,
+    "atk": 11,
+    "def": 4,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 511,
+    "key": 5057,
+    "tier": 2,
+    "hp": 34,
+    "atk": 11,
+    "def": 4,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 512,
+    "key": 5057,
+    "tier": 3,
+    "hp": 81,
+    "atk": 25,
+    "def": 5,
+    "aim": 26,
+    "luck": 6
+  },
+  {
+    "index": 513,
+    "key": 5057,
+    "tier": 4,
+    "hp": 134,
+    "atk": 41,
+    "def": 6,
+    "aim": 43,
+    "luck": 8
+  },
+  {
+    "index": 514,
+    "key": 5057,
+    "tier": 5,
+    "hp": 188,
+    "atk": 57,
+    "def": 8,
+    "aim": 60,
+    "luck": 13
+  },
+  {
+    "index": 515,
+    "key": 5057,
+    "tier": 6,
+    "hp": 268,
+    "atk": 81,
+    "def": 10,
+    "aim": 85,
+    "luck": 16
+  },
+  {
+    "index": 516,
+    "key": 5058,
+    "tier": 1,
+    "hp": 34,
+    "atk": 8,
+    "def": 4,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 517,
+    "key": 5058,
+    "tier": 2,
+    "hp": 34,
+    "atk": 8,
+    "def": 4,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 518,
+    "key": 5058,
+    "tier": 3,
+    "hp": 81,
+    "atk": 19,
+    "def": 6,
+    "aim": 25,
+    "luck": 6
+  },
+  {
+    "index": 519,
+    "key": 5058,
+    "tier": 4,
+    "hp": 134,
+    "atk": 32,
+    "def": 9,
+    "aim": 41,
+    "luck": 8
+  },
+  {
+    "index": 520,
+    "key": 5058,
+    "tier": 5,
+    "hp": 187,
+    "atk": 45,
+    "def": 12,
+    "aim": 58,
+    "luck": 13
+  },
+  {
+    "index": 521,
+    "key": 5058,
+    "tier": 6,
+    "hp": 267,
+    "atk": 63,
+    "def": 14,
+    "aim": 82,
+    "luck": 16
+  },
+  {
+    "index": 522,
+    "key": 5059,
+    "tier": 1,
+    "hp": 34,
+    "atk": 8,
+    "def": 4,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 523,
+    "key": 5059,
+    "tier": 2,
+    "hp": 34,
+    "atk": 8,
+    "def": 4,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 524,
+    "key": 5059,
+    "tier": 3,
+    "hp": 81,
+    "atk": 19,
+    "def": 6,
+    "aim": 25,
+    "luck": 6
+  },
+  {
+    "index": 525,
+    "key": 5059,
+    "tier": 4,
+    "hp": 135,
+    "atk": 32,
+    "def": 9,
+    "aim": 42,
+    "luck": 9
+  },
+  {
+    "index": 526,
+    "key": 5059,
+    "tier": 5,
+    "hp": 189,
+    "atk": 45,
+    "def": 12,
+    "aim": 59,
+    "luck": 14
+  },
+  {
+    "index": 527,
+    "key": 5059,
+    "tier": 6,
+    "hp": 270,
+    "atk": 63,
+    "def": 15,
+    "aim": 83,
+    "luck": 17
+  },
+  {
+    "index": 528,
+    "key": 5060,
+    "tier": 1,
+    "hp": 39,
+    "atk": 8,
+    "def": 2,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 529,
+    "key": 5060,
+    "tier": 2,
+    "hp": 39,
+    "atk": 8,
+    "def": 2,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 530,
+    "key": 5060,
+    "tier": 3,
+    "hp": 93,
+    "atk": 18,
+    "def": 6,
+    "aim": 26,
+    "luck": 5
+  },
+  {
+    "index": 531,
+    "key": 5060,
+    "tier": 4,
+    "hp": 155,
+    "atk": 29,
+    "def": 9,
+    "aim": 43,
+    "luck": 7
+  },
+  {
+    "index": 532,
+    "key": 5060,
+    "tier": 5,
+    "hp": 217,
+    "atk": 40,
+    "def": 14,
+    "aim": 61,
+    "luck": 12
+  },
+  {
+    "index": 533,
+    "key": 5060,
+    "tier": 6,
+    "hp": 309,
+    "atk": 57,
+    "def": 16,
+    "aim": 86,
+    "luck": 14
+  },
+  {
+    "index": 534,
+    "key": 5061,
+    "tier": 1,
+    "hp": 34,
+    "atk": 11,
+    "def": 4,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 535,
+    "key": 5061,
+    "tier": 2,
+    "hp": 34,
+    "atk": 11,
+    "def": 4,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 536,
+    "key": 5061,
+    "tier": 3,
+    "hp": 82,
+    "atk": 25,
+    "def": 6,
+    "aim": 26,
+    "luck": 5
+  },
+  {
+    "index": 537,
+    "key": 5061,
+    "tier": 4,
+    "hp": 136,
+    "atk": 41,
+    "def": 8,
+    "aim": 43,
+    "luck": 8
+  },
+  {
+    "index": 538,
+    "key": 5061,
+    "tier": 5,
+    "hp": 190,
+    "atk": 58,
+    "def": 9,
+    "aim": 61,
+    "luck": 12
+  },
+  {
+    "index": 539,
+    "key": 5061,
+    "tier": 6,
+    "hp": 271,
+    "atk": 82,
+    "def": 12,
+    "aim": 86,
+    "luck": 15
+  },
+  {
+    "index": 540,
+    "key": 5976,
+    "tier": 1,
+    "hp": 29,
+    "atk": 9,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 541,
+    "key": 5976,
+    "tier": 2,
+    "hp": 29,
+    "atk": 9,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 542,
+    "key": 5976,
+    "tier": 3,
+    "hp": 71,
+    "atk": 22,
+    "def": 5,
+    "aim": 22,
+    "luck": 5
+  },
+  {
+    "index": 543,
+    "key": 5976,
+    "tier": 4,
+    "hp": 128,
+    "atk": 39,
+    "def": 6,
+    "aim": 40,
+    "luck": 7
+  },
+  {
+    "index": 544,
+    "key": 5976,
+    "tier": 5,
+    "hp": 184,
+    "atk": 56,
+    "def": 8,
+    "aim": 58,
+    "luck": 10
+  },
+  {
+    "index": 545,
+    "key": 5976,
+    "tier": 6,
+    "hp": 283,
+    "atk": 86,
+    "def": 11,
+    "aim": 88,
+    "luck": 15
+  },
+  {
+    "index": 546,
+    "key": 5977,
+    "tier": 1,
+    "hp": 37,
+    "atk": 7,
+    "def": 2,
+    "aim": 9,
+    "luck": 2
+  },
+  {
+    "index": 547,
+    "key": 5977,
+    "tier": 2,
+    "hp": 37,
+    "atk": 7,
+    "def": 2,
+    "aim": 9,
+    "luck": 2
+  },
+  {
+    "index": 548,
+    "key": 5977,
+    "tier": 3,
+    "hp": 91,
+    "atk": 16,
+    "def": 6,
+    "aim": 22,
+    "luck": 4
+  },
+  {
+    "index": 549,
+    "key": 5977,
+    "tier": 4,
+    "hp": 164,
+    "atk": 28,
+    "def": 9,
+    "aim": 40,
+    "luck": 6
+  },
+  {
+    "index": 550,
+    "key": 5977,
+    "tier": 5,
+    "hp": 237,
+    "atk": 41,
+    "def": 14,
+    "aim": 58,
+    "luck": 10
+  },
+  {
+    "index": 551,
+    "key": 5977,
+    "tier": 6,
+    "hp": 364,
+    "atk": 62,
+    "def": 17,
+    "aim": 88,
+    "luck": 14
+  },
+  {
+    "index": 552,
+    "key": 5978,
+    "tier": 1,
+    "hp": 26,
+    "atk": 7,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 553,
+    "key": 5978,
+    "tier": 2,
+    "hp": 26,
+    "atk": 7,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 554,
+    "key": 5978,
+    "tier": 3,
+    "hp": 64,
+    "atk": 17,
+    "def": 5,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 555,
+    "key": 5978,
+    "tier": 4,
+    "hp": 115,
+    "atk": 31,
+    "def": 7,
+    "aim": 41,
+    "luck": 7
+  },
+  {
+    "index": 556,
+    "key": 5978,
+    "tier": 5,
+    "hp": 166,
+    "atk": 44,
+    "def": 11,
+    "aim": 58,
+    "luck": 11
+  },
+  {
+    "index": 557,
+    "key": 5978,
+    "tier": 6,
+    "hp": 254,
+    "atk": 67,
+    "def": 14,
+    "aim": 89,
+    "luck": 16
+  },
+  {
+    "index": 558,
+    "key": 5999,
+    "tier": 1,
+    "hp": 32,
+    "atk": 9,
+    "def": 3,
+    "aim": 9,
+    "luck": 2
+  },
+  {
+    "index": 559,
+    "key": 5999,
+    "tier": 2,
+    "hp": 32,
+    "atk": 9,
+    "def": 3,
+    "aim": 9,
+    "luck": 2
+  },
+  {
+    "index": 560,
+    "key": 5999,
+    "tier": 3,
+    "hp": 76,
+    "atk": 21,
+    "def": 5,
+    "aim": 21,
+    "luck": 4
+  },
+  {
+    "index": 561,
+    "key": 5999,
+    "tier": 4,
+    "hp": 126,
+    "atk": 35,
+    "def": 6,
+    "aim": 35,
+    "luck": 6
+  },
+  {
+    "index": 562,
+    "key": 5999,
+    "tier": 5,
+    "hp": 177,
+    "atk": 49,
+    "def": 7,
+    "aim": 49,
+    "luck": 9
+  },
+  {
+    "index": 563,
+    "key": 5999,
+    "tier": 6,
+    "hp": 252,
+    "atk": 70,
+    "def": 9,
+    "aim": 70,
+    "luck": 11
+  },
+  {
+    "index": 564,
+    "key": 500102,
+    "tier": 1,
+    "hp": 30,
+    "atk": 9,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 565,
+    "key": 500102,
+    "tier": 2,
+    "hp": 30,
+    "atk": 9,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 566,
+    "key": 500102,
+    "tier": 3,
+    "hp": 72,
+    "atk": 22,
+    "def": 4,
+    "aim": 22,
+    "luck": 5
+  },
+  {
+    "index": 567,
+    "key": 500102,
+    "tier": 4,
+    "hp": 119,
+    "atk": 36,
+    "def": 5,
+    "aim": 36,
+    "luck": 7
+  },
+  {
+    "index": 568,
+    "key": 500102,
+    "tier": 5,
+    "hp": 167,
+    "atk": 51,
+    "def": 6,
+    "aim": 51,
+    "luck": 11
+  },
+  {
+    "index": 569,
+    "key": 500102,
+    "tier": 6,
+    "hp": 238,
+    "atk": 72,
+    "def": 7,
+    "aim": 72,
+    "luck": 13
+  },
+  {
+    "index": 570,
+    "key": 500103,
+    "tier": 1,
+    "hp": 33,
+    "atk": 9,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 571,
+    "key": 500103,
+    "tier": 2,
+    "hp": 33,
+    "atk": 9,
+    "def": 3,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 572,
+    "key": 500103,
+    "tier": 3,
+    "hp": 77,
+    "atk": 21,
+    "def": 3,
+    "aim": 25,
+    "luck": 5
+  },
+  {
+    "index": 573,
+    "key": 500103,
+    "tier": 4,
+    "hp": 121,
+    "atk": 33,
+    "def": 4,
+    "aim": 38,
+    "luck": 8
+  },
+  {
+    "index": 574,
+    "key": 500103,
+    "tier": 5,
+    "hp": 165,
+    "atk": 45,
+    "def": 5,
+    "aim": 52,
+    "luck": 11
+  },
+  {
+    "index": 575,
+    "key": 500103,
+    "tier": 6,
+    "hp": 219,
+    "atk": 59,
+    "def": 6,
+    "aim": 69,
+    "luck": 12
+  },
+  {
+    "index": 576,
+    "key": 500106,
+    "tier": 1,
+    "hp": 28,
+    "atk": 9,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 577,
+    "key": 500106,
+    "tier": 2,
+    "hp": 28,
+    "atk": 9,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 578,
+    "key": 500106,
+    "tier": 3,
+    "hp": 70,
+    "atk": 23,
+    "def": 4,
+    "aim": 22,
+    "luck": 5
+  },
+  {
+    "index": 579,
+    "key": 500106,
+    "tier": 4,
+    "hp": 126,
+    "atk": 41,
+    "def": 4,
+    "aim": 40,
+    "luck": 7
+  },
+  {
+    "index": 580,
+    "key": 500106,
+    "tier": 5,
+    "hp": 181,
+    "atk": 58,
+    "def": 6,
+    "aim": 57,
+    "luck": 10
+  },
+  {
+    "index": 581,
+    "key": 500106,
+    "tier": 6,
+    "hp": 278,
+    "atk": 89,
+    "def": 8,
+    "aim": 87,
+    "luck": 15
+  },
+  {
+    "index": 582,
+    "key": 500109,
+    "tier": 1,
+    "hp": 27,
+    "atk": 7,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 583,
+    "key": 500109,
+    "tier": 2,
+    "hp": 27,
+    "atk": 7,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 584,
+    "key": 500109,
+    "tier": 3,
+    "hp": 67,
+    "atk": 18,
+    "def": 4,
+    "aim": 22,
+    "luck": 5
+  },
+  {
+    "index": 585,
+    "key": 500109,
+    "tier": 4,
+    "hp": 120,
+    "atk": 32,
+    "def": 5,
+    "aim": 40,
+    "luck": 7
+  },
+  {
+    "index": 586,
+    "key": 500109,
+    "tier": 5,
+    "hp": 173,
+    "atk": 46,
+    "def": 7,
+    "aim": 58,
+    "luck": 11
+  },
+  {
+    "index": 587,
+    "key": 500109,
+    "tier": 6,
+    "hp": 265,
+    "atk": 70,
+    "def": 10,
+    "aim": 88,
+    "luck": 16
+  },
+  {
+    "index": 588,
+    "key": 500113,
+    "tier": 1,
+    "hp": 34,
+    "atk": 9,
+    "def": 4,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 589,
+    "key": 500113,
+    "tier": 2,
+    "hp": 34,
+    "atk": 9,
+    "def": 4,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 590,
+    "key": 500113,
+    "tier": 3,
+    "hp": 80,
+    "atk": 22,
+    "def": 6,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 591,
+    "key": 500113,
+    "tier": 4,
+    "hp": 133,
+    "atk": 36,
+    "def": 8,
+    "aim": 38,
+    "luck": 7
+  },
+  {
+    "index": 592,
+    "key": 500113,
+    "tier": 5,
+    "hp": 187,
+    "atk": 50,
+    "def": 9,
+    "aim": 54,
+    "luck": 12
+  },
+  {
+    "index": 593,
+    "key": 500113,
+    "tier": 6,
+    "hp": 266,
+    "atk": 71,
+    "def": 12,
+    "aim": 76,
+    "luck": 14
+  },
+  {
+    "index": 594,
+    "key": 500202,
+    "tier": 1,
+    "hp": 34,
+    "atk": 5,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 595,
+    "key": 500202,
+    "tier": 2,
+    "hp": 34,
+    "atk": 5,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 596,
+    "key": 500202,
+    "tier": 3,
+    "hp": 83,
+    "atk": 12,
+    "def": 6,
+    "aim": 21,
+    "luck": 5
+  },
+  {
+    "index": 597,
+    "key": 500202,
+    "tier": 4,
+    "hp": 149,
+    "atk": 21,
+    "def": 9,
+    "aim": 37,
+    "luck": 7
+  },
+  {
+    "index": 598,
+    "key": 500202,
+    "tier": 5,
+    "hp": 216,
+    "atk": 30,
+    "def": 14,
+    "aim": 53,
+    "luck": 11
+  },
+  {
+    "index": 599,
+    "key": 500202,
+    "tier": 6,
+    "hp": 331,
+    "atk": 46,
+    "def": 17,
+    "aim": 81,
+    "luck": 16
+  },
+  {
+    "index": 600,
+    "key": 500204,
+    "tier": 1,
+    "hp": 36,
+    "atk": 7,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 601,
+    "key": 500204,
+    "tier": 2,
+    "hp": 36,
+    "atk": 7,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 602,
+    "key": 500204,
+    "tier": 3,
+    "hp": 83,
+    "atk": 15,
+    "def": 6,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 603,
+    "key": 500204,
+    "tier": 4,
+    "hp": 131,
+    "atk": 24,
+    "def": 8,
+    "aim": 36,
+    "luck": 7
+  },
+  {
+    "index": 604,
+    "key": 500204,
+    "tier": 5,
+    "hp": 178,
+    "atk": 32,
+    "def": 11,
+    "aim": 48,
+    "luck": 10
+  },
+  {
+    "index": 605,
+    "key": 500204,
+    "tier": 6,
+    "hp": 237,
+    "atk": 42,
+    "def": 12,
+    "aim": 64,
+    "luck": 11
+  },
+  {
+    "index": 606,
+    "key": 500205,
+    "tier": 1,
+    "hp": 36,
+    "atk": 6,
+    "def": 2,
+    "aim": 8,
+    "luck": 2
+  },
+  {
+    "index": 607,
+    "key": 500205,
+    "tier": 2,
+    "hp": 36,
+    "atk": 6,
+    "def": 2,
+    "aim": 8,
+    "luck": 2
+  },
+  {
+    "index": 608,
+    "key": 500205,
+    "tier": 3,
+    "hp": 89,
+    "atk": 15,
+    "def": 6,
+    "aim": 19,
+    "luck": 4
+  },
+  {
+    "index": 609,
+    "key": 500205,
+    "tier": 4,
+    "hp": 160,
+    "atk": 27,
+    "def": 9,
+    "aim": 34,
+    "luck": 6
+  },
+  {
+    "index": 610,
+    "key": 500205,
+    "tier": 5,
+    "hp": 231,
+    "atk": 39,
+    "def": 14,
+    "aim": 49,
+    "luck": 9
+  },
+  {
+    "index": 611,
+    "key": 500205,
+    "tier": 6,
+    "hp": 355,
+    "atk": 60,
+    "def": 17,
+    "aim": 75,
+    "luck": 13
+  },
+  {
+    "index": 612,
+    "key": 500206,
+    "tier": 1,
+    "hp": 34,
+    "atk": 5,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 613,
+    "key": 500206,
+    "tier": 2,
+    "hp": 34,
+    "atk": 5,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 614,
+    "key": 500206,
+    "tier": 3,
+    "hp": 83,
+    "atk": 12,
+    "def": 5,
+    "aim": 22,
+    "luck": 5
+  },
+  {
+    "index": 615,
+    "key": 500206,
+    "tier": 4,
+    "hp": 149,
+    "atk": 21,
+    "def": 8,
+    "aim": 40,
+    "luck": 7
+  },
+  {
+    "index": 616,
+    "key": 500206,
+    "tier": 5,
+    "hp": 216,
+    "atk": 30,
+    "def": 13,
+    "aim": 57,
+    "luck": 10
+  },
+  {
+    "index": 617,
+    "key": 500206,
+    "tier": 6,
+    "hp": 331,
+    "atk": 46,
+    "def": 16,
+    "aim": 87,
+    "luck": 15
+  },
+  {
+    "index": 618,
+    "key": 500310,
+    "tier": 1,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 619,
+    "key": 500310,
+    "tier": 2,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 620,
+    "key": 500310,
+    "tier": 3,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 621,
+    "key": 500310,
+    "tier": 4,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 622,
+    "key": 500310,
+    "tier": 5,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 623,
+    "key": 500310,
+    "tier": 6,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 624,
+    "key": 500402,
+    "tier": 1,
+    "hp": 33,
+    "atk": 6,
+    "def": 2,
+    "aim": 9,
+    "luck": 2
+  },
+  {
+    "index": 625,
+    "key": 500402,
+    "tier": 2,
+    "hp": 33,
+    "atk": 6,
+    "def": 2,
+    "aim": 9,
+    "luck": 2
+  },
+  {
+    "index": 626,
+    "key": 500402,
+    "tier": 3,
+    "hp": 82,
+    "atk": 14,
+    "def": 5,
+    "aim": 22,
+    "luck": 4
+  },
+  {
+    "index": 627,
+    "key": 500402,
+    "tier": 4,
+    "hp": 148,
+    "atk": 24,
+    "def": 8,
+    "aim": 39,
+    "luck": 6
+  },
+  {
+    "index": 628,
+    "key": 500402,
+    "tier": 5,
+    "hp": 214,
+    "atk": 35,
+    "def": 13,
+    "aim": 56,
+    "luck": 10
+  },
+  {
+    "index": 629,
+    "key": 500402,
+    "tier": 6,
+    "hp": 328,
+    "atk": 53,
+    "def": 16,
+    "aim": 86,
+    "luck": 14
+  },
+  {
+    "index": 630,
+    "key": 500408,
+    "tier": 1,
+    "hp": 37,
+    "atk": 6,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 631,
+    "key": 500408,
+    "tier": 2,
+    "hp": 37,
+    "atk": 6,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 632,
+    "key": 500408,
+    "tier": 3,
+    "hp": 91,
+    "atk": 14,
+    "def": 5,
+    "aim": 22,
+    "luck": 5
+  },
+  {
+    "index": 633,
+    "key": 500408,
+    "tier": 4,
+    "hp": 163,
+    "atk": 25,
+    "def": 8,
+    "aim": 40,
+    "luck": 7
+  },
+  {
+    "index": 634,
+    "key": 500408,
+    "tier": 5,
+    "hp": 235,
+    "atk": 36,
+    "def": 13,
+    "aim": 58,
+    "luck": 11
+  },
+  {
+    "index": 635,
+    "key": 500408,
+    "tier": 6,
+    "hp": 361,
+    "atk": 54,
+    "def": 16,
+    "aim": 88,
+    "luck": 16
+  },
+  {
+    "index": 636,
+    "key": 500411,
+    "tier": 1,
+    "hp": 28,
+    "atk": 6,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 637,
+    "key": 500411,
+    "tier": 2,
+    "hp": 28,
+    "atk": 6,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 638,
+    "key": 500411,
+    "tier": 3,
+    "hp": 70,
+    "atk": 15,
+    "def": 5,
+    "aim": 22,
+    "luck": 5
+  },
+  {
+    "index": 639,
+    "key": 500411,
+    "tier": 4,
+    "hp": 126,
+    "atk": 27,
+    "def": 8,
+    "aim": 40,
+    "luck": 7
+  },
+  {
+    "index": 640,
+    "key": 500411,
+    "tier": 5,
+    "hp": 182,
+    "atk": 39,
+    "def": 13,
+    "aim": 57,
+    "luck": 11
+  },
+  {
+    "index": 641,
+    "key": 500411,
+    "tier": 6,
+    "hp": 280,
+    "atk": 60,
+    "def": 16,
+    "aim": 87,
+    "luck": 16
+  },
+  {
+    "index": 642,
+    "key": 500502,
+    "tier": 1,
+    "hp": 29,
+    "atk": 9,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 643,
+    "key": 500502,
+    "tier": 2,
+    "hp": 29,
+    "atk": 9,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 644,
+    "key": 500502,
+    "tier": 3,
+    "hp": 71,
+    "atk": 23,
+    "def": 5,
+    "aim": 24,
+    "luck": 5
+  },
+  {
+    "index": 645,
+    "key": 500502,
+    "tier": 4,
+    "hp": 128,
+    "atk": 41,
+    "def": 6,
+    "aim": 43,
+    "luck": 7
+  },
+  {
+    "index": 646,
+    "key": 500502,
+    "tier": 5,
+    "hp": 184,
+    "atk": 59,
+    "def": 8,
+    "aim": 62,
+    "luck": 11
+  },
+  {
+    "index": 647,
+    "key": 500502,
+    "tier": 6,
+    "hp": 283,
+    "atk": 90,
+    "def": 11,
+    "aim": 94,
+    "luck": 16
+  },
+  {
+    "index": 648,
+    "key": 500503,
+    "tier": 1,
+    "hp": 32,
+    "atk": 9,
+    "def": 4,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 649,
+    "key": 500503,
+    "tier": 2,
+    "hp": 32,
+    "atk": 9,
+    "def": 4,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 650,
+    "key": 500503,
+    "tier": 3,
+    "hp": 76,
+    "atk": 21,
+    "def": 6,
+    "aim": 23,
+    "luck": 4
+  },
+  {
+    "index": 651,
+    "key": 500503,
+    "tier": 4,
+    "hp": 126,
+    "atk": 34,
+    "def": 8,
+    "aim": 38,
+    "luck": 6
+  },
+  {
+    "index": 652,
+    "key": 500503,
+    "tier": 5,
+    "hp": 177,
+    "atk": 47,
+    "def": 9,
+    "aim": 53,
+    "luck": 10
+  },
+  {
+    "index": 653,
+    "key": 500503,
+    "tier": 6,
+    "hp": 252,
+    "atk": 67,
+    "def": 12,
+    "aim": 75,
+    "luck": 12
+  },
+  {
+    "index": 654,
+    "key": 500504,
+    "tier": 1,
+    "hp": 31,
+    "atk": 9,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 655,
+    "key": 500504,
+    "tier": 2,
+    "hp": 31,
+    "atk": 9,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 656,
+    "key": 500504,
+    "tier": 3,
+    "hp": 73,
+    "atk": 21,
+    "def": 5,
+    "aim": 24,
+    "luck": 4
+  },
+  {
+    "index": 657,
+    "key": 500504,
+    "tier": 4,
+    "hp": 121,
+    "atk": 35,
+    "def": 6,
+    "aim": 40,
+    "luck": 6
+  },
+  {
+    "index": 658,
+    "key": 500504,
+    "tier": 5,
+    "hp": 169,
+    "atk": 49,
+    "def": 7,
+    "aim": 56,
+    "luck": 10
+  },
+  {
+    "index": 659,
+    "key": 500504,
+    "tier": 6,
+    "hp": 241,
+    "atk": 70,
+    "def": 9,
+    "aim": 80,
+    "luck": 12
+  },
+  {
+    "index": 660,
+    "key": 500506,
+    "tier": 1,
+    "hp": 27,
+    "atk": 9,
+    "def": 2,
+    "aim": 10,
+    "luck": 2
+  },
+  {
+    "index": 661,
+    "key": 500506,
+    "tier": 2,
+    "hp": 27,
+    "atk": 9,
+    "def": 2,
+    "aim": 10,
+    "luck": 2
+  },
+  {
+    "index": 662,
+    "key": 500506,
+    "tier": 3,
+    "hp": 66,
+    "atk": 23,
+    "def": 4,
+    "aim": 23,
+    "luck": 4
+  },
+  {
+    "index": 663,
+    "key": 500506,
+    "tier": 4,
+    "hp": 119,
+    "atk": 41,
+    "def": 4,
+    "aim": 42,
+    "luck": 6
+  },
+  {
+    "index": 664,
+    "key": 500506,
+    "tier": 5,
+    "hp": 171,
+    "atk": 58,
+    "def": 6,
+    "aim": 60,
+    "luck": 10
+  },
+  {
+    "index": 665,
+    "key": 500506,
+    "tier": 6,
+    "hp": 263,
+    "atk": 89,
+    "def": 8,
+    "aim": 92,
+    "luck": 14
+  },
+  {
+    "index": 666,
+    "key": 500613,
+    "tier": 1,
+    "hp": 33,
+    "atk": 9,
+    "def": 4,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 667,
+    "key": 500613,
+    "tier": 2,
+    "hp": 33,
+    "atk": 9,
+    "def": 4,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 668,
+    "key": 500613,
+    "tier": 3,
+    "hp": 78,
+    "atk": 21,
+    "def": 5,
+    "aim": 25,
+    "luck": 5
+  },
+  {
+    "index": 669,
+    "key": 500613,
+    "tier": 4,
+    "hp": 129,
+    "atk": 34,
+    "def": 6,
+    "aim": 41,
+    "luck": 8
+  },
+  {
+    "index": 670,
+    "key": 500613,
+    "tier": 5,
+    "hp": 180,
+    "atk": 48,
+    "def": 8,
+    "aim": 57,
+    "luck": 12
+  },
+  {
+    "index": 671,
+    "key": 500613,
+    "tier": 6,
+    "hp": 257,
+    "atk": 68,
+    "def": 10,
+    "aim": 81,
+    "luck": 15
+  },
+  {
+    "index": 672,
+    "key": 500710,
+    "tier": 1,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 673,
+    "key": 500710,
+    "tier": 2,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 674,
+    "key": 500710,
+    "tier": 3,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 675,
+    "key": 500710,
+    "tier": 4,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 676,
+    "key": 500710,
+    "tier": 5,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 677,
+    "key": 500710,
+    "tier": 6,
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "aim": 0,
+    "luck": 0
+  },
+  {
+    "index": 678,
+    "key": 501014,
+    "tier": 1,
+    "hp": 29,
+    "atk": 8,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 679,
+    "key": 501014,
+    "tier": 2,
+    "hp": 29,
+    "atk": 8,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 680,
+    "key": 501014,
+    "tier": 3,
+    "hp": 71,
+    "atk": 20,
+    "def": 5,
+    "aim": 21,
+    "luck": 5
+  },
+  {
+    "index": 681,
+    "key": 501014,
+    "tier": 4,
+    "hp": 128,
+    "atk": 36,
+    "def": 6,
+    "aim": 38,
+    "luck": 7
+  },
+  {
+    "index": 682,
+    "key": 501014,
+    "tier": 5,
+    "hp": 184,
+    "atk": 51,
+    "def": 8,
+    "aim": 54,
+    "luck": 11
+  },
+  {
+    "index": 683,
+    "key": 501014,
+    "tier": 6,
+    "hp": 283,
+    "atk": 78,
+    "def": 11,
+    "aim": 83,
+    "luck": 16
+  },
+  {
+    "index": 684,
+    "key": 501109,
+    "tier": 1,
+    "hp": 28,
+    "atk": 8,
+    "def": 2,
+    "aim": 10,
+    "luck": 2
+  },
+  {
+    "index": 685,
+    "key": 501109,
+    "tier": 2,
+    "hp": 28,
+    "atk": 8,
+    "def": 2,
+    "aim": 10,
+    "luck": 2
+  },
+  {
+    "index": 686,
+    "key": 501109,
+    "tier": 3,
+    "hp": 68,
+    "atk": 20,
+    "def": 4,
+    "aim": 24,
+    "luck": 4
+  },
+  {
+    "index": 687,
+    "key": 501109,
+    "tier": 4,
+    "hp": 122,
+    "atk": 36,
+    "def": 4,
+    "aim": 43,
+    "luck": 6
+  },
+  {
+    "index": 688,
+    "key": 501109,
+    "tier": 5,
+    "hp": 177,
+    "atk": 51,
+    "def": 6,
+    "aim": 62,
+    "luck": 10
+  },
+  {
+    "index": 689,
+    "key": 501109,
+    "tier": 6,
+    "hp": 271,
+    "atk": 78,
+    "def": 8,
+    "aim": 94,
+    "luck": 14
+  },
+  {
+    "index": 690,
+    "key": 501302,
+    "tier": 1,
+    "hp": 24,
+    "atk": 9,
+    "def": 3,
+    "aim": 8,
+    "luck": 3
+  },
+  {
+    "index": 691,
+    "key": 501302,
+    "tier": 2,
+    "hp": 24,
+    "atk": 9,
+    "def": 3,
+    "aim": 8,
+    "luck": 3
+  },
+  {
+    "index": 692,
+    "key": 501302,
+    "tier": 3,
+    "hp": 60,
+    "atk": 23,
+    "def": 4,
+    "aim": 20,
+    "luck": 5
+  },
+  {
+    "index": 693,
+    "key": 501302,
+    "tier": 4,
+    "hp": 108,
+    "atk": 41,
+    "def": 5,
+    "aim": 36,
+    "luck": 7
+  },
+  {
+    "index": 694,
+    "key": 501302,
+    "tier": 5,
+    "hp": 156,
+    "atk": 58,
+    "def": 7,
+    "aim": 52,
+    "luck": 10
+  },
+  {
+    "index": 695,
+    "key": 501302,
+    "tier": 6,
+    "hp": 239,
+    "atk": 89,
+    "def": 10,
+    "aim": 80,
+    "luck": 15
+  },
+  {
+    "index": 696,
+    "key": 501308,
+    "tier": 1,
+    "hp": 35,
+    "atk": 10,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 697,
+    "key": 501308,
+    "tier": 2,
+    "hp": 35,
+    "atk": 10,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 698,
+    "key": 501308,
+    "tier": 3,
+    "hp": 81,
+    "atk": 23,
+    "def": 3,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 699,
+    "key": 501308,
+    "tier": 4,
+    "hp": 126,
+    "atk": 36,
+    "def": 4,
+    "aim": 36,
+    "luck": 8
+  },
+  {
+    "index": 700,
+    "key": 501308,
+    "tier": 5,
+    "hp": 172,
+    "atk": 48,
+    "def": 5,
+    "aim": 48,
+    "luck": 11
+  },
+  {
+    "index": 701,
+    "key": 501308,
+    "tier": 6,
+    "hp": 229,
+    "atk": 64,
+    "def": 6,
+    "aim": 64,
+    "luck": 12
+  },
+  {
+    "index": 702,
+    "key": 501512,
+    "tier": 1,
+    "hp": 34,
+    "atk": 6,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 703,
+    "key": 501512,
+    "tier": 2,
+    "hp": 34,
+    "atk": 6,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 704,
+    "key": 501512,
+    "tier": 3,
+    "hp": 83,
+    "atk": 15,
+    "def": 5,
+    "aim": 22,
+    "luck": 5
+  },
+  {
+    "index": 705,
+    "key": 501512,
+    "tier": 4,
+    "hp": 149,
+    "atk": 27,
+    "def": 8,
+    "aim": 40,
+    "luck": 7
+  },
+  {
+    "index": 706,
+    "key": 501512,
+    "tier": 5,
+    "hp": 216,
+    "atk": 39,
+    "def": 13,
+    "aim": 57,
+    "luck": 10
+  },
+  {
+    "index": 707,
+    "key": 501512,
+    "tier": 6,
+    "hp": 331,
+    "atk": 60,
+    "def": 16,
+    "aim": 87,
+    "luck": 15
+  },
+  {
+    "index": 708,
+    "key": 501612,
+    "tier": 1,
+    "hp": 30,
+    "atk": 8,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 709,
+    "key": 501612,
+    "tier": 2,
+    "hp": 30,
+    "atk": 8,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 710,
+    "key": 501612,
+    "tier": 3,
+    "hp": 74,
+    "atk": 20,
+    "def": 5,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 711,
+    "key": 501612,
+    "tier": 4,
+    "hp": 134,
+    "atk": 36,
+    "def": 6,
+    "aim": 41,
+    "luck": 7
+  },
+  {
+    "index": 712,
+    "key": 501612,
+    "tier": 5,
+    "hp": 193,
+    "atk": 52,
+    "def": 8,
+    "aim": 59,
+    "luck": 12
+  },
+  {
+    "index": 713,
+    "key": 501612,
+    "tier": 6,
+    "hp": 296,
+    "atk": 79,
+    "def": 11,
+    "aim": 90,
+    "luck": 17
+  },
+  {
+    "index": 714,
+    "key": 501702,
+    "tier": 1,
+    "hp": 30,
+    "atk": 10,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 715,
+    "key": 501702,
+    "tier": 2,
+    "hp": 30,
+    "atk": 10,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 716,
+    "key": 501702,
+    "tier": 3,
+    "hp": 72,
+    "atk": 23,
+    "def": 4,
+    "aim": 24,
+    "luck": 5
+  },
+  {
+    "index": 717,
+    "key": 501702,
+    "tier": 4,
+    "hp": 119,
+    "atk": 38,
+    "def": 5,
+    "aim": 39,
+    "luck": 7
+  },
+  {
+    "index": 718,
+    "key": 501702,
+    "tier": 5,
+    "hp": 167,
+    "atk": 53,
+    "def": 6,
+    "aim": 55,
+    "luck": 12
+  },
+  {
+    "index": 719,
+    "key": 501702,
+    "tier": 6,
+    "hp": 238,
+    "atk": 75,
+    "def": 7,
+    "aim": 78,
+    "luck": 14
+  },
+  {
+    "index": 720,
+    "key": 501703,
+    "tier": 1,
+    "hp": 31,
+    "atk": 9,
+    "def": 4,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 721,
+    "key": 501703,
+    "tier": 2,
+    "hp": 31,
+    "atk": 9,
+    "def": 4,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 722,
+    "key": 501703,
+    "tier": 3,
+    "hp": 73,
+    "atk": 21,
+    "def": 6,
+    "aim": 21,
+    "luck": 5
+  },
+  {
+    "index": 723,
+    "key": 501703,
+    "tier": 4,
+    "hp": 121,
+    "atk": 34,
+    "def": 8,
+    "aim": 35,
+    "luck": 7
+  },
+  {
+    "index": 724,
+    "key": 501703,
+    "tier": 5,
+    "hp": 169,
+    "atk": 47,
+    "def": 9,
+    "aim": 49,
+    "luck": 12
+  },
+  {
+    "index": 725,
+    "key": 501703,
+    "tier": 6,
+    "hp": 241,
+    "atk": 67,
+    "def": 12,
+    "aim": 70,
+    "luck": 14
+  },
+  {
+    "index": 726,
+    "key": 501705,
+    "tier": 1,
+    "hp": 32,
+    "atk": 9,
+    "def": 4,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 727,
+    "key": 501705,
+    "tier": 2,
+    "hp": 32,
+    "atk": 9,
+    "def": 4,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 728,
+    "key": 501705,
+    "tier": 3,
+    "hp": 77,
+    "atk": 21,
+    "def": 6,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 729,
+    "key": 501705,
+    "tier": 4,
+    "hp": 127,
+    "atk": 34,
+    "def": 8,
+    "aim": 38,
+    "luck": 7
+  },
+  {
+    "index": 730,
+    "key": 501705,
+    "tier": 5,
+    "hp": 178,
+    "atk": 47,
+    "def": 9,
+    "aim": 53,
+    "luck": 12
+  },
+  {
+    "index": 731,
+    "key": 501705,
+    "tier": 6,
+    "hp": 254,
+    "atk": 67,
+    "def": 12,
+    "aim": 75,
+    "luck": 14
+  },
+  {
+    "index": 732,
+    "key": 501706,
+    "tier": 1,
+    "hp": 27,
+    "atk": 9,
+    "def": 4,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 733,
+    "key": 501706,
+    "tier": 2,
+    "hp": 27,
+    "atk": 9,
+    "def": 4,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 734,
+    "key": 501706,
+    "tier": 3,
+    "hp": 67,
+    "atk": 22,
+    "def": 6,
+    "aim": 22,
+    "luck": 5
+  },
+  {
+    "index": 735,
+    "key": 501706,
+    "tier": 4,
+    "hp": 120,
+    "atk": 39,
+    "def": 7,
+    "aim": 40,
+    "luck": 7
+  },
+  {
+    "index": 736,
+    "key": 501706,
+    "tier": 5,
+    "hp": 173,
+    "atk": 56,
+    "def": 10,
+    "aim": 57,
+    "luck": 11
+  },
+  {
+    "index": 737,
+    "key": 501706,
+    "tier": 6,
+    "hp": 265,
+    "atk": 85,
+    "def": 13,
+    "aim": 87,
+    "luck": 16
+  },
+  {
+    "index": 738,
+    "key": 501709,
+    "tier": 1,
+    "hp": 27,
+    "atk": 8,
+    "def": 2,
+    "aim": 9,
+    "luck": 2
+  },
+  {
+    "index": 739,
+    "key": 501709,
+    "tier": 2,
+    "hp": 27,
+    "atk": 8,
+    "def": 2,
+    "aim": 9,
+    "luck": 2
+  },
+  {
+    "index": 740,
+    "key": 501709,
+    "tier": 3,
+    "hp": 66,
+    "atk": 20,
+    "def": 4,
+    "aim": 21,
+    "luck": 4
+  },
+  {
+    "index": 741,
+    "key": 501709,
+    "tier": 4,
+    "hp": 119,
+    "atk": 36,
+    "def": 4,
+    "aim": 37,
+    "luck": 6
+  },
+  {
+    "index": 742,
+    "key": 501709,
+    "tier": 5,
+    "hp": 171,
+    "atk": 52,
+    "def": 6,
+    "aim": 54,
+    "luck": 9
+  },
+  {
+    "index": 743,
+    "key": 501709,
+    "tier": 6,
+    "hp": 263,
+    "atk": 80,
+    "def": 8,
+    "aim": 82,
+    "luck": 13
+  },
+  {
+    "index": 744,
+    "key": 501713,
+    "tier": 1,
+    "hp": 33,
+    "atk": 9,
+    "def": 4,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 745,
+    "key": 501713,
+    "tier": 2,
+    "hp": 33,
+    "atk": 9,
+    "def": 4,
+    "aim": 11,
+    "luck": 3
+  },
+  {
+    "index": 746,
+    "key": 501713,
+    "tier": 3,
+    "hp": 78,
+    "atk": 22,
+    "def": 5,
+    "aim": 25,
+    "luck": 5
+  },
+  {
+    "index": 747,
+    "key": 501713,
+    "tier": 4,
+    "hp": 129,
+    "atk": 36,
+    "def": 6,
+    "aim": 41,
+    "luck": 7
+  },
+  {
+    "index": 748,
+    "key": 501713,
+    "tier": 5,
+    "hp": 180,
+    "atk": 50,
+    "def": 8,
+    "aim": 57,
+    "luck": 12
+  },
+  {
+    "index": 749,
+    "key": 501713,
+    "tier": 6,
+    "hp": 257,
+    "atk": 71,
+    "def": 10,
+    "aim": 81,
+    "luck": 14
+  },
+  {
+    "index": 750,
+    "key": 501802,
+    "tier": 1,
+    "hp": 28,
+    "atk": 10,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 751,
+    "key": 501802,
+    "tier": 2,
+    "hp": 28,
+    "atk": 10,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 752,
+    "key": 501802,
+    "tier": 3,
+    "hp": 66,
+    "atk": 24,
+    "def": 3,
+    "aim": 22,
+    "luck": 5
+  },
+  {
+    "index": 753,
+    "key": 501802,
+    "tier": 4,
+    "hp": 109,
+    "atk": 40,
+    "def": 3,
+    "aim": 36,
+    "luck": 7
+  },
+  {
+    "index": 754,
+    "key": 501802,
+    "tier": 5,
+    "hp": 152,
+    "atk": 56,
+    "def": 4,
+    "aim": 51,
+    "luck": 12
+  },
+  {
+    "index": 755,
+    "key": 501802,
+    "tier": 6,
+    "hp": 217,
+    "atk": 79,
+    "def": 5,
+    "aim": 72,
+    "luck": 14
+  },
+  {
+    "index": 756,
+    "key": 501808,
+    "tier": 1,
+    "hp": 31,
+    "atk": 9,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 757,
+    "key": 501808,
+    "tier": 2,
+    "hp": 31,
+    "atk": 9,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 758,
+    "key": 501808,
+    "tier": 3,
+    "hp": 73,
+    "atk": 21,
+    "def": 4,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 759,
+    "key": 501808,
+    "tier": 4,
+    "hp": 121,
+    "atk": 34,
+    "def": 5,
+    "aim": 38,
+    "luck": 7
+  },
+  {
+    "index": 760,
+    "key": 501808,
+    "tier": 5,
+    "hp": 169,
+    "atk": 47,
+    "def": 6,
+    "aim": 53,
+    "luck": 12
+  },
+  {
+    "index": 761,
+    "key": 501808,
+    "tier": 6,
+    "hp": 241,
+    "atk": 67,
+    "def": 7,
+    "aim": 75,
+    "luck": 14
+  },
+  {
+    "index": 762,
+    "key": 501809,
+    "tier": 1,
+    "hp": 30,
+    "atk": 9,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 763,
+    "key": 501809,
+    "tier": 2,
+    "hp": 30,
+    "atk": 9,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 764,
+    "key": 501809,
+    "tier": 3,
+    "hp": 72,
+    "atk": 21,
+    "def": 4,
+    "aim": 21,
+    "luck": 5
+  },
+  {
+    "index": 765,
+    "key": 501809,
+    "tier": 4,
+    "hp": 119,
+    "atk": 35,
+    "def": 5,
+    "aim": 35,
+    "luck": 7
+  },
+  {
+    "index": 766,
+    "key": 501809,
+    "tier": 5,
+    "hp": 167,
+    "atk": 49,
+    "def": 6,
+    "aim": 49,
+    "luck": 11
+  },
+  {
+    "index": 767,
+    "key": 501809,
+    "tier": 6,
+    "hp": 238,
+    "atk": 69,
+    "def": 7,
+    "aim": 69,
+    "luck": 13
+  },
+  {
+    "index": 768,
+    "key": 501811,
+    "tier": 1,
+    "hp": 29,
+    "atk": 9,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 769,
+    "key": 501811,
+    "tier": 2,
+    "hp": 29,
+    "atk": 9,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 770,
+    "key": 501811,
+    "tier": 3,
+    "hp": 72,
+    "atk": 21,
+    "def": 5,
+    "aim": 21,
+    "luck": 5
+  },
+  {
+    "index": 771,
+    "key": 501811,
+    "tier": 4,
+    "hp": 129,
+    "atk": 37,
+    "def": 6,
+    "aim": 38,
+    "luck": 7
+  },
+  {
+    "index": 772,
+    "key": 501811,
+    "tier": 5,
+    "hp": 186,
+    "atk": 54,
+    "def": 8,
+    "aim": 55,
+    "luck": 12
+  },
+  {
+    "index": 773,
+    "key": 501811,
+    "tier": 6,
+    "hp": 286,
+    "atk": 82,
+    "def": 11,
+    "aim": 84,
+    "luck": 17
+  },
+  {
+    "index": 774,
+    "key": 501902,
+    "tier": 1,
+    "hp": 28,
+    "atk": 9,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 775,
+    "key": 501902,
+    "tier": 2,
+    "hp": 28,
+    "atk": 9,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 776,
+    "key": 501902,
+    "tier": 3,
+    "hp": 68,
+    "atk": 22,
+    "def": 4,
+    "aim": 25,
+    "luck": 5
+  },
+  {
+    "index": 777,
+    "key": 501902,
+    "tier": 4,
+    "hp": 122,
+    "atk": 39,
+    "def": 4,
+    "aim": 45,
+    "luck": 7
+  },
+  {
+    "index": 778,
+    "key": 501902,
+    "tier": 5,
+    "hp": 177,
+    "atk": 56,
+    "def": 6,
+    "aim": 65,
+    "luck": 10
+  },
+  {
+    "index": 779,
+    "key": 501902,
+    "tier": 6,
+    "hp": 271,
+    "atk": 86,
+    "def": 8,
+    "aim": 99,
+    "luck": 15
+  },
+  {
+    "index": 780,
+    "key": 501908,
+    "tier": 1,
+    "hp": 33,
+    "atk": 10,
+    "def": 3,
+    "aim": 12,
+    "luck": 3
+  },
+  {
+    "index": 781,
+    "key": 501908,
+    "tier": 2,
+    "hp": 33,
+    "atk": 10,
+    "def": 3,
+    "aim": 12,
+    "luck": 3
+  },
+  {
+    "index": 782,
+    "key": 501908,
+    "tier": 3,
+    "hp": 77,
+    "atk": 22,
+    "def": 3,
+    "aim": 26,
+    "luck": 5
+  },
+  {
+    "index": 783,
+    "key": 501908,
+    "tier": 4,
+    "hp": 121,
+    "atk": 34,
+    "def": 4,
+    "aim": 41,
+    "luck": 7
+  },
+  {
+    "index": 784,
+    "key": 501908,
+    "tier": 5,
+    "hp": 165,
+    "atk": 46,
+    "def": 5,
+    "aim": 56,
+    "luck": 10
+  },
+  {
+    "index": 785,
+    "key": 501908,
+    "tier": 6,
+    "hp": 219,
+    "atk": 61,
+    "def": 6,
+    "aim": 74,
+    "luck": 11
+  },
+  {
+    "index": 786,
+    "key": 501911,
+    "tier": 1,
+    "hp": 27,
+    "atk": 8,
+    "def": 2,
+    "aim": 9,
+    "luck": 2
+  },
+  {
+    "index": 787,
+    "key": 501911,
+    "tier": 2,
+    "hp": 27,
+    "atk": 8,
+    "def": 2,
+    "aim": 9,
+    "luck": 2
+  },
+  {
+    "index": 788,
+    "key": 501911,
+    "tier": 3,
+    "hp": 66,
+    "atk": 19,
+    "def": 4,
+    "aim": 22,
+    "luck": 4
+  },
+  {
+    "index": 789,
+    "key": 501911,
+    "tier": 4,
+    "hp": 119,
+    "atk": 33,
+    "def": 4,
+    "aim": 40,
+    "luck": 6
+  },
+  {
+    "index": 790,
+    "key": 501911,
+    "tier": 5,
+    "hp": 171,
+    "atk": 48,
+    "def": 6,
+    "aim": 57,
+    "luck": 9
+  },
+  {
+    "index": 791,
+    "key": 501911,
+    "tier": 6,
+    "hp": 263,
+    "atk": 73,
+    "def": 8,
+    "aim": 87,
+    "luck": 13
+  },
+  {
+    "index": 792,
+    "key": 502012,
+    "tier": 1,
+    "hp": 31,
+    "atk": 7,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 793,
+    "key": 502012,
+    "tier": 2,
+    "hp": 31,
+    "atk": 7,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 794,
+    "key": 502012,
+    "tier": 3,
+    "hp": 76,
+    "atk": 17,
+    "def": 5,
+    "aim": 21,
+    "luck": 5
+  },
+  {
+    "index": 795,
+    "key": 502012,
+    "tier": 4,
+    "hp": 137,
+    "atk": 31,
+    "def": 8,
+    "aim": 37,
+    "luck": 7
+  },
+  {
+    "index": 796,
+    "key": 502012,
+    "tier": 5,
+    "hp": 197,
+    "atk": 45,
+    "def": 13,
+    "aim": 53,
+    "luck": 10
+  },
+  {
+    "index": 797,
+    "key": 502012,
+    "tier": 6,
+    "hp": 303,
+    "atk": 68,
+    "def": 16,
+    "aim": 81,
+    "luck": 15
+  },
+  {
+    "index": 798,
+    "key": 502102,
+    "tier": 1,
+    "hp": 34,
+    "atk": 7,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 799,
+    "key": 502102,
+    "tier": 2,
+    "hp": 34,
+    "atk": 7,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 800,
+    "key": 502102,
+    "tier": 3,
+    "hp": 85,
+    "atk": 16,
+    "def": 6,
+    "aim": 24,
+    "luck": 5
+  },
+  {
+    "index": 801,
+    "key": 502102,
+    "tier": 4,
+    "hp": 152,
+    "atk": 28,
+    "def": 9,
+    "aim": 43,
+    "luck": 7
+  },
+  {
+    "index": 802,
+    "key": 502102,
+    "tier": 5,
+    "hp": 220,
+    "atk": 41,
+    "def": 15,
+    "aim": 62,
+    "luck": 10
+  },
+  {
+    "index": 803,
+    "key": 502102,
+    "tier": 6,
+    "hp": 337,
+    "atk": 62,
+    "def": 18,
+    "aim": 94,
+    "luck": 15
+  },
+  {
+    "index": 804,
+    "key": 502103,
+    "tier": 1,
+    "hp": 35,
+    "atk": 6,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 805,
+    "key": 502103,
+    "tier": 2,
+    "hp": 35,
+    "atk": 6,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 806,
+    "key": 502103,
+    "tier": 3,
+    "hp": 82,
+    "atk": 13,
+    "def": 5,
+    "aim": 22,
+    "luck": 5
+  },
+  {
+    "index": 807,
+    "key": 502103,
+    "tier": 4,
+    "hp": 137,
+    "atk": 21,
+    "def": 9,
+    "aim": 37,
+    "luck": 7
+  },
+  {
+    "index": 808,
+    "key": 502103,
+    "tier": 5,
+    "hp": 192,
+    "atk": 30,
+    "def": 13,
+    "aim": 52,
+    "luck": 11
+  },
+  {
+    "index": 809,
+    "key": 502103,
+    "tier": 6,
+    "hp": 273,
+    "atk": 42,
+    "def": 15,
+    "aim": 73,
+    "luck": 13
+  },
+  {
+    "index": 810,
+    "key": 502106,
+    "tier": 1,
+    "hp": 34,
+    "atk": 6,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 811,
+    "key": 502106,
+    "tier": 2,
+    "hp": 34,
+    "atk": 6,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 812,
+    "key": 502106,
+    "tier": 3,
+    "hp": 85,
+    "atk": 14,
+    "def": 6,
+    "aim": 22,
+    "luck": 5
+  },
+  {
+    "index": 813,
+    "key": 502106,
+    "tier": 4,
+    "hp": 152,
+    "atk": 25,
+    "def": 9,
+    "aim": 40,
+    "luck": 7
+  },
+  {
+    "index": 814,
+    "key": 502106,
+    "tier": 5,
+    "hp": 220,
+    "atk": 36,
+    "def": 15,
+    "aim": 58,
+    "luck": 12
+  },
+  {
+    "index": 815,
+    "key": 502106,
+    "tier": 6,
+    "hp": 337,
+    "atk": 54,
+    "def": 18,
+    "aim": 88,
+    "luck": 17
+  },
+  {
+    "index": 816,
+    "key": 502202,
+    "tier": 1,
+    "hp": 28,
+    "atk": 9,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 817,
+    "key": 502202,
+    "tier": 2,
+    "hp": 28,
+    "atk": 9,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 818,
+    "key": 502202,
+    "tier": 3,
+    "hp": 70,
+    "atk": 22,
+    "def": 4,
+    "aim": 22,
+    "luck": 5
+  },
+  {
+    "index": 819,
+    "key": 502202,
+    "tier": 4,
+    "hp": 126,
+    "atk": 39,
+    "def": 4,
+    "aim": 40,
+    "luck": 7
+  },
+  {
+    "index": 820,
+    "key": 502202,
+    "tier": 5,
+    "hp": 181,
+    "atk": 56,
+    "def": 6,
+    "aim": 57,
+    "luck": 11
+  },
+  {
+    "index": 821,
+    "key": 502202,
+    "tier": 6,
+    "hp": 278,
+    "atk": 85,
+    "def": 8,
+    "aim": 87,
+    "luck": 16
+  },
+  {
+    "index": 822,
+    "key": 502203,
+    "tier": 1,
+    "hp": 31,
+    "atk": 9,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 823,
+    "key": 502203,
+    "tier": 2,
+    "hp": 31,
+    "atk": 9,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 824,
+    "key": 502203,
+    "tier": 3,
+    "hp": 73,
+    "atk": 21,
+    "def": 4,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 825,
+    "key": 502203,
+    "tier": 4,
+    "hp": 121,
+    "atk": 34,
+    "def": 5,
+    "aim": 38,
+    "luck": 7
+  },
+  {
+    "index": 826,
+    "key": 502203,
+    "tier": 5,
+    "hp": 169,
+    "atk": 47,
+    "def": 6,
+    "aim": 53,
+    "luck": 12
+  },
+  {
+    "index": 827,
+    "key": 502203,
+    "tier": 6,
+    "hp": 241,
+    "atk": 67,
+    "def": 7,
+    "aim": 75,
+    "luck": 14
+  },
+  {
+    "index": 828,
+    "key": 502206,
+    "tier": 1,
+    "hp": 30,
+    "atk": 9,
+    "def": 4,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 829,
+    "key": 502206,
+    "tier": 2,
+    "hp": 30,
+    "atk": 9,
+    "def": 4,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 830,
+    "key": 502206,
+    "tier": 3,
+    "hp": 74,
+    "atk": 22,
+    "def": 6,
+    "aim": 24,
+    "luck": 5
+  },
+  {
+    "index": 831,
+    "key": 502206,
+    "tier": 4,
+    "hp": 132,
+    "atk": 39,
+    "def": 7,
+    "aim": 43,
+    "luck": 7
+  },
+  {
+    "index": 832,
+    "key": 502206,
+    "tier": 5,
+    "hp": 191,
+    "atk": 56,
+    "def": 10,
+    "aim": 62,
+    "luck": 12
+  },
+  {
+    "index": 833,
+    "key": 502206,
+    "tier": 6,
+    "hp": 293,
+    "atk": 86,
+    "def": 13,
+    "aim": 94,
+    "luck": 17
+  },
+  {
+    "index": 834,
+    "key": 502213,
+    "tier": 1,
+    "hp": 32,
+    "atk": 9,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 835,
+    "key": 502213,
+    "tier": 2,
+    "hp": 32,
+    "atk": 9,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 836,
+    "key": 502213,
+    "tier": 3,
+    "hp": 76,
+    "atk": 21,
+    "def": 4,
+    "aim": 24,
+    "luck": 5
+  },
+  {
+    "index": 837,
+    "key": 502213,
+    "tier": 4,
+    "hp": 126,
+    "atk": 35,
+    "def": 5,
+    "aim": 40,
+    "luck": 7
+  },
+  {
+    "index": 838,
+    "key": 502213,
+    "tier": 5,
+    "hp": 177,
+    "atk": 49,
+    "def": 6,
+    "aim": 56,
+    "luck": 12
+  },
+  {
+    "index": 839,
+    "key": 502213,
+    "tier": 6,
+    "hp": 252,
+    "atk": 70,
+    "def": 7,
+    "aim": 80,
+    "luck": 14
+  },
+  {
+    "index": 840,
+    "key": 502602,
+    "tier": 1,
+    "hp": 25,
+    "atk": 7,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 841,
+    "key": 502602,
+    "tier": 2,
+    "hp": 25,
+    "atk": 7,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 842,
+    "key": 502602,
+    "tier": 3,
+    "hp": 61,
+    "atk": 17,
+    "def": 5,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 843,
+    "key": 502602,
+    "tier": 4,
+    "hp": 110,
+    "atk": 31,
+    "def": 7,
+    "aim": 41,
+    "luck": 7
+  },
+  {
+    "index": 844,
+    "key": 502602,
+    "tier": 5,
+    "hp": 158,
+    "atk": 44,
+    "def": 10,
+    "aim": 58,
+    "luck": 11
+  },
+  {
+    "index": 845,
+    "key": 502602,
+    "tier": 6,
+    "hp": 243,
+    "atk": 67,
+    "def": 13,
+    "aim": 89,
+    "luck": 16
+  },
+  {
+    "index": 846,
+    "key": 502604,
+    "tier": 1,
+    "hp": 37,
+    "atk": 9,
+    "def": 4,
+    "aim": 12,
+    "luck": 3
+  },
+  {
+    "index": 847,
+    "key": 502604,
+    "tier": 2,
+    "hp": 37,
+    "atk": 9,
+    "def": 4,
+    "aim": 12,
+    "luck": 3
+  },
+  {
+    "index": 848,
+    "key": 502604,
+    "tier": 3,
+    "hp": 86,
+    "atk": 20,
+    "def": 6,
+    "aim": 27,
+    "luck": 6
+  },
+  {
+    "index": 849,
+    "key": 502604,
+    "tier": 4,
+    "hp": 135,
+    "atk": 31,
+    "def": 8,
+    "aim": 42,
+    "luck": 8
+  },
+  {
+    "index": 850,
+    "key": 502604,
+    "tier": 5,
+    "hp": 184,
+    "atk": 42,
+    "def": 11,
+    "aim": 57,
+    "luck": 12
+  },
+  {
+    "index": 851,
+    "key": 502604,
+    "tier": 6,
+    "hp": 245,
+    "atk": 55,
+    "def": 12,
+    "aim": 75,
+    "luck": 13
+  },
+  {
+    "index": 852,
+    "key": 502605,
+    "tier": 1,
+    "hp": 33,
+    "atk": 9,
+    "def": 4,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 853,
+    "key": 502605,
+    "tier": 2,
+    "hp": 33,
+    "atk": 9,
+    "def": 4,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 854,
+    "key": 502605,
+    "tier": 3,
+    "hp": 80,
+    "atk": 20,
+    "def": 6,
+    "aim": 24,
+    "luck": 5
+  },
+  {
+    "index": 855,
+    "key": 502605,
+    "tier": 4,
+    "hp": 132,
+    "atk": 33,
+    "def": 8,
+    "aim": 40,
+    "luck": 8
+  },
+  {
+    "index": 856,
+    "key": 502605,
+    "tier": 5,
+    "hp": 185,
+    "atk": 46,
+    "def": 11,
+    "aim": 56,
+    "luck": 12
+  },
+  {
+    "index": 857,
+    "key": 502605,
+    "tier": 6,
+    "hp": 264,
+    "atk": 65,
+    "def": 13,
+    "aim": 80,
+    "luck": 15
+  },
+  {
+    "index": 858,
+    "key": 502606,
+    "tier": 1,
+    "hp": 26,
+    "atk": 8,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 859,
+    "key": 502606,
+    "tier": 2,
+    "hp": 26,
+    "atk": 8,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 860,
+    "key": 502606,
+    "tier": 3,
+    "hp": 64,
+    "atk": 18,
+    "def": 5,
+    "aim": 21,
+    "luck": 5
+  },
+  {
+    "index": 861,
+    "key": 502606,
+    "tier": 4,
+    "hp": 115,
+    "atk": 33,
+    "def": 7,
+    "aim": 38,
+    "luck": 7
+  },
+  {
+    "index": 862,
+    "key": 502606,
+    "tier": 5,
+    "hp": 166,
+    "atk": 47,
+    "def": 10,
+    "aim": 55,
+    "luck": 10
+  },
+  {
+    "index": 863,
+    "key": 502606,
+    "tier": 6,
+    "hp": 254,
+    "atk": 72,
+    "def": 13,
+    "aim": 84,
+    "luck": 15
+  },
+  {
+    "index": 864,
+    "key": 502714,
+    "tier": 1,
+    "hp": 29,
+    "atk": 8,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 865,
+    "key": 502714,
+    "tier": 2,
+    "hp": 29,
+    "atk": 8,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 866,
+    "key": 502714,
+    "tier": 3,
+    "hp": 72,
+    "atk": 19,
+    "def": 2,
+    "aim": 21,
+    "luck": 5
+  },
+  {
+    "index": 867,
+    "key": 502714,
+    "tier": 4,
+    "hp": 129,
+    "atk": 35,
+    "def": 3,
+    "aim": 37,
+    "luck": 7
+  },
+  {
+    "index": 868,
+    "key": 502714,
+    "tier": 5,
+    "hp": 186,
+    "atk": 50,
+    "def": 4,
+    "aim": 54,
+    "luck": 10
+  },
+  {
+    "index": 869,
+    "key": 502714,
+    "tier": 6,
+    "hp": 285,
+    "atk": 76,
+    "def": 5,
+    "aim": 82,
+    "luck": 15
+  },
+  {
+    "index": 870,
+    "key": 503014,
+    "tier": 1,
+    "hp": 28,
+    "atk": 8,
+    "def": 2,
+    "aim": 8,
+    "luck": 3
+  },
+  {
+    "index": 871,
+    "key": 503014,
+    "tier": 2,
+    "hp": 28,
+    "atk": 8,
+    "def": 2,
+    "aim": 8,
+    "luck": 3
+  },
+  {
+    "index": 872,
+    "key": 503014,
+    "tier": 3,
+    "hp": 70,
+    "atk": 19,
+    "def": 4,
+    "aim": 19,
+    "luck": 5
+  },
+  {
+    "index": 873,
+    "key": 503014,
+    "tier": 4,
+    "hp": 126,
+    "atk": 33,
+    "def": 4,
+    "aim": 35,
+    "luck": 7
+  },
+  {
+    "index": 874,
+    "key": 503014,
+    "tier": 5,
+    "hp": 181,
+    "atk": 48,
+    "def": 6,
+    "aim": 50,
+    "luck": 11
+  },
+  {
+    "index": 875,
+    "key": 503014,
+    "tier": 6,
+    "hp": 278,
+    "atk": 73,
+    "def": 8,
+    "aim": 76,
+    "luck": 16
+  },
+  {
+    "index": 876,
+    "key": 503112,
+    "tier": 1,
+    "hp": 33,
+    "atk": 6,
+    "def": 2,
+    "aim": 10,
+    "luck": 2
+  },
+  {
+    "index": 877,
+    "key": 503112,
+    "tier": 2,
+    "hp": 33,
+    "atk": 6,
+    "def": 2,
+    "aim": 10,
+    "luck": 2
+  },
+  {
+    "index": 878,
+    "key": 503112,
+    "tier": 3,
+    "hp": 82,
+    "atk": 15,
+    "def": 5,
+    "aim": 23,
+    "luck": 4
+  },
+  {
+    "index": 879,
+    "key": 503112,
+    "tier": 4,
+    "hp": 148,
+    "atk": 27,
+    "def": 8,
+    "aim": 42,
+    "luck": 6
+  },
+  {
+    "index": 880,
+    "key": 503112,
+    "tier": 5,
+    "hp": 214,
+    "atk": 39,
+    "def": 13,
+    "aim": 60,
+    "luck": 9
+  },
+  {
+    "index": 881,
+    "key": 503112,
+    "tier": 6,
+    "hp": 328,
+    "atk": 60,
+    "def": 16,
+    "aim": 92,
+    "luck": 13
+  },
+  {
+    "index": 882,
+    "key": 503210,
+    "tier": 1,
+    "hp": 31,
+    "atk": 9,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 883,
+    "key": 503210,
+    "tier": 2,
+    "hp": 31,
+    "atk": 9,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 884,
+    "key": 503210,
+    "tier": 3,
+    "hp": 73,
+    "atk": 21,
+    "def": 4,
+    "aim": 24,
+    "luck": 4
+  },
+  {
+    "index": 885,
+    "key": 503210,
+    "tier": 4,
+    "hp": 121,
+    "atk": 35,
+    "def": 5,
+    "aim": 40,
+    "luck": 6
+  },
+  {
+    "index": 886,
+    "key": 503210,
+    "tier": 5,
+    "hp": 169,
+    "atk": 49,
+    "def": 6,
+    "aim": 56,
+    "luck": 10
+  },
+  {
+    "index": 887,
+    "key": 503210,
+    "tier": 6,
+    "hp": 241,
+    "atk": 70,
+    "def": 7,
+    "aim": 80,
+    "luck": 12
+  },
+  {
+    "index": 888,
+    "key": 503302,
+    "tier": 1,
+    "hp": 27,
+    "atk": 7,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 889,
+    "key": 503302,
+    "tier": 2,
+    "hp": 27,
+    "atk": 7,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 890,
+    "key": 503302,
+    "tier": 3,
+    "hp": 66,
+    "atk": 18,
+    "def": 5,
+    "aim": 23,
+    "luck": 6
+  },
+  {
+    "index": 891,
+    "key": 503302,
+    "tier": 4,
+    "hp": 118,
+    "atk": 32,
+    "def": 7,
+    "aim": 41,
+    "luck": 8
+  },
+  {
+    "index": 892,
+    "key": 503302,
+    "tier": 5,
+    "hp": 171,
+    "atk": 45,
+    "def": 11,
+    "aim": 60,
+    "luck": 12
+  },
+  {
+    "index": 893,
+    "key": 503302,
+    "tier": 6,
+    "hp": 262,
+    "atk": 69,
+    "def": 14,
+    "aim": 91,
+    "luck": 18
+  },
+  {
+    "index": 894,
+    "key": 503308,
+    "tier": 1,
+    "hp": 26,
+    "atk": 7,
+    "def": 2,
+    "aim": 8,
+    "luck": 2
+  },
+  {
+    "index": 895,
+    "key": 503308,
+    "tier": 2,
+    "hp": 26,
+    "atk": 7,
+    "def": 2,
+    "aim": 8,
+    "luck": 2
+  },
+  {
+    "index": 896,
+    "key": 503308,
+    "tier": 3,
+    "hp": 64,
+    "atk": 16,
+    "def": 4,
+    "aim": 19,
+    "luck": 4
+  },
+  {
+    "index": 897,
+    "key": 503308,
+    "tier": 4,
+    "hp": 115,
+    "atk": 29,
+    "def": 5,
+    "aim": 34,
+    "luck": 6
+  },
+  {
+    "index": 898,
+    "key": 503308,
+    "tier": 5,
+    "hp": 166,
+    "atk": 41,
+    "def": 8,
+    "aim": 49,
+    "luck": 10
+  },
+  {
+    "index": 899,
+    "key": 503308,
+    "tier": 6,
+    "hp": 254,
+    "atk": 63,
+    "def": 10,
+    "aim": 74,
+    "luck": 14
+  },
+  {
+    "index": 900,
+    "key": 503502,
+    "tier": 1,
+    "hp": 25,
+    "atk": 9,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 901,
+    "key": 503502,
+    "tier": 2,
+    "hp": 25,
+    "atk": 9,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 902,
+    "key": 503502,
+    "tier": 3,
+    "hp": 61,
+    "atk": 22,
+    "def": 2,
+    "aim": 22,
+    "luck": 5
+  },
+  {
+    "index": 903,
+    "key": 503502,
+    "tier": 4,
+    "hp": 109,
+    "atk": 39,
+    "def": 3,
+    "aim": 40,
+    "luck": 7
+  },
+  {
+    "index": 904,
+    "key": 503502,
+    "tier": 5,
+    "hp": 158,
+    "atk": 56,
+    "def": 4,
+    "aim": 57,
+    "luck": 12
+  },
+  {
+    "index": 905,
+    "key": 503502,
+    "tier": 6,
+    "hp": 242,
+    "atk": 85,
+    "def": 5,
+    "aim": 87,
+    "luck": 17
+  },
+  {
+    "index": 906,
+    "key": 503508,
+    "tier": 1,
+    "hp": 28,
+    "atk": 9,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 907,
+    "key": 503508,
+    "tier": 2,
+    "hp": 28,
+    "atk": 9,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 908,
+    "key": 503508,
+    "tier": 3,
+    "hp": 66,
+    "atk": 21,
+    "def": 3,
+    "aim": 24,
+    "luck": 5
+  },
+  {
+    "index": 909,
+    "key": 503508,
+    "tier": 4,
+    "hp": 110,
+    "atk": 34,
+    "def": 3,
+    "aim": 40,
+    "luck": 7
+  },
+  {
+    "index": 910,
+    "key": 503508,
+    "tier": 5,
+    "hp": 154,
+    "atk": 47,
+    "def": 4,
+    "aim": 56,
+    "luck": 12
+  },
+  {
+    "index": 911,
+    "key": 503508,
+    "tier": 6,
+    "hp": 219,
+    "atk": 67,
+    "def": 5,
+    "aim": 80,
+    "luck": 14
+  },
+  {
+    "index": 912,
+    "key": 503511,
+    "tier": 1,
+    "hp": 28,
+    "atk": 8,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 913,
+    "key": 503511,
+    "tier": 2,
+    "hp": 28,
+    "atk": 8,
+    "def": 2,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 914,
+    "key": 503511,
+    "tier": 3,
+    "hp": 68,
+    "atk": 20,
+    "def": 4,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 915,
+    "key": 503511,
+    "tier": 4,
+    "hp": 122,
+    "atk": 36,
+    "def": 4,
+    "aim": 41,
+    "luck": 7
+  },
+  {
+    "index": 916,
+    "key": 503511,
+    "tier": 5,
+    "hp": 177,
+    "atk": 51,
+    "def": 6,
+    "aim": 58,
+    "luck": 11
+  },
+  {
+    "index": 917,
+    "key": 503511,
+    "tier": 6,
+    "hp": 271,
+    "atk": 78,
+    "def": 8,
+    "aim": 89,
+    "luck": 16
+  },
+  {
+    "index": 918,
+    "key": 503713,
+    "tier": 1,
+    "hp": 31,
+    "atk": 9,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 919,
+    "key": 503713,
+    "tier": 2,
+    "hp": 31,
+    "atk": 9,
+    "def": 3,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 920,
+    "key": 503713,
+    "tier": 3,
+    "hp": 73,
+    "atk": 21,
+    "def": 5,
+    "aim": 24,
+    "luck": 5
+  },
+  {
+    "index": 921,
+    "key": 503713,
+    "tier": 4,
+    "hp": 121,
+    "atk": 34,
+    "def": 6,
+    "aim": 40,
+    "luck": 7
+  },
+  {
+    "index": 922,
+    "key": 503713,
+    "tier": 5,
+    "hp": 169,
+    "atk": 47,
+    "def": 7,
+    "aim": 56,
+    "luck": 12
+  },
+  {
+    "index": 923,
+    "key": 503713,
+    "tier": 6,
+    "hp": 241,
+    "atk": 67,
+    "def": 9,
+    "aim": 80,
+    "luck": 14
+  },
+  {
+    "index": 924,
+    "key": 503814,
+    "tier": 1,
+    "hp": 27,
+    "atk": 6,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 925,
+    "key": 503814,
+    "tier": 2,
+    "hp": 27,
+    "atk": 6,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 926,
+    "key": 503814,
+    "tier": 3,
+    "hp": 66,
+    "atk": 15,
+    "def": 5,
+    "aim": 21,
+    "luck": 5
+  },
+  {
+    "index": 927,
+    "key": 503814,
+    "tier": 4,
+    "hp": 118,
+    "atk": 27,
+    "def": 7,
+    "aim": 38,
+    "luck": 7
+  },
+  {
+    "index": 928,
+    "key": 503814,
+    "tier": 5,
+    "hp": 171,
+    "atk": 39,
+    "def": 10,
+    "aim": 54,
+    "luck": 11
+  },
+  {
+    "index": 929,
+    "key": 503814,
+    "tier": 6,
+    "hp": 262,
+    "atk": 60,
+    "def": 13,
+    "aim": 83,
+    "luck": 16
+  },
+  {
+    "index": 930,
+    "key": 503910,
+    "tier": 1,
+    "hp": 39,
+    "atk": 7,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 931,
+    "key": 503910,
+    "tier": 2,
+    "hp": 39,
+    "atk": 7,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 932,
+    "key": 503910,
+    "tier": 3,
+    "hp": 91,
+    "atk": 15,
+    "def": 6,
+    "aim": 23,
+    "luck": 5
+  },
+  {
+    "index": 933,
+    "key": 503910,
+    "tier": 4,
+    "hp": 143,
+    "atk": 24,
+    "def": 9,
+    "aim": 36,
+    "luck": 7
+  },
+  {
+    "index": 934,
+    "key": 503910,
+    "tier": 5,
+    "hp": 195,
+    "atk": 32,
+    "def": 12,
+    "aim": 48,
+    "luck": 9
+  },
+  {
+    "index": 935,
+    "key": 503910,
+    "tier": 6,
+    "hp": 260,
+    "atk": 42,
+    "def": 13,
+    "aim": 64,
+    "luck": 10
+  },
+  {
+    "index": 936,
+    "key": 504012,
+    "tier": 1,
+    "hp": 28,
+    "atk": 8,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 937,
+    "key": 504012,
+    "tier": 2,
+    "hp": 28,
+    "atk": 8,
+    "def": 3,
+    "aim": 9,
+    "luck": 3
+  },
+  {
+    "index": 938,
+    "key": 504012,
+    "tier": 3,
+    "hp": 69,
+    "atk": 19,
+    "def": 4,
+    "aim": 21,
+    "luck": 5
+  },
+  {
+    "index": 939,
+    "key": 504012,
+    "tier": 4,
+    "hp": 124,
+    "atk": 33,
+    "def": 5,
+    "aim": 37,
+    "luck": 7
+  },
+  {
+    "index": 940,
+    "key": 504012,
+    "tier": 5,
+    "hp": 179,
+    "atk": 48,
+    "def": 7,
+    "aim": 54,
+    "luck": 10
+  },
+  {
+    "index": 941,
+    "key": 504012,
+    "tier": 6,
+    "hp": 275,
+    "atk": 73,
+    "def": 10,
+    "aim": 82,
+    "luck": 15
+  },
+  {
+    "index": 942,
+    "key": 504109,
+    "tier": 1,
+    "hp": 27,
+    "atk": 8,
+    "def": 2,
+    "aim": 9,
+    "luck": 2
+  },
+  {
+    "index": 943,
+    "key": 504109,
+    "tier": 2,
+    "hp": 27,
+    "atk": 8,
+    "def": 2,
+    "aim": 9,
+    "luck": 2
+  },
+  {
+    "index": 944,
+    "key": 504109,
+    "tier": 3,
+    "hp": 66,
+    "atk": 19,
+    "def": 4,
+    "aim": 21,
+    "luck": 4
+  },
+  {
+    "index": 945,
+    "key": 504109,
+    "tier": 4,
+    "hp": 119,
+    "atk": 35,
+    "def": 4,
+    "aim": 37,
+    "luck": 6
+  },
+  {
+    "index": 946,
+    "key": 504109,
+    "tier": 5,
+    "hp": 171,
+    "atk": 50,
+    "def": 6,
+    "aim": 54,
+    "luck": 9
+  },
+  {
+    "index": 947,
+    "key": 504109,
+    "tier": 6,
+    "hp": 263,
+    "atk": 76,
+    "def": 8,
+    "aim": 82,
+    "luck": 13
+  },
+  {
+    "index": 948,
+    "key": 504712,
+    "tier": 1,
+    "hp": 37,
+    "atk": 7,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 949,
+    "key": 504712,
+    "tier": 2,
+    "hp": 37,
+    "atk": 7,
+    "def": 2,
+    "aim": 10,
+    "luck": 3
+  },
+  {
+    "index": 950,
+    "key": 504712,
+    "tier": 3,
+    "hp": 92,
+    "atk": 16,
+    "def": 6,
+    "aim": 24,
+    "luck": 5
+  },
+  {
+    "index": 951,
+    "key": 504712,
+    "tier": 4,
+    "hp": 166,
+    "atk": 28,
+    "def": 9,
+    "aim": 43,
+    "luck": 7
+  },
+  {
+    "index": 952,
+    "key": 504712,
+    "tier": 5,
+    "hp": 239,
+    "atk": 41,
+    "def": 14,
+    "aim": 62,
+    "luck": 12
+  },
+  {
+    "index": 953,
+    "key": 504712,
+    "tier": 6,
+    "hp": 367,
+    "atk": 62,
+    "def": 17,
+    "aim": 95,
+    "luck": 17
+  },
+  {
+    "index": 954,
+    "key": 505014,
+    "tier": 1,
+    "hp": 29,
+    "atk": 9,
+    "def": 4,
+    "aim": 9,
+    "luck": 2
+  },
+  {
+    "index": 955,
+    "key": 505014,
+    "tier": 2,
+    "hp": 29,
+    "atk": 9,
+    "def": 4,
+    "aim": 9,
+    "luck": 2
+  },
+  {
+    "index": 956,
+    "key": 505014,
+    "tier": 3,
+    "hp": 72,
+    "atk": 21,
+    "def": 6,
+    "aim": 22,
+    "luck": 4
+  },
+  {
+    "index": 957,
+    "key": 505014,
+    "tier": 4,
+    "hp": 129,
+    "atk": 38,
+    "def": 7,
+    "aim": 39,
+    "luck": 6
+  },
+  {
+    "index": 958,
+    "key": 505014,
+    "tier": 5,
+    "hp": 186,
+    "atk": 55,
+    "def": 10,
+    "aim": 56,
+    "luck": 10
+  },
+  {
+    "index": 959,
+    "key": 505014,
+    "tier": 6,
+    "hp": 285,
+    "atk": 84,
+    "def": 13,
+    "aim": 86,
+    "luck": 14
+  },
+  {
+    "index": 960,
+    "key": 1000001,
+    "tier": 1,
+    "hp": 500,
+    "atk": 42,
+    "def": 13,
+    "aim": 64,
+    "luck": 10
+  },
+  {
+    "index": 961,
+    "key": 1000001,
+    "tier": 2,
+    "hp": 500,
+    "atk": 42,
+    "def": 13,
+    "aim": 64,
+    "luck": 10
+  },
+  {
+    "index": 962,
+    "key": 1000001,
+    "tier": 3,
+    "hp": 500,
+    "atk": 42,
+    "def": 13,
+    "aim": 64,
+    "luck": 10
+  },
+  {
+    "index": 963,
+    "key": 1000001,
+    "tier": 4,
+    "hp": 500,
+    "atk": 42,
+    "def": 13,
+    "aim": 64,
+    "luck": 10
+  },
+  {
+    "index": 964,
+    "key": 1000001,
+    "tier": 5,
+    "hp": 500,
+    "atk": 42,
+    "def": 13,
+    "aim": 64,
+    "luck": 10
+  },
+  {
+    "index": 965,
+    "key": 1000001,
+    "tier": 6,
+    "hp": 500,
+    "atk": 42,
+    "def": 13,
+    "aim": 64,
+    "luck": 10
+  },
+  {
+    "index": 966,
+    "key": 1000002,
+    "tier": 1,
+    "hp": 500,
+    "atk": 42,
+    "def": 13,
+    "aim": 64,
+    "luck": 10
+  },
+  {
+    "index": 967,
+    "key": 1000002,
+    "tier": 2,
+    "hp": 500,
+    "atk": 42,
+    "def": 13,
+    "aim": 64,
+    "luck": 10
+  },
+  {
+    "index": 968,
+    "key": 1000002,
+    "tier": 3,
+    "hp": 500,
+    "atk": 42,
+    "def": 13,
+    "aim": 64,
+    "luck": 10
+  },
+  {
+    "index": 969,
+    "key": 1000002,
+    "tier": 4,
+    "hp": 500,
+    "atk": 42,
+    "def": 13,
+    "aim": 64,
+    "luck": 10
+  },
+  {
+    "index": 970,
+    "key": 1000002,
+    "tier": 5,
+    "hp": 500,
+    "atk": 42,
+    "def": 13,
+    "aim": 64,
+    "luck": 10
+  },
+  {
+    "index": 971,
+    "key": 1000002,
+    "tier": 6,
+    "hp": 500,
+    "atk": 42,
+    "def": 13,
+    "aim": 64,
+    "luck": 10
+  }
+]

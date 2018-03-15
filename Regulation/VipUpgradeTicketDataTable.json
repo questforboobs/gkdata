@@ -1,0 +1,16 @@
+[
+  {
+    "key": 2001,
+    "limitVip": 5,
+    "alterationVip": 1,
+    "maxVip": 5,
+    "overlapUse": 0
+  },
+  {
+    "key": 2002,
+    "limitVip": 3,
+    "alterationVip": 3,
+    "maxVip": 3,
+    "overlapUse": 0
+  }
+]

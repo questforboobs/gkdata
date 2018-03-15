@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "medal": 10,
+    "gold": 1000,
+    "feedbackMedal": 5
+  },
+  {
+    "rank": 2,
+    "medal": 40,
+    "gold": 1000,
+    "feedbackMedal": 20
+  },
+  {
+    "rank": 3,
+    "medal": 80,
+    "gold": 10000,
+    "feedbackMedal": 30
+  },
+  {
+    "rank": 4,
+    "medal": 170,
+    "gold": 50000,
+    "feedbackMedal": 40
+  },
+  {
+    "rank": 5,
+    "medal": 330,
+    "gold": 150000,
+    "feedbackMedal": 50
+  },
+  {
+    "rank": 6,
+    "medal": 580,
+    "gold": 500000,
+    "feedbackMedal": 50
+  }
+]
