@@ -580,12 +580,12 @@
     "type": 100,
     "userstartlevel": 1,
     "userendlevel": 99,
-    "commanderidx": 18,
+    "commanderidx": 0,
     "backgroundimg": "loading_c018",
     "commanderjobicon": "com_icon_attack",
-    "comjobsidx": 1323,
-    "comnamesidx": 1005018,
-    "comunitnamesidx": 133
+    "comjobsidx": 9999999,
+    "comnamesidx": 9999999,
+    "comunitnamesidx": 9999999
   },
   {
     "idx": 105,

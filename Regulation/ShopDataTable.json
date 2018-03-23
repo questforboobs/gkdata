@@ -532,7 +532,7 @@
     "minLevel": 30,
     "displayCount": 10,
     "g_idx": 58,
-    "startRechargePrice": 100,
+    "startRechargePrice": 0,
     "numberMeasure": 3,
     "priceAddPercent": 100,
     "openTime": [

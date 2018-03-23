@@ -1,7 +1,7 @@
 {
   "Localization.txt": [
-    "20180315111837",
-    2618156
+    "20180322110420",
+    2618584
   ],
   "DailyBonusDataTable.json": [
     "20180228110734",
@@ -20,8 +20,8 @@
     109272
   ],
   "UnitDataTable.json": [
-    "20180315111913",
-    2463576
+    "20180315143953",
+    2463616
   ],
   "WorldMapStageTypeDataTable.json": [
     "20170908190237",
@@ -84,8 +84,8 @@
     1408
   ],
   "SkillCostDataTable.json": [
-    "20180315111644",
-    24364
+    "20180322110346",
+    24536
   ],
   "RaidDataTable.json": [
     "20180111111519",
@@ -104,16 +104,16 @@
     21888
   ],
   "ProjectileMotionPhaseDataTable.json": [
-    "20180228111600",
-    283308
+    "20180315120815",
+    286464
   ],
   "UnitMotionDataTable.json": [
-    "20180228112602",
-    481068
+    "20180315120827",
+    484352
   ],
   "FireActionDataTable.json": [
-    "20180228111321",
-    25984
+    "20180315120802",
+    26284
   ],
   "PartDataTable.json": [
     "20171221111653",
@@ -144,8 +144,8 @@
     172
   ],
   "RewardDataTable.json": [
-    "20180315111425",
-    1504472
+    "20180322110311",
+    1523288
   ],
   "GuildStruggleDataTable.json": [
     "20170908185522",
@@ -168,11 +168,11 @@
     1068
   ],
   "VipExpDataTable.json": [
-    "20180315111944",
+    "20180322110443",
     640
   ],
   "ShopDataTable.json": [
-    "20180125095021",
+    "20180322110329",
     6956
   ],
   "FavorStepDataTable.json": [
@@ -208,8 +208,8 @@
     32428
   ],
   "LoadingTipDataTable.json": [
-    "20180315111329",
-    12248
+    "20180322110223",
+    12288
   ],
   "FavorDataTable.json": [
     "20180315111100",
@@ -220,16 +220,16 @@
     384
   ],
   "InAppProductDataTable.json": [
-    "20180315111151",
+    "20180322115830",
     10584
   ],
   "CarnivalTypeDataTable.json": [
-    "20180315110508",
-    46636
+    "20180322115856",
+    49196
   ],
   "CarnivalDataTable.json": [
-    "20180315110333",
-    547584
+    "20180322110135",
+    572160
   ],
   "CommanderVoiceDataTable.json": [
     "20180315110801",
