@@ -2145,6 +2145,36 @@
     "voicesound": "voice_976_07"
   },
   {
+    "index": 977,
+    "type": 4,
+    "voicesound": "voice_977_01"
+  },
+  {
+    "index": 977,
+    "type": 5,
+    "voicesound": "voice_977_02"
+  },
+  {
+    "index": 977,
+    "type": 7,
+    "voicesound": "voice_977_04"
+  },
+  {
+    "index": 977,
+    "type": 8,
+    "voicesound": "voice_977_05"
+  },
+  {
+    "index": 977,
+    "type": 9,
+    "voicesound": "voice_977_06"
+  },
+  {
+    "index": 977,
+    "type": 10,
+    "voicesound": "voice_977_07"
+  },
+  {
     "index": 978,
     "type": 4,
     "voicesound": "voice_978_01"
