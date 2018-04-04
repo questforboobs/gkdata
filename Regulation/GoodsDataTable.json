@@ -1332,6 +1332,18 @@
     "icon": "Goods-medal05"
   },
   {
+    "type": 205,
+    "name": 10001030,
+    "serverFieldName": "medl6",
+    "max": 999999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 10001031,
+    "storage": 1,
+    "icon": "Goods-evtp13"
+  },
+  {
     "type": 301,
     "name": 10001011,
     "serverFieldName": "evtp01",
@@ -1474,6 +1486,30 @@
     "description": 10001028,
     "storage": 1,
     "icon": "Goods-evtp12"
+  },
+  {
+    "type": 313,
+    "name": 10001011,
+    "serverFieldName": "evtp13",
+    "max": 999999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 10001029,
+    "storage": 1,
+    "icon": "Goods-evtp13"
+  },
+  {
+    "type": 314,
+    "name": 10001032,
+    "serverFieldName": "evtp14",
+    "max": 999999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 10001033,
+    "storage": 1,
+    "icon": "Goods-evtp14"
   },
   {
     "type": 601,

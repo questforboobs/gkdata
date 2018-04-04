@@ -529,7 +529,7 @@
   {
     "type": 7,
     "grade": 1,
-    "minLevel": 30,
+    "minLevel": 99,
     "displayCount": 10,
     "g_idx": 58,
     "startRechargePrice": 0,

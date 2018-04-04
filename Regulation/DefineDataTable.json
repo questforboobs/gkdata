@@ -17,7 +17,7 @@
   },
   {
     "key": "ARENA_3VS3_OPEN",
-    "value": "1"
+    "value": "0"
   },
   {
     "key": "ARENA_3WAVE_END_TURN",
@@ -29,7 +29,7 @@
   },
   {
     "key": "ARENA_3WAVE_OPEN_LEVEL",
-    "value": "30"
+    "value": "99"
   },
   {
     "key": "ARENA_END_TURN",
@@ -106,6 +106,10 @@
   {
     "key": "BATTLE_STRUGGLE_START_TIME",
     "value": "15:00"
+  },
+  {
+    "key": "BGM_VERSION",
+    "value": "2"
   },
   {
     "key": "CASH_CONSUME_SORT",
@@ -233,7 +237,7 @@
   },
   {
     "key": "GUILD_COOPERATEBATTLE_OPEN",
-    "value": 0
+    "value": "1"
   },
   {
     "key": "GUILD_CREATION_PRICE",
