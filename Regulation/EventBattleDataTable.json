@@ -1,35 +1,13 @@
 [
   {
-    "eventIdx": 990,
+    "eventIdx": 989,
     "goodsIdx": 0,
     "goodsAmount": 0,
-    "eventImg": 3498,
-    "eventLogo": "-",
-    "mainRewardType": 1,
-    "mainRewardIdx": 414,
-    "mainRewardAmount": 1,
-    "eventPointIdx": 414
-  },
-  {
-    "eventIdx": 991,
-    "goodsIdx": 0,
-    "goodsAmount": 0,
-    "eventImg": 3498,
-    "eventLogo": "-",
-    "mainRewardType": 1,
-    "mainRewardIdx": 412,
-    "mainRewardAmount": 1,
-    "eventPointIdx": 412
-  },
-  {
-    "eventIdx": 992,
-    "goodsIdx": 605,
-    "goodsAmount": 5,
     "eventImg": 3497,
     "eventLogo": "-",
     "mainRewardType": 1,
-    "mainRewardIdx": 411,
+    "mainRewardIdx": 415,
     "mainRewardAmount": 1,
-    "eventPointIdx": 411
+    "eventPointIdx": 415
   }
 ]
