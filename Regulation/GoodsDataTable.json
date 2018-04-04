@@ -1536,6 +1536,18 @@
     "icon": "Goods-evtp12"
   },
   {
+    "type": 415,
+    "name": 4444,
+    "serverFieldName": "evtp15",
+    "max": 999999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4445,
+    "storage": 1,
+    "icon": "main_building_base"
+  },
+  {
     "type": 601,
     "name": 4389,
     "serverFieldName": "smon01",
@@ -1637,7 +1649,7 @@
     "serverFieldName": "skil",
     "max": 9999,
     "rechargeType": 2,
-    "rechargeTime": 150,
+    "rechargeTime": 300,
     "rechargeMax": 0,
     "description": 4059,
     "storage": 0,

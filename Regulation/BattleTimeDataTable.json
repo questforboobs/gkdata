@@ -135,7 +135,7 @@
     "typeIndex": 1,
     "startDate": "2018-02-12",
     "startTime": "14:00:00",
-    "endDate": "2018-03-06",
+    "endDate": "2018-04-02",
     "endTime": "14:00:00",
     "weekIdx": 0
   },
@@ -145,7 +145,17 @@
     "typeIndex": 1,
     "startDate": "2018-02-05",
     "startTime": "14:00:00",
-    "endDate": "2018-02-27",
+    "endDate": "2018-04-02",
+    "endTime": "14:00:00",
+    "weekIdx": 0
+  },
+  {
+    "category": 13,
+    "type": 989,
+    "typeIndex": 1,
+    "startDate": "2018-04-03",
+    "startTime": "14:00:00",
+    "endDate": "2018-04-17",
     "endTime": "14:00:00",
     "weekIdx": 0
   }

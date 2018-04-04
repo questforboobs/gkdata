@@ -484,6 +484,39 @@
     "minCount": 1000
   },
   {
+    "groupIdx": 92,
+    "tabidx": 2,
+    "groupName": 10191,
+    "tabname": 10902,
+    "groupComment": 10733,
+    "typeIndex": 2,
+    "rewardType": 101,
+    "rewardIdx": 1005,
+    "minCount": 700
+  },
+  {
+    "groupIdx": 93,
+    "tabidx": 2,
+    "groupName": 10192,
+    "tabname": 10902,
+    "groupComment": 10734,
+    "typeIndex": 2,
+    "rewardType": 101,
+    "rewardIdx": 1004,
+    "minCount": 1500
+  },
+  {
+    "groupIdx": 94,
+    "tabidx": 2,
+    "groupName": 10193,
+    "tabname": 10902,
+    "groupComment": 10735,
+    "typeIndex": 2,
+    "rewardType": 102,
+    "rewardIdx": 1004,
+    "minCount": 150
+  },
+  {
     "groupIdx": 101,
     "tabidx": 3,
     "groupName": 10130,
@@ -548,6 +581,17 @@
     "rewardType": 4,
     "rewardIdx": 106,
     "minCount": 8
+  },
+  {
+    "groupIdx": 107,
+    "tabidx": 3,
+    "groupName": 10194,
+    "tabname": 10903,
+    "groupComment": 0,
+    "typeIndex": 0,
+    "rewardType": 1,
+    "rewardIdx": 21,
+    "minCount": 2
   },
   {
     "groupIdx": 121,
@@ -988,5 +1032,16 @@
     "rewardType": 102,
     "rewardIdx": 1004,
     "minCount": 50
+  },
+  {
+    "groupIdx": 331,
+    "tabidx": 5,
+    "groupName": 10195,
+    "tabname": 10905,
+    "groupComment": 10736,
+    "typeIndex": 2,
+    "rewardType": 102,
+    "rewardIdx": 1004,
+    "minCount": 100
   }
 ]
