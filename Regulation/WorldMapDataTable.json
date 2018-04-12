@@ -141,5 +141,16 @@
     "bgm": "Pocket_BGM_Chapter_001",
     "listImg": "battlefieldsearch_12",
     "searchParty": 4
+  },
+  {
+    "id": 13,
+    "name": 6147,
+    "unlockUserLevel": 1,
+    "resourceId": 10,
+    "c_idx": 51,
+    "resource": "c_051_t3",
+    "bgm": "Pocket_BGM_Chapter_001",
+    "listImg": "battlefieldsearch_13",
+    "searchParty": 4
   }
 ]

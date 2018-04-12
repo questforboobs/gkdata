@@ -1,47 +1,47 @@
 {
   "Localization.txt": [
-    "20180329113145",
-    2684928
+    "20180412113104",
+    2722304
   ],
   "DailyBonusDataTable.json": [
     "20180329110832",
     10752
   ],
   "CommanderDataTable.json": [
-    "20180329110629",
-    117720
+    "20180412110931",
+    119168
   ],
   "WorldMapDataTable.json": [
-    "20180222152247",
-    2944
+    "20180405111350",
+    3160
   ],
   "WorldMapStageDataTable.json": [
-    "20180125094804",
-    109272
+    "20180405111330",
+    118188
   ],
   "UnitDataTable.json": [
-    "20180329113306",
-    2480216
+    "20180412113155",
+    2606424
   ],
   "WorldMapStageTypeDataTable.json": [
     "20170908190237",
     1280
   ],
   "EnemyCommanderDataTable.json": [
-    "20180329110921",
-    119512
+    "20180405110639",
+    121472
   ],
   "EnemyUnitDataTable.json": [
-    "20180329110946",
-    979884
+    "20180405110705",
+    997676
   ],
   "UserLevelDataTable.json": [
-    "20180125095619",
-    13312
+    "20180405112811",
+    13824
   ],
   "GoodsDataTable.json": [
-    "20180329111339",
-    30808
+    "20180405111153",
+    31276
   ],
   "BuildingLevelDataTable.json": [
     "20171026132032",
@@ -64,16 +64,16 @@
     5760
   ],
   "SkillDataTable.json": [
-    "20180329112905",
-    1916760
+    "20180412112707",
+    1975768
   ],
   "ProjectileDataTable.json": [
-    "20180329113032",
-    376876
+    "20180412112913",
+    386816
   ],
   "StatusEffectDataTable.json": [
-    "20180329113000",
-    450776
+    "20180412112838",
+    466988
   ],
   "MissionTable.json": [
     "20171207111523",
@@ -84,44 +84,44 @@
     1408
   ],
   "SkillCostDataTable.json": [
-    "20180322110346",
-    24536
+    "20180412112755",
+    24364
   ],
   "RaidDataTable.json": [
     "20180111111519",
     14936
   ],
   "SkillUpgradeDataTable.json": [
-    "20180329113054",
-    303232
+    "20180412112934",
+    309164
   ],
   "InteractionDataTable.json": [
-    "20180329111824",
-    456832
+    "20180412111727",
+    471040
   ],
   "RankingRewardDataTable.json": [
     "20171130171236",
     21888
   ],
   "ProjectileMotionPhaseDataTable.json": [
-    "20180329110311",
-    302080
+    "20180412125420",
+    309164
   ],
   "UnitMotionDataTable.json": [
-    "20180329110323",
-    499372
+    "20180412125349",
+    507948
   ],
   "FireActionDataTable.json": [
-    "20180329110258",
-    27480
+    "20180412111555",
+    28332
   ],
   "PartDataTable.json": [
     "20171221111653",
     7168
   ],
   "AchievementTable.json": [
-    "20180125094014",
-    43480
+    "20180405110132",
+    43864
   ],
   "GachaDataTable.json": [
     "20170525130247",
@@ -136,16 +136,16 @@
     14848
   ],
   "LevelPatternDataTable.json": [
-    "20180329112233",
-    104364
+    "20180412111941",
+    106968
   ],
   "DropGoldPatternDataTable.json": [
     "20170908185406",
     172
   ],
   "RewardDataTable.json": [
-    "20180329152354",
-    1581440
+    "20180412112505",
+    1666432
   ],
   "GuildStruggleDataTable.json": [
     "20170908185522",
@@ -168,7 +168,7 @@
     1068
   ],
   "VipExpDataTable.json": [
-    "20180322110443",
+    "20180412113303",
     640
   ],
   "ShopDataTable.json": [
@@ -176,24 +176,24 @@
     6956
   ],
   "FavorStepDataTable.json": [
-    "20180125094549",
+    "20180405111116",
     300
   ],
   "ClassPatternDataTable.json": [
-    "20180329110605",
-    219608
+    "20180405110325",
+    251776
   ],
   "CommanderClassDataTable.json": [
-    "20180329110701",
-    442284
+    "20180412110953",
+    482904
   ],
   "ItemExchangeDataTable.json": [
-    "20180329145533",
-    57004
+    "20180412111806",
+    57728
   ],
   "DefineDataTable.json": [
-    "20180329110858",
-    8408
+    "20180412111205",
+    8448
   ],
   "DailyEventDataTable.json": [
     "20170912103455",
@@ -204,39 +204,39 @@
     19840
   ],
   "CommanderCostumeDataTable.json": [
-    "20180329110719",
-    33452
+    "20180412111023",
+    34220
   ],
   "LoadingTipDataTable.json": [
     "20180329112259",
     12288
   ],
   "FavorDataTable.json": [
-    "20180329111311",
-    82264
+    "20180412111501",
+    95576
   ],
   "CommanderGiftDataTable.json": [
     "20171011105616",
     384
   ],
   "InAppProductDataTable.json": [
-    "20180329111430",
-    11692
+    "20180412111654",
+    12076
   ],
   "CarnivalTypeDataTable.json": [
-    "20180329110522",
-    52952
+    "20180412110855",
+    58624
   ],
   "CarnivalDataTable.json": [
-    "20180329110454",
-    619992
+    "20180412110316",
+    689240
   ],
   "CommanderVoiceDataTable.json": [
-    "20180329110817",
-    57856
+    "20180412111110",
+    59692
   ],
   "CommanderScenarioDataTable.json": [
-    "20180329110752",
+    "20180412125514",
     93952
   ],
   "ScenarioBattleDataTable.json": [
@@ -244,7 +244,7 @@
     172
   ],
   "ScenarioQuarterDataTable.json": [
-    "20180329112735",
+    "20180412112530",
     17792
   ],
   "ScenarioBattleUnitDataTable.json": [
@@ -252,8 +252,8 @@
     344
   ],
   "SC_Localization_01.txt": [
-    "20180329112809",
-    7625900
+    "20180405111707",
+    7640536
   ],
   "RaidChallengeDataTable.json": [
     "20180111111556",
@@ -276,8 +276,8 @@
     148224
   ],
   "BattleFieldSearchDataTable.json": [
-    "20180125094109",
-    3456
+    "20180405110200",
+    3756
   ],
   "RandomBoxRewardDataTable.json": [
     "20180118175419",
@@ -300,20 +300,20 @@
     256
   ],
   "EventBattleDataTable.json": [
-    "20180329111028",
-    4568
+    "20180405110724",
+    4864
   ],
   "EventBattleFieldDataTable.json": [
-    "20180329145554",
-    46168
+    "20180405110748",
+    48640
   ],
   "EventBattleScenarioDataTable.json": [
-    "20180329111129",
-    7680
+    "20180405110815",
+    8152
   ],
   "EventRaidDataTable.json": [
-    "20180228111118",
-    940
+    "20180405110854",
+    1068
   ],
   "VipUpgradeTicketDataTable.json": [
     "20171011111814",
@@ -324,8 +324,8 @@
     659456
   ],
   "EventRaidGoodsDataTable.json": [
-    "20180228111140",
-    42028
+    "20180405110946",
+    43480
   ],
   "SkillDamagePatternDataTable.json": [
     "20180208112401",

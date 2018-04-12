@@ -1512,6 +1512,18 @@
     "icon": "Goods-evtp14"
   },
   {
+    "type": 315,
+    "name": 10001034,
+    "serverFieldName": "evtp15",
+    "max": 999999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 10001035,
+    "storage": 1,
+    "icon": "Goods-evtp15"
+  },
+  {
     "type": 601,
     "name": 10001013,
     "serverFieldName": "smon01",
@@ -1570,6 +1582,18 @@
     "description": 10001022,
     "storage": 1,
     "icon": "Goods-smon05"
+  },
+  {
+    "type": 606,
+    "name": 10001013,
+    "serverFieldName": "smon06",
+    "max": 999999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 10001022,
+    "storage": 1,
+    "icon": "Goods-smon06"
   },
   {
     "type": 998,

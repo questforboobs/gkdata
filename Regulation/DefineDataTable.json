@@ -89,7 +89,7 @@
   },
   {
     "key": "BATTLE_EVENT_RAID_MAX_LEVEL",
-    "value": "99"
+    "value": "20"
   },
   {
     "key": "BATTLE_MAX_PROCESS_TIME",
@@ -409,27 +409,27 @@
   },
   {
     "key": "NO_GET_COMMANDER_GRADE",
-    "value": "16"
+    "value": "17"
   },
   {
     "key": "NO_GET_COMMANDER_LEVEL",
-    "value": 83
+    "value": "86"
   },
   {
     "key": "NO_GET_COMMANDER_SKILL01",
-    "value": 83
+    "value": "86"
   },
   {
     "key": "NO_GET_COMMANDER_SKILL02",
-    "value": 83
+    "value": "86"
   },
   {
     "key": "NO_GET_COMMANDER_SKILL03",
-    "value": 82
+    "value": "85"
   },
   {
     "key": "NO_GET_COMMANDER_SKILL04",
-    "value": 74
+    "value": "77"
   },
   {
     "key": "NO_GET_COMMANDER_STAR",
@@ -542,5 +542,9 @@
   {
     "key": "WARROOM_CLEAR_MAX_COUNT",
     "value": "5"
+  },
+  {
+    "key": "WEBGL_ZIP_LIMIT",
+    "value": 130
   }
 ]

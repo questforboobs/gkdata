@@ -136,6 +136,23 @@
     "resourceType": 1
   },
   {
+    "id": 9,
+    "S_Idx": 1005009,
+    "C_Type": 1,
+    "unitId": 5009,
+    "resourceId": "c_009",
+    "_isAcademyExposure": "Y",
+    "academyExposureRate": 5,
+    "grade": 5,
+    "recruitHonor": 100,
+    "recruitGold": 2000,
+    "overlapReward": 50,
+    "medalExplanation": 1025009,
+    "favormax": 30,
+    "explanation": 1015009,
+    "resourceType": 1
+  },
+  {
     "id": 10,
     "S_Idx": 1005010,
     "C_Type": 1,
@@ -765,6 +782,23 @@
     "resourceType": 1
   },
   {
+    "id": 51,
+    "S_Idx": 1005051,
+    "C_Type": 1,
+    "unitId": 5051,
+    "resourceId": "c_051",
+    "_isAcademyExposure": "Y",
+    "academyExposureRate": 5,
+    "grade": 2,
+    "recruitHonor": 100,
+    "recruitGold": 2000,
+    "overlapReward": 20,
+    "medalExplanation": 1025051,
+    "favormax": 30,
+    "explanation": 1015051,
+    "resourceType": 1
+  },
+  {
     "id": 52,
     "S_Idx": 1005052,
     "C_Type": 1,
@@ -1224,6 +1258,23 @@
     "resourceType": 13
   },
   {
+    "id": 970,
+    "S_Idx": 1005970,
+    "C_Type": 1,
+    "unitId": 5970,
+    "resourceId": "c_970",
+    "_isAcademyExposure": "Y",
+    "academyExposureRate": 5,
+    "grade": 5,
+    "recruitHonor": 100,
+    "recruitGold": 2000,
+    "overlapReward": 50,
+    "medalExplanation": 1025970,
+    "favormax": 30,
+    "explanation": 1015970,
+    "resourceType": 1
+  },
+  {
     "id": 971,
     "S_Idx": 1005971,
     "C_Type": 1,
@@ -1238,6 +1289,23 @@
     "medalExplanation": 1025971,
     "favormax": 30,
     "explanation": 1015971,
+    "resourceType": 1
+  },
+  {
+    "id": 972,
+    "S_Idx": 1005972,
+    "C_Type": 1,
+    "unitId": 5972,
+    "resourceId": "c_972",
+    "_isAcademyExposure": "Y",
+    "academyExposureRate": 5,
+    "grade": 5,
+    "recruitHonor": 100,
+    "recruitGold": 2000,
+    "overlapReward": 50,
+    "medalExplanation": 1025972,
+    "favormax": 30,
+    "explanation": 1015972,
     "resourceType": 1
   },
   {

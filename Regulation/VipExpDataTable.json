@@ -3,7 +3,7 @@
     "Idx": 0,
     "exp": 5000,
     "favormax": 100,
-    "maxSkill": 10,
+    "maxSkill": 20,
     "maxStage": 3,
     "maxPresent": 5
   },
@@ -11,7 +11,7 @@
     "Idx": 1,
     "exp": 10000,
     "favormax": 150,
-    "maxSkill": 12,
+    "maxSkill": 22,
     "maxStage": 4,
     "maxPresent": 6
   },
@@ -19,7 +19,7 @@
     "Idx": 2,
     "exp": 15000,
     "favormax": 200,
-    "maxSkill": 15,
+    "maxSkill": 25,
     "maxStage": 5,
     "maxPresent": 7
   },
@@ -27,7 +27,7 @@
     "Idx": 3,
     "exp": 20000,
     "favormax": 250,
-    "maxSkill": 17,
+    "maxSkill": 27,
     "maxStage": 6,
     "maxPresent": 8
   },
@@ -35,7 +35,7 @@
     "Idx": 4,
     "exp": 25000,
     "favormax": 300,
-    "maxSkill": 20,
+    "maxSkill": 30,
     "maxStage": 7,
     "maxPresent": 9
   },
@@ -43,7 +43,7 @@
     "Idx": 5,
     "exp": 0,
     "favormax": 350,
-    "maxSkill": 20,
+    "maxSkill": 30,
     "maxStage": 10,
     "maxPresent": 10
   }

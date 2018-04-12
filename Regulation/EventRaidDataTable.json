@@ -47,5 +47,12 @@
     "endTurn": 10,
     "battleMap": "land_boss_01",
     "enemyMap": "land_boss_01"
+  },
+  {
+    "eventIdx": 27,
+    "raidIdx": 10700,
+    "endTurn": 10,
+    "battleMap": "land_boss_01",
+    "enemyMap": "land_boss_01"
   }
 ]

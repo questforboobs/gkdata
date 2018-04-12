@@ -265,6 +265,36 @@
     "voicesound": "voice_08_01"
   },
   {
+    "index": 9,
+    "type": 4,
+    "voicesound": "voice_09_02"
+  },
+  {
+    "index": 9,
+    "type": 7,
+    "voicesound": "voice_09_05"
+  },
+  {
+    "index": 9,
+    "type": 8,
+    "voicesound": "voice_09_06"
+  },
+  {
+    "index": 9,
+    "type": 9,
+    "voicesound": "voice_09_07"
+  },
+  {
+    "index": 9,
+    "type": 10,
+    "voicesound": "voice_09_08"
+  },
+  {
+    "index": 9,
+    "type": 11,
+    "voicesound": "voice_09_01"
+  },
+  {
     "index": 10,
     "type": 4,
     "voicesound": "voice_10_02"
@@ -1480,6 +1510,41 @@
     "voicesound": "voice_50_01"
   },
   {
+    "index": 51,
+    "type": 4,
+    "voicesound": "voice_51_02"
+  },
+  {
+    "index": 51,
+    "type": 5,
+    "voicesound": "voice_51_03"
+  },
+  {
+    "index": 51,
+    "type": 7,
+    "voicesound": "voice_51_05"
+  },
+  {
+    "index": 51,
+    "type": 8,
+    "voicesound": "voice_51_06"
+  },
+  {
+    "index": 51,
+    "type": 9,
+    "voicesound": "voice_51_07"
+  },
+  {
+    "index": 51,
+    "type": 10,
+    "voicesound": "voice_51_08"
+  },
+  {
+    "index": 51,
+    "type": 11,
+    "voicesound": "voice_51_01"
+  },
+  {
     "index": 52,
     "type": 4,
     "voicesound": "voice_52_02"
@@ -2405,6 +2470,36 @@
     "voicesound": "voice_613_01"
   },
   {
+    "index": 970,
+    "type": 4,
+    "voicesound": "voice_970_02"
+  },
+  {
+    "index": 970,
+    "type": 7,
+    "voicesound": "voice_970_05"
+  },
+  {
+    "index": 970,
+    "type": 8,
+    "voicesound": "voice_970_06"
+  },
+  {
+    "index": 970,
+    "type": 9,
+    "voicesound": "voice_970_07"
+  },
+  {
+    "index": 970,
+    "type": 10,
+    "voicesound": "voice_970_08"
+  },
+  {
+    "index": 970,
+    "type": 11,
+    "voicesound": "voice_970_01"
+  },
+  {
     "index": 971,
     "type": 4,
     "voicesound": "voice_971_02"
@@ -2438,6 +2533,46 @@
     "index": 971,
     "type": 11,
     "voicesound": "voice_971_01"
+  },
+  {
+    "index": 972,
+    "type": 4,
+    "voicesound": "voice_972_02"
+  },
+  {
+    "index": 972,
+    "type": 5,
+    "voicesound": "voice_972_03"
+  },
+  {
+    "index": 972,
+    "type": 6,
+    "voicesound": "voice_972_04"
+  },
+  {
+    "index": 972,
+    "type": 7,
+    "voicesound": "voice_972_05"
+  },
+  {
+    "index": 972,
+    "type": 8,
+    "voicesound": "voice_972_06"
+  },
+  {
+    "index": 972,
+    "type": 9,
+    "voicesound": "voice_972_07"
+  },
+  {
+    "index": 972,
+    "type": 10,
+    "voicesound": "voice_972_08"
+  },
+  {
+    "index": 972,
+    "type": 11,
+    "voicesound": "voice_972_01"
   },
   {
     "index": 973,
