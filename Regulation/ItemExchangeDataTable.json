@@ -1260,6 +1260,36 @@
     "position3": 0
   },
   {
+    "idx": 189,
+    "type": 2,
+    "typeidx": 974,
+    "display": 2,
+    "pricetype": 1,
+    "pricetypeidx": 4,
+    "price": 500,
+    "navigatortype1": 7,
+    "position1": 0,
+    "navigatortype2": 0,
+    "position2": 0,
+    "navigatortype3": 0,
+    "position3": 0
+  },
+  {
+    "idx": 190,
+    "type": 2,
+    "typeidx": 975,
+    "display": 2,
+    "pricetype": 1,
+    "pricetypeidx": 4,
+    "price": 500,
+    "navigatortype1": 7,
+    "position1": 0,
+    "navigatortype2": 0,
+    "position2": 0,
+    "navigatortype3": 0,
+    "position3": 0
+  },
+  {
     "idx": 187,
     "type": 2,
     "typeidx": 976,

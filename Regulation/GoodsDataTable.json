@@ -1608,6 +1608,18 @@
     "icon": "Goods-smon05"
   },
   {
+    "type": 901,
+    "name": 4500,
+    "serverFieldName": "ring",
+    "max": 9999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4501,
+    "storage": 0,
+    "icon": "Goods-ring"
+  },
+  {
     "type": 999,
     "name": 4025,
     "serverFieldName": "sec",
@@ -1649,7 +1661,7 @@
     "serverFieldName": "skil",
     "max": 9999,
     "rechargeType": 2,
-    "rechargeTime": 300,
+    "rechargeTime": 150,
     "rechargeMax": 0,
     "description": 4059,
     "storage": 0,

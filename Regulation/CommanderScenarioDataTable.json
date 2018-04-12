@@ -12,7 +12,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 1,
@@ -27,7 +28,8 @@
     "favor": 1,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 101
+    "scenarioClear": 101,
+    "heart": 1
   },
   {
     "index": 2,
@@ -42,7 +44,8 @@
     "favor": 3,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 102
+    "scenarioClear": 102,
+    "heart": 1
   },
   {
     "index": 3,
@@ -57,7 +60,8 @@
     "favor": 5,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 103
+    "scenarioClear": 103,
+    "heart": 1
   },
   {
     "index": 4,
@@ -72,7 +76,8 @@
     "favor": 7,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 104
+    "scenarioClear": 104,
+    "heart": 1
   },
   {
     "index": 5,
@@ -87,7 +92,8 @@
     "favor": 8,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 105
+    "scenarioClear": 105,
+    "heart": 1
   },
   {
     "index": 6,
@@ -102,7 +108,8 @@
     "favor": 9,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 106
+    "scenarioClear": 106,
+    "heart": 1
   },
   {
     "index": 7,
@@ -117,7 +124,8 @@
     "favor": 10,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 107
+    "scenarioClear": 107,
+    "heart": 1
   },
   {
     "index": 8,
@@ -132,7 +140,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 9,
@@ -147,7 +156,8 @@
     "favor": 1,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 201
+    "scenarioClear": 201,
+    "heart": 1
   },
   {
     "index": 10,
@@ -162,7 +172,8 @@
     "favor": 3,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 202
+    "scenarioClear": 202,
+    "heart": 1
   },
   {
     "index": 11,
@@ -177,7 +188,8 @@
     "favor": 5,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 203
+    "scenarioClear": 203,
+    "heart": 1
   },
   {
     "index": 12,
@@ -192,7 +204,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 13,
@@ -207,7 +220,8 @@
     "favor": 1,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 501
+    "scenarioClear": 501,
+    "heart": 1
   },
   {
     "index": 14,
@@ -222,7 +236,8 @@
     "favor": 3,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 502
+    "scenarioClear": 502,
+    "heart": 1
   },
   {
     "index": 15,
@@ -237,7 +252,8 @@
     "favor": 5,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 503
+    "scenarioClear": 503,
+    "heart": 1
   },
   {
     "index": 16,
@@ -252,7 +268,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 17,
@@ -267,7 +284,8 @@
     "favor": 1,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 1001
+    "scenarioClear": 1001,
+    "heart": 1
   },
   {
     "index": 18,
@@ -282,7 +300,8 @@
     "favor": 3,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 1002
+    "scenarioClear": 1002,
+    "heart": 1
   },
   {
     "index": 19,
@@ -297,7 +316,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 20,
@@ -312,7 +332,8 @@
     "favor": 1,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 1601
+    "scenarioClear": 1601,
+    "heart": 1
   },
   {
     "index": 21,
@@ -327,7 +348,8 @@
     "favor": 3,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 1602
+    "scenarioClear": 1602,
+    "heart": 1
   },
   {
     "index": 22,
@@ -342,7 +364,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 23,
@@ -357,7 +380,8 @@
     "favor": 1,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 1701
+    "scenarioClear": 1701,
+    "heart": 1
   },
   {
     "index": 24,
@@ -372,7 +396,8 @@
     "favor": 3,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 1702
+    "scenarioClear": 1702,
+    "heart": 1
   },
   {
     "index": 25,
@@ -387,7 +412,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 26,
@@ -402,7 +428,8 @@
     "favor": 1,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 1801
+    "scenarioClear": 1801,
+    "heart": 1
   },
   {
     "index": 27,
@@ -417,7 +444,8 @@
     "favor": 3,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 1802
+    "scenarioClear": 1802,
+    "heart": 1
   },
   {
     "index": 28,
@@ -432,7 +460,8 @@
     "favor": 5,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 1803
+    "scenarioClear": 1803,
+    "heart": 1
   },
   {
     "index": 29,
@@ -447,7 +476,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 60,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 30,
@@ -462,7 +492,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 31,
@@ -477,7 +508,8 @@
     "favor": 1,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 2401
+    "scenarioClear": 2401,
+    "heart": 1
   },
   {
     "index": 32,
@@ -492,7 +524,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 33,
@@ -507,7 +540,8 @@
     "favor": 1,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 2601
+    "scenarioClear": 2601,
+    "heart": 1
   },
   {
     "index": 34,
@@ -522,7 +556,8 @@
     "favor": 3,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 2602
+    "scenarioClear": 2602,
+    "heart": 1
   },
   {
     "index": 35,
@@ -537,7 +572,8 @@
     "favor": 5,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 2603
+    "scenarioClear": 2603,
+    "heart": 1
   },
   {
     "index": 36,
@@ -552,7 +588,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 37,
@@ -567,7 +604,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 38,
@@ -582,7 +620,8 @@
     "favor": 1,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 3201
+    "scenarioClear": 3201,
+    "heart": 1
   },
   {
     "index": 39,
@@ -597,7 +636,8 @@
     "favor": 3,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 3202
+    "scenarioClear": 3202,
+    "heart": 1
   },
   {
     "index": 40,
@@ -612,7 +652,8 @@
     "favor": 5,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 3203
+    "scenarioClear": 3203,
+    "heart": 1
   },
   {
     "index": 41,
@@ -627,7 +668,8 @@
     "favor": 7,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 3204
+    "scenarioClear": 3204,
+    "heart": 1
   },
   {
     "index": 42,
@@ -642,7 +684,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 43,
@@ -657,7 +700,8 @@
     "favor": 1,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 3501
+    "scenarioClear": 3501,
+    "heart": 1
   },
   {
     "index": 44,
@@ -672,7 +716,8 @@
     "favor": 3,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 3502
+    "scenarioClear": 3502,
+    "heart": 1
   },
   {
     "index": 45,
@@ -687,7 +732,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 46,
@@ -702,7 +748,8 @@
     "favor": 1,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 4101
+    "scenarioClear": 4101,
+    "heart": 1
   },
   {
     "index": 47,
@@ -717,7 +764,8 @@
     "favor": 3,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 4102
+    "scenarioClear": 4102,
+    "heart": 1
   },
   {
     "index": 48,
@@ -732,7 +780,8 @@
     "favor": 5,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 4103
+    "scenarioClear": 4103,
+    "heart": 1
   },
   {
     "index": 49,
@@ -747,7 +796,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 50,
@@ -762,7 +812,8 @@
     "favor": 1,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 4201
+    "scenarioClear": 4201,
+    "heart": 1
   },
   {
     "index": 51,
@@ -777,7 +828,8 @@
     "favor": 3,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 4202
+    "scenarioClear": 4202,
+    "heart": 1
   },
   {
     "index": 52,
@@ -792,7 +844,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 53,
@@ -807,7 +860,8 @@
     "favor": 1,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 5001
+    "scenarioClear": 5001,
+    "heart": 1
   },
   {
     "index": 54,
@@ -822,7 +876,8 @@
     "favor": 3,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 5002
+    "scenarioClear": 5002,
+    "heart": 1
   },
   {
     "index": 55,
@@ -837,7 +892,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 56,
@@ -852,7 +908,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 57,
@@ -867,7 +924,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 58,
@@ -882,7 +940,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 59,
@@ -897,7 +956,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 60,
@@ -912,7 +972,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 61,
@@ -927,7 +988,8 @@
     "favor": 1,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 5801
+    "scenarioClear": 5801,
+    "heart": 1
   },
   {
     "index": 62,
@@ -942,7 +1004,8 @@
     "favor": 3,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 5802
+    "scenarioClear": 5802,
+    "heart": 1
   },
   {
     "index": 63,
@@ -957,7 +1020,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 64,
@@ -972,7 +1036,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 61,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 65,
@@ -987,7 +1052,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 59,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 66,
@@ -1002,7 +1068,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 23,
-    "scenarioClear": 6101
+    "scenarioClear": 6101,
+    "heart": 1
   },
   {
     "index": 67,
@@ -1017,7 +1084,8 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   },
   {
     "index": 68,
@@ -1032,7 +1100,8 @@
     "favor": 1,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 6301
+    "scenarioClear": 6301,
+    "heart": 1
   },
   {
     "index": 69,
@@ -1047,6 +1116,7 @@
     "favor": 0,
     "mapClear": 0,
     "commander": 0,
-    "scenarioClear": 0
+    "scenarioClear": 0,
+    "heart": 1
   }
 ]
