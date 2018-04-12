@@ -968,5 +968,25 @@
     "rewardBullet": 165,
     "bankGold": 22868,
     "goldIncrease": 395
+  },
+  {
+    "level": 98,
+    "exp": 267750,
+    "uExp": 1986690,
+    "maxBullet": 185,
+    "maxSkill": 10,
+    "rewardBullet": 175,
+    "bankGold": 22981,
+    "goldIncrease": 398
+  },
+  {
+    "level": 99,
+    "exp": 332250,
+    "uExp": 2318940,
+    "maxBullet": 195,
+    "maxSkill": 10,
+    "rewardBullet": 185,
+    "bankGold": 23094,
+    "goldIncrease": 401
   }
 ]

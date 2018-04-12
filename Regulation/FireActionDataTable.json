@@ -1513,6 +1513,23 @@
     }
   },
   {
+    "key": "50752",
+    "on": {
+      "duration": 8000,
+      "eventTime": 0,
+      "fireDelayTime": 0,
+      "hitDelayTime": 0,
+      "timeSleepDuringFire": false
+    },
+    "off": {
+      "duration": 6000,
+      "eventTime": -1,
+      "fireDelayTime": 0,
+      "hitDelayTime": 0,
+      "timeSleepDuringFire": false
+    }
+  },
+  {
     "key": "50762",
     "on": {
       "duration": 7500,
@@ -1608,6 +1625,40 @@
     },
     "off": {
       "duration": 6000,
+      "eventTime": -1,
+      "fireDelayTime": 0,
+      "hitDelayTime": 0,
+      "timeSleepDuringFire": true
+    }
+  },
+  {
+    "key": "59742",
+    "on": {
+      "duration": 7000,
+      "eventTime": 0,
+      "fireDelayTime": 0,
+      "hitDelayTime": 1050,
+      "timeSleepDuringFire": true
+    },
+    "off": {
+      "duration": 7000,
+      "eventTime": -1,
+      "fireDelayTime": 0,
+      "hitDelayTime": 0,
+      "timeSleepDuringFire": true
+    }
+  },
+  {
+    "key": "59752",
+    "on": {
+      "duration": 6500,
+      "eventTime": 0,
+      "fireDelayTime": 0,
+      "hitDelayTime": 700,
+      "timeSleepDuringFire": true
+    },
+    "off": {
+      "duration": 6500,
       "eventTime": -1,
       "fireDelayTime": 0,
       "hitDelayTime": 0,

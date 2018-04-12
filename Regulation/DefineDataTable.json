@@ -12,6 +12,10 @@
     "value": "3"
   },
   {
+    "key": "ARENA_PLACEMENT_MATCH",
+    "value": "5"
+  },
+  {
     "key": "ARENA_3WAVE_END_TURN",
     "value": "58"
   },
@@ -40,20 +44,20 @@
     "value": 2
   },
   {
-    "key": "ARENA_RANK_LOSE",
-    "value": "0"
-  },
-  {
-    "key": "ARENA_RANK_WIN",
-    "value": "30"
-  },
-  {
     "key": "ARENA_RANK_WINNING",
-    "value": "3"
+    "value": "1"
   },
   {
     "key": "ARENA_RANK_WINNING_MAX",
-    "value": "30"
+    "value": "5"
+  },
+  {
+    "key": "ARENA_RANK_LOSING",
+    "value": "-1"
+  },
+  {
+    "key": "ARENA_RANK_LOSING_MAX",
+    "value": "-3"
   },
   {
     "key": "BATTLEEVENT_CLOSE_DELAY",
@@ -393,23 +397,23 @@
   },
   {
     "key": "NO_GET_COMMANDER_LEVEL",
-    "value": 97
+    "value": "99"
   },
   {
     "key": "NO_GET_COMMANDER_SKILL01",
-    "value": 97
+    "value": "99"
   },
   {
     "key": "NO_GET_COMMANDER_SKILL02",
-    "value": 97
+    "value": "99"
   },
   {
     "key": "NO_GET_COMMANDER_SKILL03",
-    "value": 96
+    "value": "98"
   },
   {
     "key": "NO_GET_COMMANDER_SKILL04",
-    "value": 88
+    "value": "90"
   },
   {
     "key": "NO_GET_COMMANDER_STAR",
