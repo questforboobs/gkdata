@@ -5964,6 +5964,90 @@
     "stat": 1000
   },
   {
+    "cid": 75,
+    "step": 1,
+    "profile": 807501,
+    "statType": 8,
+    "stat": 6
+  },
+  {
+    "cid": 75,
+    "step": 2,
+    "profile": 807502,
+    "statType": 2,
+    "stat": 5
+  },
+  {
+    "cid": 75,
+    "step": 3,
+    "profile": 807503,
+    "statType": 8,
+    "stat": 8
+  },
+  {
+    "cid": 75,
+    "step": 4,
+    "profile": 807504,
+    "statType": 1,
+    "stat": 210
+  },
+  {
+    "cid": 75,
+    "step": 5,
+    "profile": 807505,
+    "statType": 4,
+    "stat": 300
+  },
+  {
+    "cid": 75,
+    "step": 6,
+    "profile": 807506,
+    "statType": 8,
+    "stat": 10
+  },
+  {
+    "cid": 75,
+    "step": 7,
+    "profile": 807507,
+    "statType": 7,
+    "stat": 20
+  },
+  {
+    "cid": 75,
+    "step": 8,
+    "profile": 807508,
+    "statType": 8,
+    "stat": 12
+  },
+  {
+    "cid": 75,
+    "step": 9,
+    "profile": 807509,
+    "statType": 5,
+    "stat": 200
+  },
+  {
+    "cid": 75,
+    "step": 10,
+    "profile": 807510,
+    "statType": 8,
+    "stat": 12
+  },
+  {
+    "cid": 75,
+    "step": 11,
+    "profile": 807511,
+    "statType": 5,
+    "stat": 200
+  },
+  {
+    "cid": 75,
+    "step": 12,
+    "profile": 807512,
+    "statType": 1,
+    "stat": 1000
+  },
+  {
     "cid": 76,
     "step": 1,
     "profile": 807601,
@@ -6380,6 +6464,174 @@
     "cid": 626,
     "step": 12,
     "profile": 862612,
+    "statType": 1,
+    "stat": 1000
+  },
+  {
+    "cid": 971,
+    "step": 1,
+    "profile": 897101,
+    "statType": 8,
+    "stat": 6
+  },
+  {
+    "cid": 971,
+    "step": 2,
+    "profile": 897102,
+    "statType": 1,
+    "stat": 40
+  },
+  {
+    "cid": 971,
+    "step": 3,
+    "profile": 897103,
+    "statType": 8,
+    "stat": 8
+  },
+  {
+    "cid": 971,
+    "step": 4,
+    "profile": 897104,
+    "statType": 1,
+    "stat": 300
+  },
+  {
+    "cid": 971,
+    "step": 5,
+    "profile": 897105,
+    "statType": 4,
+    "stat": 300
+  },
+  {
+    "cid": 971,
+    "step": 6,
+    "profile": 897106,
+    "statType": 8,
+    "stat": 10
+  },
+  {
+    "cid": 971,
+    "step": 7,
+    "profile": 897107,
+    "statType": 7,
+    "stat": 20
+  },
+  {
+    "cid": 971,
+    "step": 8,
+    "profile": 897108,
+    "statType": 8,
+    "stat": 12
+  },
+  {
+    "cid": 971,
+    "step": 9,
+    "profile": 897109,
+    "statType": 1,
+    "stat": 500
+  },
+  {
+    "cid": 971,
+    "step": 10,
+    "profile": 897110,
+    "statType": 8,
+    "stat": 12
+  },
+  {
+    "cid": 971,
+    "step": 11,
+    "profile": 897111,
+    "statType": 5,
+    "stat": 200
+  },
+  {
+    "cid": 971,
+    "step": 12,
+    "profile": 897112,
+    "statType": 1,
+    "stat": 1000
+  },
+  {
+    "cid": 973,
+    "step": 1,
+    "profile": 897301,
+    "statType": 8,
+    "stat": 6
+  },
+  {
+    "cid": 973,
+    "step": 2,
+    "profile": 897302,
+    "statType": 2,
+    "stat": 5
+  },
+  {
+    "cid": 973,
+    "step": 3,
+    "profile": 897303,
+    "statType": 8,
+    "stat": 8
+  },
+  {
+    "cid": 973,
+    "step": 4,
+    "profile": 897304,
+    "statType": 1,
+    "stat": 210
+  },
+  {
+    "cid": 973,
+    "step": 5,
+    "profile": 897305,
+    "statType": 4,
+    "stat": 300
+  },
+  {
+    "cid": 973,
+    "step": 6,
+    "profile": 897306,
+    "statType": 8,
+    "stat": 10
+  },
+  {
+    "cid": 973,
+    "step": 7,
+    "profile": 897307,
+    "statType": 7,
+    "stat": 20
+  },
+  {
+    "cid": 973,
+    "step": 8,
+    "profile": 897308,
+    "statType": 8,
+    "stat": 12
+  },
+  {
+    "cid": 973,
+    "step": 9,
+    "profile": 897309,
+    "statType": 5,
+    "stat": 200
+  },
+  {
+    "cid": 973,
+    "step": 10,
+    "profile": 897310,
+    "statType": 8,
+    "stat": 12
+  },
+  {
+    "cid": 973,
+    "step": 11,
+    "profile": 897311,
+    "statType": 5,
+    "stat": 200
+  },
+  {
+    "cid": 973,
+    "step": 12,
+    "profile": 897312,
     "statType": 1,
     "stat": 1000
   },

@@ -1,5 +1,16 @@
 [
   {
+    "eventIdx": 988,
+    "goodsIdx": 0,
+    "goodsAmount": 0,
+    "eventImg": 3499,
+    "eventLogo": "-",
+    "mainRewardType": 1,
+    "mainRewardIdx": 416,
+    "mainRewardAmount": 1,
+    "eventPointIdx": 416
+  },
+  {
     "eventIdx": 989,
     "goodsIdx": 0,
     "goodsAmount": 0,
