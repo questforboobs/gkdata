@@ -218,5 +218,15 @@
     "endDate": "2018-04-17",
     "endTime": "14:00:00",
     "weekIdx": 0
+  },
+  {
+    "category": 13,
+    "type": 988,
+    "typeIndex": 1,
+    "startDate": "2018-04-15",
+    "startTime": "14:00:00",
+    "endDate": "2018-04-24",
+    "endTime": "14:00:00",
+    "weekIdx": 0
   }
 ]

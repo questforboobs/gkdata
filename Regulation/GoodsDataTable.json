@@ -1548,6 +1548,18 @@
     "icon": "main_building_base"
   },
   {
+    "type": 416,
+    "name": 4446,
+    "serverFieldName": "evtp16",
+    "max": 999999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4447,
+    "storage": 1,
+    "icon": "Goods-evtp16"
+  },
+  {
     "type": 601,
     "name": 4389,
     "serverFieldName": "smon01",
@@ -1666,5 +1678,89 @@
     "description": 4059,
     "storage": 0,
     "icon": "Goods-skil"
+  },
+  {
+    "type": 5000,
+    "name": 4502,
+    "serverFieldName": "item1",
+    "max": 9999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4503,
+    "storage": 1,
+    "icon": "Goods-honr_p1"
+  },
+  {
+    "type": 5001,
+    "name": 4504,
+    "serverFieldName": "item2",
+    "max": 9999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4505,
+    "storage": 1,
+    "icon": "Goods-honr_p2"
+  },
+  {
+    "type": 5002,
+    "name": 4506,
+    "serverFieldName": "item3",
+    "max": 9999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4507,
+    "storage": 1,
+    "icon": "Goods-honr_p3"
+  },
+  {
+    "type": 5003,
+    "name": 4508,
+    "serverFieldName": "item4",
+    "max": 9999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4509,
+    "storage": 1,
+    "icon": "Goods-honr_p4"
+  },
+  {
+    "type": 5004,
+    "name": 4510,
+    "serverFieldName": "item5",
+    "max": 9999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4511,
+    "storage": 1,
+    "icon": "Goods-honr_p5"
+  },
+  {
+    "type": 5005,
+    "name": 4512,
+    "serverFieldName": "item6",
+    "max": 9999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 4513,
+    "storage": 1,
+    "icon": "Goods-honr_p6"
+  },
+  {
+    "type": 6000,
+    "name": 5002025,
+    "serverFieldName": "box110",
+    "max": 999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 5003025,
+    "storage": 1,
+    "icon": "icon_img_box04"
   }
 ]

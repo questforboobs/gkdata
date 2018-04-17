@@ -192,6 +192,10 @@
     "value": "5000"
   },
   {
+    "key": "FIRST_START_SKILL_POINT",
+    "value": "100"
+  },
+  {
     "key": "FIRST_START_TRAINING_TICKET",
     "value": "0"
   },
@@ -525,6 +529,6 @@
   },
   {
     "key": "RETURNUSER_DATE",
-    "value": 10
+    "value": 28
   }
 ]
