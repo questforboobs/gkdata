@@ -1085,6 +1085,62 @@
     "memberIdx": 986
   },
   {
+    "gidx": 73,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 42
+  },
+  {
+    "gidx": 73,
+    "idx": 2,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 982
+  },
+  {
+    "gidx": 73,
+    "idx": 3,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 66
+  },
+  {
+    "gidx": 73,
+    "idx": 4,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 75
+  },
+  {
+    "gidx": 74,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 5,
+    "memberIdx": 61
+  },
+  {
+    "gidx": 74,
+    "idx": 2,
+    "memberType": 1,
+    "grade": 5,
+    "memberIdx": 23
+  },
+  {
+    "gidx": 74,
+    "idx": 3,
+    "memberType": 1,
+    "grade": 5,
+    "memberIdx": 59
+  },
+  {
+    "gidx": 74,
+    "idx": 4,
+    "memberType": 1,
+    "grade": 5,
+    "memberIdx": 60
+  },
+  {
     "gidx": 81,
     "idx": 1,
     "memberType": 1,
@@ -2688,6 +2744,34 @@
     "memberIdx": 68
   },
   {
+    "gidx": 160,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 59
+  },
+  {
+    "gidx": 160,
+    "idx": 2,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 71
+  },
+  {
+    "gidx": 160,
+    "idx": 3,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 75
+  },
+  {
+    "gidx": 160,
+    "idx": 4,
+    "memberType": 1,
+    "grade": 9,
+    "memberIdx": 985
+  },
+  {
     "gidx": 301,
     "idx": 1,
     "memberType": 1,
@@ -2812,5 +2896,47 @@
     "memberType": 1,
     "grade": 19,
     "memberIdx": 977
+  },
+  {
+    "gidx": 332,
+    "idx": 1,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 970
+  },
+  {
+    "gidx": 332,
+    "idx": 2,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 971
+  },
+  {
+    "gidx": 332,
+    "idx": 3,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 972
+  },
+  {
+    "gidx": 332,
+    "idx": 4,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 973
+  },
+  {
+    "gidx": 332,
+    "idx": 5,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 974
+  },
+  {
+    "gidx": 332,
+    "idx": 6,
+    "memberType": 1,
+    "grade": 19,
+    "memberIdx": 975
   }
 ]

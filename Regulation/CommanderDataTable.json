@@ -82,7 +82,7 @@
     "medalExplanation": 1025005,
     "favormax": 30,
     "explanation": 1015005,
-    "marry": 0
+    "marry": 1
   },
   {
     "id": 6,
@@ -235,7 +235,7 @@
     "medalExplanation": 1025014,
     "favormax": 30,
     "explanation": 1015014,
-    "marry": 0
+    "marry": 1
   },
   {
     "id": 15,
@@ -269,7 +269,7 @@
     "medalExplanation": 1025016,
     "favormax": 30,
     "explanation": 1015016,
-    "marry": 0
+    "marry": 1
   },
   {
     "id": 17,
@@ -422,7 +422,7 @@
     "medalExplanation": 1025026,
     "favormax": 30,
     "explanation": 1015026,
-    "marry": 0
+    "marry": 1
   },
   {
     "id": 27,
@@ -1192,7 +1192,7 @@
   {
     "id": 75,
     "S_Idx": 1005075,
-    "C_Type": 2,
+    "C_Type": 1,
     "unitId": 5075,
     "resourceId": "c_075",
     "_isAcademyExposure": "Y",
@@ -1292,6 +1292,23 @@
     "marry": 0
   },
   {
+    "id": 970,
+    "S_Idx": 1005970,
+    "C_Type": 1,
+    "unitId": 5970,
+    "resourceId": "c_970",
+    "_isAcademyExposure": "Y",
+    "academyExposureRate": 5,
+    "grade": 3,
+    "recruitHonor": 100,
+    "recruitGold": 2000,
+    "overlapReward": 35,
+    "medalExplanation": 1025970,
+    "favormax": 30,
+    "explanation": 1015970,
+    "marry": 0
+  },
+  {
     "id": 971,
     "S_Idx": 1005971,
     "C_Type": 1,
@@ -1306,6 +1323,23 @@
     "medalExplanation": 1025971,
     "favormax": 30,
     "explanation": 1015971,
+    "marry": 0
+  },
+  {
+    "id": 972,
+    "S_Idx": 1005972,
+    "C_Type": 1,
+    "unitId": 5972,
+    "resourceId": "c_972",
+    "_isAcademyExposure": "Y",
+    "academyExposureRate": 5,
+    "grade": 3,
+    "recruitHonor": 100,
+    "recruitGold": 2000,
+    "overlapReward": 35,
+    "medalExplanation": 1025972,
+    "favormax": 30,
+    "explanation": 1015972,
     "marry": 0
   },
   {

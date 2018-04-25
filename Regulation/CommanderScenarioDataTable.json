@@ -257,6 +257,54 @@
   },
   {
     "index": 16,
+    "csid": 599,
+    "cid": 5,
+    "order": 99,
+    "name": 30509,
+    "desc": 30510,
+    "level": 0,
+    "grade": 0,
+    "cls": 0,
+    "favor": 13,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 0,
+    "heart": 0
+  },
+  {
+    "index": 17,
+    "csid": 1499,
+    "cid": 14,
+    "order": 1,
+    "name": 31409,
+    "desc": 31410,
+    "level": 0,
+    "grade": 0,
+    "cls": 0,
+    "favor": 13,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 0,
+    "heart": 0
+  },
+  {
+    "index": 18,
+    "csid": 1699,
+    "cid": 16,
+    "order": 4,
+    "name": 31609,
+    "desc": 31610,
+    "level": 0,
+    "grade": 0,
+    "cls": 0,
+    "favor": 13,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 0,
+    "heart": 0
+  },
+  {
+    "index": 19,
     "csid": 1701,
     "cid": 17,
     "order": 1,
@@ -272,7 +320,7 @@
     "heart": 1
   },
   {
-    "index": 17,
+    "index": 20,
     "csid": 1702,
     "cid": 17,
     "order": 2,
@@ -288,7 +336,7 @@
     "heart": 1
   },
   {
-    "index": 18,
+    "index": 21,
     "csid": 1703,
     "cid": 17,
     "order": 3,
@@ -304,7 +352,7 @@
     "heart": 1
   },
   {
-    "index": 19,
+    "index": 22,
     "csid": 1801,
     "cid": 18,
     "order": 1,
@@ -320,7 +368,7 @@
     "heart": 1
   },
   {
-    "index": 20,
+    "index": 23,
     "csid": 1802,
     "cid": 18,
     "order": 2,
@@ -336,7 +384,7 @@
     "heart": 1
   },
   {
-    "index": 21,
+    "index": 24,
     "csid": 1803,
     "cid": 18,
     "order": 3,
@@ -352,7 +400,7 @@
     "heart": 1
   },
   {
-    "index": 22,
+    "index": 25,
     "csid": 1804,
     "cid": 18,
     "order": 4,
@@ -368,7 +416,7 @@
     "heart": 1
   },
   {
-    "index": 23,
+    "index": 26,
     "csid": 2301,
     "cid": 23,
     "order": 1,
@@ -384,7 +432,7 @@
     "heart": 1
   },
   {
-    "index": 24,
+    "index": 27,
     "csid": 2601,
     "cid": 26,
     "order": 1,
@@ -400,7 +448,7 @@
     "heart": 1
   },
   {
-    "index": 25,
+    "index": 28,
     "csid": 2602,
     "cid": 26,
     "order": 2,
@@ -416,7 +464,7 @@
     "heart": 1
   },
   {
-    "index": 26,
+    "index": 29,
     "csid": 2603,
     "cid": 26,
     "order": 3,
@@ -432,7 +480,7 @@
     "heart": 1
   },
   {
-    "index": 27,
+    "index": 30,
     "csid": 2604,
     "cid": 26,
     "order": 4,
@@ -448,7 +496,23 @@
     "heart": 1
   },
   {
-    "index": 28,
+    "index": 31,
+    "csid": 2699,
+    "cid": 26,
+    "order": 5,
+    "name": 32609,
+    "desc": 32610,
+    "level": 0,
+    "grade": 0,
+    "cls": 0,
+    "favor": 13,
+    "mapClear": 0,
+    "commander": 0,
+    "scenarioClear": 0,
+    "heart": 0
+  },
+  {
+    "index": 32,
     "csid": 3201,
     "cid": 32,
     "order": 1,
@@ -464,7 +528,7 @@
     "heart": 1
   },
   {
-    "index": 29,
+    "index": 33,
     "csid": 3202,
     "cid": 32,
     "order": 2,
@@ -480,7 +544,7 @@
     "heart": 1
   },
   {
-    "index": 30,
+    "index": 34,
     "csid": 3203,
     "cid": 32,
     "order": 3,
@@ -496,7 +560,7 @@
     "heart": 1
   },
   {
-    "index": 31,
+    "index": 35,
     "csid": 3204,
     "cid": 32,
     "order": 4,
@@ -512,7 +576,7 @@
     "heart": 1
   },
   {
-    "index": 32,
+    "index": 36,
     "csid": 3205,
     "cid": 32,
     "order": 5,
@@ -528,7 +592,7 @@
     "heart": 1
   },
   {
-    "index": 33,
+    "index": 37,
     "csid": 4101,
     "cid": 41,
     "order": 1,
@@ -544,7 +608,7 @@
     "heart": 1
   },
   {
-    "index": 34,
+    "index": 38,
     "csid": 4102,
     "cid": 41,
     "order": 2,
@@ -560,7 +624,7 @@
     "heart": 1
   },
   {
-    "index": 35,
+    "index": 39,
     "csid": 4103,
     "cid": 41,
     "order": 3,
@@ -576,7 +640,7 @@
     "heart": 1
   },
   {
-    "index": 36,
+    "index": 40,
     "csid": 4104,
     "cid": 41,
     "order": 4,
@@ -592,7 +656,7 @@
     "heart": 1
   },
   {
-    "index": 37,
+    "index": 41,
     "csid": 5901,
     "cid": 59,
     "order": 1,
@@ -608,7 +672,7 @@
     "heart": 1
   },
   {
-    "index": 38,
+    "index": 42,
     "csid": 6001,
     "cid": 60,
     "order": 1,
@@ -624,7 +688,7 @@
     "heart": 1
   },
   {
-    "index": 39,
+    "index": 43,
     "csid": 6101,
     "cid": 61,
     "order": 1,
@@ -640,7 +704,7 @@
     "heart": 1
   },
   {
-    "index": 40,
+    "index": 44,
     "csid": 6102,
     "cid": 61,
     "order": 2,
