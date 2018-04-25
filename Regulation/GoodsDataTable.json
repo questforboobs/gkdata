@@ -1524,6 +1524,18 @@
     "icon": "Goods-evtp15"
   },
   {
+    "type": 316,
+    "name": 10001036,
+    "serverFieldName": "evtp16",
+    "max": 999999,
+    "rechargeType": 0,
+    "rechargeTime": 0,
+    "rechargeMax": 0,
+    "description": 10001037,
+    "storage": 1,
+    "icon": "Goods-evtp16"
+  },
+  {
     "type": 601,
     "name": 10001013,
     "serverFieldName": "smon01",

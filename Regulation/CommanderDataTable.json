@@ -1258,6 +1258,23 @@
     "resourceType": 13
   },
   {
+    "id": 815,
+    "S_Idx": 8000815,
+    "C_Type": 1,
+    "unitId": 500815,
+    "resourceId": "c_008",
+    "_isAcademyExposure": "Y",
+    "academyExposureRate": 5,
+    "grade": 2,
+    "recruitHonor": 100,
+    "recruitGold": 2000,
+    "overlapReward": 20,
+    "medalExplanation": 8200815,
+    "favormax": 30,
+    "explanation": 8100815,
+    "resourceType": 15
+  },
+  {
     "id": 970,
     "S_Idx": 1005970,
     "C_Type": 1,
@@ -1460,6 +1477,23 @@
     "favormax": 30,
     "explanation": 8101109,
     "resourceType": 9
+  },
+  {
+    "id": 1115,
+    "S_Idx": 8001115,
+    "C_Type": 1,
+    "unitId": 501115,
+    "resourceId": "c_011",
+    "_isAcademyExposure": "Y",
+    "academyExposureRate": 5,
+    "grade": 4,
+    "recruitHonor": 100,
+    "recruitGold": 2000,
+    "overlapReward": 40,
+    "medalExplanation": 8201115,
+    "favormax": 30,
+    "explanation": 8101115,
+    "resourceType": 15
   },
   {
     "id": 1302,
@@ -1972,6 +2006,23 @@
     "resourceType": 14
   },
   {
+    "id": 2815,
+    "S_Idx": 8002815,
+    "C_Type": 1,
+    "unitId": 502815,
+    "resourceId": "c_028",
+    "_isAcademyExposure": "Y",
+    "academyExposureRate": 5,
+    "grade": 5,
+    "recruitHonor": 100,
+    "recruitGold": 2000,
+    "overlapReward": 50,
+    "medalExplanation": 8202815,
+    "favormax": 30,
+    "explanation": 8102815,
+    "resourceType": 15
+  },
+  {
     "id": 3014,
     "S_Idx": 8003014,
     "C_Type": 1,
@@ -2193,6 +2244,23 @@
     "resourceType": 9
   },
   {
+    "id": 4515,
+    "S_Idx": 8004515,
+    "C_Type": 2,
+    "unitId": 504515,
+    "resourceId": "c_045",
+    "_isAcademyExposure": "Y",
+    "academyExposureRate": 5,
+    "grade": 4,
+    "recruitHonor": 100,
+    "recruitGold": 2000,
+    "overlapReward": 40,
+    "medalExplanation": 8204515,
+    "favormax": 30,
+    "explanation": 8104515,
+    "resourceType": 15
+  },
+  {
     "id": 4712,
     "S_Idx": 8004712,
     "C_Type": 1,
@@ -2225,6 +2293,23 @@
     "favormax": 30,
     "explanation": 8105014,
     "resourceType": 14
+  },
+  {
+    "id": 5115,
+    "S_Idx": 8005115,
+    "C_Type": 2,
+    "unitId": 505115,
+    "resourceId": "c_051",
+    "_isAcademyExposure": "Y",
+    "academyExposureRate": 5,
+    "grade": 5,
+    "recruitHonor": 100,
+    "recruitGold": 2000,
+    "overlapReward": 50,
+    "medalExplanation": 8205115,
+    "favormax": 30,
+    "explanation": 8105115,
+    "resourceType": 15
   },
   {
     "id": 10501,

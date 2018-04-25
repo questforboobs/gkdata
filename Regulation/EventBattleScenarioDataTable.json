@@ -528,5 +528,35 @@
     "title": 11000363,
     "mapClear": 5,
     "sort": 3
+  },
+  {
+    "eventIdx": 28,
+    "playTurn": 1,
+    "eventType": 0,
+    "timing": 0,
+    "scenarioIdx": 1028000,
+    "title": 11000376,
+    "mapClear": 0,
+    "sort": 1
+  },
+  {
+    "eventIdx": 28,
+    "playTurn": 2,
+    "eventType": 3,
+    "timing": 4,
+    "scenarioIdx": 1028034,
+    "title": 11000377,
+    "mapClear": 3,
+    "sort": 2
+  },
+  {
+    "eventIdx": 28,
+    "playTurn": 3,
+    "eventType": 5,
+    "timing": 4,
+    "scenarioIdx": 1028054,
+    "title": 11000378,
+    "mapClear": 5,
+    "sort": 3
   }
 ]

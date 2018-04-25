@@ -236,5 +236,19 @@
     "resetLevel": 5,
     "resetCount": 2,
     "duplication": 0
+  },
+  {
+    "eventIdx": 28,
+    "eventImg": "-",
+    "eventLogo": "event_top_logo_28",
+    "mainRewardType": 3,
+    "mainRewardIdx": 815,
+    "mainRewardAmount": 1,
+    "eventPointIdx": 316,
+    "gidx": 0,
+    "resetTime": 0,
+    "resetLevel": 0,
+    "resetCount": 0,
+    "duplication": 0
   }
 ]

@@ -1822,7 +1822,7 @@
   {
     "idx": 143,
     "name": 27533,
-    "sort": 50,
+    "sort": 2139,
     "Type": 5,
     "startDate": "2018-04-02",
     "startTime": "00:00:00",
@@ -1835,7 +1835,7 @@
   {
     "idx": 144,
     "name": 27450,
-    "sort": 51,
+    "sort": 2140,
     "Type": 5,
     "startDate": "2018-04-02",
     "startTime": "00:00:00",
@@ -1848,7 +1848,7 @@
   {
     "idx": 145,
     "name": 27452,
-    "sort": 52,
+    "sort": 2141,
     "Type": 5,
     "startDate": "2018-04-02",
     "startTime": "00:00:00",
@@ -1861,7 +1861,7 @@
   {
     "idx": 146,
     "name": 27445,
-    "sort": 53,
+    "sort": 2142,
     "Type": 5,
     "startDate": "2018-04-02",
     "startTime": "00:00:00",
@@ -1874,7 +1874,7 @@
   {
     "idx": 147,
     "name": 27465,
-    "sort": 54,
+    "sort": 2143,
     "Type": 5,
     "startDate": "2018-04-02",
     "startTime": "00:00:00",
@@ -1887,7 +1887,7 @@
   {
     "idx": 148,
     "name": 27472,
-    "sort": 55,
+    "sort": 2144,
     "Type": 5,
     "startDate": "2018-04-02",
     "startTime": "00:00:00",
@@ -1900,7 +1900,7 @@
   {
     "idx": 149,
     "name": 27533,
-    "sort": 56,
+    "sort": 2145,
     "Type": 5,
     "startDate": "2018-04-09",
     "startTime": "00:00:00",
@@ -1913,7 +1913,7 @@
   {
     "idx": 150,
     "name": 27450,
-    "sort": 57,
+    "sort": 2146,
     "Type": 5,
     "startDate": "2018-04-09",
     "startTime": "00:00:00",
@@ -1926,7 +1926,7 @@
   {
     "idx": 151,
     "name": 27452,
-    "sort": 58,
+    "sort": 2147,
     "Type": 5,
     "startDate": "2018-04-09",
     "startTime": "00:00:00",
@@ -1939,7 +1939,7 @@
   {
     "idx": 152,
     "name": 27445,
-    "sort": 59,
+    "sort": 2148,
     "Type": 5,
     "startDate": "2018-04-09",
     "startTime": "00:00:00",
@@ -1952,7 +1952,7 @@
   {
     "idx": 153,
     "name": 27479,
-    "sort": 60,
+    "sort": 2149,
     "Type": 5,
     "startDate": "2018-04-09",
     "startTime": "00:00:00",
@@ -1965,7 +1965,7 @@
   {
     "idx": 154,
     "name": 27472,
-    "sort": 61,
+    "sort": 2150,
     "Type": 5,
     "startDate": "2018-04-09",
     "startTime": "00:00:00",
@@ -2524,7 +2524,7 @@
   {
     "idx": 818,
     "name": 27466,
-    "sort": 102,
+    "sort": 3017,
     "Type": 7,
     "startDate": "2018-03-22",
     "startTime": "11:00:00",
@@ -2537,7 +2537,7 @@
   {
     "idx": 819,
     "name": 27088,
-    "sort": 103,
+    "sort": 3018,
     "Type": 7,
     "startDate": "2018-03-22",
     "startTime": "11:00:00",
@@ -2550,7 +2550,7 @@
   {
     "idx": 820,
     "name": 27525,
-    "sort": 104,
+    "sort": 3019,
     "Type": 7,
     "startDate": "2018-03-29",
     "startTime": "11:00:00",
@@ -2563,7 +2563,7 @@
   {
     "idx": 821,
     "name": 27536,
-    "sort": 105,
+    "sort": 3020,
     "Type": 7,
     "startDate": "2018-03-29",
     "startTime": "11:00:00",
@@ -2594,6 +2594,19 @@
     "startDate": "2018-04-12",
     "startTime": "11:00:00",
     "endDate": "2018-04-19",
+    "endTime": "11:00:00",
+    "startLevel": 1,
+    "endLevel": 100,
+    "etc": 0
+  },
+  {
+    "idx": 824,
+    "name": 27475,
+    "sort": 100,
+    "Type": 7,
+    "startDate": "2018-04-12",
+    "startTime": "11:00:00",
+    "endDate": "2018-04-26",
     "endTime": "11:00:00",
     "startLevel": 1,
     "endLevel": 100,
@@ -3122,7 +3135,7 @@
   {
     "idx": 1047,
     "name": 11000140,
-    "sort": 1041,
+    "sort": 4040,
     "Type": 17,
     "startDate": "0000-00-00",
     "startTime": "00:00:00",
@@ -3135,7 +3148,7 @@
   {
     "idx": 1048,
     "name": 11000141,
-    "sort": 1042,
+    "sort": 4041,
     "Type": 18,
     "startDate": "0000-00-00",
     "startTime": "00:00:00",
@@ -3235,5 +3248,44 @@
     "startLevel": 1,
     "endLevel": 100,
     "etc": 27
+  },
+  {
+    "idx": 1056,
+    "name": 11000140,
+    "sort": 1000,
+    "Type": 17,
+    "startDate": "0000-00-00",
+    "startTime": "00:00:00",
+    "endDate": "0000-00-00",
+    "endTime": "00:00:00",
+    "startLevel": 1,
+    "endLevel": 100,
+    "etc": 28
+  },
+  {
+    "idx": 1057,
+    "name": 11000141,
+    "sort": 1001,
+    "Type": 18,
+    "startDate": "0000-00-00",
+    "startTime": "00:00:00",
+    "endDate": "0000-00-00",
+    "endTime": "00:00:00",
+    "startLevel": 1,
+    "endLevel": 100,
+    "etc": 28
+  },
+  {
+    "idx": 1058,
+    "name": 12002024,
+    "sort": 1002,
+    "Type": 18,
+    "startDate": "0000-00-00",
+    "startTime": "00:00:00",
+    "endDate": "0000-00-00",
+    "endTime": "00:00:00",
+    "startLevel": 1,
+    "endLevel": 100,
+    "etc": 28
   }
 ]

@@ -592,11 +592,11 @@
     "type": 100,
     "userstartlevel": 1,
     "userendlevel": 99,
-    "commanderidx": 0,
+    "commanderidx": 3,
     "backgroundimg": "loading_n003",
     "commanderjobicon": "com_icon_support",
-    "comjobsidx": 9999999,
-    "comnamesidx": 9999999,
-    "comunitnamesidx": 9999999
+    "comjobsidx": 1325,
+    "comnamesidx": 1005033,
+    "comunitnamesidx": 140
   }
 ]
