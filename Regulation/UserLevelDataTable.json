@@ -6,7 +6,7 @@
     "maxBullet": 60,
     "maxSkill": 10,
     "rewardBullet": 0,
-    "bankGold": 15000,
+    "bankGold": 30000,
     "goldIncrease": 100
   },
   {
@@ -16,7 +16,7 @@
     "maxBullet": 61,
     "maxSkill": 10,
     "rewardBullet": 50,
-    "bankGold": 15000,
+    "bankGold": 30000,
     "goldIncrease": 110
   },
   {
@@ -26,7 +26,7 @@
     "maxBullet": 62,
     "maxSkill": 10,
     "rewardBullet": 51,
-    "bankGold": 15000,
+    "bankGold": 30000,
     "goldIncrease": 113
   },
   {
@@ -36,7 +36,7 @@
     "maxBullet": 63,
     "maxSkill": 10,
     "rewardBullet": 52,
-    "bankGold": 15000,
+    "bankGold": 30000,
     "goldIncrease": 116
   },
   {
@@ -46,7 +46,7 @@
     "maxBullet": 64,
     "maxSkill": 10,
     "rewardBullet": 53,
-    "bankGold": 15000,
+    "bankGold": 30000,
     "goldIncrease": 119
   },
   {
@@ -56,7 +56,7 @@
     "maxBullet": 65,
     "maxSkill": 10,
     "rewardBullet": 54,
-    "bankGold": 15000,
+    "bankGold": 30000,
     "goldIncrease": 122
   },
   {
@@ -66,7 +66,7 @@
     "maxBullet": 66,
     "maxSkill": 10,
     "rewardBullet": 55,
-    "bankGold": 15000,
+    "bankGold": 30000,
     "goldIncrease": 125
   },
   {
@@ -76,7 +76,7 @@
     "maxBullet": 67,
     "maxSkill": 10,
     "rewardBullet": 56,
-    "bankGold": 15000,
+    "bankGold": 30000,
     "goldIncrease": 128
   },
   {
@@ -86,7 +86,7 @@
     "maxBullet": 68,
     "maxSkill": 10,
     "rewardBullet": 57,
-    "bankGold": 15000,
+    "bankGold": 30000,
     "goldIncrease": 131
   },
   {
@@ -96,7 +96,7 @@
     "maxBullet": 69,
     "maxSkill": 10,
     "rewardBullet": 58,
-    "bankGold": 15000,
+    "bankGold": 30000,
     "goldIncrease": 134
   },
   {
@@ -106,7 +106,7 @@
     "maxBullet": 70,
     "maxSkill": 10,
     "rewardBullet": 59,
-    "bankGold": 15000,
+    "bankGold": 30000,
     "goldIncrease": 137
   },
   {
@@ -116,7 +116,7 @@
     "maxBullet": 71,
     "maxSkill": 10,
     "rewardBullet": 60,
-    "bankGold": 15000,
+    "bankGold": 30000,
     "goldIncrease": 140
   },
   {
@@ -126,7 +126,7 @@
     "maxBullet": 72,
     "maxSkill": 10,
     "rewardBullet": 61,
-    "bankGold": 15075,
+    "bankGold": 30150,
     "goldIncrease": 143
   },
   {
@@ -136,7 +136,7 @@
     "maxBullet": 73,
     "maxSkill": 10,
     "rewardBullet": 62,
-    "bankGold": 15150,
+    "bankGold": 30300,
     "goldIncrease": 146
   },
   {
@@ -146,7 +146,7 @@
     "maxBullet": 74,
     "maxSkill": 10,
     "rewardBullet": 63,
-    "bankGold": 15225,
+    "bankGold": 30450,
     "goldIncrease": 149
   },
   {
@@ -156,7 +156,7 @@
     "maxBullet": 75,
     "maxSkill": 10,
     "rewardBullet": 64,
-    "bankGold": 15300,
+    "bankGold": 30600,
     "goldIncrease": 152
   },
   {
@@ -166,7 +166,7 @@
     "maxBullet": 76,
     "maxSkill": 10,
     "rewardBullet": 65,
-    "bankGold": 15377,
+    "bankGold": 30754,
     "goldIncrease": 155
   },
   {
@@ -176,7 +176,7 @@
     "maxBullet": 77,
     "maxSkill": 10,
     "rewardBullet": 66,
-    "bankGold": 15453,
+    "bankGold": 30906,
     "goldIncrease": 158
   },
   {
@@ -186,7 +186,7 @@
     "maxBullet": 78,
     "maxSkill": 10,
     "rewardBullet": 67,
-    "bankGold": 15530,
+    "bankGold": 31060,
     "goldIncrease": 161
   },
   {
@@ -196,7 +196,7 @@
     "maxBullet": 79,
     "maxSkill": 10,
     "rewardBullet": 68,
-    "bankGold": 15606,
+    "bankGold": 31212,
     "goldIncrease": 164
   },
   {
@@ -206,7 +206,7 @@
     "maxBullet": 80,
     "maxSkill": 10,
     "rewardBullet": 69,
-    "bankGold": 15684,
+    "bankGold": 31368,
     "goldIncrease": 167
   },
   {
@@ -216,7 +216,7 @@
     "maxBullet": 81,
     "maxSkill": 10,
     "rewardBullet": 70,
-    "bankGold": 15762,
+    "bankGold": 31524,
     "goldIncrease": 170
   },
   {
@@ -226,7 +226,7 @@
     "maxBullet": 82,
     "maxSkill": 10,
     "rewardBullet": 71,
-    "bankGold": 15840,
+    "bankGold": 31680,
     "goldIncrease": 173
   },
   {
@@ -236,7 +236,7 @@
     "maxBullet": 83,
     "maxSkill": 10,
     "rewardBullet": 72,
-    "bankGold": 15918,
+    "bankGold": 31836,
     "goldIncrease": 176
   },
   {
@@ -246,7 +246,7 @@
     "maxBullet": 84,
     "maxSkill": 10,
     "rewardBullet": 73,
-    "bankGold": 15998,
+    "bankGold": 31996,
     "goldIncrease": 179
   },
   {
@@ -256,7 +256,7 @@
     "maxBullet": 85,
     "maxSkill": 10,
     "rewardBullet": 74,
-    "bankGold": 16077,
+    "bankGold": 32154,
     "goldIncrease": 182
   },
   {
@@ -266,7 +266,7 @@
     "maxBullet": 86,
     "maxSkill": 10,
     "rewardBullet": 75,
-    "bankGold": 16157,
+    "bankGold": 32314,
     "goldIncrease": 185
   },
   {
@@ -276,7 +276,7 @@
     "maxBullet": 87,
     "maxSkill": 10,
     "rewardBullet": 76,
-    "bankGold": 16236,
+    "bankGold": 32472,
     "goldIncrease": 188
   },
   {
@@ -286,7 +286,7 @@
     "maxBullet": 88,
     "maxSkill": 10,
     "rewardBullet": 77,
-    "bankGold": 16317,
+    "bankGold": 32634,
     "goldIncrease": 191
   },
   {
@@ -296,7 +296,7 @@
     "maxBullet": 89,
     "maxSkill": 10,
     "rewardBullet": 78,
-    "bankGold": 16398,
+    "bankGold": 32796,
     "goldIncrease": 194
   },
   {
@@ -306,7 +306,7 @@
     "maxBullet": 90,
     "maxSkill": 10,
     "rewardBullet": 79,
-    "bankGold": 16479,
+    "bankGold": 32958,
     "goldIncrease": 197
   },
   {
@@ -316,7 +316,7 @@
     "maxBullet": 91,
     "maxSkill": 10,
     "rewardBullet": 80,
-    "bankGold": 16560,
+    "bankGold": 33120,
     "goldIncrease": 200
   },
   {
@@ -326,7 +326,7 @@
     "maxBullet": 92,
     "maxSkill": 10,
     "rewardBullet": 81,
-    "bankGold": 16643,
+    "bankGold": 33286,
     "goldIncrease": 203
   },
   {
@@ -336,7 +336,7 @@
     "maxBullet": 93,
     "maxSkill": 10,
     "rewardBullet": 82,
-    "bankGold": 16725,
+    "bankGold": 33450,
     "goldIncrease": 206
   },
   {
@@ -346,7 +346,7 @@
     "maxBullet": 94,
     "maxSkill": 10,
     "rewardBullet": 83,
-    "bankGold": 16808,
+    "bankGold": 33616,
     "goldIncrease": 209
   },
   {
@@ -356,7 +356,7 @@
     "maxBullet": 95,
     "maxSkill": 10,
     "rewardBullet": 84,
-    "bankGold": 16892,
+    "bankGold": 33784,
     "goldIncrease": 212
   },
   {
@@ -366,7 +366,7 @@
     "maxBullet": 96,
     "maxSkill": 10,
     "rewardBullet": 85,
-    "bankGold": 16976,
+    "bankGold": 33952,
     "goldIncrease": 215
   },
   {
@@ -376,7 +376,7 @@
     "maxBullet": 97,
     "maxSkill": 10,
     "rewardBullet": 86,
-    "bankGold": 17060,
+    "bankGold": 34120,
     "goldIncrease": 218
   },
   {
@@ -386,7 +386,7 @@
     "maxBullet": 98,
     "maxSkill": 10,
     "rewardBullet": 87,
-    "bankGold": 17144,
+    "bankGold": 34288,
     "goldIncrease": 221
   },
   {
@@ -396,7 +396,7 @@
     "maxBullet": 99,
     "maxSkill": 10,
     "rewardBullet": 88,
-    "bankGold": 17229,
+    "bankGold": 34458,
     "goldIncrease": 224
   },
   {
@@ -406,7 +406,7 @@
     "maxBullet": 100,
     "maxSkill": 10,
     "rewardBullet": 89,
-    "bankGold": 17315,
+    "bankGold": 34630,
     "goldIncrease": 227
   },
   {
@@ -416,7 +416,7 @@
     "maxBullet": 101,
     "maxSkill": 10,
     "rewardBullet": 90,
-    "bankGold": 17400,
+    "bankGold": 34800,
     "goldIncrease": 230
   },
   {
@@ -426,7 +426,7 @@
     "maxBullet": 102,
     "maxSkill": 10,
     "rewardBullet": 91,
-    "bankGold": 17487,
+    "bankGold": 34974,
     "goldIncrease": 233
   },
   {
@@ -436,7 +436,7 @@
     "maxBullet": 103,
     "maxSkill": 10,
     "rewardBullet": 92,
-    "bankGold": 17574,
+    "bankGold": 35148,
     "goldIncrease": 236
   },
   {
@@ -446,7 +446,7 @@
     "maxBullet": 104,
     "maxSkill": 10,
     "rewardBullet": 93,
-    "bankGold": 17661,
+    "bankGold": 35322,
     "goldIncrease": 239
   },
   {
@@ -456,7 +456,7 @@
     "maxBullet": 105,
     "maxSkill": 10,
     "rewardBullet": 94,
-    "bankGold": 17748,
+    "bankGold": 35496,
     "goldIncrease": 242
   },
   {
@@ -466,7 +466,7 @@
     "maxBullet": 106,
     "maxSkill": 10,
     "rewardBullet": 95,
-    "bankGold": 17837,
+    "bankGold": 35674,
     "goldIncrease": 245
   },
   {
@@ -476,7 +476,7 @@
     "maxBullet": 107,
     "maxSkill": 10,
     "rewardBullet": 96,
-    "bankGold": 17925,
+    "bankGold": 35850,
     "goldIncrease": 248
   },
   {
@@ -486,7 +486,7 @@
     "maxBullet": 108,
     "maxSkill": 10,
     "rewardBullet": 97,
-    "bankGold": 18014,
+    "bankGold": 36028,
     "goldIncrease": 251
   },
   {
@@ -496,7 +496,7 @@
     "maxBullet": 109,
     "maxSkill": 10,
     "rewardBullet": 98,
-    "bankGold": 18104,
+    "bankGold": 36208,
     "goldIncrease": 254
   },
   {
@@ -506,7 +506,7 @@
     "maxBullet": 110,
     "maxSkill": 10,
     "rewardBullet": 99,
-    "bankGold": 18194,
+    "bankGold": 36388,
     "goldIncrease": 257
   },
   {
@@ -516,7 +516,7 @@
     "maxBullet": 111,
     "maxSkill": 10,
     "rewardBullet": 100,
-    "bankGold": 18284,
+    "bankGold": 36568,
     "goldIncrease": 260
   },
   {
@@ -526,7 +526,7 @@
     "maxBullet": 112,
     "maxSkill": 10,
     "rewardBullet": 101,
-    "bankGold": 18374,
+    "bankGold": 36748,
     "goldIncrease": 263
   },
   {
@@ -536,7 +536,7 @@
     "maxBullet": 113,
     "maxSkill": 10,
     "rewardBullet": 102,
-    "bankGold": 18465,
+    "bankGold": 36930,
     "goldIncrease": 266
   },
   {
@@ -546,7 +546,7 @@
     "maxBullet": 114,
     "maxSkill": 10,
     "rewardBullet": 103,
-    "bankGold": 18557,
+    "bankGold": 37114,
     "goldIncrease": 269
   },
   {
@@ -556,7 +556,7 @@
     "maxBullet": 115,
     "maxSkill": 10,
     "rewardBullet": 104,
-    "bankGold": 18648,
+    "bankGold": 37296,
     "goldIncrease": 272
   },
   {
@@ -566,7 +566,7 @@
     "maxBullet": 116,
     "maxSkill": 10,
     "rewardBullet": 105,
-    "bankGold": 18741,
+    "bankGold": 37482,
     "goldIncrease": 275
   },
   {
@@ -576,7 +576,7 @@
     "maxBullet": 117,
     "maxSkill": 10,
     "rewardBullet": 106,
-    "bankGold": 18834,
+    "bankGold": 37668,
     "goldIncrease": 278
   },
   {
@@ -586,7 +586,7 @@
     "maxBullet": 118,
     "maxSkill": 10,
     "rewardBullet": 107,
-    "bankGold": 18927,
+    "bankGold": 37854,
     "goldIncrease": 281
   },
   {
@@ -596,7 +596,7 @@
     "maxBullet": 119,
     "maxSkill": 10,
     "rewardBullet": 108,
-    "bankGold": 19022,
+    "bankGold": 38044,
     "goldIncrease": 284
   },
   {
@@ -606,7 +606,7 @@
     "maxBullet": 120,
     "maxSkill": 10,
     "rewardBullet": 109,
-    "bankGold": 19116,
+    "bankGold": 38232,
     "goldIncrease": 287
   },
   {
@@ -616,7 +616,7 @@
     "maxBullet": 121,
     "maxSkill": 10,
     "rewardBullet": 110,
-    "bankGold": 19211,
+    "bankGold": 38422,
     "goldIncrease": 290
   },
   {
@@ -626,7 +626,7 @@
     "maxBullet": 122,
     "maxSkill": 10,
     "rewardBullet": 111,
-    "bankGold": 19307,
+    "bankGold": 38614,
     "goldIncrease": 293
   },
   {
@@ -636,7 +636,7 @@
     "maxBullet": 123,
     "maxSkill": 10,
     "rewardBullet": 112,
-    "bankGold": 19403,
+    "bankGold": 38806,
     "goldIncrease": 296
   },
   {
@@ -646,7 +646,7 @@
     "maxBullet": 124,
     "maxSkill": 10,
     "rewardBullet": 113,
-    "bankGold": 19499,
+    "bankGold": 38998,
     "goldIncrease": 299
   },
   {
@@ -656,7 +656,7 @@
     "maxBullet": 125,
     "maxSkill": 10,
     "rewardBullet": 114,
-    "bankGold": 19595,
+    "bankGold": 39190,
     "goldIncrease": 302
   },
   {
@@ -666,7 +666,7 @@
     "maxBullet": 126,
     "maxSkill": 10,
     "rewardBullet": 115,
-    "bankGold": 19692,
+    "bankGold": 39384,
     "goldIncrease": 305
   },
   {
@@ -676,7 +676,7 @@
     "maxBullet": 127,
     "maxSkill": 10,
     "rewardBullet": 116,
-    "bankGold": 19790,
+    "bankGold": 39580,
     "goldIncrease": 308
   },
   {
@@ -686,7 +686,7 @@
     "maxBullet": 128,
     "maxSkill": 10,
     "rewardBullet": 117,
-    "bankGold": 19887,
+    "bankGold": 39774,
     "goldIncrease": 311
   },
   {
@@ -696,7 +696,7 @@
     "maxBullet": 129,
     "maxSkill": 10,
     "rewardBullet": 118,
-    "bankGold": 19986,
+    "bankGold": 39972,
     "goldIncrease": 314
   },
   {
@@ -706,7 +706,7 @@
     "maxBullet": 130,
     "maxSkill": 10,
     "rewardBullet": 119,
-    "bankGold": 20086,
+    "bankGold": 40172,
     "goldIncrease": 317
   },
   {
@@ -716,7 +716,7 @@
     "maxBullet": 131,
     "maxSkill": 10,
     "rewardBullet": 120,
-    "bankGold": 20187,
+    "bankGold": 40374,
     "goldIncrease": 320
   },
   {
@@ -726,7 +726,7 @@
     "maxBullet": 132,
     "maxSkill": 10,
     "rewardBullet": 121,
-    "bankGold": 20288,
+    "bankGold": 40576,
     "goldIncrease": 323
   },
   {
@@ -736,7 +736,7 @@
     "maxBullet": 133,
     "maxSkill": 10,
     "rewardBullet": 122,
-    "bankGold": 20389,
+    "bankGold": 40778,
     "goldIncrease": 326
   },
   {
@@ -746,7 +746,7 @@
     "maxBullet": 134,
     "maxSkill": 10,
     "rewardBullet": 123,
-    "bankGold": 20491,
+    "bankGold": 40982,
     "goldIncrease": 329
   },
   {
@@ -756,7 +756,7 @@
     "maxBullet": 135,
     "maxSkill": 10,
     "rewardBullet": 124,
-    "bankGold": 20594,
+    "bankGold": 41188,
     "goldIncrease": 332
   },
   {
@@ -766,7 +766,7 @@
     "maxBullet": 136,
     "maxSkill": 10,
     "rewardBullet": 125,
-    "bankGold": 20697,
+    "bankGold": 41394,
     "goldIncrease": 335
   },
   {
@@ -776,7 +776,7 @@
     "maxBullet": 137,
     "maxSkill": 10,
     "rewardBullet": 126,
-    "bankGold": 20800,
+    "bankGold": 41600,
     "goldIncrease": 338
   },
   {
@@ -786,7 +786,7 @@
     "maxBullet": 138,
     "maxSkill": 10,
     "rewardBullet": 127,
-    "bankGold": 20904,
+    "bankGold": 41808,
     "goldIncrease": 341
   },
   {
@@ -796,7 +796,7 @@
     "maxBullet": 139,
     "maxSkill": 10,
     "rewardBullet": 128,
-    "bankGold": 21009,
+    "bankGold": 42018,
     "goldIncrease": 344
   },
   {
@@ -806,7 +806,7 @@
     "maxBullet": 140,
     "maxSkill": 10,
     "rewardBullet": 129,
-    "bankGold": 21114,
+    "bankGold": 42228,
     "goldIncrease": 347
   },
   {
@@ -816,7 +816,7 @@
     "maxBullet": 141,
     "maxSkill": 10,
     "rewardBullet": 130,
-    "bankGold": 21220,
+    "bankGold": 42440,
     "goldIncrease": 350
   },
   {
@@ -826,7 +826,7 @@
     "maxBullet": 142,
     "maxSkill": 10,
     "rewardBullet": 131,
-    "bankGold": 21326,
+    "bankGold": 42652,
     "goldIncrease": 353
   },
   {
@@ -836,7 +836,7 @@
     "maxBullet": 143,
     "maxSkill": 10,
     "rewardBullet": 132,
-    "bankGold": 21433,
+    "bankGold": 42866,
     "goldIncrease": 356
   },
   {
@@ -846,7 +846,7 @@
     "maxBullet": 144,
     "maxSkill": 10,
     "rewardBullet": 133,
-    "bankGold": 21540,
+    "bankGold": 43080,
     "goldIncrease": 359
   },
   {
@@ -856,7 +856,7 @@
     "maxBullet": 145,
     "maxSkill": 10,
     "rewardBullet": 134,
-    "bankGold": 21647,
+    "bankGold": 43294,
     "goldIncrease": 362
   },
   {
@@ -866,7 +866,7 @@
     "maxBullet": 146,
     "maxSkill": 10,
     "rewardBullet": 135,
-    "bankGold": 21755,
+    "bankGold": 43510,
     "goldIncrease": 365
   },
   {
@@ -876,7 +876,7 @@
     "maxBullet": 147,
     "maxSkill": 10,
     "rewardBullet": 136,
-    "bankGold": 21864,
+    "bankGold": 43728,
     "goldIncrease": 368
   },
   {
@@ -886,7 +886,7 @@
     "maxBullet": 148,
     "maxSkill": 10,
     "rewardBullet": 137,
-    "bankGold": 21974,
+    "bankGold": 43948,
     "goldIncrease": 371
   },
   {
@@ -896,7 +896,7 @@
     "maxBullet": 149,
     "maxSkill": 10,
     "rewardBullet": 138,
-    "bankGold": 22084,
+    "bankGold": 44168,
     "goldIncrease": 374
   },
   {
@@ -906,7 +906,7 @@
     "maxBullet": 150,
     "maxSkill": 10,
     "rewardBullet": 139,
-    "bankGold": 22194,
+    "bankGold": 44388,
     "goldIncrease": 377
   },
   {
@@ -916,7 +916,7 @@
     "maxBullet": 151,
     "maxSkill": 10,
     "rewardBullet": 140,
-    "bankGold": 22305,
+    "bankGold": 44610,
     "goldIncrease": 380
   },
   {
@@ -926,7 +926,7 @@
     "maxBullet": 152,
     "maxSkill": 10,
     "rewardBullet": 141,
-    "bankGold": 22417,
+    "bankGold": 44834,
     "goldIncrease": 383
   },
   {
@@ -936,7 +936,7 @@
     "maxBullet": 153,
     "maxSkill": 10,
     "rewardBullet": 142,
-    "bankGold": 22529,
+    "bankGold": 45058,
     "goldIncrease": 386
   },
   {
@@ -946,7 +946,7 @@
     "maxBullet": 154,
     "maxSkill": 10,
     "rewardBullet": 143,
-    "bankGold": 22641,
+    "bankGold": 45282,
     "goldIncrease": 389
   },
   {
@@ -956,7 +956,7 @@
     "maxBullet": 165,
     "maxSkill": 10,
     "rewardBullet": 155,
-    "bankGold": 22755,
+    "bankGold": 45510,
     "goldIncrease": 392
   },
   {
@@ -966,7 +966,7 @@
     "maxBullet": 175,
     "maxSkill": 10,
     "rewardBullet": 165,
-    "bankGold": 22868,
+    "bankGold": 45736,
     "goldIncrease": 395
   },
   {
@@ -976,7 +976,7 @@
     "maxBullet": 185,
     "maxSkill": 10,
     "rewardBullet": 175,
-    "bankGold": 22981,
+    "bankGold": 45962,
     "goldIncrease": 398
   },
   {
@@ -986,7 +986,7 @@
     "maxBullet": 195,
     "maxSkill": 10,
     "rewardBullet": 185,
-    "bankGold": 23094,
+    "bankGold": 46188,
     "goldIncrease": 401
   }
 ]

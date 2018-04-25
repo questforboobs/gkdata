@@ -158,5 +158,15 @@
     "resource": "c_062_t3",
     "bgm": "Pocket_BGM_Chapter_001",
     "listImg": "battlefieldsearch_15"
+  },
+  {
+    "id": "16",
+    "name": "6150",
+    "unlockUserLevel": 1,
+    "resourceId": 6,
+    "c_idx": 75,
+    "resource": "c_075_t3",
+    "bgm": "Pocket_BGM_Chapter_001",
+    "listImg": "battlefieldsearch_04"
   }
 ]

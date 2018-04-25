@@ -54,6 +54,15 @@
     "storage": 1
   },
   {
+    "type": 10207,
+    "grade": 1,
+    "name": 3010207,
+    "serverFieldName": "icon_part_12_07",
+    "max": 99999,
+    "description": 3110207,
+    "storage": 1
+  },
+  {
     "type": 10703,
     "grade": 1,
     "name": 3010703,
@@ -87,6 +96,15 @@
     "serverFieldName": "icon_part_13_06",
     "max": 99999,
     "description": 3110706,
+    "storage": 1
+  },
+  {
+    "type": 10707,
+    "grade": 1,
+    "name": 3010707,
+    "serverFieldName": "icon_part_13_07",
+    "max": 99999,
+    "description": 3110707,
     "storage": 1
   },
   {
@@ -144,6 +162,15 @@
     "storage": 1
   },
   {
+    "type": 11007,
+    "grade": 1,
+    "name": 3011007,
+    "serverFieldName": "icon_part_14_07",
+    "max": 99999,
+    "description": 3111007,
+    "storage": 1
+  },
+  {
     "type": 11101,
     "grade": 1,
     "name": 3011101,
@@ -198,6 +225,15 @@
     "storage": 1
   },
   {
+    "type": 11107,
+    "grade": 1,
+    "name": 3011107,
+    "serverFieldName": "icon_part_15_07",
+    "max": 99999,
+    "description": 3111107,
+    "storage": 1
+  },
+  {
     "type": 11201,
     "grade": 1,
     "name": 3011201,
@@ -249,6 +285,15 @@
     "serverFieldName": "icon_part_16_06",
     "max": 99999,
     "description": 3111206,
+    "storage": 1
+  },
+  {
+    "type": 11207,
+    "grade": 1,
+    "name": 3011207,
+    "serverFieldName": "icon_part_16_07",
+    "max": 99999,
+    "description": 3111207,
     "storage": 1
   },
   {
